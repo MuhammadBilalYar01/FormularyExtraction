@@ -1,0 +1,2560 @@
+-1 SF DENTAL GEL 1.1 %
+-1 WIDE-SEAL DIAPHRAGM 80 VAGINAL DIAPHRAGM 80 MM
+-1 WIDE-SEAL DIAPHRAGM 85 VAGINAL DIAPHRAGM 85 MM
+-1 WIDE-SEAL DIAPHRAGM 90 VAGINAL DIAPHRAGM 90 MM
+-1 TRI-ESTARYLLA ORAL TABLET 0.18/0.215/0.25 MG-35 MCG (28)
+-1 NORTREL 7/7/7 (28) ORAL TABLET 0.5/0.75/1 MG- 35 MCG
+-1 DASETTA 7/7/7 (28) ORAL TABLET 0.5/0.75/1 MG- 35 MCG
+-1 WIDE-SEAL DIAPHRAGM 95 VAGINAL DIAPHRAGM 95 MM
+-1 EPICERAM TOPICAL EMULSION, EXTENDED RELEASE
+-1 FC2 FEMALE CONDOM
+-1 CURITY GAUZE TOPICAL BANDAGE 2 X 2 "
+-1 HPR TOPICAL FOAM
+-1 HYLATOPICPLUS TOPICAL CREAM
+-1 NEOSALUS TOPICAL FOAM
+-1 PROMISEB TOPICAL CREAM
+-1 FREESTYLE FREEDOM LITE KIT
+-1 FREESTYLE INSULINX
+-1 FREESTYLE LIBRE 14 DAY READER
+-1 FREESTYLE LIBRE 14 DAY SENSOR KIT
+-1 FREESTYLE LIBRE 2 READER
+-1 FREESTYLE LIBRE 2 SENSOR KIT
+-1 FREESTYLE LITE METER KIT
+-1 LAXATIVE PEG 3350 ORAL POWDER 17 GRAM/DOSE
+-1 FREESTYLE PRECISION NEO METER
+-1 MULTIVITAMINS WITH FLUORIDE ORAL TABLET,CHEWABLE 0.25 MG, 1 MG
+-1 lancets
+-1 WIDE-SEAL DIAPHRAGM 75 VAGINAL DIAPHRAGM 75 MM
+-1 TRI-LEGEST FE ORAL TABLET 1-20(5)/1-30(7) /1MG-35MCG (9)
+-1 NORMAL SALINE FLUSH INJECTION SYRINGE
+-1 ADACEL(TDAP ADOLESN/ADULT)(PF) INTRAMUSCULAR SUSPENSION 2 LF-(2.5-5-3-5 MCG)-5LF/0.5 ML
+-1 VITAMIN D2 ORAL CAPSULE 1,250 MCG (50,000 UNIT)
+-1 ADACEL(TDAP ADOLESN/ADULT)(PF) INTRAMUSCULAR SYRINGE 2 LF-(2.5-5-3-5 MCG)-5LF/0.5 ML
+-1 TRICITRATES ORAL SOLUTION 550-500-334 MG/5 ML
+-1 SSS 10-5 TOPICAL FOAM 10-5 %
+-1 SSS 10-5 TOPICAL CREAM 10-5 % (W/W)
+-1 peg 3350-electrolytes oral recon soln 236-22.74-6.74 -5.86 gram
+-1 PEG-PREP ORAL KIT 5-210 MG-GRAM
+-1 divalproex oral capsule, delayed rel sprinkle 125 mg
+-1 peg-electrolyte soln oral recon soln 420 gram
+-1 FREESTYLE INSULINX TEST STRIPS STRIP
+-1 FREESTYLE LITE STRIPS STRIP
+-1 FREESTYLE PRECISION NEO STRIPS STRIP
+-1 FREESTYLE TEST STRIP
+-1 PRECISION XTRA TEST STRIP
+-1 PRENATABS RX ORAL TABLET 29 MG IRON- 1 MG
+-1 FEMCAP VAGINAL DEVICE 22 MM, 26 MM, 30 MM
+-1 WIDE-SEAL DIAPHRAGM 60 VAGINAL DIAPHRAGM 60 MM
+-1 WIDE-SEAL DIAPHRAGM 65 VAGINAL DIAPHRAGM 65 MM
+-1 TRI-LO-SPRINTEC ORAL TABLET 0.18/0.215/0.25 MG-25 MCG
+-1 WIDE-SEAL DIAPHRAGM 70 VAGINAL DIAPHRAGM 70 MM
+-1 PROMISEB TOPICAL CREAM
+-1 PNV 29-1 ORAL TABLET 29 MG IRON- 1 MG
+-1 PRECISION XTRA MONITOR
+-1 FREESTYLE LANCETS 28 GAUGE
+-1 ASSURE ID INSULIN SAFETY SYRINGE 1 ML 29 GAUGE X 1/2"
+-1 FREESTYLE INSULINX TEST STRIPS STRIP
+-1 WIDE-SEAL DIAPHRAGM 70 VAGINAL DIAPHRAGM 70 MM
+-1 FREESTYLE LANCETS 28 GAUGE
+-1 FLEET LAXATIVE (BISACODYL) ORAL TABLET,DELAYED RELEASE (DR/EC) 5 MG
+-1 Anti-Diarrheal (loperamide) oral capsule 2 mg
+-1 WIDE-SEAL DIAPHRAGM 65 VAGINAL DIAPHRAGM 65 MM
+-1 WIDE-SEAL DIAPHRAGM 60 VAGINAL DIAPHRAGM 60 MM
+-1 WIDE-SEAL DIAPHRAGM 75 VAGINAL DIAPHRAGM 75 MM
+-1 PRECISION XTRA TEST STRIP
+-1 SMOOTHLAX ORAL POWDER 17 GRAM/DOSE
+-1 PRECISION XTRA MONITOR
+-1 PENTIPS NEEDLE 31 GAUGE X 5/16"
+-1 FREESTYLE LITE STRIPS STRIP
+-1 divalproex oral tablet,delayed release (DR/EC) 125 mg, 250 mg, 500 mg
+-1 FREESTYLE TEST STRIP
+-1 lancets
+-1 FREESTYLE LITE METER KIT
+-1 divalproex oral tablet,delayed release (DR/EC) 125 mg, 250 mg, 500 mg
+-1 WIDE-SEAL DIAPHRAGM 80 VAGINAL DIAPHRAGM 80 MM
+-1 WIDE-SEAL DIAPHRAGM 85 VAGINAL DIAPHRAGM 85 MM
+-1 SMOOTHLAX ORAL POWDER IN PACKET 17 GRAM
+-1 PENTIPS NEEDLE 31 GAUGE X 5/16"
+-1 ASSURE ID INSULIN SAFETY SYRINGE 1 ML 29 GAUGE X 1/2"
+-1 CURITY GAUZE TOPICAL BANDAGE 2 X 2 "
+-1 WIDE-SEAL DIAPHRAGM 95 VAGINAL DIAPHRAGM 95 MM
+-1 EASY TOUCH PEN NEEDLE NEEDLE 30 GAUGE X 5/16"
+-1 divalproex oral capsule, delayed rel sprinkle 125 mg
+-1 FEMCAP VAGINAL DEVICE 22 MM, 26 MM, 30 MM
+-1 FREESTYLE FREEDOM LITE KIT
+-1 FREESTYLE INSULINX
+-1 WIDE-SEAL DIAPHRAGM 90 VAGINAL DIAPHRAGM 90 MM
+-1 FC2 FEMALE CONDOM
+388 polymyxin B sulfate injection recon soln 500,000 unit
+1514 betamethasone, augmented topical ointment 0.05 %
+1514 betamethasone, augmented topical cream 0.05 %
+1514 betamethasone, augmented topical lotion 0.05 %
+1514 betamethasone, augmented topical gel 0.05 %
+4018 ergocalciferol (vitamin D2) oral capsule 1,250 mcg (50,000 unit)
+48470 CREON ORAL CAPSULE,DELAYED RELEASE(DR/EC) 12,000- 38,000 -60,000 UNIT, 24,000-76,000 -120,000 UNIT, 3,000- 9,500- 15,000 UNIT, 36,000-114,000- 180,000 UNIT, 6,000- 19,000 -30,000 UNIT
+82819 acamprosate oral tablet,delayed release (DR/EC) 333 mg
+94317 BCG vaccine, live (PF) percutaneous suspension for reconstitution 50 mg
+94317 BCG vaccine, live (PF) percutaneous suspension for reconstitution 50 mg
+96304 primidone oral tablet 250 mg, 50 mg
+103403 hydrocortisone topical lotion 1 %
+103456 fluocinonide topical cream 0.05 %
+103457 fluocinonide topical ointment 0.05 %
+103968 lamotrigine oral tablet 100 mg, 150 mg, 200 mg, 25 mg
+104884 metoclopramide HCl oral solution 5 mg/5 mL
+105292 isoniazid oral solution 50 mg/5 mL
+105553 LEUKERAN ORAL TABLET 2 MG
+105583 fluorouracil topical cream 5 %
+105585 methotrexate sodium oral tablet 2.5 mg
+105585 methotrexate sodium oral tablet 2.5 mg
+105590 TABLOID ORAL TABLET 40 MG
+106248 hydrocortisone butyrate topical cream 0.1 %
+106258 hydrocortisone topical cream with perineal applicator 1 %, 2.5 %
+106258 hydrocortisone topical cream with perineal applicator 1 %, 2.5 %
+106302 tretinoin topical cream 0.025 %, 0.05 %, 0.1 %
+106336 ketoconazole topical shampoo 2 %
+106346 mupirocin topical ointment 2 %
+106351 silver sulfadiazine topical cream 1 %
+106387 permethrin topical cream 5 %
+107050 THYMOGLOBULIN INTRAVENOUS RECON SOLN 25 MG
+108396 RETROVIR INTRAVENOUS SOLUTION 10 MG/ML
+114200 CITRATE OF MAGNESIA ORAL SOLUTION
+141850 desoximetasone topical ointment 0.05 %, 0.25 %
+141859 acyclovir topical cream 5 %
+141935 haloperidol lactate oral concentrate 2 mg/mL
+142046 metronidazole vaginal gel 0.75 %
+150985 water for irrigation, sterile irrigation solution
+151029 mometasone topical ointment 0.1 %
+151030 mometasone topical solution 0.1 %
+152695 meloxicam oral tablet 15 mg, 7.5 mg
+152880 FARESTON ORAL TABLET 60 MG
+152971 NORVIR ORAL SOLUTION 80 MG/ML
+153095 GLUCAGEN DIAGNOSTIC KIT INJECTION RECON SOLN 1 MG/ML
+153095 GLUCAGEN HYPOKIT INJECTION RECON SOLN 1 MG
+197303 acetazolamide oral tablet 125 mg, 250 mg
+197305 acetic acid otic (ear) solution 2 %
+197310 acyclovir oral capsule 200 mg
+197311 acyclovir oral tablet 400 mg, 800 mg
+197312 acyclovir topical ointment 5 %
+197316 albuterol sulfate oral tablet 2 mg, 4 mg
+197319 allopurinol oral tablet 100 mg, 300 mg
+197321 alprazolam oral tablet 1 mg
+197321 alprazolam oral tablet 1 mg
+197322 alprazolam oral tablet 2 mg
+197322 alprazolam oral tablet 2 mg
+197327 amcinonide topical cream 0.1 %
+197362 ammonium lactate topical lotion 12 %
+197363 amoxapine oral tablet 100 mg, 150 mg, 25 mg, 50 mg
+197379 atenolol oral tablet 100 mg, 25 mg, 50 mg
+197382 atenolol-chlorthalidone oral tablet 100-25 mg, 50-25 mg
+197388 azathioprine oral tablet 50 mg
+197388 azathioprine oral tablet 50 mg
+197391 baclofen oral tablet 10 mg, 20 mg
+197397 benzonatate oral capsule 100 mg, 150 mg, 200 mg
+197405 betamethasone dipropionate topical ointment 0.05 %
+197407 betamethasone valerate topical cream 0.1 %
+197408 betamethasone valerate topical lotion 0.1 %
+197409 betamethasone valerate topical ointment 0.1 %
+197411 bromocriptine oral tablet 2.5 mg
+197412 bromocriptine oral capsule 5 mg
+197417 bumetanide oral tablet 0.5 mg, 1 mg, 2 mg
+197426 butalbital-acetaminophen oral tablet 50-325 mg
+197436 captopril-hydrochlorothiazide oral tablet 25-15 mg, 25-25 mg, 50- 15 mg, 50-25 mg
+197443 carbidopa-levodopa oral tablet 10-100 mg, 25-100 mg, 25-250 mg
+197446 carisoprodol oral tablet 350 mg
+197448 levocarnitine oral tablet 330 mg
+197448 levocarnitine oral tablet 330 mg
+197452 cefprozil oral tablet 250 mg, 500 mg
+197464 clorazepate dipotassium oral tablet 15 mg
+197464 clorazepate dipotassium oral tablet 15 mg
+197465 clorazepate dipotassium oral tablet 3.75 mg, 7.5 mg
+197465 clorazepate dipotassium oral tablet 3.75 mg, 7.5 mg
+197499 chlorthalidone oral tablet 25 mg, 50 mg
+197502 chlorzoxazone oral tablet 500 mg
+197505 cimetidine oral tablet 200 mg, 300 mg, 400 mg, 800 mg
+197511 ciprofloxacin HCl oral tablet 250 mg, 500 mg, 750 mg
+197516 clarithromycin oral tablet 250 mg, 500 mg
+197518 clindamycin HCl oral capsule 150 mg, 300 mg
+197519 clindamycin phosphate topical lotion 1 %
+197520 clocortolone pivalate topical cream 0.1 %
+197527 clonazepam oral tablet 0.5 mg, 1 mg
+197527 clonazepam oral tablet 0.5 mg, 1 mg
+197527 clonazepam oral tablet 0.5 mg, 1 mg
+197529 clonazepam oral tablet 2 mg
+197529 clonazepam oral tablet 2 mg
+197529 clonazepam oral tablet 2 mg
+197535 clozapine oral tablet 100 mg, 200 mg, 25 mg, 50 mg
+197541 colchicine oral tablet 0.6 mg
+197551 cycloserine oral capsule 250 mg
+197554 danazol oral capsule 100 mg, 200 mg, 50 mg
+197557 dapsone oral tablet 100 mg, 25 mg
+197572 desonide topical lotion 0.05 %
+197573 desoximetasone topical cream 0.05 %, 0.25 %
+197577 dexamethasone oral tablet 0.5 mg, 0.75 mg, 1 mg, 1.5 mg, 2 mg, 4 mg, 6 mg
+197589 diazepam oral tablet 10 mg
+197589 diazepam oral tablet 10 mg
+197590 diazepam oral tablet 2 mg, 5 mg
+197590 diazepam oral tablet 2 mg, 5 mg
+197595 dicloxacillin oral capsule 250 mg, 500 mg
+197604 digoxin oral tablet 125 mcg (0.125 mg), 250 mcg (0.25 mg)
+197623 disulfiram oral tablet 250 mg, 500 mg
+197625 doxazosin oral tablet 1 mg, 2 mg, 4 mg, 8 mg
+197634 dronabinol oral capsule 10 mg
+197634 dronabinol oral capsule 10 mg
+197634 dronabinol oral capsule 10 mg
+197635 dronabinol oral capsule 2.5 mg, 5 mg
+197635 dronabinol oral capsule 2.5 mg, 5 mg
+197635 dronabinol oral capsule 2.5 mg, 5 mg
+197653 estazolam oral tablet 1 mg, 2 mg
+197653 estazolam oral tablet 1 mg, 2 mg
+197657 estradiol oral tablet 0.5 mg, 1 mg, 2 mg
+197682 ethosuximide oral capsule 250 mg
+197684 etodolac oral capsule 200 mg, 300 mg
+197686 etodolac oral tablet 400 mg, 500 mg
+197698 fluconazole oral tablet 100 mg, 150 mg, 200 mg, 50 mg
+197702 flucytosine oral capsule 250 mg, 500 mg
+197724 flurbiprofen oral tablet 100 mg
+197726 flutamide oral capsule 125 mg
+197730 furosemide oral solution 40 mg/4 mL, 40 mg/5 mL (8 mg/mL)
+197730 furosemide oral solution 10 mg/mL
+197735 gentamicin topical cream 0.1 %
+197737 glyburide oral tablet 1.25 mg
+197738 glycopyrrolate oral tablet 1 mg, 2 mg
+197745 guanfacine oral tablet 1 mg, 2 mg
+197782 hydrocortisone oral tablet 10 mg, 20 mg, 5 mg
+197785 hydrocortisone topical lotion 2.5 %
+197797 hydroxyurea oral capsule 500 mg
+197805 ibuprofen oral tablet 400 mg, 600 mg, 800 mg
+197815 indapamide oral tablet 1.25 mg, 2.5 mg
+197817 indomethacin oral capsule 25 mg, 50 mg
+197843 isotretinoin oral capsule 10 mg, 20 mg, 30 mg, 40 mg
+197848 isradipine oral capsule 2.5 mg, 5 mg
+197853 ketoconazole oral tablet 200 mg
+197855 ketoprofen oral capsule 50 mg, 75 mg
+197860 leucovorin calcium oral tablet 10 mg, 15 mg, 25 mg, 5 mg
+197860 leucovorin calcium oral tablet 10 mg, 15 mg, 25 mg, 5 mg
+197873 levorphanol tartrate oral tablet 2 mg
+197877 lidocaine-prilocaine topical kit 2.5-2.5 %
+197877 lidocaine-prilocaine topical cream 2.5-2.5 %
+197878 lindane topical shampoo 1 %
+197885 lisinopril-hydrochlorothiazide oral tablet 10-12.5 mg, 20-12.5 mg, 20-25 mg
+197890 lithium carbonate oral tablet 300 mg
+197891 lithium carbonate oral tablet extended release 300 mg, 450 mg
+197900 lorazepam oral tablet 0.5 mg, 1 mg
+197900 lorazepam oral tablet 0.5 mg, 1 mg
+197902 lorazepam oral tablet 2 mg
+197902 lorazepam oral tablet 2 mg
+197903 lovastatin oral tablet 10 mg
+197904 lovastatin oral tablet 20 mg, 40 mg
+197928 meprobamate oral tablet 200 mg, 400 mg
+197931 mercaptopurine oral tablet 50 mg
+197939 methazolamide oral tablet 25 mg, 50 mg
+197941 methimazole oral tablet 10 mg, 5 mg
+197943 methocarbamol oral tablet 500 mg, 750 mg
+197956 methyldopa oral tablet 250 mg, 500 mg
+197963 methyldopa-hydrochlorothiazide oral tablet 250-15 mg, 250-25 mg
+197978 metolazone oral tablet 10 mg, 2.5 mg, 5 mg
+197984 minocycline oral capsule 100 mg, 50 mg, 75 mg
+197984 minocycline oral capsule 100 mg, 50 mg, 75 mg
+197986 minoxidil oral tablet 10 mg, 2.5 mg
+198006 nadolol oral tablet 20 mg, 40 mg, 80 mg
+198013 naproxen oral tablet 250 mg, 375 mg, 500 mg
+198029 nicotine transdermal patch 24 hour 14 mg/24 hr, 21 mg/24 hr
+198031 nicotine transdermal patch 24 hour 7 mg/24 hr
+198032 nifedipine oral capsule 10 mg, 20 mg
+198034 nifedipine oral tablet extended release 24hr 30 mg, 60 mg, 90 mg
+198037 nimodipine oral capsule 30 mg
+198038 nitroglycerin sublingual tablet 0.3 mg, 0.4 mg, 0.6 mg
+198045 nortriptyline oral capsule 10 mg, 25 mg, 50 mg, 75 mg
+198050 ofloxacin oral tablet 400 mg
+198051 omeprazole oral capsule,delayed release(DR/EC) 10 mg, 20 mg, 40 mg
+198052 ondansetron HCl oral tablet 4 mg, 8 mg
+198056 oxandrolone oral tablet 2.5 mg
+198070 penicillamine oral capsule 250 mg
+198071 penicillamine oral tablet 250 mg
+198075 perphenazine oral tablet 16 mg, 2 mg, 4 mg, 8 mg
+198083 phenobarbital oral tablet 100 mg, 15 mg, 16.2 mg, 30 mg, 32.4 mg, 60 mg, 64.8 mg, 97.2 mg
+198083 phenobarbital oral tablet 100 mg, 15 mg, 16.2 mg, 30 mg, 32.4 mg, 60 mg, 64.8 mg, 97.2 mg
+198104 pindolol oral tablet 10 mg, 5 mg
+198107 piroxicam oral capsule 10 mg, 20 mg
+198144 prednisone oral tablet 1 mg, 10 mg, 2.5 mg, 20 mg, 5 mg, 50 mg
+198152 probenecid oral tablet 500 mg
+198153 probenecid-colchicine oral tablet 500-0.5 mg
+198159 prochlorperazine rectal suppository 25 mg
+198175 propylthiouracil oral tablet 50 mg
+198181 pyrazinamide oral tablet 500 mg
+198200 rifabutin oral capsule 150 mg
+198200 rifabutin oral capsule 150 mg
+198201 rifampin oral capsule 150 mg, 300 mg
+198201 rifampin oral capsule 150 mg, 300 mg
+198222 spironolactone oral tablet 100 mg, 25 mg, 50 mg
+198222 spironolactone oral tablet 100 mg, 25 mg, 50 mg
+198224 spironolacton-hydrochlorothiaz oral tablet 25-25 mg
+198228 sulfadiazine oral tablet 500 mg
+198232 sulfasalazine oral tablet 500 mg
+198232 sulfasalazine oral tablet 500 mg
+198238 sulindac oral tablet 150 mg, 200 mg
+198240 tamoxifen oral tablet 10 mg, 20 mg
+198241 temazepam oral capsule 15 mg, 30 mg
+198241 temazepam oral capsule 15 mg, 30 mg
+198245 terconazole vaginal suppository 80 mg
+198250 tetracycline oral capsule 250 mg, 500 mg
+198284 timolol maleate oral tablet 10 mg, 20 mg, 5 mg
+198295 tolmetin oral tablet 200 mg, 600 mg
+198296 tolmetin oral capsule 400 mg
+198316 triamterene-hydrochlorothiazid oral capsule 37.5-25 mg
+198317 triazolam oral tablet 0.125 mg, 0.25 mg
+198317 triazolam oral tablet 0.125 mg, 0.25 mg
+198322 trifluoperazine oral tablet 1 mg, 10 mg, 2 mg, 5 mg
+198332 trimethoprim oral tablet 100 mg
+198334 sulfamethoxazole-trimethoprim intravenous solution 400-80 mg/5 mL
+198334 sulfamethoxazole-trimethoprim oral tablet 400-80 mg, 800-160 mg
+198352 zidovudine oral capsule 100 mg
+198358 felbamate oral tablet 400 mg, 600 mg
+198363 prednicarbate topical cream 0.1 %
+198365 prochlorperazine maleate oral tablet 10 mg, 5 mg
+198365 prochlorperazine maleate oral tablet 10 mg, 5 mg
+198369 torsemide oral tablet 10 mg, 100 mg, 20 mg, 5 mg
+198373 calcipotriene topical ointment 0.005 %
+198467 aspirin oral tablet 325 mg
+198467 ENTERIC COATED ASPIRIN ORAL TABLET,DELAYED RELEASE (DR/EC) 81 MG
+198467 ENTERIC COATED ASPIRIN ORAL TABLET,DELAYED RELEASE (DR/EC) 81 MG
+198886 urea topical cream 20 %
+199047 famotidine oral tablet 10 mg, 20 mg, 40 mg
+199058 mycophenolate mofetil oral capsule 250 mg
+199058 mycophenolate mofetil oral capsule 250 mg
+199123 bicalutamide oral tablet 50 mg
+199147 lamivudine oral tablet 150 mg, 300 mg
+199148 lamivudine oral solution 10 mg/mL
+199150 acarbose oral tablet 100 mg, 25 mg, 50 mg
+199159 tretinoin (antineoplastic) oral capsule 10 mg
+199192 famciclovir oral tablet 125 mg, 250 mg, 500 mg
+199224 anastrozole oral tablet 1 mg
+199245 glimepiride oral tablet 1 mg
+199246 glimepiride oral tablet 2 mg
+199247 glimepiride oral tablet 4 mg
+199353 trandolapril oral tablet 1 mg, 2 mg, 4 mg
+199369 sodium phenylbutyrate oral tablet 500 mg
+199370 ciprofloxacin HCl oral tablet 100 mg
+199378 carbamazepine oral tablet extended release 12 hr 100 mg, 200 mg, 400 mg
+199378 carbamazepine oral tablet extended release 12 hr 100 mg, 200 mg, 400 mg
+199387 risperidone oral solution 1 mg/mL
+199387 risperidone oral solution 1 mg/mL
+199422 nevirapine oral tablet 200 mg
+199450 clobazam oral tablet 10 mg, 20 mg
+199521 vigabatrin oral tablet 500 mg
+199663 zidovudine oral tablet 300 mg
+199672 albendazole oral tablet 200 mg
+199689 acitretin oral capsule 10 mg, 17.5 mg, 25 mg
+199703 cabergoline oral tablet 0.5 mg
+199884 levofloxacin oral tablet 250 mg, 500 mg, 750 mg
+199889 topiramate oral tablet 100 mg, 200 mg, 25 mg, 50 mg
+199903 hydrochlorothiazide oral capsule 12.5 mg
+200032 carvedilol oral tablet 12.5 mg, 25 mg, 3.125 mg, 6.25 mg
+200060 mycophenolate mofetil oral tablet 500 mg
+200060 mycophenolate mofetil oral tablet 500 mg
+200064 letrozole oral tablet 2.5 mg
+200082 lamivudine-zidovudine oral tablet 150-300 mg
+200095 irbesartan oral tablet 150 mg, 300 mg, 75 mg
+200193 zolmitriptan oral tablet 2.5 mg, 5 mg
+200220 tolcapone oral tablet 100 mg
+200224 montelukast oral tablet 10 mg
+200257 repaglinide oral tablet 0.5 mg, 1 mg, 2 mg
+200285 valsartan-hydrochlorothiazide oral tablet 160-12.5 mg, 160-25 mg, 320-12.5 mg, 320-25 mg, 80-12.5 mg
+200327 capecitabine oral tablet 150 mg, 500 mg
+200346 cefdinir oral capsule 300 mg
+200371 citalopram oral tablet 20 mg
+201185 SULFAMYLON TOPICAL CREAM 85 MG/G
+201708 MARPLAN ORAL TABLET 10 MG
+201912 DARAPRIM ORAL TABLET 25 MG
+202609 ERY-TAB ORAL TABLET,DELAYED RELEASE (DR/EC) 250 MG, 333 MG, 500 MG
+203088 ketoconazole topical cream 2 %
+203214 diclofenac sodium oral tablet,delayed release (DR/EC) 25 mg, 50 mg, 75 mg
+203439 HAVRIX (PF) INTRAMUSCULAR SYRINGE 1,440 ELISA UNIT/ML, 720 ELISA UNIT/0.5 ML
+204119 malathion topical lotion 0.5 %
+204135 desonide topical ointment 0.05 %
+204416 haloperidol lactate injection solution 5 mg/mL
+204423 neomycin-polymyxin-HC otic (ear) solution 3.5-10,000-1 mg/mL- unit/mL-%
+204423 neomycin-polymyxin-HC otic (ear) drops,suspension 3.5-10,000-1 mg/mL-unit/mL-%
+205284 leflunomide oral tablet 10 mg, 20 mg
+205290 efavirenz oral capsule 200 mg, 50 mg
+205301 PREDNISONE INTENSOL ORAL CONCENTRATE 5 MG/ML
+205322 celecoxib oral capsule 100 mg, 200 mg, 400 mg, 50 mg
+205328 lamivudine oral tablet 100 mg
+205331 miglitol oral tablet 100 mg, 25 mg, 50 mg
+205532 PULMOZYME INHALATION SOLUTION 1 MG/ML
+205562 EMCYT ORAL CAPSULE 140 MG
+205610 CORDRAN TOPICAL LOTION 0.05 %
+206417 DEPO-ESTRADIOL INTRAMUSCULAR OIL 5 MG/ML
+206548 HALOG TOPICAL OINTMENT 0.1 %
+206792 ALOMIDE OPHTHALMIC (EYE) DROPS 0.1 %
+206831 TOPOSAR INTRAVENOUS SOLUTION 20 MG/ML
+207059 BETASERON SUBCUTANEOUS KIT 0.3 MG
+207088 CELONTIN ORAL CAPSULE 300 MG
+207273 NITRO-BID TRANSDERMAL OINTMENT 2 %
+207370 DEPEN TITRATABS ORAL TABLET 250 MG
+207370 DEPEN TITRATABS ORAL TABLET 250 MG
+207373 LYSODREN ORAL TABLET 500 MG
+207588 MATULANE ORAL CAPSULE 50 MG
+207634 PROGLYCEM ORAL SUSPENSION 50 MG/ML
+207949 CHEMET ORAL CAPSULE 100 MG
+208083 LEUKINE INJECTION RECON SOLN 250 MCG
+208094 CARAFATE ORAL SUSPENSION 100 MG/ML
+208185 SSD TOPICAL CREAM 1 %
+208513 PREMARIN ORAL TABLET 0.3 MG, 0.45 MG, 0.625 MG, 0.9 MG, 1.25 MG
+208544 ARMOUR THYROID ORAL TABLET 120 MG, 15 MG, 180 MG, 240 MG, 30 MG, 300 MG, 60 MG, 90 MG
+208560 BETIMOL OPHTHALMIC (EYE) DROPS 0.25 %, 0.5 %
+208674 DYRENIUM ORAL CAPSULE 100 MG, 50 MG
+208720 SYPRINE ORAL CAPSULE 250 MG
+208821 TOBRADEX OPHTHALMIC (EYE) OINTMENT 0.3-0.1 %
+208975 BILTRICIDE ORAL TABLET 600 MG
+209788 CYSTAGON ORAL CAPSULE 150 MG, 50 MG
+211140 ELMIRON ORAL CAPSULE 100 MG
+211275 PREVIDENT DENTAL SOLUTION 0.2 %
+211777 ZYFLO ORAL TABLET 600 MG
+211874 BAYER ASPIRIN ORAL TABLET 325 MG
+212039 MENEST ORAL TABLET 0.3 MG, 0.625 MG, 1.25 MG, 2.5 MG
+212118 VIRACEPT ORAL TABLET 250 MG
+212437 TAZORAC TOPICAL GEL 0.05 %, 0.1 %
+212787 cimetidine HCl oral solution 300 mg/5 mL
+213196 BUPHENYL ORAL TABLET 500 MG
+213197 REGRANEX TOPICAL GEL 0.01 %
+213282 DROXIA ORAL CAPSULE 200 MG, 300 MG, 400 MG
+213291 PAXIL ORAL SUSPENSION 10 MG/5 ML
+213307 CILOXAN OPHTHALMIC (EYE) OINTMENT 0.3 %
+213390 SUSTIVA ORAL CAPSULE 200 MG, 50 MG
+213442 NOVOLIN 70/30 U-100 INSULIN SUBCUTANEOUS SUSPENSION 100 UNIT/ML (70-30)
+213461 ZIAGEN ORAL SOLUTION 20 MG/ML
+213484 EPIVIR HBV ORAL SOLUTION 25 MG/5 ML (5 MG/ML)
+213502 PANRETIN TOPICAL GEL 0.1 %
+213510 RIDAURA ORAL CAPSULE 3 MG
+215810 LAXACLEAR ORAL POWDER 17 GRAM/DOSE
+216074 CITROMA ORAL SOLUTION
+216221 COREG CR ORAL CAPSULE, ER MULTIPHASE 24 HR 10 MG, 20 MG, 40 MG, 80 MG
+218128 M-M-R II (PF) SUBCUTANEOUS RECON SOLN 1,000-12,500 TCID50/0.5 ML
+218128 M-M-R II (PF) SUBCUTANEOUS RECON SOLN 1,000-12,500 TCID50/0.5 ML
+218128 M-M-R II (PF) SUBCUTANEOUS RECON SOLN 1,000-12,500 TCID50/0.5 ML
+218128 M-M-R II (PF) SUBCUTANEOUS RECON SOLN 1,000-12,500 TCID50/0.5 ML
+218128 M-M-R II (PF) SUBCUTANEOUS RECON SOLN 1,000-12,500 TCID50/0.5 ML
+226343 dexamethasone sodium phosphate ophthalmic (eye) drops 0.1 %
+226552 scopolamine base transdermal patch 3 day 1 mg over 3 days
+226716 aspirin-dipyridamole oral capsule, ER multiphase 12 hr 25-200 mg
+235473 heparin, porcine (PF) injection solution 1,000 unit/mL
+235473 heparin (porcine) injection solution 10,000 unit/mL, 20,000 unit/mL, 5,000 unit/mL
+235473 heparin, porcine (PF) injection syringe 5,000 unit/0.5 mL
+236486 omeprazole magnesium oral tablet,delayed release (DR/EC) 20 mg
+238006 estrogens-methyltestosterone oral tablet 0.625-1.25 mg, 1.25-2.5 mg
+238134 butalbital-aspirin-caffeine oral capsule 50-325-40 mg
+238151 mesalamine rectal enema 4 gram/60 mL
+238151 mesalamine with cleansing wipe rectal enema kit 4 gram/60 mL
+238153 butalbital-acetaminophen-caff oral capsule 50-325-40 mg
+238154 butalbital-acetaminophen-caff oral tablet 50-325-40 mg
+238600 selenium sulfide topical lotion 2.5 %
+238720 tranexamic acid intravenous solution 1,000 mg/10 mL (100 mg/mL)
+238920 betamethasone dipropionate topical cream 0.05 %
+239209 vancomycin intravenous recon soln 1,000 mg, 500 mg
+239238 griseofulvin microsize oral suspension 125 mg/5 mL
+240128 norgestimate-ethinyl estradiol oral tablet 0.25-35 mg-mcg
+240209 betamethasone dipropionate topical lotion 0.05 %
+240707 desogestrel-ethinyl estradiol oral tablet 0.15-0.03 mg
+240741 clarithromycin oral suspension for reconstitution 125 mg/5 mL, 250 mg/5 mL
+241834 cyclosporine modified oral capsule 100 mg, 25 mg, 50 mg
+241834 cyclosporine modified oral capsule 100 mg, 25 mg, 50 mg
+242333 estradiol transdermal patch weekly 0.025 mg/24 hr, 0.0375 mg/24 hr, 0.05 mg/24 hr, 0.06 mg/24 hr, 0.075 mg/24 hr, 0.1 mg/24 hr
+242446 ofloxacin otic (ear) drops 0.3 %
+242461 cilostazol oral tablet 100 mg, 50 mg
+242679 abacavir oral tablet 300 mg
+242680 abacavir oral solution 20 mg/mL
+242736 metronidazole topical lotion 0.75 %
+244374 erythromycin-benzoyl peroxide topical gel 3-5 %
+244416 nystatin topical powder 100,000 unit/gram
+245136 fentanyl transdermal patch 72 hour 100 mcg/hr, 12 mcg/hr, 25 mcg/hr, 50 mcg/hr, 75 mcg/hr
+248109 ribavirin oral tablet 200 mg
+248478 estradiol transdermal patch semiweekly 0.025 mg/24 hr, 0.0375 mg/24 hr, 0.05 mg/24 hr, 0.075 mg/24 hr, 0.1 mg/24 hr
+248642 fluoxetine oral tablet 20 mg
+250344 ciclopirox topical shampoo 1 %
+250820 vigabatrin oral powder in packet 500 mg
+251322 ethosuximide oral solution 250 mg/5 mL
+253017 MILK OF MAGNESIA ORAL SUSPENSION 400 MG/5 ML
+253146 dextroamphetamine-amphetamine oral capsule,extended release 24hr 10 mg, 15 mg, 20 mg, 25 mg, 30 mg, 5 mg
+253146 dextroamphetamine-amphetamine oral capsule,extended release 24hr 10 mg, 15 mg, 20 mg, 25 mg, 30 mg, 5 mg
+260218 modafinil oral tablet 100 mg, 200 mg
+260243 progesterone micronized oral capsule 100 mg, 200 mg
+260260 carbidopa oral tablet 25 mg
+260350 DIGITEK ORAL TABLET 125 MCG (0.125 MG), 250 MCG (0.25 MG)
+261101 PRIFTIN ORAL TABLET 150 MG
+261101 PRIFTIN ORAL TABLET 150 MG
+261105 ENBREL SUBCUTANEOUS RECON SOLN 25 MG (1 ML)
+261105 ENBREL SUBCUTANEOUS RECON SOLN 25 MG (1 ML)
+261134 PROGRAF ORAL CAPSULE 0.5 MG, 1 MG, 5 MG
+261178 NYSTOP TOPICAL POWDER 100,000 UNIT/GRAM
+282725 ORAL SALINE LAXATIVE ORAL LIQUID 7.2-2.7 GRAM/15 ML
+282725 PHOSPHATE LAXATIVE ORAL LIQUID 7.2-2.7 GRAM/15 ML
+282755 telmisartan oral tablet 20 mg, 40 mg, 80 mg
+283077 prednisolone sodium phosphate oral solution 15 mg/5 mL (3 mg/mL), 15 mg/5 mL (5 mL), 25 mg/5 mL (5 mg/mL), 5 mg base/5 mL (6.7 mg/5 mL)
+283077 prednisolone oral solution 15 mg/5 mL
+283523 gabapentin oral solution 250 mg/5 mL, 250 mg/5 mL (5 mL), 300 mg/6 mL (6 mL)
+283535 doxycycline hyclate oral tablet 20 mg
+283536 oxcarbazepine oral suspension 300 mg/5 mL (60 mg/mL)
+283672 citalopram oral tablet 10 mg, 40 mg
+284008 travoprost ophthalmic (eye) drops 0.004 %
+284183 didanosine oral capsule,delayed release(DR/EC) 250 mg, 400 mg
+284205 almotriptan malate oral tablet 12.5 mg, 6.25 mg
+284254 COMPRO RECTAL SUPPOSITORY 25 MG
+284425 BUSULFEX INTRAVENOUS SOLUTION 60 MG/10 ML
+284496 TAZORAC TOPICAL CREAM 0.05 %, 0.1 %
+284551 NILANDRON ORAL TABLET 150 MG
+285018 LANTUS U-100 INSULIN SUBCUTANEOUS SOLUTION 100 UNIT/ML
+285032 TRAVATAN Z OPHTHALMIC (EYE) DROPS 0.004 %
+307650 abacavir-lamivudine-zidovudine oral tablet 300-150-300 mg
+307702 acetazolamide sodium injection recon soln 500 mg
+307718 acetylcysteine solution 100 mg/mL (10 %), 200 mg/mL (20 %)
+307718 acetylcysteine solution 100 mg/mL (10 %), 200 mg/mL (20 %)
+307730 acyclovir oral suspension 200 mg/5 mL
+307731 adapalene topical gel 0.1 %
+308047 alprazolam oral tablet 0.25 mg, 0.5 mg
+308047 alprazolam oral tablet 0.25 mg, 0.5 mg
+308135 amlodipine oral tablet 10 mg, 2.5 mg, 5 mg
+308182 amoxicillin oral capsule 250 mg, 500 mg
+308192 amoxicillin oral tablet 500 mg, 875 mg
+308212 ampicillin oral capsule 500 mg
+308345 apraclonidine ophthalmic (eye) drops 0.5 %
+308429 atovaquone oral suspension 750 mg/5 mL
+308459 azithromycin oral suspension for reconstitution 100 mg/5 mL, 200 mg/5 mL
+308460 azithromycin oral tablet 250 mg, 500 mg, 600 mg
+308493 neomycin-bacitracin-poly-HC ophthalmic (eye) ointment 3.5-400- 10,000 mg-unit/g-1%
+308508 bacitracin ophthalmic (eye) ointment 500 unit/gram
+308511 AK-POLY-BAC OPHTHALMIC (EYE) OINTMENT 500-10,000 UNIT/GRAM
+308714 clotrimazole-betamethasone topical cream 1-0.05 %
+308715 clotrimazole-betamethasone topical lotion 1-0.05 %
+308725 bexarotene oral capsule 75 mg
+308753 WOMEN'S LAXATIVE (BISACODYL) ORAL TABLET,DELAYED RELEASE (DR/EC) 5 MG
+308753 BISA-LAX (BISACODYL) ORAL TABLET,DELAYED RELEASE (DR/EC) 5 MG
+308753 WOMEN'S LAXATIVE (BISACODYL) ORAL TABLET 5 MG
+308753 WOMEN'S GENTLE LAXATIVE(BISAC) ORAL TABLET,DELAYED RELEASE (DR/EC) 5 MG
+308753 GENTLE LAXATIVE (BISACODYL) ORAL TABLET,DELAYED RELEASE (DR/EC) 5 MG
+308753 WOMAN'S LAXATIVE (BISACODYL) ORAL TABLET 5 MG
+308753 LAXATIVE (BISACODYL) ORAL TABLET,DELAYED RELEASE (DR/EC) 5 MG
+308753 bisacodyl oral tablet,delayed release (DR/EC) 5 mg
+308753 LAXATIVE (BISACODYL) ORAL TABLET 5 MG
+308865 calcipotriene scalp solution 0.005 %
+308867 calcitriol oral capsule 0.25 mcg, 0.5 mcg
+308867 calcitriol oral capsule 0.25 mcg, 0.5 mcg
+308962 captopril oral tablet 100 mg, 12.5 mg, 25 mg, 50 mg
+308976 carbamazepine oral suspension 100 mg/5 mL, 100 mg/5 mL (5 mL), 200 mg/10 mL
+308976 carbamazepine oral suspension 100 mg/5 mL, 100 mg/5 mL (5 mL), 200 mg/10 mL
+308979 carbamazepine oral tablet 200 mg
+308979 carbamazepine oral tablet 200 mg
+308988 carbidopa-levodopa oral tablet extended release 25-100 mg, 50- 200 mg
+309045 cefaclor oral capsule 250 mg, 500 mg
+309047 cefadroxil oral tablet 1 gram
+309048 cefadroxil oral suspension for reconstitution 250 mg/5 mL, 500 mg/5 mL
+309049 cefadroxil oral capsule 500 mg
+309054 cefdinir oral suspension for reconstitution 125 mg/5 mL, 250 mg/5 mL
+309058 cefixime oral suspension for reconstitution 100 mg/5 mL, 200 mg/5 mL
+309076 cefpodoxime oral tablet 100 mg, 200 mg
+309077 cefpodoxime oral suspension for reconstitution 100 mg/5 mL, 50 mg/5 mL
+309080 cefprozil oral suspension for reconstitution 125 mg/5 mL, 250 mg/5 mL
+309097 cefuroxime axetil oral tablet 250 mg, 500 mg
+309110 cephalexin oral suspension for reconstitution 125 mg/5 mL, 250 mg/5 mL
+309112 cephalexin oral capsule 250 mg, 500 mg
+309289 ciclopirox topical cream 0.77 %
+309290 ciclopirox topical suspension 0.77 %
+309291 ciclopirox topical solution 8 %
+309307 ciprofloxacin HCl ophthalmic (eye) drops 0.3 %
+309313 citalopram oral solution 10 mg/5 mL
+309332 clindamycin phosphate topical gel 1 %
+309333 clindamycin phosphate topical solution 1 %
+309337 clindamycin phosphate vaginal cream 2 %
+309362 clopidogrel oral tablet 75 mg
+309367 clotrimazole topical cream 1 %
+309370 clotrimazole topical solution 1 %
+309371 clotrimazole mucous membrane troche 10 mg
+309686 dexamethasone oral solution 0.5 mg/5 mL
+309696 dexamethasone sodium phosphate injection solution 10 mg/mL, 4 mg/mL
+309844 diazepam oral solution 5 mg/5 mL (1 mg/mL)
+309844 diazepam oral concentrate 5 mg/mL
+309844 diazepam oral solution 5 mg/5 mL (1 mg/mL)
+309844 diazepam oral concentrate 5 mg/mL
+309844 DIAZEPAM INTENSOL ORAL CONCENTRATE 5 MG/ML
+309844 DIAZEPAM INTENSOL ORAL CONCENTRATE 5 MG/ML
+309952 dipyridamole oral tablet 25 mg, 50 mg, 75 mg
+309958 disopyramide phosphate oral capsule 100 mg, 150 mg
+310003 dofetilide oral capsule 125 mcg, 250 mcg, 500 mcg
+310015 dorzolamide ophthalmic (eye) drops 2 %
+310132 epinephrine injection solution 1 mg/mL
+310132 epinephrine injection solution 1 mg/mL
+310149 erythromycin ophthalmic (eye) ointment 5 mg/gram (0.5 %)
+310152 erythromycin with ethanol topical gel 2 %
+310245 etodolac oral tablet extended release 24 hr 400 mg, 500 mg, 600 mg
+310261 exemestane oral tablet 25 mg
+310274 famotidine oral suspension 40 mg/5 mL (8 mg/mL)
+310285 felbamate oral suspension 600 mg/5 mL
+310288 fenofibrate micronized oral capsule 134 mg, 200 mg, 67 mg
+310291 fenoprofen oral tablet 600 mg
+310293 fentanyl citrate buccal lozenge on a handle 1,200 mcg, 1,600 mcg, 200 mcg, 400 mcg, 600 mcg, 800 mcg
+310346 finasteride oral tablet 5 mg
+310362 fluocinonide topical gel 0.05 %
+310364 fluocinonide topical solution 0.05 %
+310377 fluorometholone ophthalmic (eye) drops,suspension 0.1 %
+310379 fluorouracil topical solution 2 %, 5 %
+310384 fluoxetine oral capsule 10 mg, 20 mg
+310386 fluoxetine oral solution 20 mg/5 mL (4 mg/mL)
+310404 fluvastatin oral capsule 20 mg, 40 mg
+310410 folic acid oral tablet 1 mg, 400 mcg, 800 mcg
+310410 PRENATABS FA ORAL TABLET 29-1 MG
+310429 furosemide oral tablet 20 mg, 40 mg, 80 mg
+310430 gabapentin oral capsule 100 mg, 300 mg, 400 mg
+310433 gabapentin oral tablet 600 mg
+310434 gabapentin oral tablet 800 mg
+310459 gemfibrozil oral tablet 600 mg
+310465 gentamicin topical ointment 0.1 %
+310466 gentamicin ophthalmic (eye) ointment 0.3 % (3 mg/gram)
+310467 gentamicin ophthalmic (eye) drops 0.3 %
+310488 glipizide oral tablet 10 mg
+310490 glipizide oral tablet 5 mg
+310497 GLUCAGON EMERGENCY KIT (HUMAN) INJECTION RECON SOLN 1 MG
+310534 glyburide oral tablet 2.5 mg
+310537 glyburide oral tablet 5 mg
+310539 glyburide micronized oral tablet 6 mg
+310599 granisetron HCl oral tablet 1 mg
+310670 haloperidol oral tablet 0.5 mg, 1 mg, 10 mg, 2 mg, 20 mg, 5 mg
+310792 irbesartan-hydrochlorothiazide oral tablet 150-12.5 mg, 300-12.5 mg
+310796 quinapril-hydrochlorothiazide oral tablet 10-12.5 mg, 20-12.5 mg, 20-25 mg
+310812 triamterene-hydrochlorothiazid oral tablet 37.5-25 mg, 75-50 mg
+310861 hydrocortisone topical ointment 0.5 %, 1 %, 2.5 %
+310870 hydrocortisone-iodoquinol topical cream 1-1 %
+310878 hydrocortisone rectal enema 100 mg/60 mL
+310982 imiquimod topical cream in packet 5 %
+311027 NOVOLIN N NPH U-100 INSULIN SUBCUTANEOUS SUSPENSION 100 UNIT/ML
+311040 insulin aspart U-100 subcutaneous solution 100 unit/mL
+311166 isoniazid oral tablet 100 mg, 300 mg
+311192 isosorbide mononitrate oral tablet 10 mg, 20 mg
+311196 isosorbide mononitrate oral tablet extended release 24 hr 120 mg, 30 mg, 60 mg
+311204 itraconazole oral capsule 100 mg
+311207 ivermectin oral tablet 3 mg
+311277 lansoprazole oral capsule,delayed release(DR/EC) 15 mg, 30 mg
+311286 levalbuterol HCl inhalation solution for nebulization 0.31 mg/3 mL, 0.63 mg/3 mL, 1.25 mg/0.5 mL, 1.25 mg/3 mL
+311288 levetiracetam oral tablet 1,000 mg, 250 mg, 500 mg, 750 mg
+311345 linezolid oral suspension for reconstitution 100 mg/5 mL
+311347 linezolid oral tablet 600 mg
+311355 lithium carbonate oral capsule 150 mg, 300 mg, 600 mg
+311376 lorazepam oral concentrate 2 mg/mL
+311376 lorazepam oral concentrate 2 mg/mL
+311382 loteprednol etabonate ophthalmic (eye) drops,suspension 0.5 %
+311424 magnesium citrate oral solution
+311487 melphalan HCl intravenous recon soln 50 mg
+311625 methotrexate sodium (PF) injection recon soln 1 gram
+311666 metoclopramide HCl oral tablet 10 mg, 5 mg
+311678 metronidazole topical cream 0.75 %
+311679 metronidazole topical gel 0.75 %
+311725 mirtazapine oral tablet 15 mg, 7.5 mg
+311727 misoprostol oral tablet 100 mcg, 200 mcg
+311753 mometasone topical cream 0.1 %
+311880 mycophenolate mofetil oral suspension for reconstitution 200 mg/mL
+311880 mycophenolate mofetil oral suspension for reconstitution 200 mg/mL
+311892 nabumetone oral tablet 500 mg, 750 mg
+311918 naratriptan oral tablet 1 mg, 2.5 mg
+311919 nateglinide oral tablet 120 mg, 60 mg
+311943 nevirapine oral suspension 50 mg/5 mL
+311944 NIACOR ORAL TABLET 500 MG
+311989 nitrofurantoin oral suspension 25 mg/5 mL
+311989 nitrofurantoin oral suspension 25 mg/5 mL
+312025 nizatidine oral capsule 150 mg, 300 mg
+312069 octreotide acetate injection solution 1,000 mcg/mL, 100 mcg/mL, 200 mcg/mL, 50 mcg/mL, 500 mcg/mL
+312069 octreotide acetate injection solution 1,000 mcg/mL, 100 mcg/mL, 200 mcg/mL, 50 mcg/mL, 500 mcg/mL
+312075 ofloxacin ophthalmic (eye) drops 0.3 %
+312084 ondansetron HCl oral tablet 24 mg
+312085 ondansetron HCl oral solution 4 mg/5 mL
+312132 oxaprozin oral tablet 600 mg
+312136 oxcarbazepine oral tablet 150 mg, 300 mg, 600 mg
+312139 oxiconazole topical cream 1 %
+312242 paroxetine HCl oral suspension 10 mg/5 mL
+312289 pentazocine-naloxone oral tablet 50-0.5 mg
+312301 pentoxifylline oral tablet extended release 400 mg
+312347 phenelzine oral tablet 15 mg
+312439 pimozide oral tablet 1 mg, 2 mg
+312515 potassium chloride oral liquid 20 mEq/15 mL, 40 mEq/15 mL
+312593 prazosin oral capsule 1 mg, 2 mg, 5 mg
+312644 progesterone intramuscular oil 50 mg/mL
+312743 quetiapine oral tablet 100 mg, 200 mg, 25 mg, 300 mg, 400 mg, 50 mg
+312743 quetiapine oral tablet 100 mg, 200 mg, 25 mg, 300 mg, 400 mg, 50 mg
+312748 quinapril oral tablet 10 mg, 20 mg, 40 mg, 5 mg
+312817 ribavirin oral capsule 200 mg
+312828 risperidone oral tablet 0.25 mg, 0.5 mg, 1 mg, 2 mg, 3 mg, 4 mg
+312828 risperidone oral tablet 0.25 mg, 0.5 mg, 1 mg, 2 mg, 3 mg, 4 mg
+312845 ropinirole oral tablet 0.25 mg, 0.5 mg, 1 mg, 2 mg, 3 mg, 4 mg, 5 mg
+312893 salicylic acid topical gel 6 %
+312938 sertraline oral tablet 100 mg, 25 mg, 50 mg
+313002 sodium chloride 0.9 % injection solution
+313002 sodium chloride 0.9 % injection solution
+313107 stavudine oral capsule 15 mg, 20 mg, 30 mg, 40 mg
+313115 streptomycin intramuscular recon soln 1 gram
+313123 sucralfate oral suspension 100 mg/mL
+313134 sulfamethoxazole-trimethoprim oral suspension 200-40 mg/5 mL
+313160 sumatriptan succinate oral tablet 100 mg, 25 mg, 50 mg
+313165 sumatriptan succinate subcutaneous solution 6 mg/0.5 mL
+313189 tacrolimus topical ointment 0.03 %, 0.1 %
+313190 tacrolimus oral capsule 0.5 mg, 1 mg, 5 mg
+313200 tazarotene topical cream 0.1 %
+313215 terazosin oral capsule 1 mg, 10 mg, 2 mg, 5 mg
+313222 terbinafine HCl oral tablet 250 mg
+313226 terconazole vaginal cream 0.4 %, 0.8 %
+313354 thioridazine oral tablet 10 mg, 100 mg, 25 mg, 50 mg
+313362 thiothixene oral capsule 1 mg, 10 mg, 2 mg, 5 mg
+313412 tizanidine oral tablet 2 mg, 4 mg
+313415 tobramycin ophthalmic (eye) drops 0.3 %
+313428 toremifene oral tablet 60 mg
+313447 tranylcypromine oral tablet 10 mg
+313450 tretinoin topical gel 0.01 %, 0.025 %, 0.05 %
+313453 tretinoin microspheres topical gel with pump 0.04 %, 0.1 %
+313472 trientine oral capsule 250 mg
+313477 trifluridine ophthalmic (eye) drops 1 %
+313496 trimipramine oral capsule 100 mg, 25 mg, 50 mg
+313521 tropicamide ophthalmic (eye) drops 0.5 %, 1 %
+313564 valacyclovir oral tablet 1 gram, 500 mg
+313566 valganciclovir oral tablet 450 mg
+313570 vancomycin oral capsule 125 mg, 250 mg
+313580 venlafaxine oral tablet 100 mg, 25 mg, 37.5 mg, 50 mg, 75 mg
+313581 venlafaxine oral capsule,extended release 24hr 150 mg
+313583 venlafaxine oral capsule,extended release 24hr 37.5 mg, 75 mg
+313758 zafirlukast oral tablet 10 mg, 20 mg
+313761 zaleplon oral capsule 10 mg, 5 mg
+313786 hydrocortisone-acetic acid otic (ear) drops 1-2 %
+313797 amoxicillin oral suspension for reconstitution 125 mg/5 mL, 200 mg/5 mL, 250 mg/5 mL, 400 mg/5 mL
+313852 adapalene topical cream 0.1 %
+313921 calcipotriene topical cream 0.005 %
+313932 calcitriol oral solution 1 mcg/mL
+313932 calcitriol oral solution 1 mcg/mL
+313941 ciclopirox topical gel 0.77 %
+313979 fludrocortisone oral tablet 0.1 mg
+313989 fluoxetine oral capsule 40 mg
+314000 glyburide micronized oral tablet 1.5 mg, 3 mg
+314072 latanoprost ophthalmic (eye) drops 0.005 %
+314076 lisinopril oral tablet 10 mg, 2.5 mg, 20 mg, 30 mg, 40 mg, 5 mg
+314078 loxapine succinate oral capsule 10 mg, 25 mg, 5 mg, 50 mg
+314080 levofloxacin ophthalmic (eye) drops 0.5 %
+314087 MILK OF MAGNESIA CONCENTRATED ORAL SUSPENSION 2,400 MG/10 ML
+314088 methscopolamine oral tablet 2.5 mg, 5 mg
+314106 metronidazole oral tablet 250 mg, 500 mg
+314111 mirtazapine oral tablet 30 mg, 45 mg
+314119 nicotine (polacrilex) buccal gum 2 mg, 4 mg
+314154 olanzapine oral tablet 10 mg, 15 mg, 2.5 mg, 20 mg, 5 mg, 7.5 mg
+314154 olanzapine oral tablet 10 mg, 15 mg, 2.5 mg, 20 mg, 5 mg, 7.5 mg
+314165 prednisolone acetate ophthalmic (eye) drops,suspension 1 %
+314165 prednisolone sodium phosphate ophthalmic (eye) drops 1 %
+314184 paromomycin oral capsule 250 mg
+314209 rizatriptan oral tablet 10 mg, 5 mg
+314214 rivastigmine tartrate oral capsule 1.5 mg, 3 mg, 4.5 mg, 6 mg
+314230 sirolimus oral solution 1 mg/mL
+314231 simvastatin oral tablet 10 mg, 20 mg, 40 mg, 5 mg, 80 mg
+314234 sucralfate oral tablet 1 gram
+314285 zonisamide oral capsule 100 mg, 25 mg, 50 mg
+314286 ziprasidone HCl oral capsule 20 mg, 40 mg, 60 mg, 80 mg
+314286 ziprasidone HCl oral capsule 20 mg, 40 mg, 60 mg, 80 mg
+315059 desoximetasone topical gel 0.05 %
+315102 fluoride (sodium) oral drops 0.5 mg (1.1 mg sod.fluorid)/mL
+315107 glipizide oral tablet extended release 24hr 10 mg, 2.5 mg, 5 mg
+315134 levocarnitine (with sugar) oral solution 100 mg/mL
+315187 prednisone oral solution 5 mg/5 mL
+317094 entacapone oral tablet 200 mg
+317160 temozolomide oral capsule 100 mg, 140 mg, 180 mg, 20 mg, 250 mg, 5 mg
+317573 pioglitazone oral tablet 15 mg, 30 mg, 45 mg
+317769 theophylline oral tablet extended release 12 hr 300 mg, 450 mg
+318179 ergoloid oral tablet 1 mg
+318202 erythromycin with ethanol topical solution 2 %
+318272 CHILDREN'S ASPIRIN ORAL TABLET,CHEWABLE 81 MG
+318272 CHILDREN'S ASPIRIN ORAL TABLET,CHEWABLE 81 MG
+328160 cyclosporine oral capsule 100 mg, 25 mg
+328160 cyclosporine oral capsule 100 mg, 25 mg
+328161 methylprednisolone oral tablet 16 mg, 32 mg, 4 mg, 8 mg
+348719 tobramycin in 0.225 % NaCl inhalation solution for nebulization 300 mg/5 mL
+349094 budesonide inhalation suspension for nebulization 0.25 mg/2 mL, 0.5 mg/2 mL, 1 mg/2 mL
+349201 valsartan oral tablet 160 mg, 320 mg, 40 mg, 80 mg
+349251 tenofovir disoproxil fumarate oral tablet 300 mg
+349251 tenofovir disoproxil fumarate oral tablet 300 mg
+349287 fenofibrate oral tablet 160 mg, 54 mg
+349332 escitalopram oxalate oral tablet 10 mg, 20 mg, 5 mg
+349351 desonide topical cream 0.05 %
+349401 olmesartan oral tablet 20 mg, 40 mg, 5 mg
+349407 treprostinil sodium injection solution 1 mg/mL, 10 mg/mL, 2.5 mg/mL, 5 mg/mL
+349420 desloratadine oral tablet 5 mg
+349420 desloratadine oral tablet 5 mg
+349434 voriconazole oral tablet 200 mg, 50 mg
+349462 frovatriptan oral tablet 2.5 mg
+349477 efavirenz oral tablet 600 mg
+349545 aripiprazole oral tablet 10 mg, 15 mg, 2 mg, 20 mg, 30 mg, 5 mg
+349545 aripiprazole oral tablet 10 mg, 15 mg, 2 mg, 20 mg, 30 mg, 5 mg
+349556 ezetimibe oral tablet 10 mg
+349591 atomoxetine oral capsule 10 mg, 18 mg, 25 mg, 40 mg
+351136 albuterol sulfate inhalation solution for nebulization 0.63 mg/3 mL, 1.25 mg/3 mL, 2.5 mg /3 mL (0.083 %), 2.5 mg/0.5 mL, 5 mg/mL
+351155 urea topical lotion 40 %
+351172 dutasteride oral capsule 0.5 mg
+351246 montelukast oral granules in packet 4 mg
+351254 metaxalone oral tablet 800 mg
+351256 eplerenone oral tablet 25 mg, 50 mg
+351256 eplerenone oral tablet 25 mg, 50 mg
+351264 buprenorphine HCl sublingual tablet 2 mg, 8 mg
+351276 oxandrolone oral tablet 10 mg
+351285 escitalopram oxalate oral solution 5 mg/5 mL
+351750 CONDYLOX TOPICAL GEL 0.5 %
+351859 HUMULIN R U-500 (CONC) INSULIN SUBCUTANEOUS SOLUTION 500 UNIT/ML
+351901 RAPAMUNE ORAL SOLUTION 1 MG/ML
+351926 NOVOLOG U-100 INSULIN ASPART SUBCUTANEOUS SOLUTION 100 UNIT/ML
+352121 ORFADIN ORAL CAPSULE 10 MG, 2 MG, 5 MG
+352143 SUSTIVA ORAL TABLET 600 MG
+352200 BENICAR ORAL TABLET 20 MG, 40 MG, 5 MG
+352211 REMODULIN INJECTION SOLUTION 1 MG/ML, 10 MG/ML, 2.5 MG/ML, 5 MG/ML
+352257 XYREM ORAL SOLUTION 500 MG/ML
+352304 ZETIA ORAL TABLET 10 MG
+352317 STRATTERA ORAL CAPSULE 10 MG, 18 MG, 25 MG, 40 MG
+356761 FOSRENOL ORAL TABLET,CHEWABLE 1,000 MG, 500 MG, 750 MG
+356772 NOXAFIL ORAL TABLET,DELAYED RELEASE (DR/EC) 100 MG
+358917 clindamycin-benzoyl peroxide topical gel 1-5 %, 1.2 %(1 % base) -5 %
+359050 tretinoin microspheres topical gel 0.04 %, 0.1 %
+359296 calcium acetate(phosphat bind) oral capsule 667 mg
+359296 calcium acetate(phosphat bind) oral capsule 667 mg
+359385 clarithromycin oral tablet extended release 24 hr 500 mg
+359493 eletriptan oral tablet 20 mg, 40 mg
+359817 nicotine (polacrilex) buccal lozenge 2 mg, 4 mg
+359817 nicotine (polacrilex) buccal mini lozenge 2 mg, 4 mg
+370579 amoxicillin oral tablet,chewable 125 mg
+370579 amoxicillin oral tablet,chewable 250 mg
+370611 aspirin oral tablet,chewable 81 mg
+370611 aspirin oral tablet,delayed release (DR/EC) 325 mg, 81 mg
+370611 aspirin oral tablet,delayed release (DR/EC) 325 mg, 81 mg
+370611 aspirin oral tablet,chewable 81 mg
+370666 hyoscyamine sulfate oral tablet,disintegrating 0.125 mg
+370666 hyoscyamine sulfate oral tablet,disintegrating 0.125 mg
+371260 carbamazepine oral tablet,chewable 100 mg
+371260 carbamazepine oral tablet,chewable 100 mg
+371524 ciprofloxacin oral suspension,microcapsule recon 250 mg/5 mL, 500 mg/5 mL
+371602 clozapine oral tablet,disintegrating 100 mg, 12.5 mg, 150 mg, 200 mg, 25 mg
+372059 erythromycin oral capsule,delayed release(DR/EC) 250 mg
+372105 noreth-ethinyl estradiol-iron oral tablet,chewable 0.8mg- 25mcg(24) and 75 mg (4)
+372566 lamotrigine oral tablet disintegrating, dose pk 25 mg (21) -50 mg (7), 25 mg(14)-50 mg (14)-100 mg (7), 50 mg (42) -100 mg (14)
+372566 lamotrigine oral tablet disintegrating, dose pk 25 mg (21) -50 mg (7), 25 mg(14)-50 mg (14)-100 mg (7), 50 mg (42) -100 mg (14)
+372567 lamotrigine oral tablet,disintegrating 100 mg, 200 mg, 25 mg, 50 mg
+372567 lamotrigine oral tablet, chewable dispersible 25 mg, 5 mg
+372567 lamotrigine oral tablets,dose pack 25 mg (35), 25 mg (42) -100 mg (7), 25 mg (84) -100 mg (14)
+372567 lamotrigine oral tablets,dose pack 25 mg (35), 25 mg (42) -100 mg (7), 25 mg (84) -100 mg (14)
+372567 lamotrigine oral tablet,disintegrating 100 mg, 200 mg, 25 mg, 50 mg
+372590 levonorgestrel-ethinyl estrad oral tablets,dose pack,3 month 0.15 mg-30 mcg (91)
+372757 memantine oral tablets,dose pack 5-10 mg
+372803 metformin oral tablet 1,000 mg
+372841 methoxsalen oral capsule,liqd-filled,rapid rel 10 mg
+372868 methylprednisolone oral tablets,dose pack 4 mg
+373005 naproxen oral tablet,delayed release (DR/EC) 375 mg, 500 mg
+373133 nystatin topical cream 100,000 unit/gram
+373135 nystatin topical ointment 100,000 unit/gram
+373136 nystatin oral suspension 100,000 unit/mL
+373137 nystatin oral tablet 500,000 unit
+373142 olanzapine oral tablet,disintegrating 10 mg, 15 mg, 20 mg, 5 mg
+373142 olanzapine oral tablet,disintegrating 10 mg, 15 mg, 20 mg, 5 mg
+373148 ondansetron oral tablet,disintegrating 4 mg, 8 mg
+373222 pantoprazole oral tablet,delayed release (DR/EC) 20 mg, 40 mg
+373523 potassium chloride oral tablet,ER particles/crystals 10 mEq, 20 mEq
+373585 prednisone oral tablets,dose pack 10 mg, 5 mg
+373791 risperidone oral tablet,disintegrating 0.25 mg, 0.5 mg, 1 mg, 2 mg, 3 mg, 4 mg
+373791 risperidone oral tablet,disintegrating 0.25 mg, 0.5 mg, 1 mg, 2 mg, 3 mg, 4 mg
+373798 rizatriptan oral tablet,disintegrating 10 mg, 5 mg
+373911 fluoride (sodium) oral tablet,chewable 0.25 mg(0.55 mg sod. fluoride), 0.5 mg (1.1 mg sodium fluorid), 1 mg (2.2 mg sod. fluoride)
+374165 topiramate oral capsule, sprinkle 15 mg, 25 mg
+374173 tramadol oral tablet, ER multiphase 24 hr 100 mg, 200 mg, 300 mg
+374363 zolmitriptan oral tablet,disintegrating 2.5 mg, 5 mg
+374371 desmopressin nasal spray,non-aerosol 10 mcg/spray (0.1 mL)
+374401 nystatin-triamcinolone topical ointment 100,000-0.1 unit/gram-%
+374629 bacitracin-polymyxin B ophthalmic (eye) ointment 500-10,000 unit/gram
+374699 neomycin-polymyxin B-dexameth ophthalmic (eye) ointment 3.5 mg/g-10,000 unit/g-0.1 %
+374899 calcitonin (salmon) nasal spray,non-aerosol 200 unit/actuation
+375256 rabeprazole oral tablet,delayed release (DR/EC) 20 mg
+376030 neomycin-bacitracin-polymyxin ophthalmic (eye) ointment 3.5- 400-10,000 mg-unit-unit/g
+377781 nystatin-triamcinolone topical cream 100,000-0.1 unit/g-%
+377804 salicylic acid topical cream,extended release 6 %
+377805 salicylic acid topical lotion,extended release 6 %
+378266 potassium chloride oral capsule, extended release 10 mEq, 8 mEq
+378301 aripiprazole oral tablet,disintegrating 10 mg, 15 mg
+378301 aripiprazole oral tablet,disintegrating 10 mg, 15 mg
+378384 mirtazapine oral tablet,disintegrating 15 mg, 30 mg, 45 mg
+378682 montelukast oral tablet,chewable 4 mg, 5 mg
+381056 isosorbide dinitrate oral tablet 10 mg, 20 mg, 30 mg, 5 mg
+388517 calcitriol topical ointment 3 mcg/gram
+388525 calcipotriene-betamethasone topical ointment 0.005-0.064 %
+389242 deferiprone oral tablet 500 mg
+391937 lactulose oral solution 10 gram/15 mL, 20 gram/30 mL
+391937 lactulose oral solution 10 gram/15 mL, 10 gram/15 mL (15 mL)
+392038 SF 5000 PLUS DENTAL CREAM 1.1 %
+393149 diltiazem HCl oral capsule,ext.rel 24h degradable 120 mg, 180 mg, 240 mg
+393149 diltiazem HCl oral capsule,extended release 12 hr 120 mg, 60 mg, 90 mg
+393149 diltiazem HCl oral capsule,extended release 24 hr 120 mg, 180 mg, 240 mg, 300 mg, 360 mg, 420 mg
+393149 diltiazem HCl oral capsule,extended release 24hr 120 mg, 180 mg, 240 mg, 300 mg
+393163 verapamil oral capsule, 24 hr ER pellet CT 100 mg, 200 mg, 300 mg
+393163 verapamil oral capsule,ext rel. pellets 24 hr 120 mg, 180 mg, 240 mg, 360 mg
+393245 digoxin oral solution 50 mcg/mL (0.05 mg/mL)
+393435 omeprazole oral tablet,delayed release (DR/EC) 20 mg
+393497 propranolol oral capsule,extended release 24 hr 120 mg, 160 mg, 60 mg, 80 mg
+401938 miglustat oral capsule 100 mg
+402091 IRESSA ORAL TABLET 250 MG
+402093 REYATAZ ORAL CAPSULE 200 MG, 300 MG
+402109 fosamprenavir oral tablet 700 mg
+402110 LEXIVA ORAL TABLET 700 MG
+402169 ZOMIG NASAL SPRAY,NON-AEROSOL 2.5 MG, 5 MG
+402246 atazanavir oral capsule 150 mg, 200 mg, 300 mg
+402252 CLIMARA PRO TRANSDERMAL PATCH WEEKLY 0.045-0.015 MG/24 HR
+402695 felodipine oral tablet extended release 24 hr 10 mg, 2.5 mg, 5 mg
+403811 aprepitant oral capsule 125 mg, 40 mg, 80 mg
+403818 moxifloxacin ophthalmic (eye) drops 0.5 %
+403853 olmesartan-hydrochlorothiazide oral tablet 20-12.5 mg, 40-12.5 mg, 40-25 mg
+403878 imatinib oral tablet 100 mg
+403879 imatinib oral tablet 400 mg
+403884 levetiracetam oral solution 100 mg/mL, 500 mg/5 mL (5 mL)
+403970 olanzapine-fluoxetine oral capsule 12-25 mg, 12-50 mg, 3-25 mg, 6-25 mg, 6-50 mg
+403970 olanzapine-fluoxetine oral capsule 12-25 mg, 12-50 mg, 3-25 mg, 6-25 mg, 6-50 mg
+403970 olanzapine-fluoxetine oral capsule 12-25 mg, 12-50 mg, 3-25 mg, 6-25 mg, 6-50 mg
+403975 alosetron oral tablet 0.5 mg, 1 mg
+403975 alosetron oral tablet 0.5 mg, 1 mg
+404058 AMNESTEEM ORAL CAPSULE 10 MG, 20 MG, 40 MG
+404059 CLARAVIS ORAL CAPSULE 10 MG, 20 MG, 30 MG, 40 MG
+404419 ALINIA ORAL SUSPENSION FOR RECONSTITUTION 100 MG/5 ML
+404443 RELPAX ORAL TABLET 20 MG, 40 MG
+404449 THALOMID ORAL CAPSULE 100 MG, 150 MG, 200 MG, 50 MG
+404449 THALOMID ORAL CAPSULE 100 MG, 150 MG, 200 MG, 50 MG
+404457 Somavert subcutaneous recon soln 10 mg
+404458 SOMAVERT SUBCUTANEOUS RECON SOLN 15 MG, 20 MG, 25 MG, 30 MG
+404460 FUZEON SUBCUTANEOUS RECON SOLN 90 MG
+404465 EMEND ORAL CAPSULE 80 MG
+404465 EMEND ORAL CAPSULE,DOSE PACK 125 MG (1)- 80 MG (2)
+404473 VIGAMOX OPHTHALMIC (EYE) DROPS 0.5 %
+404587 EMTRIVA ORAL CAPSULE 200 MG
+405405 ZEMAIRA INTRAVENOUS RECON SOLN 1,000 MG
+405798 aprepitant oral capsule,dose pack 125 mg (1)- 80 mg (2)
+406503 doxercalciferol oral capsule 0.5 mcg, 1 mcg, 2.5 mcg
+408142 mycophenolate sodium oral tablet,delayed release (DR/EC) 180 mg, 360 mg
+409823 cefixime oral capsule 400 mg
+429503 hydrochlorothiazide oral tablet 12.5 mg, 25 mg, 50 mg
+430551 benznidazole oral tablet 100 mg, 12.5 mg
+432401 cinacalcet oral tablet 60 mg, 90 mg
+432402 cinacalcet oral tablet 30 mg
+433798 alprazolam oral tablet extended release 24 hr 0.5 mg
+433798 alprazolam oral tablet extended release 24 hr 0.5 mg
+433800 alprazolam oral tablet extended release 24 hr 1 mg, 2 mg, 3 mg
+433800 alprazolam oral tablet extended release 24 hr 1 mg, 2 mg, 3 mg
+465355 voriconazole oral suspension for reconstitution 200 mg/5 mL (40 mg/mL)
+476345 ezetimibe-simvastatin oral tablet 10-10 mg, 10-20 mg, 10-40 mg, 10-80 mg
+476556 emtricitabine-tenofovir (TDF) oral tablet 200-300 mg
+476872 nizatidine oral solution 150 mg/10 mL
+477372 solifenacin oral tablet 10 mg, 5 mg
+477391 levofloxacin oral solution 250 mg/10 mL
+477560 fenofibrate nanocrystallized oral tablet 145 mg, 48 mg
+483438 pregabalin oral capsule 100 mg, 150 mg, 200 mg, 25 mg, 50 mg, 75 mg
+485421 darifenacin oral tablet extended release 24 hr 15 mg, 7.5 mg
+485434 entecavir oral tablet 0.5 mg, 1 mg
+485440 eszopiclone oral tablet 1 mg, 2 mg, 3 mg
+485496 aripiprazole oral solution 1 mg/mL
+485496 aripiprazole oral solution 1 mg/mL
+485799 carbamazepine oral capsule, ER multiphase 12 hr 100 mg, 200 mg, 300 mg
+485799 carbamazepine oral capsule, ER multiphase 12 hr 100 mg, 200 mg, 300 mg
+486131 benzoyl peroxide topical gel 10 %, 2.5 %
+486515 sodium chloride irrigation solution 0.9 %
+539789 XIFAXAN ORAL TABLET 200 MG
+539815 VESICARE ORAL TABLET 10 MG, 5 MG
+540617 ALINIA ORAL TABLET 500 MG
+540620 DILT-XR ORAL CAPSULE,EXT.REL 24H DEGRADABLE 120 MG, 180 MG, 240 MG
+540628 duloxetine oral capsule,delayed release(DR/EC) 30 mg
+540628 duloxetine oral capsule,delayed release(DR/EC) 30 mg
+541070 ZAVESCA ORAL CAPSULE 100 MG
+541363 dextroamphetamine-amphetamine oral tablet 30 mg
+541363 dextroamphetamine-amphetamine oral tablet 30 mg
+541363 dextroamphetamine-amphetamine oral tablet 30 mg
+541660 PEXEVA ORAL TABLET 10 MG, 20 MG, 30 MG, 40 MG
+541892 dextroamphetamine-amphetamine oral tablet 10 mg, 12.5 mg, 15 mg, 20 mg, 5 mg, 7.5 mg
+541892 dextroamphetamine-amphetamine oral tablet 10 mg, 12.5 mg, 15 mg, 20 mg, 5 mg, 7.5 mg
+541892 dextroamphetamine-amphetamine oral tablet 10 mg, 12.5 mg, 15 mg, 20 mg, 5 mg, 7.5 mg
+542370 VIRACEPT ORAL TABLET 625 MG
+543018 CYTRA-2 ORAL SOLUTION 500-334 MG/5 ML
+543460 ammonium lactate topical cream 12 %
+543492 PROCTO-PAK TOPICAL CREAM WITH PERINEAL APPLICATOR 1 %
+543492 PROCTO-PAK TOPICAL CREAM WITH PERINEAL APPLICATOR 1 %
+544452 CONSTULOSE ORAL SOLUTION 10 GRAM/15 ML
+544455 GENERLAC ORAL SOLUTION 10 GRAM/15 ML
+545236 GENTAK OPHTHALMIC (EYE) OINTMENT 0.3 % (3 MG/GRAM)
+545293 INTRON A INJECTION RECON SOLN 10 MILLION UNIT (1 ML), 18 MILLION UNIT (1 ML), 50 MILLION UNIT (1 ML)
+545357 KEPIVANCE INTRAVENOUS RECON SOLN 6.25 MG
+545835 leuprolide subcutaneous solution 1 mg/0.2 mL
+545835 leuprolide subcutaneous kit 1 mg/0.2 mL
+562250 amoxicillin-pot clavulanate oral tablet,chewable 200-28.5 mg, 400- 57 mg
+562251 amoxicillin-pot clavulanate oral tablet 250-125 mg
+562266 clindamycin palmitate HCl oral recon soln 75 mg/5 mL
+562266 CLINDAMYCIN PEDIATRIC ORAL RECON SOLN 75 MG/5 ML
+562806 pimecrolimus topical cream 1 %
+577033 sildenafil (pulm.hypertension) oral tablet 20 mg
+577127 pregabalin oral capsule 225 mg, 300 mg
+577154 megestrol oral suspension 625 mg/5 mL (125 mg/mL)
+577208 omega-3 acid ethyl esters oral capsule 1 gram
+577237 metronidazole topical gel with pump 1 %
+577237 metronidazole topical gel 1 %
+577315 paricalcitol oral capsule 1 mcg, 2 mcg, 4 mcg
+577776 candesartan oral tablet 16 mg, 32 mg, 4 mg, 8 mg
+578018 bromfenac ophthalmic (eye) drops 0.09 %
+578325 candesartan-hydrochlorothiazid oral tablet 16-12.5 mg, 32-12.5 mg, 32-25 mg
+578806 ELETONE TOPICAL CREAM
+579148 galantamine oral tablet 12 mg, 4 mg, 8 mg
+580261 SPIRIVA WITH HANDIHALER INHALATION CAPSULE, W/INHALATION DEVICE 18 MCG
+580294 ERTACZO TOPICAL CREAM 2 %
+581549 ESTROGEL TRANSDERMAL GEL IN METERED-DOSE PUMP 1.25 GRAM/ACTUATION
+582926 podofilox topical solution 0.5 %
+583097 galantamine oral capsule,ext rel. pellets 24 hr 16 mg, 24 mg, 8 mg
+583257 CANASA RECTAL SUPPOSITORY 1,000 MG
+584222 NAGLAZYME INTRAVENOUS SOLUTION 5 MG/5 ML
+596934 duloxetine oral capsule,delayed release(DR/EC) 20 mg, 40 mg, 60 mg
+596934 duloxetine oral capsule,delayed release(DR/EC) 20 mg, 40 mg, 60 mg
+597850 anagrelide oral capsule 0.5 mg, 1 mg
+598006 erythromycin oral tablet 250 mg, 500 mg
+602393 abacavir-lamivudine oral tablet 600-300 mg
+602395 EPZICOM ORAL TABLET 600-300 MG
+603162 ROZEREM ORAL TABLET 8 MG
+603203 ERLOTINIB ORAL TABLET 100 MG, 150 MG, 25 MG
+603378 APTIVUS ORAL CAPSULE 250 MG
+603541 TYSABRI INTRAVENOUS SOLUTION 300 MG/15 ML
+607018 LYRICA ORAL CAPSULE 100 MG, 150 MG, 200 MG, 25 MG, 50 MG, 75 MG
+607018 LYRICA ORAL CAPSULE 100 MG, 150 MG, 200 MG, 25 MG, 50 MG, 75 MG
+607024 LYRICA ORAL CAPSULE 225 MG, 300 MG
+607024 LYRICA ORAL CAPSULE 225 MG, 300 MG
+607414 Phospha 250 Neutral oral tablet 250 mg
+607414 Phospha 250 Neutral oral tablet 250 mg
+607579 BARACLUDE ORAL SOLUTION 0.05 MG/ML
+608139 atomoxetine oral capsule 100 mg, 60 mg, 80 mg
+615882 INCRELEX SUBCUTANEOUS SOLUTION 10 MG/ML
+615979 NEXAVAR ORAL TABLET 200 MG
+616114 REVLIMID ORAL CAPSULE 10 MG, 15 MG, 2.5 MG, 20 MG, 25 MG, 5 MG
+616148 EMTRIVA ORAL SOLUTION 10 MG/ML
+616159 EXJADE ORAL TABLET, DISPERSIBLE 125 MG, 250 MG, 500 MG
+616238 LEVEMIR U-100 INSULIN SUBCUTANEOUS SOLUTION 100 UNIT/ML
+616279 sunitinib oral capsule 12.5 mg, 25 mg, 37.5 mg, 50 mg
+616283 SUTENT ORAL CAPSULE 12.5 MG, 25 MG, 37.5 MG, 50 MG
+616749 ranolazine oral tablet extended release 12 hr 1,000 mg, 500 mg
+617296 amoxicillin-pot clavulanate oral tablet 500-125 mg, 875-125 mg
+617312 atorvastatin oral tablet 10 mg, 20 mg, 40 mg, 80 mg
+617322 amoxicillin-pot clavulanate oral suspension for reconstitution 250- 62.5 mg/5 mL
+617423 amoxicillin-pot clavulanate oral suspension for reconstitution 200- 28.5 mg/5 mL, 400-57 mg/5 mL, 600-42.9 mg/5 mL
+617768 AMITIZA ORAL CAPSULE 24 MCG, 8 MCG
+617768 AMITIZA ORAL CAPSULE 24 MCG, 8 MCG
+617945 STRATTERA ORAL CAPSULE 100 MG, 60 MG, 80 MG
+617988 amoxicillin-pot clavulanate oral tablet extended release 12 hr 1,000-62.5 mg
+618552 meclofenamate oral capsule 100 mg, 50 mg
+628958 KLOR-CON 10 ORAL TABLET EXTENDED RELEASE 10 MEQ
+630194 PREVIDENT 5000 PLUS DENTAL CREAM 1.1 %
+630194 PREVIDENT 5000 DRY MOUTH DENTAL PASTE 1.1 %
+630194 PREVIDENT DENTAL GEL 1.1 %
+630194 PREVIDENT 5000 BOOSTER PLUS DENTAL PASTE 1.1 %
+630196 DENTA 5000 PLUS DENTAL CREAM 1.1 %
+630734 drospirenone-ethinyl estradiol oral tablet 3-0.02 mg, 3-0.03 mg
+636141 OSMOPREP ORAL TABLET 1.5 GRAM
+636556 VIVITROL INTRAMUSCULAR SUSPENSION,EXTENDED REL RECON 380 MG
+636671 varenicline oral tablet 0.5 mg, 1 mg
+637190 CHANTIX ORAL TABLET 1 MG
+637218 AZILECT ORAL TABLET 0.5 MG, 1 MG
+637550 HYCAMTIN INTRAVENOUS RECON SOLN 4 MG
+637866 PENTACEL ACTHIB COMPONENT (PF) INTRAMUSCULAR RECON SOLN 10 MCG/0.5 ML
+643066 efavirenz-emtricitabin-tenofov oral tablet 600-200-300 mg
+643070 ATRIPLA ORAL TABLET 600-200-300 MG
+643123 prednisolone sodium phosphate oral tablet,disintegrating 10 mg, 15 mg, 30 mg
+644290 SYNERA TOPICAL PATCH, MEDICATED SELF-HEATING 70- 70 MG
+645884 OMNITROPE SUBCUTANEOUS RECON SOLN 5.8 MG
+647237 pioglitazone-glimepiride oral tablet 30-2 mg, 30-4 mg
+656137 SENSIPAR ORAL TABLET 30 MG, 60 MG
+656659 bosentan oral tablet 125 mg, 62.5 mg
+656660 TRACLEER ORAL TABLET 125 MG, 62.5 MG
+665022 NOXAFIL ORAL SUSPENSION 200 MG/5 ML (40 MG/ML)
+667904 salicylic acid topical shampoo 6 %
+668310 carvedilol phosphate oral capsule, ER multiphase 24 hr 10 mg, 20 mg, 40 mg, 80 mg
+668606 ZOLINZA ORAL CAPSULE 100 MG
+672149 lapatinib oral tablet 250 mg
+672152 TYKERB ORAL TABLET 250 MG
+672569 paliperidone oral tablet extended release 24hr 6 mg
+674453 PENTACEL DTAP-IPV COMPNT (PF) INTRAMUSCULAR SUSPENSION 15 LF-48 MCG- 5 LF UNIT/0.5ML
+686405 erythromycin ethylsuccinate oral tablet 400 mg
+686430 LIALDA ORAL TABLET,DELAYED RELEASE (DR/EC) 1.2 GRAM
+688242 PREMARIN VAGINAL CREAM 0.625 MG/GRAM
+695935 BROVANA INHALATION SOLUTION FOR NEBULIZATION 15 MCG/2 ML
+702519 phenobarbital oral elixir 20 mg/5 mL (4 mg/mL)
+702519 phenobarbital oral elixir 20 mg/5 mL (4 mg/mL)
+704858 ALTABAX TOPICAL OINTMENT 1 %
+705824 zoledronic acid-mannitol-water intravenous piggyback 5 mg/100 mL
+706546 prednicarbate topical ointment 0.1 %
+706548 selenium sulfide topical shampoo 2.25 %
+706831 RISPERDAL CONSTA INTRAMUSCULAR SUSPENSION,EXTENDED REL RECON 12.5 MG/2 ML, 25 MG/2 ML, 37.5 MG/2 ML, 50 MG/2 ML
+706872 AZASITE OPHTHALMIC (EYE) DROPS 1 %
+706960 SENSIPAR ORAL TABLET 90 MG
+721793 SEROQUEL XR ORAL TABLET EXTENDED RELEASE 24 HR 150 MG, 200 MG, 300 MG, 400 MG, 50 MG
+721793 SEROQUEL XR ORAL TABLET EXTENDED RELEASE 24 HR 150 MG, 200 MG, 300 MG, 400 MG, 50 MG
+722116 ambrisentan oral tablet 10 mg, 5 mg
+722120 LETAIRIS ORAL TABLET 10 MG, 5 MG
+722126 amlodipine-valsartan oral tablet 10-160 mg, 10-320 mg, 5-160 mg, 5-320 mg
+723526 DIVIGEL TRANSDERMAL GEL IN PACKET 0.25 MG/0.25 GRAM (0.1 %), 0.5 MG/0.5 GRAM (0.1 %), 1 MG/GRAM (0.1 %)
+723827 LEXIVA ORAL SUSPENSION 50 MG/ML
+724592 sodium chloride inhalation solution for nebulization 0.9 %, 10 %, 3 %, 7 %
+724859 armodafinil oral tablet 150 mg, 200 mg, 250 mg, 50 mg
+727316 epinephrine injection auto-injector 0.15 mg/0.3 mL
+727347 EPIPEN 2-PAK INJECTION AUTO-INJECTOR 0.3 MG/0.3 ML
+727347 EPIPEN INJECTION AUTO-INJECTOR 0.3 MG/0.3 ML
+727386 EPIPEN JR 2-PAK INJECTION AUTO-INJECTOR 0.15 MG/0.3 ML
+727386 EPIPEN JR INJECTION AUTO-INJECTOR 0.15 MG/0.3 ML
+727537 NEUPOGEN INJECTION SYRINGE 300 MCG/0.5 ML, 480 MCG/0.8 ML
+727542 NEULASTA SUBCUTANEOUS SYRINGE 6 MG/0.6 ML
+727705 HUMIRA SUBCUTANEOUS SYRINGE KIT 40 MG/0.8 ML
+727705 HUMIRA SUBCUTANEOUS SYRINGE KIT 40 MG/0.8 ML
+727705 HUMIRA SUBCUTANEOUS SYRINGE KIT 40 MG/0.8 ML
+727816 AVONEX INTRAMUSCULAR SYRINGE KIT 30 MCG/0.5 ML
+727816 AVONEX INTRAMUSCULAR SYRINGE 30 MCG/0.5 ML
+728109 oseltamivir oral capsule 30 mg, 45 mg, 75 mg
+729201 SELZENTRY ORAL TABLET 150 MG, 25 MG, 300 MG, 75 MG
+730861 amlodipine-olmesartan oral tablet 10-20 mg, 10-40 mg, 5-20 mg, 5-40 mg
+731217 OMNIPOD DASH PDM KIT
+731217 OMNIPOD DASH INSULIN POD SUBCUTANEOUS CARTRIDGE
+731217 OMNIPOD INSULIN MANAGEMENT
+731217 OMNIPOD INSULIN REFILL SUBCUTANEOUS CARTRIDGE
+744632 AZOR ORAL TABLET 10-20 MG, 10-40 MG, 5-20 MG, 5-40 MG
+744846 ISENTRESS ORAL TABLET 400 MG
+748738 HYCAMTIN ORAL CAPSULE 0.25 MG, 1 MG
+748832 levonorg-eth estrad triphasic oral tablet 50-30 (6)/75-40 (5)/125- 30(10)
+748856 YAZ (28) ORAL TABLET 3-0.02 MG
+748857 YASMIN (28) ORAL TABLET 3-0.03 MG
+748859 ZOVIA 1/35E (28) ORAL TABLET 1-35 MG-MCG
+748865 TRIVORA (28) ORAL TABLET 50-30 (6)/75-40 (5)/125-30(10)
+748868 levonorgestrel-ethinyl estrad oral tablet 0.1-20 mg-mcg, 0.15-0.03 mg, 90-20 mcg (28)
+748879 LEVORA-28 ORAL TABLET 0.15-0.03 MG
+748961 norethindrone (contraceptive) oral tablet 0.35 mg
+748962 CAMILA ORAL TABLET 0.35 MG
+748977 NORA-BE ORAL TABLET 0.35 MG
+749148 LEENA 28 ORAL TABLET 0.5/1/0.5-35 MG-MCG
+749157 norgestimate-ethinyl estradiol oral tablet 0.18/0.215/0.25 mg-25 mcg, 0.18/0.215/0.25 mg-35 mcg (28)
+749206 sevelamer carbonate oral tablet 800 mg
+749210 RENVELA ORAL TABLET 800 MG
+749816 SOMATULINE DEPOT SUBCUTANEOUS SYRINGE 120 MG/0.5 ML, 60 MG/0.2 ML, 90 MG/0.3 ML
+750171 ALOPHEN (BISACODYL) ORAL TABLET,DELAYED RELEASE (DR/EC) 5 MG
+750244 LOW-OGESTREL (28) ORAL TABLET 0.3-30 MG-MCG
+750265 CRYSELLE (28) ORAL TABLET 0.3-30 MG-MCG
+750267 ARANELLE (28) ORAL TABLET 0.5/1/0.5-35 MG-MCG
+750268 AVIANE ORAL TABLET 0.1-20 MG-MCG
+750839 ERYTHROCIN (AS STEARATE) ORAL TABLET 250 MG
+751616 BYSTOLIC ORAL TABLET 10 MG, 2.5 MG, 20 MG, 5 MG
+751868 NORTREL 0.5/35 (28) ORAL TABLET 0.5-35 MG-MCG
+751870 NORTREL 1/35 (28) ORAL TABLET 1-35 MG-MCG
+751871 NORTREL 1/35 (21) ORAL TABLET 1-35 MG-MCG (21)
+751875 NECON 0.5/35 (28) ORAL TABLET 0.5-35 MG-MCG
+751884 LUTERA (28) ORAL TABLET 0.1-20 MG-MCG
+751885 LESSINA ORAL TABLET 0.1-20 MG-MCG
+751890 PORTIA 28 ORAL TABLET 0.15-0.03 MG
+751970 ACTIMMUNE SUBCUTANEOUS SOLUTION 100 MCG/0.5 ML
+753437 DAYTRANA TRANSDERMAL PATCH 24 HOUR 10 MG/9 HR, 15 MG/9 HR, 20 MG/9 HR, 30 MG/9 HR
+753478 PREVIFEM ORAL TABLET 0.25-35 MG-MCG
+753479 TRI-PREVIFEM (28) ORAL TABLET 0.18/0.215/0.25 MG-35 MCG (28)
+753481 SPRINTEC (28) ORAL TABLET 0.25-35 MG-MCG
+753482 APRI ORAL TABLET 0.15-0.03 MG
+753483 KELNOR 1/35 (28) ORAL TABLET 1-35 MG-MCG
+753543 RECLIPSEN (28) ORAL TABLET 0.15-0.03 MG
+753544 SRONYX ORAL TABLET 0.1-20 MG-MCG
+755470 ENULOSE ORAL SOLUTION 10 GRAM/15 ML
+755497 albuterol sulfate oral syrup 2 mg/5 mL
+756209 zidovudine oral syrup 10 mg/mL
+758032 REBIF (WITH ALBUMIN) SUBCUTANEOUS SYRINGE 22 MCG/0.5 ML, 44 MCG/0.5 ML
+758555 INTELENCE ORAL TABLET 100 MG
+759473 RELENZA DISKHALER INHALATION BLISTER WITH DEVICE 5 MG/ACTUATION
+759743 desog-e.estradiol/e.estradiol oral tablet 0.15-0.02 mgx21 /0.01 mg x 5
+761977 ENPRESSE ORAL TABLET 50-30 (6)/75-40 (5)/125-30(10)
+762001 KARIVA (28) ORAL TABLET 0.15-0.02 MGX21 /0.01 MG X 5
+762333 TRI-SPRINTEC (28) ORAL TABLET 0.18/0.215/0.25 MG-35 MCG (28)
+762334 VELIVET TRIPHASIC REGIMEN (28) ORAL TABLET 0.1/.125/.15-25 MG-MCG
+762663 JOLESSA ORAL TABLETS,DOSE PACK,3 MONTH 0.15 MG-30 MCG (91)
+763106 IPOL INJECTION SUSPENSION 40-8-32 UNIT/0.5 ML
+763457 ARCALYST SUBCUTANEOUS RECON SOLN 220 MG
+763519 nisoldipine oral tablet extended release 24 hr 17 mg, 20 mg, 25.5 mg, 30 mg, 34 mg, 40 mg, 8.5 mg
+790267 PRISTIQ ORAL TABLET EXTENDED RELEASE 24 HR 100 MG, 25 MG, 50 MG
+790284 ASMANEX TWISTHALER INHALATION AEROSOL POWDR BREATH ACTIVATED 110 MCG/ ACTUATION (30), 220 MCG/ ACTUATION (120), 220 MCG/ ACTUATION (30), 220 MCG/ ACTUATION (60)
+790884 salicylic acid topical foam 6 %
+794610 PREZISTA ORAL TABLET 600 MG, 800 MG
+795735 CHANTIX CONTINUING MONTH BOX ORAL TABLET 1 MG
+795737 CHANTIX STARTING MONTH BOX ORAL TABLETS,DOSE PACK 0.5 MG (11)- 1 MG (42)
+795918 VEREGEN TOPICAL OINTMENT 15 %
+797274 clindamycin phosphate topical swab 1 %
+797641 MENACTRA (PF) INTRAMUSCULAR SOLUTION 4 MCG/0.5 ML
+797697 CORDRAN TAPE LARGE ROLL TOPICAL TAPE 4 MCG/CM2
+798133 ERY PADS TOPICAL SWAB 2 %
+798300 ROTATEQ VACCINE ORAL SOLUTION 2 ML
+798300 ROTATEQ VACCINE ORAL SOLUTION 2 ML
+798306 tetanus,diphtheria tox ped(PF) intramuscular suspension 5-25 Lf unit/0.5 mL
+798430 ENGERIX-B PEDIATRIC (PF) INTRAMUSCULAR SYRINGE 10 MCG/0.5 ML
+798448 PEDVAX HIB (PF) INTRAMUSCULAR SOLUTION 7.5 MCG/0.5 ML
+799830 SPRYCEL ORAL TABLET 100 MG, 140 MG, 20 MG, 50 MG, 70 MG, 80 MG
+800928 ISOLYTE S PH 7.4 INTRAVENOUS PARENTERAL SOLUTION
+801095 VENTOLIN HFA INHALATION HFA AEROSOL INHALER 90 MCG/ACTUATION
+801185 OCELLA ORAL TABLET 3-0.03 MG
+801957 diazepam rectal kit 12.5-15-17.5-20 mg, 2.5 mg, 5-7.5-10 mg
+801957 diazepam rectal kit 12.5-15-17.5-20 mg, 2.5 mg, 5-7.5-10 mg
+802652 ENBREL SUBCUTANEOUS SYRINGE 50 MG/ML (1 ML)
+802652 ENBREL SUBCUTANEOUS SYRINGE 50 MG/ML (1 ML)
+803371 TWINRIX (PF) INTRAMUSCULAR SYRINGE 720 ELISA UNIT- 20 MCG/ML
+804544 difluprednate ophthalmic (eye) drops 0.05 %
+804547 DUREZOL OPHTHALMIC (EYE) DROPS 0.05 %
+805378 PENTACEL (PF) INTRAMUSCULAR KIT 15 LF UNIT-20 MCG-5 LF/0.5 ML
+805579 ROTARIX ORAL SUSPENSION FOR RECONSTITUTION 10EXP6 CCID50/ML
+805579 ROTARIX ORAL SUSPENSION FOR RECONSTITUTION 10EXP6 CCID50/ML
+807225 TYPHIM VI INTRAMUSCULAR SOLUTION 25 MCG/0.5 ML
+807283 MIRENA INTRAUTERINE INTRAUTERINE DEVICE 20 MCG/24 HOURS (7 YRS) 52 MG
+807832 levetiracetam oral tablet extended release 24 hr 500 mg
+808917 fosfomycin tromethamine oral packet 3 gram
+808921 MONUROL ORAL PACKET 3 GRAM
+808921 MONUROL ORAL PACKET 3 GRAM
+809159 ENBREL SUBCUTANEOUS SYRINGE 25 MG/0.5 ML (0.5)
+809159 ENBREL SUBCUTANEOUS SYRINGE 25 MG/0.5 ML (0.5)
+809441 GYNOL II VAGINAL GEL 3 %
+809979 VIMPAT ORAL TABLETS,DOSE PACK 50 MG (14)- 100 MG (14)
+809990 VIMPAT ORAL TABLET 100 MG, 150 MG, 200 MG, 50 MG
+810075 TOVIAZ ORAL TABLET EXTENDED RELEASE 24 HR 4 MG, 8 MG
+810096 L norgest/e.estradiol-e.estrad oral tablets,dose pack,3 month 0.10 mg-20 mcg (84)/10 mcg (7), 0.15 mg-30 mcg (84)/10 mcg (7)
+824299 BANZEL ORAL TABLET 200 MG
+824303 BANZEL ORAL TABLET 400 MG
+824959 ropinirole oral tablet extended release 24 hr 12 mg, 2 mg, 4 mg, 6 mg, 8 mg
+825005 SANCUSO TRANSDERMAL PATCH WEEKLY 3.1 MG/24 HOUR
+825130 mesalamine oral capsule,extended release 24hr 0.375 gram
+825134 APRISO ORAL CAPSULE,EXTENDED RELEASE 24HR 0.375 GRAM
+827353 PHYSIOLYTE IRRIGATION SOLUTION 140-5-3-98 MEQ/L
+827406 urea topical gel 45 %
+828348 cyclobenzaprine oral tablet 10 mg, 5 mg
+828364 PROCTOFOAM HC RECTAL FOAM 1-1 %
+828618 CYTRA-3 ORAL SOLUTION 550-500-334 MG/5 ML
+828755 caspofungin intravenous recon soln 50 mg, 70 mg
+828755 caspofungin intravenous recon soln 50 mg, 70 mg
+829500 mefenamic acid oral capsule 250 mg
+829989 PEDIARIX (PF) INTRAMUSCULAR SYRINGE 10 MCG-25LF-25 MCG-10LF/0.5 ML
+830463 RABAVERT (PF) INTRAMUSCULAR SUSPENSION FOR RECONSTITUTION 2.5 UNIT
+830470 IMOVAX RABIES VACCINE (PF) INTRAMUSCULAR RECON SOLN 2.5 UNIT
+830557 KINRIX (PF) INTRAMUSCULAR SYRINGE 25 LF-58 MCG-10 LF/0.5 ML
+830648 EPIDUO TOPICAL GEL WITH PUMP 0.1-2.5 %
+830877 diltiazem HCl oral tablet extended release 24 hr 180 mg, 240 mg, 300 mg, 360 mg, 420 mg
+831054 diltiazem HCl oral tablet 120 mg, 30 mg, 60 mg, 90 mg
+831109 cromolyn ophthalmic (eye) drops 4 %
+831196 TAZTIA XT ORAL CAPSULE,EXTENDED RELEASE 24 HR 120 MG, 180 MG, 240 MG, 300 MG, 360 MG
+831226 CARTIA XT ORAL CAPSULE,EXTENDED RELEASE 24HR 120 MG, 180 MG, 240 MG, 300 MG
+831246 cromolyn inhalation solution for nebulization 20 mg/2 mL
+831261 cromolyn oral concentrate 100 mg/5 mL
+831393 VUSION TOPICAL OINTMENT 0.25-15-81.35 %
+831533 ERRIN ORAL TABLET 0.35 MG
+831870 PREZISTA ORAL TABLET 75 MG
+831872 AZURETTE (28) ORAL TABLET 0.15-0.02 MGX21 /0.01 MG X 5
+832682 BIOTHRAX INTRAMUSCULAR SUSPENSION 0.5 ML/DOSE
+832718 KLOR-CON 8 ORAL TABLET EXTENDED RELEASE 8 MEQ
+832731 KLOR-CON M15 ORAL TABLET,ER PARTICLES/CRYSTALS 15 MEQ
+832864 sulfacetamide sodium topical shampoo 10 %
+833136 SAVELLA ORAL TABLETS,DOSE PACK 12.5 MG (5)-25 MG(8)-50 MG(42)
+833136 SAVELLA ORAL TABLETS,DOSE PACK 12.5 MG (5)-25 MG(8)-50 MG(42)
+833139 SAVELLA ORAL TABLET 100 MG, 12.5 MG, 25 MG, 50 MG
+833139 SAVELLA ORAL TABLET 100 MG, 12.5 MG, 25 MG, 50 MG
+833528 amiodarone oral tablet 200 mg
+833709 tramadol oral tablet extended release 24 hr 100 mg, 200 mg, 300 mg
+834022 ketorolac oral tablet 10 mg
+834046 penicillin V potassium oral recon soln 125 mg/5 mL, 250 mg/5 mL
+834061 penicillin V potassium oral tablet 250 mg, 500 mg
+834127 chlorhexidine gluconate mucous membrane mouthwash 0.12 %
+834235 febuxostat oral tablet 40 mg, 80 mg
+834239 ULORIC ORAL TABLET 40 MG, 80 MG
+834768 CAZIANT (28) ORAL TABLET 0.1/.125/.15-25 MG-MCG
+835591 imipramine pamoate oral capsule 100 mg, 125 mg, 150 mg, 75 mg
+835593 imipramine HCl oral tablet 10 mg, 25 mg, 50 mg
+835603 tramadol oral tablet 50 mg
+835721 TRECATOR ORAL TABLET 250 MG
+835809 testosterone enanthate intramuscular oil 200 mg/mL
+835829 testosterone cypionate intramuscular oil 100 mg/mL
+835835 GENGRAF ORAL CAPSULE 100 MG, 25 MG
+835835 GENGRAF ORAL CAPSULE 100 MG, 25 MG
+835886 cyclosporine modified oral solution 100 mg/mL
+835886 cyclosporine modified oral solution 100 mg/mL
+835892 GENGRAF ORAL SOLUTION 100 MG/ML
+835892 GENGRAF ORAL SOLUTION 100 MG/ML
+835913 mefloquine oral tablet 250 mg
+836358 ipratropium bromide inhalation solution 0.02 %
+836368 ATROVENT HFA INHALATION HFA AEROSOL INHALER 17 MCG/ACTUATION
+836395 tramadol-acetaminophen oral tablet 37.5-325 mg
+836395 tramadol-acetaminophen oral tablet 37.5-325 mg
+836636 VAQTA (PF) INTRAMUSCULAR SYRINGE 25 UNIT/0.5 ML, 50 UNIT/ML
+845488 ramipril oral capsule 1.25 mg, 10 mg, 2.5 mg, 5 mg
+845512 AFINITOR ORAL TABLET 10 MG
+845988 benzoyl peroxide topical cleanser 7 %
+846378 levetiracetam oral tablet extended release 24 hr 750 mg
+847060 BENICAR HCT ORAL TABLET 20-12.5 MG, 40-12.5 MG, 40-25 MG
+847131 benzoyl peroxide topical cleanser 6 %
+847232 LANTUS SOLOSTAR U-100 INSULIN SUBCUTANEOUS INSULIN PEN 100 UNIT/ML (3 ML)
+847241 LEVEMIR FLEXTOUCH U-100 INSULN SUBCUTANEOUS INSULIN PEN 100 UNIT/ML (3 ML)
+847621 Ringer's irrigation solution
+847741 KALETRA ORAL TABLET 200-50 MG
+847745 KALETRA ORAL TABLET 100-25 MG
+847749 KALETRA ORAL SOLUTION 400-100 MG/5 ML
+847913 BYETTA SUBCUTANEOUS PEN INJECTOR 10 MCG/DOSE(250 MCG/ML) 2.4 ML
+847917 BYETTA SUBCUTANEOUS PEN INJECTOR 5 MCG/DOSE (250 MCG/ML) 1.2 ML
+848131 amlodipine-valsartan-hcthiazid oral tablet 10-160-12.5 mg, 10- 160-25 mg, 10-320-25 mg, 5-160-12.5 mg, 5-160-25 mg
+848723 FANAPT ORAL TABLETS,DOSE PACK 1MG(2)-2MG(2)- 4MG(2)-6MG(2)
+848726 FANAPT ORAL TABLET 1 MG, 10 MG, 12 MG, 2 MG, 4 MG, 6 MG, 8 MG
+848943 cholestyramine (with sugar) oral powder 4 gram
+848943 cholestyramine (with sugar) oral powder in packet 4 gram
+848951 PREVALITE ORAL POWDER 4 GRAM
+848951 PREVALITE ORAL POWDER IN PACKET 4 GRAM
+848956 ciprofloxacin HCl otic (ear) dropperette 0.2 %
+849389 amantadine HCl oral capsule 100 mg
+849395 amantadine HCl oral tablet 100 mg
+849506 desmopressin nasal spray with pump 10 mcg/spray (0.1 mL)
+849515 desmopressin oral tablet 0.1 mg, 0.2 mg
+849646 urea topical foam 35 %
+849831 SAMSCA ORAL TABLET 15 MG, 30 MG
+850436 GAVILYTE-C ORAL RECON SOLN 240-22.72-6.72 -5.84 GRAM
+850457 PREZISTA ORAL TABLET 150 MG
+852877 quinidine sulfate oral tablet 200 mg, 300 mg
+852920 quinidine gluconate oral tablet extended release 324 mg
+853356 STELARA SUBCUTANEOUS SYRINGE 90 MG/ML
+854140 NUCYNTA ORAL TABLET 100 MG, 50 MG, 75 MG
+854228 enoxaparin subcutaneous syringe 30 mg/0.3 mL
+854235 enoxaparin subcutaneous syringe 40 mg/0.4 mL
+854238 enoxaparin subcutaneous syringe 60 mg/0.6 mL
+854245 enoxaparin subcutaneous syringe 120 mg/0.8 mL, 80 mg/0.8 mL
+854248 enoxaparin subcutaneous syringe 100 mg/mL, 150 mg/mL
+854255 enoxaparin subcutaneous solution 300 mg/3 mL
+854302 OMNITROPE SUBCUTANEOUS CARTRIDGE 10 MG/1.5 ML (6.7 MG/ML), 5 MG/1.5 ML (3.3 MG/ML)
+854801 diclofenac sodium ophthalmic (eye) drops 0.1 %
+854859 MULTAQ ORAL TABLET 400 MG
+854873 zolpidem oral tablet 10 mg, 5 mg
+854901 bisoprolol fumarate oral tablet 10 mg, 5 mg
+854908 bisoprolol-hydrochlorothiazide oral tablet 10-6.25 mg, 2.5-6.25 mg, 5-6.25 mg
+854984 perindopril erbumine oral tablet 2 mg, 4 mg, 8 mg
+855168 levocetirizine oral solution 2.5 mg/5 mL
+855168 levocetirizine oral solution 2.5 mg/5 mL
+855172 levocetirizine oral tablet 5 mg
+855172 levocetirizine oral tablet 5 mg
+855178 tolterodine oral tablet 1 mg, 2 mg
+855288 warfarin oral tablet 1 mg, 10 mg, 2 mg, 2.5 mg, 3 mg, 4 mg, 5 mg, 6 mg, 7.5 mg
+855292 JANTOVEN ORAL TABLET 1 MG, 10 MG, 2 MG, 2.5 MG, 3 MG, 4 MG, 5 MG, 6 MG, 7.5 MG
+855474 alclometasone topical cream 0.05 %
+855480 alclometasone topical ointment 0.05 %
+855633 diclofenac sodium topical gel 1 %
+855642 diclofenac sodium topical gel 3 %
+855657 diclofenac sodium oral tablet extended release 24 hr 100 mg
+855671 phenytoin sodium extended oral capsule 100 mg, 200 mg, 300 mg
+855942 diclofenac potassium oral tablet 50 mg
+856369 trazodone oral tablet 300 mg
+856373 trazodone oral tablet 100 mg, 150 mg, 50 mg
+856422 propranolol-hydrochlorothiazid oral tablet 40-25 mg, 80-25 mg
+856448 propranolol oral tablet 10 mg, 20 mg, 40 mg, 60 mg, 80 mg
+856605 rimantadine oral tablet 100 mg
+856652 dantrolene oral capsule 100 mg, 25 mg, 50 mg
+856666 XIFAXAN ORAL TABLET 550 MG
+856706 perphenazine-amitriptyline oral tablet 2-10 mg, 2-25 mg, 4-10 mg, 4-25 mg, 4-50 mg
+856724 propranolol oral solution 20 mg/5 mL (4 mg/mL), 40 mg/5 mL (8 mg/mL)
+856769 amitriptyline-chlordiazepoxide oral tablet 12.5-5 mg, 25-10 mg
+856769 amitriptyline-chlordiazepoxide oral tablet 12.5-5 mg, 25-10 mg
+856783 amitriptyline oral tablet 10 mg, 100 mg, 150 mg, 25 mg, 50 mg, 75 mg
+856935 FML S.O.P. OPHTHALMIC (EYE) OINTMENT 0.1 %
+856940 hydrocodone-acetaminophen oral solution 7.5-325 mg/15 mL
+856940 hydrocodone-acetaminophen oral solution 7.5-325 mg/15 mL
+856980 hydrocodone-acetaminophen oral tablet 10-300 mg, 10-325 mg
+856980 hydrocodone-acetaminophen oral tablet 10-300 mg, 10-325 mg
+857005 hydrocodone-acetaminophen oral tablet 7.5-325 mg
+857051 GAVILYTE-N ORAL RECON SOLN 420 GRAM
+857166 fosinopril-hydrochlorothiazide oral tablet 10-12.5 mg, 20-12.5 mg
+857169 fosinopril oral tablet 10 mg, 20 mg, 40 mg
+857226 RENAGEL ORAL TABLET 800 MG
+857297 clomipramine oral capsule 25 mg, 50 mg, 75 mg
+857321 bethanechol chloride oral tablet 10 mg, 25 mg, 5 mg, 50 mg
+857366 econazole topical cream 1 %
+857391 hydrocodone-acetaminophen oral tablet 2.5-325 mg, 5-300 mg, 5- 325 mg, 7.5-300 mg, 7.5-325 mg
+857391 hydrocodone-acetaminophen oral tablet 2.5-325 mg, 5-300 mg, 5- 325 mg, 7.5-300 mg
+857461 clemastine oral tablet 2.68 mg
+857461 clemastine oral tablet 2.68 mg
+857560 trospium oral tablet 20 mg
+857564 trospium oral capsule,extended release 24hr 60 mg
+857677 terbutaline oral tablet 2.5 mg, 5 mg
+857886 procainamide injection solution 100 mg/mL, 500 mg/mL
+858057 INVEGA SUSTENNA INTRAMUSCULAR SYRINGE 117 MG/0.75 ML, 156 MG/ML, 234 MG/1.5 ML, 39 MG/0.25 ML, 78 MG/0.5 ML
+858079 PLAN B ONE-STEP ORAL TABLET 1.5 MG
+858613 nicardipine oral capsule 20 mg, 30 mg
+858747 ursodiol oral capsule 300 mg
+858751 ursodiol oral tablet 250 mg, 500 mg
+858817 enalapril maleate oral tablet 10 mg, 2.5 mg, 20 mg, 5 mg
+858828 enalapril-hydrochlorothiazide oral tablet 10-25 mg, 5-12.5 mg
+859033 pramipexole oral tablet 0.125 mg, 0.25 mg, 0.5 mg, 0.75 mg, 1 mg, 1.5 mg
+859081 CYCLOSET ORAL TABLET 0.8 MG
+859186 selegiline HCl oral capsule 5 mg
+859193 selegiline HCl oral tablet 5 mg
+859315 hydrocodone-ibuprofen oral tablet 10-200 mg, 5-200 mg, 7.5-200 mg
+859315 hydrocodone-ibuprofen oral tablet 10-200 mg, 5-200 mg, 7.5-200 mg
+859747 rosuvastatin oral tablet 10 mg, 20 mg, 40 mg, 5 mg
+859835 fluphenazine HCl oral elixir 2.5 mg/5 mL
+859865 INVIRASE ORAL TABLET 500 MG
+859871 haloperidol decanoate intramuscular solution 100 mg/mL, 50 mg/mL
+859975 asenapine maleate sublingual tablet 10 mg, 2.5 mg, 5 mg
+859979 SAPHRIS SUBLINGUAL TABLET 10 MG, 2.5 MG, 5 MG
+859979 SAPHRIS SUBLINGUAL TABLET 10 MG, 2.5 MG, 5 MG
+860103 ketorolac ophthalmic (eye) drops 0.4 %, 0.5 %
+860215 megestrol oral tablet 20 mg, 40 mg
+860225 megestrol oral suspension 400 mg/10 mL (10 mL), 400 mg/10 mL (40 mg/mL), 800 mg/20 mL (20 mL)
+860654 epinastine ophthalmic (eye) drops 0.05 %
+860751 TIGAN INTRAMUSCULAR SOLUTION 100 MG/ML
+860771 trimethobenzamide oral capsule 300 mg
+860805 azelastine ophthalmic (eye) drops 0.05 %
+860895 SABRIL ORAL TABLET 500 MG
+860901 galantamine oral solution 4 mg/mL
+860975 metformin oral tablet 500 mg
+860981 metformin oral tablet extended release 24 hr 750 mg
+861010 metformin oral tablet 850 mg
+861043 SYMLINPEN 120 SUBCUTANEOUS PEN INJECTOR 2,700 MCG/2.7 ML
+861045 SYMLINPEN 60 SUBCUTANEOUS PEN INJECTOR 1,500 MCG/1.5 ML
+861064 sertraline oral concentrate 20 mg/mL
+861132 alfuzosin oral tablet extended release 24 hr 10 mg
+861156 propafenone oral capsule,extended release 12 hr 225 mg, 325 mg, 425 mg
+861200 brimonidine ophthalmic (eye) drops 0.2 %
+861206 ALPHAGAN P OPHTHALMIC (EYE) DROPS 0.1 %
+861208 brimonidine ophthalmic (eye) drops 0.15 %
+861222 ADDERALL XR ORAL CAPSULE,EXTENDED RELEASE 24HR 10 MG, 15 MG, 20 MG, 25 MG, 30 MG, 5 MG
+861222 ADDERALL XR ORAL CAPSULE,EXTENDED RELEASE 24HR 10 MG, 15 MG, 20 MG, 25 MG, 30 MG, 5 MG
+861356 fondaparinux subcutaneous syringe 10 mg/0.8 mL
+861360 fondaparinux subcutaneous syringe 2.5 mg/0.5 mL
+861363 fondaparinux subcutaneous syringe 5 mg/0.4 mL
+861365 fondaparinux subcutaneous syringe 7.5 mg/0.6 mL
+861375 sevelamer carbonate oral powder in packet 0.8 gram, 2.4 gram
+861377 RENVELA ORAL POWDER IN PACKET 0.8 GRAM, 2.4 GRAM
+861416 azithromycin oral packet 1 gram
+861424 propafenone oral tablet 150 mg, 225 mg, 300 mg
+861434 clobetasol topical gel 0.05 %
+861448 clobetasol topical ointment 0.05 %
+861467 meperidine oral tablet 50 mg
+861487 clobetasol scalp solution 0.05 %
+861490 clobetasol topical shampoo 0.05 %
+861495 clobetasol topical cream 0.05 %
+861505 clobetasol topical lotion 0.05 %
+861601 pentamidine injection recon soln 300 mg
+861604 PENTAM INJECTION RECON SOLN 300 MG
+861637 COMBIGAN OPHTHALMIC (EYE) DROPS 0.2-0.5 %
+861657 nitroglycerin transdermal patch 24 hour 0.1 mg/hr, 0.2 mg/hr, 0.4 mg/hr, 0.6 mg/hr
+861672 dihydroergotamine injection solution 1 mg/mL
+861731 glipizide-metformin oral tablet 2.5-250 mg
+861736 glipizide-metformin oral tablet 2.5-500 mg, 5-500 mg
+861743 glyburide-metformin oral tablet 1.25-250 mg
+861748 glyburide-metformin oral tablet 2.5-500 mg, 5-500 mg
+861783 pioglitazone-metformin oral tablet 15-500 mg, 15-850 mg
+861848 fluphenazine HCl oral concentrate 5 mg/mL
+861966 VENTAVIS INHALATION SOLUTION FOR NEBULIZATION 10 MCG/ML, 20 MCG/ML
+862006 guanfacine oral tablet extended release 24 hr 1 mg, 2 mg, 3 mg, 4 mg
+863042 BEPREVE OPHTHALMIC (EYE) DROPS 1.5 %
+863562 VALCYTE ORAL RECON SOLN 50 MG/ML
+863603 E.E.S. GRANULES ORAL SUSPENSION FOR RECONSTITUTION 200 MG/5 ML
+863606 E.E.S. 400 ORAL TABLET 400 MG
+863619 oxybutynin chloride oral tablet extended release 24hr 10 mg, 5 mg
+863628 oxybutynin chloride oral tablet extended release 24hr 15 mg
+863664 oxybutynin chloride oral tablet 5 mg
+863669 tamsulosin oral capsule 0.4 mg
+864650 ZIRGAN OPHTHALMIC (EYE) GEL 0.15 %
+864675 atovaquone-proguanil oral tablet 250-100 mg, 62.5-25 mg
+864706 methadone oral tablet 10 mg, 5 mg
+865117 fluphenazine HCl oral tablet 1 mg, 10 mg, 2.5 mg, 5 mg
+865216 EMSAM TRANSDERMAL PATCH 24 HOUR 12 MG/24 HR, 6 MG/24 HR, 9 MG/24 HR
+866042 neomycin oral tablet 500 mg
+866047 SEREVENT DISKUS INHALATION BLISTER WITH DEVICE 50 MCG/DOSE
+866083 buspirone oral tablet 10 mg, 15 mg, 30 mg, 5 mg, 7.5 mg
+866103 paliperidone oral tablet extended release 24hr 1.5 mg, 3 mg, 9 mg
+866144 cyproheptadine oral tablet 4 mg
+866144 cyproheptadine oral tablet 4 mg
+866412 metoprolol succinate oral tablet extended release 24 hr 100 mg, 200 mg, 25 mg, 50 mg
+866479 metoprolol ta-hydrochlorothiaz oral tablet 100-25 mg, 100-50 mg, 50-25 mg
+866511 metoprolol tartrate oral tablet 100 mg, 25 mg, 50 mg
+866905 colesevelam oral powder in packet 3.75 gram
+866910 colesevelam oral tablet 625 mg
+867506 VOTRIENT ORAL TABLET 200 MG
+876193 polyethylene glycol 3350 oral powder 17 gram/dose
+876193 polyethylene glycol 3350(bulk) powder
+876193 polyethylene glycol 3350(bulk) powder
+876193 POWDERLAX ORAL POWDER 17 GRAM/DOSE
+876193 polyethylene glycol 3350 oral powder in packet 17 gram
+876195 MIRALAX ORAL POWDER IN PACKET 17 GRAM
+876214 GAVILAX ORAL POWDER 17 GRAM/DOSE
+880407 CLEARLAX ORAL POWDER 17 GRAM/DOSE
+881341 adefovir oral tablet 10 mg
+881409 PRETAB ORAL TABLET 29-1 MG
+882533 CLEOCIN VAGINAL SUPPOSITORY 100 MG
+882550 ZIANA TOPICAL GEL 1.2-0.025 %
+883826 tranexamic acid oral tablet 650 mg
+884173 clonidine HCl oral tablet 0.1 mg, 0.2 mg, 0.3 mg
+884385 dextroamphetamine oral tablet 10 mg, 5 mg
+884385 dextroamphetamine oral tablet 10 mg, 5 mg
+884385 dextroamphetamine oral tablet 10 mg, 5 mg
+884520 dextroamphetamine oral capsule, extended release 10 mg
+884520 dextroamphetamine oral capsule, extended release 10 mg
+884520 dextroamphetamine oral capsule, extended release 10 mg
+884532 dextroamphetamine oral capsule, extended release 15 mg
+884532 dextroamphetamine oral capsule, extended release 15 mg
+884532 dextroamphetamine oral capsule, extended release 15 mg
+884535 dextroamphetamine oral capsule, extended release 5 mg
+884535 dextroamphetamine oral capsule, extended release 5 mg
+884535 dextroamphetamine oral capsule, extended release 5 mg
+884707 estradiol vaginal tablet 10 mcg
+885219 benztropine oral tablet 0.5 mg, 1 mg, 2 mg
+885857 balsalazide oral capsule 750 mg
+886627 butorphanol injection solution 1 mg/mL, 2 mg/mL
+886666 flecainide oral tablet 100 mg, 150 mg, 50 mg
+889520 butalbital-acetaminop-caf-cod oral capsule 50-300-40-30 mg, 50- 325-40-30 mg
+889614 chlordiazepoxide-clidinium oral capsule 5-2.5 mg
+889614 chlordiazepoxide-clidinium oral capsule 5-2.5 mg
+889614 chlordiazepoxide-clidinium oral capsule 5-2.5 mg
+890786 GYNAZOLE-1 VAGINAL CREAM 2 %
+891874 morphine oral tablet extended release 100 mg, 15 mg, 30 mg, 60 mg
+892246 levothyroxine oral tablet 100 mcg, 112 mcg, 125 mcg, 137 mcg, 150 mcg, 175 mcg, 200 mcg, 25 mcg, 300 mcg, 50 mcg, 75 mcg, 88 mcg
+892582 morphine oral tablet 15 mg, 30 mg
+892589 morphine oral solution 10 mg/5 mL
+892625 morphine concentrate oral solution 100 mg/5 mL (20 mg/mL)
+892646 morphine oral tablet extended release 200 mg
+894780 morphine oral solution 20 mg/5 mL (4 mg/mL)
+895487 fluticasone propionate topical ointment 0.005 %
+895670 quetiapine oral tablet extended release 24 hr 150 mg, 200 mg, 300 mg, 400 mg, 50 mg
+895670 quetiapine oral tablet extended release 24 hr 150 mg, 200 mg, 300 mg, 400 mg, 50 mg
+895987 fluticasone propionate topical cream 0.05 %
+895990 fluticasone propionate topical lotion 0.05 %
+895996 FLOVENT HFA INHALATION HFA AEROSOL INHALER 44 MCG/ACTUATION
+896001 FLOVENT HFA INHALATION HFA AEROSOL INHALER 110 MCG/ACTUATION
+896006 FLOVENT HFA INHALATION HFA AEROSOL INHALER 220 MCG/ACTUATION
+896023 FLOVENT DISKUS INHALATION BLISTER WITH DEVICE 100 MCG/ACTUATION, 50 MCG/ACTUATION
+896027 FLOVENT DISKUS INHALATION BLISTER WITH DEVICE 250 MCG/ACTUATION
+896108 NAFTIN TOPICAL GEL 1 %
+896110 naftifine topical cream 1 %, 2 %
+896165 ADVAIR DISKUS INHALATION BLISTER WITH DEVICE 100-50 MCG/DOSE, 250-50 MCG/DOSE, 500-50 MCG/DOSE
+896209 fluticasone propion-salmeterol inhalation blister with device 100- 50 mcg/dose, 250-50 mcg/dose, 500-50 mcg/dose
+896243 ADVAIR HFA INHALATION HFA AEROSOL INHALER 115-21 MCG/ACTUATION, 230-21 MCG/ACTUATION, 45-21 MCG/ACTUATION
+896758 labetalol oral tablet 100 mg, 200 mg, 300 mg
+897021 dalfampridine oral tablet extended release 12 hr 10 mg
+897126 VICTOZA 2-PAK SUBCUTANEOUS PEN INJECTOR 0.6 MG/0.1 ML (18 MG/3 ML)
+897126 VICTOZA 3-PAK SUBCUTANEOUS PEN INJECTOR 0.6 MG/0.1 ML (18 MG/3 ML)
+897294 ALOCRIL OPHTHALMIC (EYE) DROPS 2 %
+897659 verapamil oral tablet extended release 120 mg, 180 mg, 240 mg
+897666 verapamil oral tablet 120 mg, 40 mg, 80 mg
+897666 verapamil oral tablet 120 mg, 40 mg, 80 mg
+897696 hydromorphone oral tablet 2 mg, 4 mg, 8 mg
+898342 amlodipine-benazepril oral capsule 10-20 mg, 10-40 mg, 2.5-10 mg, 5-10 mg, 5-20 mg, 5-40 mg
+898362 benazepril-hydrochlorothiazide oral tablet 10-12.5 mg, 20-12.5 mg, 20-25 mg, 5-6.25 mg
+898490 potassium citrate oral tablet extended release 10 mEq (1,080 mg), 15 mEq, 5 mEq (540 mg)
+898607 SANDOSTATIN LAR DEPOT INTRAMUSCULAR SUSPENSION,EXTENDED REL RECON 10 MG, 20 MG, 30 MG
+898607 SANDOSTATIN LAR DEPOT INTRAMUSCULAR SUSPENSION,EXTENDED REL RECON 10 MG, 20 MG, 30 MG
+898687 benazepril oral tablet 10 mg, 20 mg, 40 mg, 5 mg
+898715 pregabalin oral solution 20 mg/mL
+899439 dexmethylphenidate oral capsule,ER biphasic 50-50 10 mg, 15 mg, 20 mg, 25 mg, 30 mg, 35 mg, 40 mg, 5 mg
+899441 FOCALIN XR ORAL CAPSULE,ER BIPHASIC 50-50 25 MG, 35 MG
+899548 dexmethylphenidate oral tablet 10 mg, 2.5 mg, 5 mg
+900575 ritonavir oral tablet 100 mg
+901279 LUDENT FLUORIDE ORAL TABLET,CHEWABLE 0.25 MG(0.55 MG SOD. FLUORIDE), 0.5 MG (1.1 MG SODIUM FLUORID), 1 MG (2.2 MG SOD. FLUORIDE)
+901515 MENVEO A-C-Y-W-135-DIP (PF) INTRAMUSCULAR KIT 10-5 MCG/0.5 ML
+901515 MENVEO MENA COMPONENT (PF) INTRAMUSCULAR RECON SOLN 10 MCG /0.5 ML (FINAL)
+901518 MENVEO MENCYW-135 COMPNT (PF) INTRAMUSCULAR RECON SOLN 5 MCG X 3/ 0.5 ML (FINAL)
+901541 pramipexole oral tablet extended release 24 hr 0.375 mg, 0.75 mg, 1.5 mg, 3 mg, 4.5 mg
+901614 CAYSTON INHALATION SOLUTION FOR NEBULIZATION 75 MG/ML
+901644 PREVNAR 13 (PF) INTRAMUSCULAR SYRINGE 0.5 ML
+902648 NORPACE CR ORAL CAPSULE, EXTENDED RELEASE 100 MG, 150 MG
+903697 liothyronine oral tablet 25 mcg, 5 mcg, 50 mcg
+903843 pyridostigmine bromide oral syrup 60 mg/5 mL
+903847 pyridostigmine bromide oral tablet extended release 180 mg
+903857 pyridostigmine bromide oral tablet 60 mg
+903884 fluvoxamine oral tablet 100 mg, 25 mg, 50 mg
+904170 primaquine oral tablet 26.3 mg
+904396 alendronate oral tablet 35 mg, 70 mg
+904419 alendronate oral tablet 10 mg, 5 mg
+904458 pravastatin oral tablet 10 mg, 20 mg, 40 mg, 80 mg
+904535 etidronate disodium oral tablet 200 mg
+904571 SORINE ORAL TABLET 120 MG, 160 MG, 240 MG, 80 MG
+904571 SORINE ORAL TABLET 120 MG, 160 MG, 240 MG, 80 MG
+904783 EPIFOAM TOPICAL FOAM 1-1 %
+904874 BUTRANS TRANSDERMAL PATCH WEEKLY 10 MCG/HOUR, 15 MCG/HOUR, 20 MCG/HOUR, 5 MCG/HOUR, 7.5 MCG/HOUR
+904932 ibandronate oral tablet 150 mg
+905024 risedronate oral tablet 35 mg
+905028 risedronate oral tablet 150 mg
+905032 risedronate oral tablet 30 mg, 5 mg
+905158 sirolimus oral tablet 0.5 mg, 1 mg, 2 mg
+905164 DIPENTUM ORAL CAPSULE 250 MG
+905168 protriptyline oral tablet 10 mg, 5 mg
+905199 hydralazine oral tablet 10 mg, 100 mg, 25 mg, 50 mg
+905269 trihexyphenidyl oral tablet 2 mg, 5 mg
+905273 trihexyphenidyl oral elixir 0.4 mg/mL
+905341 demeclocycline oral tablet 150 mg, 300 mg
+905369 chlordiazepoxide HCl oral capsule 10 mg, 25 mg, 5 mg
+905369 chlordiazepoxide HCl oral capsule 10 mg, 25 mg, 5 mg
+966233 UNITHROID ORAL TABLET 100 MCG, 112 MCG, 125 MCG, 137 MCG, 150 MCG, 175 MCG, 200 MCG, 25 MCG, 300 MCG, 50 MCG, 75 MCG, 88 MCG
+966250 SYNTHROID ORAL TABLET 100 MCG, 112 MCG, 125 MCG, 137 MCG, 150 MCG, 175 MCG, 200 MCG, 25 MCG, 300 MCG, 50 MCG, 75 MCG, 88 MCG
+966283 LEVOXYL ORAL TABLET 100 MCG, 112 MCG, 125 MCG, 137 MCG, 150 MCG, 175 MCG, 200 MCG, 25 MCG, 50 MCG, 75 MCG, 88 MCG
+966577 diflorasone topical cream 0.05 %
+966791 SILENOR ORAL TABLET 3 MG, 6 MG
+967012 GAVILYTE-G ORAL RECON SOLN 236-22.74-6.74 -5.86 GRAM
+977427 everolimus (immunosuppressive) oral tablet 0.25 mg, 0.5 mg, 0.75 mg
+977431 ZORTRESS ORAL TABLET 0.25 MG, 0.5 MG, 0.75 MG
+977836 HEATHER ORAL TABLET 0.35 MG
+977842 NOVOLOG MIX 70-30FLEXPEN U-100 SUBCUTANEOUS INSULIN PEN 100 UNIT/ML (70-30)
+977842 NOVOLOG MIX 70-30 U-100 INSULN SUBCUTANEOUS SOLUTION 100 UNIT/ML (70-30)
+977860 methamphetamine oral tablet 5 mg
+977860 methamphetamine oral tablet 5 mg
+977874 oxymorphone oral tablet extended release 12 hr 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 5 mg, 7.5 mg
+977880 amiloride oral tablet 5 mg
+977883 amiloride-hydrochlorothiazide oral tablet 5-50 mg
+977942 oxymorphone oral tablet 10 mg, 5 mg
+977978 halobetasol propionate topical ointment 0.05 %
+977990 halobetasol propionate topical cream 0.05 %
+978006 loperamide oral capsule 2 mg
+978573 carteolol ophthalmic (eye) drops 1 %
+978950 NATAZIA ORAL TABLET 3 MG/2 MG-2 MG/ 2 MG-3 MG/1 MG
+979092 hydroxychloroquine oral tablet 200 mg
+979092 hydroxychloroquine oral tablet 200 mg
+979444 metaproterenol oral syrup 10 mg/5 mL
+979464 losartan-hydrochlorothiazide oral tablet 100-12.5 mg, 100-25 mg
+979468 losartan-hydrochlorothiazide oral tablet 50-12.5 mg
+979480 losartan oral tablet 100 mg
+979485 losartan oral tablet 25 mg, 50 mg
+991039 chlorpromazine oral tablet 10 mg, 100 mg, 200 mg, 25 mg, 50 mg
+991061 dicyclomine oral capsule 10 mg
+991082 dicyclomine oral solution 10 mg/5 mL
+991086 dicyclomine oral tablet 20 mg
+991233 TARGRETIN TOPICAL GEL 1 %
+991486 promethazine-codeine oral syrup 6.25-10 mg/5 mL
+991528 promethazine-DM oral syrup 6.25-15 mg/5 mL
+992150 methenamine hippurate oral tablet 1 gram
+992150 methenamine hippurate oral tablet 1 gram
+992395 gatifloxacin ophthalmic (eye) drops 0.5 %
+992432 promethazine oral syrup 6.25 mg/5 mL
+992432 promethazine oral syrup 6.25 mg/5 mL
+992432 promethazine oral syrup 6.25 mg/5 mL
+992438 promethazine oral tablet 12.5 mg, 25 mg, 50 mg
+992438 promethazine oral tablet 12.5 mg, 25 mg, 50 mg
+992438 promethazine oral tablet 12.5 mg, 25 mg, 50 mg
+992441 promethazine rectal suppository 12.5 mg, 25 mg, 50 mg
+992441 promethazine rectal suppository 12.5 mg, 25 mg, 50 mg
+992441 promethazine rectal suppository 12.5 mg, 25 mg, 50 mg
+992445 PROMETHEGAN RECTAL SUPPOSITORY 12.5 MG, 25 MG, 50 MG
+992445 PROMETHEGAN RECTAL SUPPOSITORY 12.5 MG, 25 MG, 50 MG
+992445 PROMETHEGAN RECTAL SUPPOSITORY 12.5 MG, 25 MG, 50 MG
+992460 promethazine injection solution 25 mg/mL, 50 mg/mL
+992460 promethazine injection solution 25 mg/mL, 50 mg/mL
+992460 promethazine injection solution 25 mg/mL, 50 mg/mL
+992656 hydrocodone-homatropine oral tablet 5-1.5 mg
+992668 hydrocodone-homatropine oral syrup 5-1.5 mg/5 mL (5 mL)
+992675 HYDROMET ORAL SYRUP 5-1.5 MG/5 ML
+992759 HOMATROPAIRE OPHTHALMIC (EYE) DROPS 5 %
+993456 PROLIA SUBCUTANEOUS SYRINGE 60 MG/ML
+993462 midodrine oral tablet 10 mg, 2.5 mg, 5 mg
+993503 bupropion HCl oral tablet sustained-release 12 hr 100 mg, 200 mg
+993518 bupropion HCl oral tablet sustained-release 12 hr 150 mg
+993541 bupropion HCl oral tablet extended release 24 hr 150 mg
+993557 bupropion HCl oral tablet extended release 24 hr 300 mg
+993687 bupropion HCl oral tablet 100 mg, 75 mg
+993755 acetaminophen-codeine oral solution 120 mg-12 mg /5 mL (5 mL), 120-12 mg/5 mL, 240 mg-24 mg /10 mL (10 mL), 300 mg-30 mg /12.5 mL
+993770 acetaminophen-codeine oral tablet 300-15 mg, 300-30 mg
+993890 acetaminophen-codeine oral tablet 300-60 mg
+994237 BUTALBITAL COMPOUND W/CODEINE ORAL CAPSULE 30- 50-325-40 MG
+994237 codeine-butalbital-ASA-caff oral capsule 30-50-325-40 mg
+994239 ASCOMP WITH CODEINE ORAL CAPSULE 30-50-325-40 MG
+994521 orphenadrine citrate oral tablet extended release 100 mg
+995156 VIMPAT ORAL SOLUTION 10 MG/ML
+995218 hydroxyzine HCl oral tablet 10 mg, 25 mg, 50 mg
+995232 hydroxyzine pamoate oral capsule 100 mg, 25 mg, 50 mg
+995241 hydroxyzine HCl oral solution 10 mg/5 mL
+995270 hydroxyzine HCl intramuscular solution 25 mg/mL, 50 mg/mL
+995599 ethambutol oral tablet 100 mg, 400 mg
+995624 meclizine oral tablet 12.5 mg, 25 mg
+996096 dutasteride-tamsulosin oral capsule, ER multiphase 24 hr 0.5-0.4 mg
+996561 memantine oral tablet 10 mg, 5 mg
+996594 memantine oral capsule,sprinkle,ER 24hr 14 mg, 21 mg, 28 mg, 7 mg
+996740 memantine oral solution 2 mg/mL
+996757 promethazine-phenyleph-codeine oral syrup 6.25-5-10 mg/5 mL
+996824 methylergonovine oral tablet 0.2 mg
+997010 quinine sulfate oral capsule 324 mg
+997169 codeine sulfate oral tablet 15 mg, 30 mg, 60 mg
+997223 donepezil oral tablet 10 mg, 5 mg
+998189 everolimus (antineoplastic) oral tablet 2.5 mg, 5 mg, 7.5 mg
+998191 AFINITOR ORAL TABLET 2.5 MG, 5 MG, 7.5 MG
+998671 clonidine transdermal patch weekly 0.1 mg/24 hr, 0.2 mg/24 hr, 0.3 mg/24 hr
+998689 acebutolol oral capsule 200 mg, 400 mg
+999613 sulfacetamide sod-sulfur-urea topical cleanser 10-5-10 %
+999613 sulfacetamide sod-sulfur-urea topical cleanser 10-5-10 %
+999717 PREVIDENT 5000 SENSITIVE DENTAL PASTE 1.1-5 %
+999717 PREVIDENT 5000 ENAMEL PROTECT DENTAL PASTE 1.1-5 %
+999927 VELTIN TOPICAL GEL 1.2-0.025 %
+999967 olmesartan-amlodipin-hcthiazid oral tablet 20-5-12.5 mg, 40-10- 12.5 mg, 40-10-25 mg, 40-5-12.5 mg, 40-5-25 mg
+999971 TRIBENZOR ORAL TABLET 20-5-12.5 MG, 40-10-12.5 MG, 40- 10-25 MG, 40-5-12.5 MG, 40-5-25 MG
+1000048 doxepin oral capsule 10 mg, 100 mg, 150 mg, 25 mg, 50 mg, 75 mg
+1000054 doxepin oral concentrate 10 mg/mL
+1000089 LASTACAFT OPHTHALMIC (EYE) DROPS 0.25 %
+1000095 ZONALON TOPICAL CREAM 5 %
+1000114 medroxyprogesterone oral tablet 10 mg, 2.5 mg, 5 mg
+1000126 medroxyprogesterone intramuscular syringe 150 mg/mL
+1000126 medroxyprogesterone intramuscular suspension 150 mg/mL
+1000405 norethindrone acetate oral tablet 5 mg
+1000487 PREMPHASE ORAL TABLET 0.625 MG (14)/ 0.625MG- 5MG(14)
+1000491 PREMPRO ORAL TABLET 0.3-1.5 MG, 0.45-1.5 MG, 0.625-2.5 MG, 0.625-5 MG
+1000647 pilocarpine HCl ophthalmic (eye) drops 1 %, 2 %, 4 %
+1000673 sulfacetamide sodium ophthalmic (eye) ointment 10 %
+1000731 sulfacetamide sodium-sulfur topical cream 10-2 %, 10-5 % (w/w), 9.8-4.8 %
+1000895 sulfacetamide sodium-sulfur topical cleanser 10-2 %, 10-5 % (w/w), 9-4.5 %, 9.8-4.8 %
+1000913 pilocarpine HCl oral tablet 5 mg, 7.5 mg
+1000946 sulfacetamide sodium-sulfur topical pads, medicated 10-4 %
+1001690 SUPREP BOWEL PREP KIT ORAL RECON SOLN 17.5-3.13-1.6 GRAM
+1002300 TASIGNA ORAL CAPSULE 150 MG, 200 MG
+1005767 AVAR TOPICAL CLEANSER 10-5 % (W/W)
+1005831 MILLIPRED DP ORAL TABLETS,DOSE PACK 5 MG (21 TABS)
+1005835 AVAR-E TOPICAL CREAM 10-5 % (W/W)
+1005835 AVAR-E GREEN TOPICAL CREAM 10-5 % (W/W)
+1005856 sulfacetamide sodium-sulfur topical lotion 10-5 % (w/v)
+1005856 sulfacetamide sodium-sulfur topical suspension 10-5 %
+1005928 ELLA ORAL TABLET 30 MG
+1005928 ELLA ORAL TABLET 30 MG
+1006057 ROSANIL TOPICAL CLEANSER 10-5 % (W/W)
+1006065 ALTAVERA (28) ORAL TABLET 0.15-0.03 MG
+1006116 sulfacetamide sodium topical cleanser, gel 10 %
+1006116 sulfacetamide sodium topical cleanser 10 %
+1006120 sulfacetamide sodium ophthalmic (eye) drops 10 %
+1006684 HPR PLUS TOPICAL CREAM
+1006688 sulfacetamide sodium (acne) topical suspension 10 %
+1009341 LUMIGAN OPHTHALMIC (EYE) DROPS 0.01 %
+1010296 lidocaine topical ointment 5 %
+1010296 lidocaine topical ointment 5 %
+1010600 buprenorphine-naloxone sublingual film 2-0.5 mg, 4-1 mg, 8-2 mg
+1010732 PURELAX ORAL POWDER 17 GRAM/DOSE
+1010732 PURELAX ORAL POWDER IN PACKET 17 GRAM
+1010739 LIDOCAINE VISCOUS MUCOUS MEMBRANE SOLUTION 2 %
+1010739 lidocaine HCl mucous membrane jelly 2 %
+1010739 lidocaine HCl mucous membrane jelly 2 %
+1010835 lidocaine HCl topical cream 3 %
+1010836 lidocaine HCl topical lotion 3 %
+1010878 lidocaine HCl mucous membrane solution 4 % (40 mg/mL)
+1011080 TOBRADEX ST OPHTHALMIC (EYE) DROPS,SUSPENSION 0.3-0.05 %
+1011081 ZARAH ORAL TABLET 3-0.03 MG
+1011712 TEKTURNA HCT ORAL TABLET 150-12.5 MG, 150-25 MG, 300-12.5 MG, 300-25 MG
+1011736 aliskiren oral tablet 150 mg, 300 mg
+1011738 TEKTURNA ORAL TABLET 150 MG, 300 MG
+1011987 BLEPHAMIDE S.O.P. OPHTHALMIC (EYE) OINTMENT 10-0.2 %
+1012221 lidocaine-hydrocortisone-aloe rectal gel 2.8-0.55 %
+1012223 lidocaine-hydrocortisone-aloe rectal kit 3-2.5 % (7 gram)
+1012235 lidocaine HCl-hydrocortison ac rectal kit 3-0.5 %, 3-1 % (7 gram)
+1012235 lidocaine HCl-hydrocortison ac rectal cream 3-0.5 %
+1012904 carbinoxamine maleate oral tablet 4 mg
+1012904 carbinoxamine maleate oral tablet 4 mg
+1013630 BEYAZ ORAL TABLET 3-0.02-0.451 MG (24) (4)
+1037185 LO LOESTRIN FE ORAL TABLET 1 MG-10 MCG (24)/10 MCG (2)
+1040043 LATUDA ORAL TABLET 80 MG
+1043690 hydrocortisone acetate topical cream 1 %
+1043748 FINACEA TOPICAL GEL 15 %
+1043748 FINACEA TOPICAL GEL 15 %
+1046770 hyoscyamine sulfate oral tablet extended release 12 hr 0.375 mg
+1046770 hyoscyamine sulfate oral tablet extended release 12 hr 0.375 mg
+1046920 NICOTROL INHALATION CARTRIDGE 10 MG
+1046978 DONNATAL ORAL TABLET 16.2-0.1037 -0.0194 MG
+1046982 hyoscyamine sulfate sublingual tablet 0.125 mg
+1046982 hyoscyamine sulfate oral tablet 0.125 mg
+1046982 hyoscyamine sulfate oral tablet 0.125 mg
+1046982 hyoscyamine sulfate sublingual tablet 0.125 mg
+1047040 CYCLAFEM 1/35 (28) ORAL TABLET 1-35 MG-MCG
+1047041 CYCLAFEM 7/7/7 (28) ORAL TABLET 0.5/0.75/1 MG- 35 MCG
+1047881 hyoscyamine sulfate oral elixir 0.125 mg/5 mL
+1047881 hyoscyamine sulfate oral elixir 0.125 mg/5 mL
+1047895 HYOSYNE ORAL DROPS 0.125 MG/ML
+1047895 hyoscyamine sulfate oral drops 0.125 mg/mL
+1047895 HYOSYNE ORAL DROPS 0.125 MG/ML
+1047895 hyoscyamine sulfate oral drops 0.125 mg/mL
+1048445 colestipol oral tablet 1 gram
+1049214 oxycodone-acetaminophen oral tablet 10-325 mg
+1049214 oxycodone-acetaminophen oral tablet 10-325 mg
+1049216 ENDOCET ORAL TABLET 10-325 MG
+1049216 ENDOCET ORAL TABLET 10-325 MG
+1049289 diphenhydramine HCl injection syringe 50 mg/mL
+1049289 diphenhydramine HCl injection syringe 50 mg/mL
+1049423 GENTLELAX ORAL POWDER 17 GRAM/DOSE
+1049502 oxycodone oral tablet 10 mg, 15 mg, 20 mg
+1049604 oxycodone oral solution 5 mg/5 mL
+1049618 oxycodone oral tablet 30 mg
+1049621 oxycodone oral tablet 5 mg
+1049633 diphenhydramine HCl injection solution 50 mg/mL
+1049633 diphenhydramine HCl injection solution 50 mg/mL
+1049635 oxycodone-acetaminophen oral tablet 2.5-325 mg, 5-325 mg, 7.5- 325 mg
+1049635 oxycodone-acetaminophen oral tablet 2.5-325 mg, 5-325 mg, 7.5- 325 mg
+1049680 benzoyl peroxide topical foam 9.8 %
+1050494 SAFYRAL ORAL TABLET 3-0.03-0.451 MG (21) (7)
+1052660 INTELENCE ORAL TABLET 200 MG
+1085633 triamcinolone acetonide topical ointment 0.025 %, 0.1 %, 0.5 %
+1085644 triamcinolone acetonide topical cream 0.025 %, 0.1 %, 0.5 %
+1085680 triamcinolone acetonide injection suspension 40 mg/mL
+1085728 triamcinolone acetonide dental paste 0.1 %
+1085736 triamcinolone acetonide topical aerosol 0.147 mg/gram
+1085741 triamcinolone acetonide topical lotion 0.025 %, 0.1 %
+1086773 VIIBRYD ORAL TABLETS,DOSE PACK 10 MG (7)- 20 MG (23)
+1086776 VIIBRYD ORAL TABLET 10 MG, 20 MG, 40 MG
+1087968 MAKENA INTRAMUSCULAR OIL 250 MG/ML (1 ML)
+1088251 TARCEVA ORAL TABLET 100 MG, 150 MG, 25 MG
+1088531 HEALTHYLAX ORAL POWDER IN PACKET 17 GRAM
+1090996 JINTELI ORAL TABLET 1-5 MG-MCG
+1091133 methylphenidate HCl oral solution 10 mg/5 mL, 5 mg/5 mL
+1091133 methylphenidate HCl oral solution 10 mg/5 mL, 5 mg/5 mL
+1091145 methylphenidate HCl oral tablet extended release 10 mg
+1091150 methylphenidate HCl oral tablet 10 mg, 20 mg, 5 mg
+1091150 methylphenidate HCl oral tablet 10 mg, 20 mg, 5 mg
+1091155 methylphenidate HCl oral tablet extended release 24hr 18 mg, 27 mg, 36 mg, 54 mg
+1091225 methylphenidate HCl oral tablet extended release 20 mg
+1091339 CLINDACIN P TOPICAL SWAB 1 %
+1091339 CLINDACIN ETZ TOPICAL SWAB 1 %
+1091632 MATZIM LA ORAL TABLET EXTENDED RELEASE 24 HR 180 MG, 240 MG, 300 MG, 360 MG, 420 MG
+1092357 rufinamide oral suspension 40 mg/mL
+1092360 BANZEL ORAL SUSPENSION 40 MG/ML
+1093289 urea topical cream 39 %
+1094107 phenazopyridine oral tablet 100 mg, 200 mg
+1094543 BRIELLYN ORAL TABLET 0.4-35 MG-MCG
+1095227 LEVONEST (28) ORAL TABLET 50-30 (6)/75-40 (5)/125-30(10)
+1095229 flavoxate oral tablet 100 mg
+1095362 BALZIVA (28) ORAL TABLET 0.4-35 MG-MCG
+1098141 niacin oral tablet 500 mg
+1098141 niacin oral tablet extended release 24 hr 1,000 mg, 500 mg, 750 mg
+1098143 niacin oral tablet extended release 750 mg
+1098649 nefazodone oral tablet 100 mg, 150 mg, 250 mg, 50 mg
+1098670 nefazodone oral tablet 200 mg
+1099026 LORYNA (28) ORAL TABLET 3-0.02 MG
+1099269 SYEDA ORAL TABLET 3-0.03 MG
+1099288 desipramine oral tablet 10 mg, 100 mg, 150 mg, 25 mg, 50 mg, 75 mg
+1099503 LOTEMAX OPHTHALMIC (EYE) OINTMENT 0.5 %
+1099563 divalproex oral tablet extended release 24 hr 250 mg, 500 mg
+1099563 divalproex oral tablet extended release 24 hr 250 mg, 500 mg
+1099563 divalproex oral tablet extended release 24 hr 250 mg, 500 mg
+1099681 valproic acid oral capsule 250 mg
+1099681 valproic acid oral capsule 250 mg
+1099687 valproic acid (as sodium salt) oral solution 250 mg/5 mL, 250 mg/5 mL (5 mL), 500 mg/10 mL (10 mL)
+1099687 valproic acid (as sodium salt) oral solution 250 mg/5 mL, 250 mg/5 mL (5 mL), 500 mg/10 mL (10 mL)
+1099897 GENERESS FE ORAL TABLET,CHEWABLE 0.8MG- 25MCG(24) AND 75 MG (4)
+1100057 CICLODAN TOPICAL SOLUTION 8 %
+1100075 abiraterone oral tablet 250 mg
+1100079 ZYTIGA ORAL TABLET 250 MG
+1100706 TRADJENTA ORAL TABLET 5 MG
+1101938 DENTAGEL DENTAL GEL 1.1 %
+1102010 sapropterin oral tablet,soluble 100 mg
+1102277 EDURANT ORAL TABLET 25 MG
+1111011 NEXPLANON SUBDERMAL IMPLANT 68 MG
+1111110 DIFICID ORAL TABLET 200 MG
+1111339 olopatadine ophthalmic (eye) drops 0.1 %, 0.2 %
+1111641 glatiramer subcutaneous syringe 20 mg/mL
+1111642 COPAXONE SUBCUTANEOUS SYRINGE 20 MG/ML
+1112687 AMETHIA ORAL TABLETS,DOSE PACK,3 MONTH 0.15 MG-30 MCG (84)/10 MCG (7)
+1112715 AMETHYST (28) ORAL TABLET 90-20 MCG (28)
+1112980 NULOJIX INTRAVENOUS RECON SOLN 250 MG
+1114074 CAPRELSA ORAL TABLET 100 MG
+1114096 CAPRELSA ORAL TABLET 300 MG
+1114202 XARELTO ORAL TABLET 10 MG, 15 MG, 2.5 MG, 20 MG
+1114470 RECTIV RECTAL OINTMENT 0.4 % (W/W)
+1115259 LUPRON DEPOT (6 MONTH) INTRAMUSCULAR SYRINGE KIT 45 MG
+1115459 LUPRON DEPOT INTRAMUSCULAR SYRINGE KIT 3.75 MG
+1115464 LUPRON DEPOT INTRAMUSCULAR SYRINGE KIT 7.5 MG
+1115468 LUPRON DEPOT (3 MONTH) INTRAMUSCULAR SYRINGE KIT 22.5 MG
+1115473 LUPRON DEPOT-PED INTRAMUSCULAR KIT 11.25 MG, 15 MG, 7.5 MG (PED)
+1115473 LUPRON DEPOT (3 MONTH) INTRAMUSCULAR SYRINGE KIT 11.25 MG
+1115473 LUPRON DEPOT-PED (3 MONTH) INTRAMUSCULAR SYRINGE KIT 11.25 MG, 30 MG
+1115698 oseltamivir oral suspension for reconstitution 6 mg/mL
+1115730 PROCORT RECTAL CREAM 1.85-1.15 %
+1117531 chloroquine phosphate oral tablet 250 mg, 500 mg
+1119570 VITAFOL-OB+DHA ORAL COMBO PACK 65-1-250 MG
+1145932 ORENCIA SUBCUTANEOUS SYRINGE 125 MG/ML, 50 MG/0.4 ML, 87.5 MG/0.7 ML
+1147228 ZELBORAF ORAL TABLET 240 MG
+1147337 COMPLERA ORAL TABLET 200-25-300 MG
+1148141 ICATIBANT SUBCUTANEOUS SYRINGE 30 MG/3 ML
+1148502 XALKORI ORAL CAPSULE 200 MG, 250 MG
+1149370 NUCYNTA ER ORAL TABLET EXTENDED RELEASE 12 HR 100 MG, 150 MG, 200 MG, 250 MG, 50 MG
+1149617 SANTYL TOPICAL OINTMENT 250 UNIT/GRAM
+1149667 CAMRESE ORAL TABLETS,DOSE PACK,3 MONTH 0.15 MG- 30 MCG (84)/10 MCG (7)
+1150836 levobunolol ophthalmic (eye) drops 0.5 %
+1152113 ciprofloxacin-dexamethasone otic (ear) drops,suspension 0.3-0.1 %
+1154245 neomycin-polymyxin B-dexameth ophthalmic (eye) drops,suspension 3.5mg/mL-10,000 unit/mL-0.1 %
+1154524 tobramycin-dexamethasone ophthalmic (eye) drops,suspension 0.3-0.1 %
+1156888 neomycin-polymyxin-gramicidin ophthalmic (eye) drops 1.75 mg- 10,000 unit-0.025mg/mL
+1158842 azelastine nasal aerosol,spray 137 mcg (0.1 %)
+1159901 polymyxin B sulf-trimethoprim ophthalmic (eye) drops 10,000 unit- 1 mg/mL
+1166086 AZOPT OPHTHALMIC (EYE) DROPS,SUSPENSION 1 %
+1167174 ISTALOL OPHTHALMIC (EYE) DROPS, ONCE DAILY 0.5 %
+1169218 ALREX OPHTHALMIC (EYE) DROPS,SUSPENSION 0.2 %
+1170896 CIPRO HC OTIC (EAR) DROPS,SUSPENSION 0.2-1 %
+1170903 CIPRODEX OTIC (EAR) DROPS,SUSPENSION 0.3-0.1 %
+1172220 BESIVANCE OPHTHALMIC (EYE) DROPS,SUSPENSION 0.6 %
+1173615 BETOPTIC S OPHTHALMIC (EYE) DROPS,SUSPENSION 0.25 %
+1179834 NATACYN OPHTHALMIC (EYE) DROPS,SUSPENSION 5 %
+1179834 NATACYN OPHTHALMIC (EYE) DROPS,SUSPENSION 5 %
+1180022 PROCRIT INJECTION SOLUTION 10,000 UNIT/ML, 2,000 UNIT/ML, 20,000 UNIT/ML, 3,000 UNIT/ML, 4,000 UNIT/ML, 40,000 UNIT/ML
+1180895 LOTEMAX OPHTHALMIC (EYE) DROPS,SUSPENSION 0.5 %
+1180895 LOTEMAX OPHTHALMIC (EYE) DROPS,GEL 0.5 %
+1182860 NEVANAC OPHTHALMIC (EYE) DROPS,SUSPENSION 0.1 %
+1186495 ZYLET OPHTHALMIC (EYE) DROPS,SUSPENSION 0.3-0.5 %
+1190225 COMBIVENT RESPIMAT INHALATION MIST 20-100 MCG/ACTUATION
+1190357 FERRIPROX ORAL TABLET 500 MG
+1190551 atropine injection syringe 0.05 mg/mL, 0.1 mg/mL
+1190551 atropine injection syringe 0.05 mg/mL, 0.1 mg/mL
+1190568 diphenoxylate-atropine oral liquid 2.5-0.025 mg/5 mL
+1190572 diphenoxylate-atropine oral tablet 2.5-0.025 mg
+1190655 atropine ophthalmic (eye) drops 1 %
+1190740 MOTOFEN ORAL TABLET 1-0.025 MG
+1190911 TENIVAC (PF) INTRAMUSCULAR SYRINGE 5-2 LF UNIT/0.5 ML
+1190916 TENIVAC (PF) INTRAMUSCULAR SUSPENSION 5 LF UNIT- 2 LF UNIT/0.5ML
+1191013 proparacaine ophthalmic (eye) drops 0.5 %
+1191250 naloxone injection syringe 1 mg/mL
+1191256 fluocinolone topical ointment 0.025 %
+1191267 CAPEX TOPICAL SHAMPOO 0.01 %
+1191299 fluocinolone acetonide oil otic (ear) drops 0.01 %
+1191302 fluocinolone topical cream 0.01 %, 0.025 %
+1191307 fluocinolone topical oil 0.01 %
+1191307 fluocinolone and shower cap scalp oil 0.01 %
+1191310 fluocinolone topical solution 0.01 %
+1193337 JAKAFI ORAL TABLET 10 MG, 15 MG, 20 MG, 5 MG
+1193353 JAKAFI ORAL TABLET 25 MG
+1234396 PRAMOSONE TOPICAL LOTION 1-1 %, 2.5-1 %
+1235049 hydrocortisone-pramoxine rectal cream 1-1 %, 2.5-1 %
+1235267 CAMRESE LO ORAL TABLETS,DOSE PACK,3 MONTH 0.10 MG-20 MCG (84)/10 MCG (7)
+1235591 ISENTRESS ORAL POWDER IN PACKET 100 MG
+1235591 ISENTRESS ORAL TABLET,CHEWABLE 100 MG, 25 MG
+1235874 PHILITH ORAL TABLET 0.4-35 MG-MCG
+1236632 PREZISTA ORAL SUSPENSION 100 MG/ML
+1242611 MYORISAN ORAL CAPSULE 10 MG, 20 MG, 30 MG, 40 MG
+1242786 Alyacen 1/35 (28) oral tablet 1-35 mg-mcg
+1242787 ALYACEN 7/7/7 (28) ORAL TABLET 0.5/0.75/1 MG- 35 MCG
+1242998 ERIVEDGE ORAL CAPSULE 150 MG
+1243010 INLYTA ORAL TABLET 1 MG, 5 MG
+1243026 JENTADUETO ORAL TABLET 2.5-1,000 MG, 2.5-500 MG, 2.5- 850 MG
+1243052 KALYDECO ORAL TABLET 150 MG
+1243326 VIREAD ORAL TABLET 150 MG, 200 MG, 250 MG, 300 MG
+1243326 VIREAD ORAL TABLET 150 MG, 200 MG, 250 MG, 300 MG
+1243346 VIREAD ORAL POWDER 40 MG/SCOOP (40 MG/GRAM)
+1243346 VIREAD ORAL POWDER 40 MG/SCOOP (40 MG/GRAM)
+1243585 flurbiprofen sodium ophthalmic (eye) drops 0.03 %
+1244214 budesonide oral capsule,delayed,extend.release 3 mg
+1244616 ZIOPTAN (PF) OPHTHALMIC (EYE) DROPPERETTE 0.0015 %
+1245003 PROMACTA ORAL TABLET 12.5 MG, 25 MG, 50 MG, 75 MG
+1245420 VYTORIN 10-10 ORAL TABLET 10-10 MG
+1245430 VYTORIN 10-20 ORAL TABLET 10-20 MG
+1245441 VYTORIN 10-40 ORAL TABLET 10-40 MG
+1245443 DIGOX ORAL TABLET 125 MCG (0.125 MG), 250 MCG (0.25 MG)
+1245449 VYTORIN 10-80 ORAL TABLET 10-80 MG
+1245919 MARLISSA (28) ORAL TABLET 0.15-0.03 MG
+1246304 budesonide-formoterol inhalation HFA aerosol inhaler 160-4.5 mcg/actuation, 80-4.5 mcg/actuation
+1246310 DULERA INHALATION HFA AEROSOL INHALER 100-5 MCG/ACTUATION, 200-5 MCG/ACTUATION, 50-5 MCG/ACTUATION
+1246317 SYMBICORT INHALATION HFA AEROSOL INHALER 160-4.5 MCG/ACTUATION, 80-4.5 MCG/ACTUATION
+1248057 promethazine-phenylephrine oral syrup 6.25-5 mg/5 mL
+1248057 PROMETHAZINE VC ORAL SYRUP 6.25-5 MG/5 ML
+1250490 hydrocortisone topical cream 0.5 %, 1 %, 2.5 %
+1250723 INTELENCE ORAL TABLET 25 MG
+1251192 KRISTALOSE ORAL PACKET 10 GRAM, 20 GRAM
+1251334 norethindrone ac-eth estradiol oral tablet 0.5-2.5 mg-mcg, 1-5 mg- mcg
+1251905 EDECRIN ORAL TABLET 25 MG
+1252016 VIORELE (28) ORAL TABLET 0.15-0.02 MGX21 /0.01 MG X 5
+1291082 hydrocortisone acetate rectal suppository 25 mg, 30 mg
+1291101 ANUCORT-HC RECTAL SUPPOSITORY 25 MG
+1292443 PROQUAD (PF) SUBCUTANEOUS SUSPENSION FOR RECONSTITUTION 10EXP3-4.3-3- 3.99 TCID50/0.5
+1292443 PROQUAD (PF) SUBCUTANEOUS SUSPENSION FOR RECONSTITUTION 10EXP3-4.3-3- 3.99 TCID50/0.5
+1292443 PROQUAD (PF) SUBCUTANEOUS SUSPENSION FOR RECONSTITUTION 10EXP3-4.3-3- 3.99 TCID50/0.5
+1292443 PROQUAD (PF) SUBCUTANEOUS SUSPENSION FOR RECONSTITUTION 10EXP3-4.3-3- 3.99 TCID50/0.5
+1292443 PROQUAD (PF) SUBCUTANEOUS SUSPENSION FOR RECONSTITUTION 10EXP3-4.3-3- 3.99 TCID50/0.5
+1292443 PROQUAD (PF) SUBCUTANEOUS SUSPENSION FOR RECONSTITUTION 10EXP3-4.3-3- 3.99 TCID50/0.5
+1292459 VARIVAX (PF) SUBCUTANEOUS SUSPENSION FOR RECONSTITUTION 1,350 UNIT/0.5 ML
+1292459 VARIVAX (PF) SUBCUTANEOUS SUSPENSION FOR RECONSTITUTION 1,350 UNIT/0.5 ML
+1292828 YF-VAX (PF) SUBCUTANEOUS SUSPENSION FOR RECONSTITUTION 10 EXP4.74 UNIT/0.5 ML
+1292828 YF-VAX (PF) SUBCUTANEOUS SUSPENSION FOR RECONSTITUTION 10 EXP4.74 UNIT/0.5 ML
+1293639 MIGERGOT RECTAL SUPPOSITORY 2-100 MG
+1293864 ERGOMAR SUBLINGUAL TABLET 2 MG
+1293943 CORTANE-B TOPICAL LOTION 1-1-0.1 %
+1296912 COMBIPATCH TRANSDERMAL PATCH SEMIWEEKLY 0.05- 0.14 MG/24 HR, 0.05-0.25 MG/24 HR
+1297357 LATUDA ORAL TABLET 120 MG, 20 MG, 40 MG, 60 MG
+1297753 betaxolol oral tablet 10 mg, 20 mg
+1298066 cyclopentolate ophthalmic (eye) drops 1 %, 2 %
+1298088 flurazepam oral capsule 15 mg, 30 mg
+1298088 flurazepam oral capsule 15 mg, 30 mg
+1298452 MENTAX TOPICAL CREAM 1 %
+1298857 maprotiline oral tablet 25 mg, 50 mg, 75 mg
+1299896 moexipril oral tablet 15 mg, 7.5 mg
+1299903 tiagabine oral tablet 12 mg, 16 mg
+1299911 tiagabine oral tablet 2 mg, 4 mg
+1299967 GABITRIL ORAL TABLET 12 MG, 16 MG
+1300310 DAPTACEL (DTAP PEDIATRIC) (PF) INTRAMUSCULAR SUSPENSION 15-10-5 LF-MCG-LF/0.5ML
+1300378 BOOSTRIX TDAP INTRAMUSCULAR SYRINGE 2.5-8-5 LF- MCG-LF/0.5ML
+1300378 BOOSTRIX TDAP INTRAMUSCULAR SUSPENSION 2.5-8-5 LF-MCG-LF/0.5ML
+1300386 INFANRIX (DTAP) (PF) INTRAMUSCULAR SYRINGE 25-58-10 LF-MCG-LF/0.5ML
+1300468 ACTHIB (PF) INTRAMUSCULAR RECON SOLN 10 MCG/0.5 ML
+1300538 DASETTA 1/35 (28) ORAL TABLET 1-35 MG-MCG
+1300783 IXIARO (PF) INTRAMUSCULAR SYRINGE 6 MCG/0.5 ML
+1300911 WERA (28) ORAL TABLET 0.5-35 MG-MCG
+1304979 icosapent ethyl oral capsule 1 gram
+1304988 FALMINA (28) ORAL TABLET 0.1-20 MG-MCG
+1305089 ELINEST ORAL TABLET 0.3-30 MG-MCG
+1306298 STRIBILD ORAL TABLET 150-150-200-300 MG
+1307061 buprenorphine-naloxone sublingual film 12-3 mg
+1307309 XTANDI ORAL CAPSULE 40 MG
+1307415 LINZESS ORAL CAPSULE 145 MCG, 290 MCG
+1307415 LINZESS ORAL CAPSULE 145 MCG, 290 MCG
+1307630 BOSULIF ORAL TABLET 100 MG
+1310531 AUBAGIO ORAL TABLET 14 MG, 7 MG
+1311535 TRI-LINYAH ORAL TABLET 0.18/0.215/0.25 MG-35 MCG (28)
+1312408 STIVARGA ORAL TABLET 40 MG
+1312492 BD ULTRA-FINE NANO PEN NEEDLE NEEDLE 32 GAUGE X 5/32"
+1312492 BD ULTRA-FINE MICRO PEN NEEDLE NEEDLE 32 GAUGE X 1/4"
+1312492 BD ULTRA-FINE ORIG PEN NEEDLE NEEDLE 29 GAUGE X 1/2"
+1312492 BD ULTRA-FINE SHORT PEN NEEDLE NEEDLE 31 GAUGE X 5/16"
+1312492 BD ULTRA-FINE MINI PEN NEEDLE NEEDLE 31 GAUGE X 3/16"
+1356074 KURVELO (28) ORAL TABLET 0.15-0.03 MG
+1356563 FYCOMPA ORAL TABLET 2 MG
+1356584 FYCOMPA ORAL TABLET 10 MG, 12 MG, 4 MG, 6 MG, 8 MG
+1356673 ULESFIA TOPICAL LOTION 5 %
+1357010 brompheniramine-pseudoeph-DM oral syrup 2-30-10 mg/5 mL
+1357547 XELJANZ ORAL TABLET 5 MG
+1358610 methylprednisolone acetate injection suspension 40 mg/mL, 80 mg/mL
+1358763 norethindrone-e.estradiol-iron oral tablet 1 mg-20 mcg (21)/75 mg (7)
+1358765 JUNEL FE 1/20 (28) ORAL TABLET 1 MG-20 MCG (21)/75 MG (7)
+1358775 MICROGESTIN FE 1/20 (28) ORAL TABLET 1 MG-20 MCG (21)/75 MG (7)
+1358776 norethindrone ac-eth estradiol oral tablet 1-20 mg-mcg
+1358780 JUNEL 1/20 (21) ORAL TABLET 1-20 MG-MCG
+1358993 BROMFED DM ORAL SYRUP 2-30-10 MG/5 ML
+1359020 MICROGESTIN 1/20 (21) ORAL TABLET 1-20 MG-MCG
+1359025 JUNEL FE 1.5/30 (28) ORAL TABLET 1.5 MG-30 MCG (21)/75 MG (7)
+1359027 MICROGESTIN FE 1.5/30 (28) ORAL TABLET 1.5 MG-30 MCG (21)/75 MG (7)
+1359030 JUNEL 1.5/30 (21) ORAL TABLET 1.5-30 MG-MCG
+1359032 MICROGESTIN 1.5/30 (21) ORAL TABLET 1.5-30 MG-MCG
+1359124 estradiol-norethindrone acet oral tablet 0.5-0.1 mg, 1-0.5 mg
+1359129 MIMVEY ORAL TABLET 1-0.5 MG
+1359134 TILIA FE ORAL TABLET 1-20(5)/1-30(7) /1MG-35MCG (9)
+1362706 mexiletine oral capsule 150 mg, 200 mg, 250 mg
+1363279 COMETRIQ ORAL CAPSULE 60 MG/DAY (20 MG X 3/DAY)
+1363279 COMETRIQ ORAL CAPSULE 100 MG/DAY(80 MG X1-20 MG X1)
+1363408 COMETRIQ ORAL CAPSULE 140 MG/DAY(80 MG X1-20 MG X3)
+1364358 ICLUSIG ORAL TABLET 15 MG
+1364362 ICLUSIG ORAL TABLET 45 MG
+1364441 ELIQUIS ORAL TABLET 2.5 MG, 5 MG
+1364848 CHATEAL (28) ORAL TABLET 0.15-0.03 MG
+1365865 ILEVRO OPHTHALMIC (EYE) DROPS,SUSPENSION 0.3 %
+1365899 MONO-LINYAH ORAL TABLET 0.25-35 MG-MCG
+1365979 VARIZIG INTRAMUSCULAR SOLUTION 125 UNIT/1.2 ML
+1365980 MULTI-VITAMIN WITH FLUORIDE ORAL DROPS 0.25 MG/ML, 0.5 MG/ML
+1366192 clobazam oral suspension 2.5 mg/mL
+1366549 budesonide oral tablet,delayed and ext.release 9 mg
+1367439 NUVARING VAGINAL RING 0.12-0.015 MG/24 HR
+1369724 POMALYST ORAL CAPSULE 1 MG, 2 MG, 3 MG, 4 MG
+1369737 ESTARYLLA ORAL TABLET 0.25-35 MG-MCG
+1370750 hydrocortisone valerate topical ointment 0.2 %
+1370754 hydrocortisone valerate topical cream 0.2 %
+1370758 hydrocortisone butyrate topical ointment 0.1 %
+1370765 LOCOID TOPICAL LOTION 0.1 %
+1370767 hydrocortisone butyrate topical solution 0.1 %
+1370770 hydrocortisone butyr-emollient topical cream 0.1 %
+1372706 JENTADUETO XR ORAL TABLET, IR - ER, BIPHASIC 24HR 2.5-1,000 MG, 5-1,000 MG
+1373333 ZENATANE ORAL CAPSULE 10 MG, 20 MG, 30 MG, 40 MG
+1373483 dimethyl fumarate oral capsule,delayed release(DR/EC) 120 mg (14)- 240 mg (46)
+1373483 dimethyl fumarate oral capsule,delayed release(DR/EC) 120 mg
+1373483 dimethyl fumarate oral capsule,delayed release(DR/EC) 240 mg
+1373484 TECFIDERA ORAL CAPSULE,DELAYED RELEASE(DR/EC) 120 MG, 120 MG (14)- 240 MG (46), 240 MG
+1373745 nevirapine oral tablet extended release 24 hr 100 mg, 400 mg
+1421455 SIMBRINZA OPHTHALMIC (EYE) DROPS,SUSPENSION 1-0.2 %
+1422081 ENSKYCE ORAL TABLET 0.15-0.03 MG
+1422896 JENCYCLA ORAL TABLET 0.35 MG
+1423123 DAYSEE ORAL TABLETS,DOSE PACK,3 MONTH 0.15 MG-30 MCG (84)/10 MCG (7)
+1425110 MEKINIST ORAL TABLET 0.5 MG
+1425118 MEKINIST ORAL TABLET 2 MG
+1425228 TAFINLAR ORAL CAPSULE 50 MG, 75 MG
+1426601 MINASTRIN 24 FE ORAL TABLET,CHEWABLE 1 MG-20 MCG(24) /75 MG (4)
+1426881 MY WAY ORAL TABLET 1.5 MG
+1426881 MY WAY ORAL TABLET 1.5 MG
+1427300 PIRMELLA ORAL TABLET 1-35 MG-MCG
+1427300 PIRMELLA ORAL TABLET 0.5/0.75/1 MG- 35 MCG
+1428933 ORSYTHIA ORAL TABLET 0.1-20 MG-MCG
+1430383 LYZA ORAL TABLET 0.35 MG
+1430449 GILOTRIF ORAL TABLET 20 MG, 30 MG, 40 MG
+1433887 fenofibric acid (choline) oral capsule,delayed release(DR/EC) 45 mg
+1433887 fenofibric acid (choline) oral capsule,delayed release(DR/EC) 135 mg
+1435117 FORTEO SUBCUTANEOUS PEN INJECTOR 20 MCG/DOSE (600MCG/2.4ML)
+1437702 ipratropium-albuterol inhalation solution for nebulization 0.5 mg-3 mg(2.5 mg base)/3 mL
+1437713 VALCHLOR TOPICAL GEL 0.016 %
+1437966 PAROEX ORAL RINSE MUCOUS MEMBRANE MOUTHWASH 0.12 %
+1437968 cyclophosphamide oral capsule 25 mg, 50 mg
+1437968 cyclophosphamide oral capsule 25 mg, 50 mg
+1438778 PIMTREA (28) ORAL TABLET 0.15-0.02 MGX21 /0.01 MG X 5
+1439894 ADEMPAS ORAL TABLET 0.5 MG, 1 MG, 1.5 MG, 2 MG, 2.5 MG
+1440183 LARIN FE 1/20 (28) ORAL TABLET 1 MG-20 MCG (21)/75 MG (7)
+1440185 AUBRA ORAL TABLET 0.1-20 MG-MCG
+1440936 PROCTOZONE-HC TOPICAL CREAM WITH PERINEAL APPLICATOR 2.5 %
+1440936 PROCTOZONE-HC TOPICAL CREAM WITH PERINEAL APPLICATOR 2.5 %
+1440937 LARIN FE 1.5/30 (28) ORAL TABLET 1.5 MG-30 MCG (21)/75 MG (7)
+1441530 ACTEMRA SUBCUTANEOUS SYRINGE 162 MG/0.9 ML
+1441740 DUAVEE ORAL TABLET 0.45-20 MG
+1442992 IMBRUVICA ORAL CAPSULE 140 MG
+1442992 IMBRUVICA ORAL CAPSULE 140 MG
+1482513 APTIOM ORAL TABLET 200 MG, 400 MG, 600 MG, 800 MG
+1482814 SIMPONI SUBCUTANEOUS PEN INJECTOR 100 MG/ML, 50 MG/0.5 ML
+1482814 SIMPONI SUBCUTANEOUS SYRINGE 100 MG/ML, 50 MG/0.5 ML
+1482821 HORIZANT ORAL TABLET EXTENDED RELEASE 300 MG, 600 MG
+1483744 naltrexone oral tablet 50 mg
+1485332 VYFEMLA (28) ORAL TABLET 0.4-35 MG-MCG
+1486452 WYMZYA FE ORAL TABLET,CHEWABLE 0.4MG-35MCG(21) AND 75 MG (7)
+1486496 TYPHIM VI INTRAMUSCULAR SYRINGE 25 MCG/0.5 ML
+1486691 KUVAN ORAL TABLET,SOLUBLE 100 MG
+1486977 FARXIGA ORAL TABLET 10 MG, 5 MG
+1487086 LARIN 1/20 (21) ORAL TABLET 1-20 MG-MCG
+1487288 ENDOCET ORAL TABLET 2.5-325 MG, 5-325 MG, 7.5-325 MG
+1487288 ENDOCET ORAL TABLET 2.5-325 MG, 5-325 MG, 7.5-325 MG
+1487361 glatiramer subcutaneous syringe 40 mg/mL
+1487363 COPAXONE SUBCUTANEOUS SYRINGE 40 MG/ML
+1487524 ANORO ELLIPTA INHALATION BLISTER WITH DEVICE 62.5- 25 MCG/ACTUATION
+1490026 droxidopa oral capsule 100 mg, 200 mg, 300 mg
+1490063 TAKE ACTION ORAL TABLET 1.5 MG
+1490065 raloxifene oral tablet 60 mg
+1492047 NOXAFIL INTRAVENOUS SOLUTION 300 MG/16.7 ML
+1492746 OTEZLA ORAL TABLET 30 MG
+1492746 OTEZLA ORAL TABLET 30 MG
+1492748 OTEZLA STARTER ORAL TABLETS,DOSE PACK 10 MG (4)- 20 MG (4)-30 MG (47), 10 MG (4)-20 MG (4)-30 MG(19)
+1492748 OTEZLA STARTER ORAL TABLETS,DOSE PACK 10 MG (4)- 20 MG (4)-30 MG (47), 10 MG (4)-20 MG (4)-30 MG(19)
+1495315 GRASTEK SUBLINGUAL TABLET 2,800 BAU
+1495470 RAGWITEK SUBLINGUAL TABLET 12 AMB A 1 UNIT
+1536144 ASMANEX HFA INHALATION HFA AEROSOL INHALER 100 MCG/ACTUATION, 200 MCG/ACTUATION, 50 MCG/ACTUATION
+1536586 XULANE TRANSDERMAL PATCH WEEKLY 150-35 MCG/24 HR
+1537045 ZONTIVITY ORAL TABLET 2.08 MG
+1537209 LARIN 1.5/30 (21) ORAL TABLET 1.5-30 MG-MCG
+1539891 BREO ELLIPTA INHALATION BLISTER WITH DEVICE 100-25 MCG/DOSE, 200-25 MCG/DOSE
+1539953 DEBLITANE ORAL TABLET 0.35 MG
+1539955 SHAROBEL ORAL TABLET 0.35 MG
+1541099 CLODAN TOPICAL SHAMPOO 0.05 %
+1543553 NIKKI (28) ORAL TABLET 3-0.02 MG
+1544471 ZYDELIG ORAL TABLET 100 MG, 150 MG
+1545664 JARDIANCE ORAL TABLET 10 MG, 25 MG
+1545776 GLEOSTINE ORAL CAPSULE 10 MG, 100 MG, 40 MG
+1546083 STRIVERDI RESPIMAT INHALATION MIST 2.5 MCG/ACTUATION
+1546189 PLEGRIDY SUBCUTANEOUS SYRINGE 125 MCG/0.5 ML, 63 MCG/0.5 ML- 94 MCG/0.5 ML
+1546894 TRIUMEQ ORAL TABLET 600-50-300 MG
+1547110 BELSOMRA ORAL TABLET 10 MG, 15 MG, 20 MG, 5 MG
+1549091 OPCICON ONE-STEP ORAL TABLET 1.5 MG
+1549091 OPCICON ONE-STEP ORAL TABLET 1.5 MG
+1549683 XARELTO DVT-PE TREAT 30D START ORAL TABLETS,DOSE PACK 15 MG (42)- 20 MG (9)
+1550536 TARINA FE 1/20 (28) ORAL TABLET 1 MG-20 MCG (21)/75 MG (7)
+1550940 colchicine oral capsule 0.6 mg
+1551923 MOVANTIK ORAL TABLET 12.5 MG, 25 MG
+1551999 TYBOST ORAL TABLET 150 MG
+1552349 AKYNZEO (NETUPITANT) ORAL CAPSULE 300-0.5 MG
+1591943 LEDIPASVIR-SOFOSBUVIR ORAL TABLET 90-400 MG
+1591949 HARVONI ORAL TABLET 90-400 MG
+1592285 ESBRIET ORAL CAPSULE 267 MG
+1592713 XIGDUO XR ORAL TABLET, IR - ER, BIPHASIC 24HR 10-1,000 MG, 10-500 MG, 2.5-1,000 MG, 5-1,000 MG, 5-500 MG
+1593140 TRUMENBA INTRAMUSCULAR SYRINGE 120 MCG/0.5 ML
+1593858 VYVANSE ORAL CAPSULE 10 MG, 20 MG, 30 MG, 40 MG, 50 MG, 60 MG, 70 MG
+1596780 testosterone transdermal gel in metered-dose pump 12.5 mg/ 1.25 gram (1 %)
+1597099 GARDASIL 9 (PF) INTRAMUSCULAR SUSPENSION 0.5 ML
+1597103 GARDASIL 9 (PF) INTRAMUSCULAR SYRINGE 0.5 ML
+1597123 testosterone transdermal gel in packet 1 % (25 mg/2.5gram)
+1597129 testosterone transdermal gel 50 mg/5 gram (1 %)
+1597129 testosterone transdermal gel in packet 1 % (50 mg/5 gram)
+1598658 AFTERA ORAL TABLET 1.5 MG
+1598989 REYATAZ ORAL POWDER IN PACKET 50 MG
+1599797 COSENTYX (2 SYRINGES) SUBCUTANEOUS SYRINGE 150 MG/ML
+1599797 COSENTYX SUBCUTANEOUS SYRINGE 150 MG/ML, 75 MG/0.5 ML
+1600602 ECONTRA EZ ORAL TABLET 1.5 MG
+1600602 ECONTRA EZ ORAL TABLET 1.5 MG
+1600710 PREZCOBIX ORAL TABLET 800-150 MG-MG
+1600710 PREZCOBIX ORAL TABLET 800-150 MG-MG
+1601386 IBRANCE ORAL CAPSULE 100 MG, 125 MG, 75 MG
+1601407 BEXSERO INTRAMUSCULAR SYRINGE 50-50-50-25 MCG/0.5 ML
+1601660 EVOTAZ ORAL TABLET 300-150 MG
+1601660 EVOTAZ ORAL TABLET 300-150 MG
+1602115 GLYXAMBI ORAL TABLET 10-5 MG, 25-5 MG
+1603361 FARYDAK ORAL CAPSULE 10 MG, 15 MG, 20 MG
+1603861 ASHLYNA ORAL TABLETS,DOSE PACK,3 MONTH 0.15 MG- 30 MCG (84)/10 MCG (7)
+1604544 TOUJEO SOLOSTAR U-300 INSULIN SUBCUTANEOUS INSULIN PEN 300 UNIT/ML (1.5 ML)
+1604544 TOUJEO MAX U-300 SOLOSTAR SUBCUTANEOUS INSULIN PEN 300 UNIT/ML (3 ML)
+1605086 JULEBER ORAL TABLET 0.15-0.03 MG
+1605091 LARIN 24 FE ORAL TABLET 1 MG-20 MCG (24)/75 MG (4)
+1605257 LILETTA INTRAUTERINE INTRAUTERINE DEVICE 20.1 MCG/24 HRS (6 YRS) 52 MG
+1605852 ROSULA CLEANSING CLOTHS TOPICAL PADS, MEDICATED 10-5 %
+1606866 KALYDECO ORAL GRANULES IN PACKET 50 MG, 75 MG
+1607783 deferasirox oral tablet, dispersible 125 mg, 250 mg, 500 mg
+1607808 QUADRACEL (PF) INTRAMUSCULAR SUSPENSION 15 LF-48 MCG- 5 LF UNIT/0.5ML
+1648755 nitrofurantoin macrocrystal oral capsule 100 mg, 50 mg
+1648755 nitrofurantoin monohyd/m-cryst oral capsule 100 mg
+1648755 nitrofurantoin monohyd/m-cryst oral capsule 100 mg
+1648755 nitrofurantoin macrocrystal oral capsule 100 mg, 50 mg
+1649593 PLEGRIDY SUBCUTANEOUS PEN INJECTOR 125 MCG/0.5 ML, 63 MCG/0.5 ML- 94 MCG/0.5 ML
+1649946 NEUPOGEN INJECTION SOLUTION 300 MCG/ML, 480 MCG/1.6 ML
+1649988 doxycycline hyclate oral capsule 100 mg, 50 mg
+1649988 doxycycline monohydrate oral capsule 100 mg, 50 mg
+1649996 REBIF REBIDOSE SUBCUTANEOUS PEN INJECTOR 22 MCG/0.5 ML, 44 MCG/0.5 ML
+1650142 doxycycline hyclate oral tablet 100 mg
+1650142 doxycycline monohydrate oral tablet 100 mg, 50 mg, 75 mg
+1650201 LAYOLIS FE ORAL TABLET,CHEWABLE 0.8MG-25MCG(24) AND 75 MG (4)
+1650901 AVONEX INTRAMUSCULAR PEN INJECTOR 30 MCG/0.5 ML
+1650901 AVONEX INTRAMUSCULAR PEN INJECTOR KIT 30 MCG/0.5 ML
+1651275 STIOLTO RESPIMAT INHALATION MIST 2.5-2.5 MCG/ACTUATION
+1652084 JUNEL FE 24 ORAL TABLET 1 MG-20 MCG (24)/75 MG (4)
+1653196 insulin aspart U-100 subcutaneous cartridge 100 unit/mL
+1653198 NOVOLOG PENFILL U-100 INSULIN SUBCUTANEOUS CARTRIDGE 100 UNIT/ML
+1653202 insulin aspart U-100 subcutaneous insulin pen 100 unit/mL (3 mL)
+1653204 NOVOLOG FLEXPEN U-100 INSULIN SUBCUTANEOUS INSULIN PEN 100 UNIT/ML (3 ML)
+1653225 ENBREL SURECLICK SUBCUTANEOUS PEN INJECTOR 50 MG/ML (1 ML)
+1653225 ENBREL SURECLICK SUBCUTANEOUS PEN INJECTOR 50 MG/ML (1 ML)
+1653243 COSENTYX PEN SUBCUTANEOUS PEN INJECTOR 150 MG/ML
+1653243 COSENTYX PEN (2 PENS) SUBCUTANEOUS PEN INJECTOR 150 MG/ML
+1654079 STELARA SUBCUTANEOUS SYRINGE 45 MG/0.5 ML
+1654079 STELARA SUBCUTANEOUS SOLUTION 45 MG/0.5 ML
+1654630 GLATOPA SUBCUTANEOUS SYRINGE 20 MG/ML
+1654862 insulin syringe-needle U-100 syringe 0.3 mL 29 gauge, 1 mL 29 gauge x 1/2", 1/2 mL 28 gauge
+1654862 insulin syringe-needle U-100 syringe 0.3 mL 29 gauge, 1 mL 29 gauge x 1/2", 1/2 mL 28 gauge
+1655062 HPR PLUS TOPICAL FOAM
+1655728 HUMIRA PEN CROHNS-UC-HS START SUBCUTANEOUS PEN INJECTOR KIT 40 MG/0.8 ML
+1655728 HUMIRA PEN SUBCUTANEOUS PEN INJECTOR KIT 40 MG/0.8 ML
+1655728 HUMIRA PEN SUBCUTANEOUS PEN INJECTOR KIT 40 MG/0.8 ML
+1655728 HUMIRA PEN PSOR-UVEITS-ADOL HS SUBCUTANEOUS PEN INJECTOR KIT 40 MG/0.8 ML
+1655728 HUMIRA PEN SUBCUTANEOUS PEN INJECTOR KIT 40 MG/0.8 ML
+1655728 HUMIRA PEN CROHNS-UC-HS START SUBCUTANEOUS PEN INJECTOR KIT 40 MG/0.8 ML
+1655728 HUMIRA PEN CROHNS-UC-HS START SUBCUTANEOUS PEN INJECTOR KIT 40 MG/0.8 ML
+1655728 HUMIRA PEN PSOR-UVEITS-ADOL HS SUBCUTANEOUS PEN INJECTOR KIT 40 MG/0.8 ML
+1655728 HUMIRA PEN PSOR-UVEITS-ADOL HS SUBCUTANEOUS PEN INJECTOR KIT 40 MG/0.8 ML
+1655960 methotrexate sodium (PF) injection solution 25 mg/mL
+1655960 methotrexate sodium (PF) injection solution 25 mg/mL
+1656346 ENTRESTO ORAL TABLET 24-26 MG, 49-51 MG, 97-103 MG
+1657151 sumatriptan succinate subcutaneous pen injector 6 mg/0.5 mL
+1658106 VAQTA (PF) INTRAMUSCULAR SUSPENSION 25 UNIT/0.5 ML, 50 UNIT/ML
+1658150 RECOMBIVAX HB (PF) INTRAMUSCULAR SYRINGE 10 MCG/ML, 5 MCG/0.5 ML
+1658150 RECOMBIVAX HB (PF) INTRAMUSCULAR SUSPENSION 10 MCG/ML, 40 MCG/ML, 5 MCG/0.5 ML
+1658157 ENGERIX-B (PF) INTRAMUSCULAR SYRINGE 20 MCG/ML
+1658157 ENGERIX-B (PF) INTRAMUSCULAR SUSPENSION 20 MCG/ML
+1658472 PNEUMOVAX-23 INJECTION SYRINGE 25 MCG/0.5 ML
+1658472 PNEUMOVAX-23 INJECTION SOLUTION 25 MCG/0.5 ML
+1659927 ODOMZO ORAL CAPSULE 200 MG
+1660690 CYRED ORAL TABLET 0.15-0.03 MG
+1661092 SETLAKIN ORAL TABLETS,DOSE PACK,3 MONTH 0.15 MG- 30 MCG (91)
+1661424 sodium chloride 0.9 % (flush) injection syringe
+1664316 SYNJARDY XR ORAL TABLET, IR - ER, BIPHASIC 24HR 10- 1,000 MG, 12.5-1,000 MG, 25-1,000 MG, 5-1,000 MG
+1664325 SYNJARDY ORAL TABLET 12.5-1,000 MG, 12.5-500 MG, 5- 1,000 MG, 5-500 MG
+1665021 ceftriaxone injection recon soln 1 gram, 10 gram, 2 gram, 250 mg, 500 mg
+1665050 cefazolin injection recon soln 1 gram, 300 g, 500 mg
+1665449 cefuroxime sodium injection recon soln 750 mg
+1665900 REPATHA SURECLICK SUBCUTANEOUS PEN INJECTOR 140 MG/ML
+1665906 REPATHA SYRINGE SUBCUTANEOUS SYRINGE 140 MG/ML
+1666334 BRILINTA ORAL TABLET 60 MG, 90 MG
+1667882 SPIRIVA RESPIMAT INHALATION MIST 1.25 MCG/ACTUATION, 2.5 MCG/ACTUATION
+1670016 TRESIBA FLEXTOUCH U-100 SUBCUTANEOUS INSULIN PEN 100 UNIT/ML (3 ML)
+1670023 TRESIBA FLEXTOUCH U-200 SUBCUTANEOUS INSULIN PEN 200 UNIT/ML (3 ML)
+1670322 LONSURF ORAL TABLET 15-6.14 MG, 20-8.19 MG
+1673274 ARISTADA INTRAMUSCULAR SUSPENSION,EXTENDED REL SYRING 1,064 MG/3.9 ML, 441 MG/1.6 ML, 662 MG/2.4 ML, 882 MG/3.2 ML
+1673373 VARUBI ORAL TABLET 90 MG
+1719766 VIBERZI ORAL TABLET 100 MG, 75 MG
+1721571 TAGRISSO ORAL TABLET 40 MG
+1721583 TAGRISSO ORAL TABLET 80 MG
+1721619 GENVOYA ORAL TABLET 150-150-200-10 MG
+1722376 COTELLIC ORAL TABLET 20 MG
+1722680 BLISOVI 24 FE ORAL TABLET 1 MG-20 MCG (24)/75 MG (4)
+1723478 PRADAXA ORAL CAPSULE 110 MG, 150 MG, 75 MG
+1723763 NINLARO ORAL CAPSULE 2.3 MG, 3 MG, 4 MG
+1724439 NP THYROID ORAL TABLET 30 MG, 60 MG, 90 MG
+1724668 aminophylline intravenous solution 250 mg/10 mL
+1724801 BLISOVI FE 1/20 (28) ORAL TABLET 1 MG-20 MCG (21)/75 MG (7)
+1727485 ALECENSA ORAL CAPSULE 150 MG
+1734683 ertapenem injection recon soln 1 gram
+1737449 pamidronate intravenous solution 30 mg/10 mL (3 mg/mL), 60 mg/10 mL (6 mg/mL), 90 mg/10 mL (9 mg/mL)
+1737459 pamidronate intravenous recon soln 30 mg, 90 mg
+1738483 paroxetine HCl oral tablet 10 mg, 20 mg, 30 mg, 40 mg
+1738803 paroxetine HCl oral tablet extended release 24 hr 12.5 mg
+1738805 paroxetine HCl oral tablet extended release 24 hr 25 mg, 37.5 mg
+1741049 XELJANZ XR ORAL TABLET EXTENDED RELEASE 24 HR 11 MG, 22 MG
+1741049 XELJANZ XR ORAL TABLET EXTENDED RELEASE 24 HR 11 MG
+1741739 ODEFSEY ORAL TABLET 200-25-25 MG
+1744003 TRUVADA ORAL TABLET 100-150 MG, 133-200 MG, 167-250 MG, 200-300 MG
+1745091 lidocaine topical adhesive patch,medicated 5 %
+1745108 TALTZ AUTOINJECTOR (3 PACK) SUBCUTANEOUS AUTO- INJECTOR 80 MG/ML
+1745108 TALTZ AUTOINJECTOR (2 PACK) SUBCUTANEOUS AUTO- INJECTOR 80 MG/ML
+1745108 TALTZ AUTOINJECTOR SUBCUTANEOUS AUTO-INJECTOR 80 MG/ML
+1745114 TALTZ SYRINGE SUBCUTANEOUS SYRINGE 80 MG/ML
+1747577 VENCLEXTA ORAL TABLET 10 MG, 100 MG, 50 MG
+1747580 VENCLEXTA STARTING PACK ORAL TABLETS,DOSE PACK 10 MG-50 MG- 100 MG
+1747697 DESCOVY ORAL TABLET 200-25 MG
+1790126 FYCOMPA ORAL SUSPENSION 0.5 MG/ML
+1790167 CABOMETYX ORAL TABLET 20 MG, 60 MG
+1790171 CABOMETYX ORAL TABLET 40 MG
+1790528 XTAMPZA ER ORAL CAP,SPRINKL,ER12HR(DONT CRUSH) 13.5 MG, 18 MG, 27 MG, 36 MG, 9 MG
+1790886 TRINTELLIX ORAL TABLET 10 MG, 20 MG, 5 MG
+1791501 IDAMYCIN PFS INTRAVENOUS SOLUTION 1 MG/ML
+1791736 fluorouracil intravenous solution 1 gram/20 mL, 2.5 gram/50 mL, 5 gram/100 mL, 500 mg/10 mL
+1796079 TIVICAY ORAL TABLET 10 MG, 25 MG, 50 MG
+1796538 LENVIMA ORAL CAPSULE 10 MG/DAY (10 MG X 1), 12 MG/DAY (4 MG X 3), 14 MG/DAY(10 MG X 1-4 MG X 1), 18 MG/DAY (10 MG X 1-4 MG X2), 20 MG/DAY (10 MG X 2), 24 MG/DAY(10 MG X 2-4 MG X 1), 4 MG, 8 MG/DAY (4 MG X 2)
+1797844 ipratropium bromide nasal spray,non-aerosol 21 mcg (0.03 %), 42 mcg (0.06 %)
+1797862 flunisolide nasal spray,non-aerosol 25 mcg (0.025 %)
+1797864 mometasone nasal spray,non-aerosol 50 mcg/actuation
+1797866 azelastine nasal spray,non-aerosol 205.5 mcg (0.15 %)
+1797880 SYNAREL NASAL SPRAY,NON-AEROSOL 2 MG/ML
+1797888 NICOTROL NS NASAL SPRAY,NON-AEROSOL 10 MG/ML
+1797894 olopatadine nasal spray,non-aerosol 0.6 %
+1797907 fluticasone propionate nasal spray,suspension 50 mcg/actuation
+1799212 SOFOSBUVIR-VELPATASVIR ORAL TABLET 400-100 MG
+1799218 EPCLUSA ORAL TABLET 400-100 MG
+1799230 ORENCIA CLICKJECT SUBCUTANEOUS AUTO-INJECTOR 125 MG/ML
+1799654 SPS (WITH SORBITOL) ORAL SUSPENSION 15-20 GRAM/60 ML
+1801279 CHOLESTYRAMINE LIGHT ORAL POWDER IN PACKET 4 GRAM
+1801280 CHOLESTYRAMINE LIGHT ORAL POWDER 4 GRAM
+1801283 FLUOCINONIDE-E TOPICAL CREAM 0.05 %
+1801289 bupropion HCl (smoking deter) oral tablet extended release 12 hr 150 mg
+1801295 KLOR-CON M20 ORAL TABLET,ER PARTICLES/CRYSTALS 20 MEQ
+1801298 potassium chloride oral tablet extended release 10 mEq, 20 mEq, 8 mEq
+1801299 KLOR-CON M10 ORAL TABLET,ER PARTICLES/CRYSTALS 10 MEQ
+1801322 REPATHA PUSHTRONEX SUBCUTANEOUS WEARABLE INJECTOR 420 MG/3.5 ML
+1803902 PEN NEEDLE NEEDLE 31 GAUGE X 5/16"
+1803902 PEN NEEDLE NEEDLE 31 GAUGE X 5/16"
+1806177 methylphenidate HCl oral capsule,ER biphasic 50-50 20 mg, 30 mg
+1806183 methylphenidate HCl oral capsule,ER biphasic 50-50 40 mg
+1807627 sodium chloride 0.9 % intravenous parenteral solution
+1807917 metformin oral tablet extended release 24 hr 500 mg
+1809665 GAMMAGARD LIQUID INJECTION SOLUTION 10 %
+1809905 TAYTULLA ORAL CAPSULE 1 MG-20 MCG (24)/75 MG (4)
+1811182 VASCEPA ORAL CAPSULE 0.5 GRAM, 1 GRAM
+1812011 nifedipine oral tablet extended release 30 mg, 60 mg, 90 mg
+1812079 dexamethasone sodium phos (PF) injection solution 10 mg/mL
+1812095 dexamethasone sodium phosphate injection syringe 4 mg/mL
+1812470 ORKAMBI ORAL TABLET 100-125 MG, 200-125 MG
+1860172 XULTOPHY 100/3.6 SUBCUTANEOUS INSULIN PEN 100 UNIT- 3.6 MG /ML (3 ML)
+1862595 RUBRACA ORAL TABLET 200 MG, 250 MG, 300 MG
+1865962 EUCRISA TOPICAL OINTMENT 2 %
+1867544 potassium chloride oral packet 20 mEq
+1867547 KLOR-CON ORAL PACKET 20 MEQ
+1868016 ESBRIET ORAL TABLET 267 MG, 801 MG
+1869699 LINZESS ORAL CAPSULE 72 MCG
+1869699 LINZESS ORAL CAPSULE 72 MCG
+1870189 MOVIPREP ORAL POWDER IN PACKET 100-7.5-2.691 GRAM
+1870225 epinephrine injection auto-injector 0.15 mg/0.15 mL, 0.3 mg/0.3 mL
+1872261 SILIQ SUBCUTANEOUS SYRINGE 210 MG/1.5 ML
+1872458 XERMELO ORAL TABLET 250 MG
+1872980 HUMIRA(CF) PEN SUBCUTANEOUS PEN INJECTOR KIT 40 MG/0.4 ML, 80 MG/0.8 ML
+1873087 HUMIRA(CF) PEDI CROHNS STARTER SUBCUTANEOUS SYRINGE KIT 80 MG/0.8 ML
+1873989 KISQALI ORAL TABLET 200 MG/DAY (200 MG X 1), 400 MG/DAY (200 MG X 2), 600 MG/DAY (200 MG X 3)
+1874553 desvenlafaxine succinate oral tablet extended release 24 hr 100 mg, 25 mg, 50 mg
+1874553 desvenlafaxine oral tablet extended release 24 hr 100 mg, 50 mg
+1875547 BAVENCIO INTRAVENOUS SOLUTION 20 MG/ML
+1876406 DUPIXENT SYRINGE SUBCUTANEOUS SYRINGE 300 MG/2 ML
+1876406 DUPIXENT SYRINGE SUBCUTANEOUS SYRINGE 300 MG/2 ML
+1876916 AUSTEDO ORAL TABLET 12 MG
+1876916 AUSTEDO ORAL TABLET 12 MG
+1876916 AUSTEDO ORAL TABLET 12 MG
+1876920 AUSTEDO ORAL TABLET 6 MG, 9 MG
+1876920 AUSTEDO ORAL TABLET 6 MG, 9 MG
+1876920 AUSTEDO ORAL TABLET 6 MG, 9 MG
+1918042 abiraterone oral tablet 500 mg
+1918044 ZYTIGA ORAL TABLET 500 MG
+1918242 ZEJULA ORAL CAPSULE 100 MG
+1919094 RYDAPT ORAL CAPSULE 25 MG
+1921010 HUMIRA(CF) SUBCUTANEOUS SYRINGE KIT 10 MG/0.1 ML
+1921017 HUMIRA(CF) SUBCUTANEOUS SYRINGE KIT 20 MG/0.2 ML, 40 MG/0.4 ML
+1921081 TYMLOS SUBCUTANEOUS PEN INJECTOR 80 MCG (3,120 MCG/1.56 ML)
+1921223 ALUNBRIG ORAL TABLETS,DOSE PACK 90 MG (7)- 180 MG (23)
+1921228 ALUNBRIG ORAL TABLET 30 MG
+1921240 HUMIRA(CF) PEN PSOR-UV-ADOL HS SUBCUTANEOUS PEN INJECTOR KIT 80 MG/0.8 ML-40 MG/0.4 ML
+1921240 HUMIRA(CF) PEN CROHNS-UC-HS SUBCUTANEOUS PEN INJECTOR KIT 80 MG/0.8 ML
+1921240 HUMIRA(CF) PEN PEDIATRIC UC SUBCUTANEOUS PEN INJECTOR KIT 80 MG/0.8 ML
+1921468 HUMIRA(CF) PEDI CROHNS STARTER SUBCUTANEOUS SYRINGE KIT 80 MG/0.8 ML-40 MG/0.4 ML
+1922720 SOTALOL AF ORAL TABLET 120 MG, 160 MG, 80 MG
+1922720 sotalol oral tablet 120 mg, 160 mg, 240 mg, 80 mg
+1922720 sotalol oral tablet 120 mg, 160 mg, 240 mg, 80 mg
+1922720 SOTALOL AF ORAL TABLET 120 MG, 160 MG, 80 MG
+1922783 dorzolamide (PF) ophthalmic (eye) drops 2 %
+1923054 KISQALI FEMARA CO-PACK ORAL TABLET 200 MG/DAY(200 MG X 1)-2.5 MG, 400 MG/DAY(200 MG X 2)-2.5 MG, 600 MG/DAY(200 MG X 3)-2.5 MG
+1923338 KEVZARA SUBCUTANEOUS SYRINGE 150 MG/1.14 ML, 200 MG/1.14 ML
+1923428 timolol maleate ophthalmic (eye) drops 0.25 %, 0.5 %
+1923432 dorzolamide-timolol ophthalmic (eye) drops 22.3-6.8 mg/mL
+1924315 ISENTRESS HD ORAL TABLET 600 MG
+1926069 NORVIR ORAL POWDER IN PACKET 100 MG
+1928689 TREMFYA SUBCUTANEOUS SYRINGE 100 MG/ML
+1928941 ENDARI ORAL POWDER IN PACKET 5 GRAM
+1939299 BENLYSTA SUBCUTANEOUS AUTO-INJECTOR 200 MG/ML
+1940372 IDHIFA ORAL TABLET 100 MG, 50 MG
+1940654 NERLYNX ORAL TABLET 40 MG
+1940709 MAVYRET ORAL TABLET 100-40 MG
+1942485 LYNPARZA ORAL TABLET 100 MG, 150 MG
+1942748 VYXEOS INTRAVENOUS RECON SOLN 44-100 MG
+1945044 TRELEGY ELLIPTA INHALATION BLISTER WITH DEVICE 100- 62.5-25 MCG, 200-62.5-25 MCG
+1945086 ALIQOPA INTRAVENOUS RECON SOLN 60 MG
+1945086 ALIQOPA INTRAVENOUS RECON SOLN 60 MG
+1945470 CAYA CONTOURED VAGINAL DIAPHRAGM 65-80 MM
+1945470 CAYA CONTOURED VAGINAL DIAPHRAGM 65-80 MM
+1946522 LUPRON DEPOT (4 MONTH) INTRAMUSCULAR SYRINGE KIT 30 MG
+1946772 methotrexate sodium injection solution 25 mg/mL
+1946772 methotrexate sodium injection solution 25 mg/mL
+1946840 VERZENIO ORAL TABLET 100 MG, 150 MG, 200 MG, 50 MG
+1986354 FIASP U-100 INSULIN SUBCUTANEOUS SOLUTION 100 UNIT/ML
+1986356 FIASP FLEXTOUCH U-100 INSULIN SUBCUTANEOUS INSULIN PEN 100 UNIT/ML (3 ML)
+1986819 CALQUENCE ORAL CAPSULE 100 MG
+1986830 SHINGRIX (PF) INTRAMUSCULAR SUSPENSION FOR RECONSTITUTION 50 MCG/0.5 ML
+1986830 SHINGRIX GE ANTIGEN COMPONENT INTRAMUSCULAR SUSPENSION FOR RECONSTITUTION 50 MCG
+1986889 VARUBI INTRAVENOUS EMULSION 166.5 MG/92.5 ML
+1987734 BOSULIF ORAL TABLET 400 MG, 500 MG
+1988772 ALUNBRIG ORAL TABLET 180 MG, 90 MG
+1989085 TRACLEER ORAL TABLET FOR SUSPENSION 32 MG
+1989506 JULUCA ORAL TABLET 50-25 MG
+1990869 BYDUREON BCISE SUBCUTANEOUS AUTO-INJECTOR 2 MG/0.85 ML
+1991311 OZEMPIC SUBCUTANEOUS PEN INJECTOR 0.25 MG OR 0.5 MG(2 MG/1.5 ML)
+1991509 CLENPIQ ORAL SOLUTION 10 MG-3.5 GRAM -12 GRAM/160 ML
+1992281 clobetasol-emollient topical cream 0.05 %
+1992428 ELIQUIS DVT-PE TREAT 30D START ORAL TABLETS,DOSE PACK 5 MG (74 TABS)
+1992691 SEGLUROMET ORAL TABLET 2.5-1,000 MG, 2.5-500 MG, 7.5- 1,000 MG, 7.5-500 MG
+1992821 STEGLATRO ORAL TABLET 15 MG, 5 MG
+1992873 RHOPRESSA OPHTHALMIC (EYE) DROPS 0.02 %
+1994362 IMBRUVICA ORAL CAPSULE 70 MG
+1999587 ERLEADA ORAL TABLET 60 MG
+1999668 BIKTARVY ORAL TABLET 50-200-25 MG
+2000007 GLATOPA SUBCUTANEOUS SYRINGE 40 MG/ML
+2000013 MAKENA (PF) SUBCUTANEOUS AUTO-INJECTOR 275 MG/1.1 ML
+2000019 IMBRUVICA ORAL TABLET 140 MG, 280 MG, 420 MG, 560 MG
+2000133 FIRVANQ ORAL RECON SOLN 25 MG/ML, 50 MG/ML
+2000134 vancomycin oral recon soln 50 mg/mL
+2001430 SYMFI LO ORAL TABLET 400-300-300 MG
+2003255 CIMDUO ORAL TABLET 300-300 MG
+2003757 KEVZARA SUBCUTANEOUS PEN INJECTOR 150 MG/1.14 ML, 200 MG/1.14 ML
+2043464 SYMFI ORAL TABLET 600-300-300 MG
+2044350 JYNARQUE ORAL TABLETS, SEQUENTIAL 45 MG (AM)/ 15 MG (PM), 60 MG (AM)/ 30 MG (PM), 90 MG (AM)/ 30 MG (PM)
+2044430 AKYNZEO (FOSNETUPITANT) INTRAVENOUS RECON SOLN 235-0.25 MG
+2044928 TAVALISSE ORAL TABLET 100 MG, 150 MG
+2045382 ARNUITY ELLIPTA INHALATION BLISTER WITH DEVICE 100 MCG/ACTUATION, 200 MCG/ACTUATION, 50 MCG/ACTUATION
+2045493 GILENYA ORAL CAPSULE 0.25 MG, 0.5 MG
+2046370 PALYNZIQ SUBCUTANEOUS SYRINGE 10 MG/0.5 ML, 2.5 MG/0.5 ML, 20 MG/ML
+2046585 YONSA ORAL TABLET 125 MG
+2047595 RETACRIT INJECTION SOLUTION 10,000 UNIT/ML, 2,000 UNIT/ML, 3,000 UNIT/ML, 4,000 UNIT/ML, 40,000 UNIT/ML
+2047882 testosterone cypionate intramuscular oil 200 mg/mL
+2048568 XELJANZ ORAL TABLET 10 MG, 5 MG
+2049117 BRAFTOVI ORAL CAPSULE 50 MG
+2049121 BRAFTOVI ORAL CAPSULE 75 MG
+2049133 MEKTOVI ORAL TABLET 15 MG
+2049343 ARISTADA INITIO INTRAMUSCULAR SUSPENSION,EXTENDED REL SYRING 675 MG/2.4 ML
+2049677 SYMTUZA ORAL TABLET 800-150-200-10 MG
+2049736 SIGNIFOR LAR INTRAMUSCULAR SUSPENSION FOR RECONSTITUTION 10 MG, 20 MG, 30 MG, 40 MG, 60 MG
+2049858 ORILISSA ORAL TABLET 150 MG
+2049862 ORILISSA ORAL TABLET 200 MG
+2049884 TIBSOVO ORAL TABLET 250 MG
+2053458 ILUMYA SUBCUTANEOUS SYRINGE 100 MG/ML
+2053512 ORKAMBI ORAL GRANULES IN PACKET 100-125 MG, 150- 188 MG
+2053927 LOKELMA ORAL POWDER IN PACKET 10 GRAM, 5 GRAM
+2054086 POTELIGEO INTRAVENOUS SOLUTION 4 MG/ML
+2054979 DIACOMIT ORAL CAPSULE 250 MG, 500 MG
+2054995 MULPLETA ORAL TABLET 3 MG
+2055008 ALTRENO TOPICAL LOTION 0.05 %
+2055650 TAKHZYRO SUBCUTANEOUS SOLUTION 300 MG/2 ML (150 MG/ML)
+2055668 PERSERIS ABDOMINAL SUBCUTANEOUS SUSPENSION,EXTENDED REL SYRING 120 MG, 90 MG
+2055766 PIFELTRO ORAL TABLET 100 MG
+2055815 DELSTRIGO ORAL TABLET 100-300-300 MG
+2056700 AJOVY SYRINGE SUBCUTANEOUS SYRINGE 225 MG/1.5 ML
+2058520 COPIKTRA ORAL CAPSULE 15 MG, 25 MG
+2058906 EPIDIOLEX ORAL SOLUTION 100 MG/ML
+2058922 VIZIMPRO ORAL TABLET 15 MG, 30 MG, 45 MG
+2058946 XOLAIR SUBCUTANEOUS SYRINGE 150 MG/ML, 75 MG/0.5 ML
+2058946 XOLAIR SUBCUTANEOUS RECON SOLN 150 MG
+2058981 PROMACTA ORAL POWDER IN PACKET 12.5 MG
+2099302 DUPIXENT SYRINGE SUBCUTANEOUS SYRINGE 200 MG/1.14 ML
+2099952 TALZENNA ORAL CAPSULE 0.25 MG
+2099956 TALZENNA ORAL CAPSULE 1 MG
+2100006 XOFLUZA ORAL TABLET 20 MG, 40 MG
+2100170 colestipol oral granules 5 gram
+2101899 sodium polystyrene sulfonate oral powder
+2102949 prochlorperazine Edisylate injection solution 10 mg/2 mL (5 mg/mL)
+2103175 LORBRENA ORAL TABLET 25 MG
+2103179 LORBRENA ORAL TABLET 100 MG
+2104341 OXERVATE OPHTHALMIC (EYE) DROPS 0.002 %
+2105645 VITRAKVI ORAL CAPSULE 100 MG, 25 MG
+2105817 XOSPATA ORAL TABLET 40 MG
+2105856 DAURISMO ORAL TABLET 100 MG
+2105860 DAURISMO ORAL TABLET 25 MG
+2106075 ACTEMRA ACTPEN SUBCUTANEOUS PEN INJECTOR 162 MG/0.9 ML
+2107518 FIRDAPSE ORAL TABLET 10 MG
+2107621 INBRIJA INHALATION CAPSULE 42 MG
+2107621 INBRIJA INHALATION CAPSULE, W/INHALATION DEVICE 42 MG
+2109064 ELZONRIS INTRAVENOUS SOLUTION 1,000 MCG/ML
+2109239 KRINTAFEL ORAL TABLET 150 MG
+2117659 tretinoin (emollient) topical cream 0.05 %
+2118741 TREMFYA SUBCUTANEOUS AUTO-INJECTOR 100 MG/ML
+2119715 HERCEPTIN HYLECTA SUBCUTANEOUS SOLUTION 600 MG- 10,000 UNIT/5 ML
+2120195 AIMOVIG AUTOINJECTOR SUBCUTANEOUS AUTO- INJECTOR 140 MG/ML, 70 MG/ML
+2121061 ZYKADIA ORAL TABLET 150 MG
+2121096 MAYZENT ORAL TABLET 0.25 MG
+2121100 MAYZENT ORAL TABLET 2 MG
+2122526 DOVATO ORAL TABLET 50-300 MG
+2122642 MAVENCLAD (9 TABLET PACK) ORAL TABLET 10 MG
+2122648 MAVENCLAD (8 TABLET PACK) ORAL TABLET 10 MG
+2122650 MAVENCLAD (7 TABLET PACK) ORAL TABLET 10 MG
+2122655 MAVENCLAD (6 TABLET PACK) ORAL TABLET 10 MG
+2122659 MAVENCLAD (4 TABLET PACK) ORAL TABLET 10 MG
+2122661 MAVENCLAD (5 TABLET PACK) ORAL TABLET 10 MG
+2122661 MAVENCLAD (10 TABLET PACK) ORAL TABLET 10 MG
+2123137 BALVERSA ORAL TABLET 3 MG, 4 MG, 5 MG
+2123190 EVENITY SUBCUTANEOUS SYRINGE 105 MG/1.17 ML, 210MG/2.34ML ( 105MG/1.17MLX2)
+2123194 tadalafil (pulm. hypertension) oral tablet 20 mg
+2166143 SKYRIZI SUBCUTANEOUS SYRINGE KIT 150MG/1.66ML(75 MG/0.83 ML X2)
+2166143 SKYRIZI SUBCUTANEOUS SYRINGE 75 MG/0.83 ML
+2168596 CORLANOR ORAL SOLUTION 5 MG/5 ML
+2169313 PIQRAY ORAL TABLET 200 MG/DAY (200 MG X 1)
+2169320 PIQRAY ORAL TABLET 250 MG/DAY (200 MG X1-50 MG X1), 300 MG/DAY (150 MG X 2)
+2170993 NUCALA SUBCUTANEOUS AUTO-INJECTOR 100 MG/ML
+2173500 NAYZILAM NASAL SPRAY,NON-AEROSOL 5 MG/SPRAY (0.1 ML)
+2173508 TODAY CONTRACEPTIVE SPONGE VAGINAL CONTRACEPTIVE SPONGE 1,000 MG
+2173841 SUNOSI ORAL TABLET 150 MG, 75 MG
+2178407 XPOVIO ORAL TABLET 80MG TWICE WEEK (160 MG/WEEK)
+2180336 NUBEQA ORAL TABLET 300 MG
+2183131 TURALIO ORAL CAPSULE 200 MG
+2196900 RINVOQ ORAL TABLET EXTENDED RELEASE 24 HR 15 MG
+2197501 INREBIC ORAL CAPSULE 100 MG
+2197844 lidocaine HCl laryngotracheal solution 4 %
+2197873 ROZLYTREK ORAL CAPSULE 100 MG
+2197877 ROZLYTREK ORAL CAPSULE 200 MG
+2197894 WAKIX ORAL TABLET 17.8 MG, 4.45 MG
+2199304 GVOKE HYPOPEN 1-PACK SUBCUTANEOUS AUTO- INJECTOR 0.5 MG/0.1 ML, 1 MG/0.2 ML
+2199308 GVOKE HYPOPEN 2-PACK SUBCUTANEOUS AUTO- INJECTOR 0.5 MG/0.1 ML, 1 MG/0.2 ML
+2199312 GVOKE PFS 1-PACK SYRINGE SUBCUTANEOUS SYRINGE 0.5 MG/0.1 ML, 1 MG/0.2 ML
+2199316 GVOKE PFS 2-PACK SYRINGE SUBCUTANEOUS SYRINGE 0.5 MG/0.1 ML, 1 MG/0.2 ML
+2200650 RYBELSUS ORAL TABLET 14 MG, 3 MG, 7 MG
+2201618 dihydroergotamine nasal spray,non-aerosol 0.5 mg/pump act. (4 mg/mL)
+2205474 OLUMIANT ORAL TABLET 1 MG, 2 MG
+2205634 FASENRA PEN SUBCUTANEOUS AUTO-INJECTOR 30 MG/ML
+2206092 NOVOLIN R REGULAR U-100 INSULN INJECTION SOLUTION 100 UNIT/ML
+2256943 REYVOW ORAL TABLET 100 MG, 50 MG
+2257013 TRIKAFTA ORAL TABLETS, SEQUENTIAL 100-50-75 MG(D) /150 MG (N)
+2261789 VUMERITY ORAL CAPSULE,DELAYED RELEASE(DR/EC) 231 MG
+2262446 BRUKINSA ORAL CAPSULE 80 MG
+2265729 SECUADO TRANSDERMAL PATCH 24 HOUR 3.8 MG/24 HOUR, 5.7 MG/24 HOUR, 7.6 MG/24 HOUR
+2267310 PARAGARD T 380A INTRAUTERINE INTRAUTERINE DEVICE 380 SQUARE MM
+2268227 UBRELVY ORAL TABLET 100 MG, 50 MG
+2272118 AYVAKIT ORAL TABLET 100 MG, 200 MG, 300 MG
+2272622 VALTOCO NASAL SPRAY,NON-AEROSOL 10 MG/SPRAY (0.1 ML), 15 MG/2 SPRAY (7.5/0.1ML X 2), 20 MG/2 SPRAY (10MG/0.1ML X2), 5 MG/SPRAY (0.1 ML)
+2274390 TAZVERIK ORAL TABLET 200 MG
+2275613 CAPLYTA ORAL CAPSULE 42 MG
+2282320 NURTEC ODT ORAL TABLET,DISINTEGRATING 75 MG
+2282414 NEXLETOL ORAL TABLET 180 MG
+2283236 NEXLIZET ORAL TABLET 180-10 MG
+2283505 XCOPRI ORAL TABLET 100 MG, 150 MG, 200 MG, 50 MG
+2283515 XCOPRI MAINTENANCE PACK ORAL TABLET 250MG/DAY(150 MG X1-100MG X1), 350 MG/DAY (200 MG X1- 150MG X1)
+2283538 XCOPRI TITRATION PACK ORAL TABLETS,DOSE PACK 12.5 MG (14)- 25 MG (14), 150 MG (14)- 200 MG (14), 50 MG (14)- 100 MG (14)
+2284104 IBRANCE ORAL TABLET 100 MG, 125 MG, 75 MG
+2287905 AJOVY AUTOINJECTOR SUBCUTANEOUS AUTO-INJECTOR 225 MG/1.5 ML
+2359280 TRIJARDY XR ORAL TABLET, IR - ER, BIPHASIC 24HR 10-5- 1,000 MG, 12.5-2.5-1,000 MG, 25-5-1,000 MG, 5-2.5-1,000 MG
+2371768 ORIAHNN ORAL CAPSULE, SEQUENTIAL 300-1-0.5MG(AM) /300 MG(PM)
+2375329 DUPIXENT PEN SUBCUTANEOUS PEN INJECTOR 300 MG/2 ML
+2380551 RUKOBIA ORAL TABLET EXTENDED RELEASE 12 HR 600 MG
+2381144 FINTEPLA ORAL SOLUTION 2.2 MG/ML
+2382990 XPOVIO ORAL TABLET 60MG TWICE WEEK (120 MG/WEEK)
+2384464 INQOVI ORAL TABLET 35-100 MG
+2387343 MONJUVI INTRAVENOUS RECON SOLN 200 MG
+2387843 BLENREP INTRAVENOUS RECON SOLN 100 MG
+2389849 VILTEPSO INTRAVENOUS SOLUTION 50 MG/ML
+2390946 EVRYSDI ORAL RECON SOLN 0.75 MG/ML
+2390954 KESIMPTA PEN SUBCUTANEOUS PEN INJECTOR 20 MG/0.4 ML
+2391560 ENSPRYNG SUBCUTANEOUS SYRINGE 120 MG/ML
+2392142 ENBREL SUBCUTANEOUS SOLUTION 25 MG/0.5 ML
+2394947 GAVRETO ORAL CAPSULE 100 MG
+2396770 ONUREG ORAL TABLET 200 MG, 300 MG
+2398842 OZEMPIC SUBCUTANEOUS PEN INJECTOR 1 MG/DOSE (4 MG/3 ML)
+2467158 OXLUMO SUBCUTANEOUS SOLUTION 94.5 MG/0.5 ML
+2472332 RIABNI INTRAVENOUS SOLUTION 10 MG/ML
+2472789 ORGOVYX ORAL TABLET 120 MG
+2474244 DANYELZA INTRAVENOUS SOLUTION 4 MG/ML
+2475406 LUPKYNIS ORAL CAPSULE 7.9 MG
+2475852 VERQUVO ORAL TABLET 10 MG, 2.5 MG, 5 MG
+2477272 TEPMETKO ORAL TABLET 225 MG
+2478437 XELJANZ ORAL SOLUTION 1 MG/ML
+2532159 fluoxetine oral tablet 10 mg
+2534244 FOTIVDA ORAL CAPSULE 0.89 MG, 1.34 MG
+2540695 SKYRIZI SUBCUTANEOUS PEN INJECTOR 150 MG/ML
+2540699 SKYRIZI SUBCUTANEOUS SYRINGE 150 MG/ML
+2549333 NEULASTA ONPRO SUBCUTANEOUS SYRINGE, W/ WEARABLE INJECTOR 6 MG/0.6 ML
+2570421 INVEGA HAFYERA INTRAMUSCULAR SYRINGE 1,092 MG/3.5 ML, 1,560 MG/5 ML
+2572293 RESTASIS OPHTHALMIC (EYE) DROPPERETTE 0.05 %
+2588066 XARELTO ORAL SUSPENSION FOR RECONSTITUTION 1 MG/ML
+2590054 RINVOQ ORAL TABLET EXTENDED RELEASE 24 HR 30 MG
+2594797 MAYZENT STARTER PACK ORAL TABLETS,DOSE PACK 0.25 MG (12 TABS)
