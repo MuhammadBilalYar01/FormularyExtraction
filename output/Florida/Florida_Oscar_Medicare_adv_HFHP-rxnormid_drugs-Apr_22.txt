@@ -1,0 +1,2346 @@
+-1 D10W/NACL INJ 0.2%
+-1 peg 3350-kcl-na bicarb-nacl-na sulfate for soln 236 gm
+-1 V-GO 30 KIT
+-1 V-GO 40 KIT
+-1 dasetta 7/7/7
+-1 tri-nymyo
+-1 tri-lo-sprintec
+-1 tri-lo-estarylla
+-1 tri-legest fe
+-1 V-GO 20 KIT
+-1 CLINDMYC/NAC INJ 300/50ML
+-1 nylia 7/7/7
+-1 nortrel 7/7/7
+-1 GAUZE PADS 2" X 2"
+-1 CLINDMYC/NAC INJ 600/50ML
+-1 CLINDMYC/NAC INJ 900/50ML
+-1 PEN GK/DEXTR INJ 60000/ML
+-1 ADRENALIN SOLN 1mg/ml
+-1 PEN GK/DEXTR INJ 40000/ML
+-1 tri-estarylla
+-1 dextrose 5% w/ sodium chloride 0.45%
+-1 peg 3350-kcl-sod bicarb-nacl for soln 420 gm
+-1 INSULIN SAFETY NEEDLES
+-1 D5W/LYTES INJ #48
+-1 D2.5W/NACL INJ 0.45%
+-1 kcl 10 meq/l (0.075%) in dextrose 5% & nacl 0.45% inj
+-1 kcl 20 meq/l (0.15%) in dextrose 5% & nacl 0.2% inj
+-1 kcl 20 meq/l (0.15%) in dextrose 5% & nacl 0.9% inj
+-1 kcl 20 meq/l (0.15%) in dextrose 5% & nacl 0.45% inj
+-1 kcl 20 meq/l (0.15%) in nacl 0.9% inj
+-1 kcl 20 meq/l (0.15%) in nacl 0.45% inj
+-1 HEP SOD/NACL INJ 25000UNT
+-1 KCL 20 MEQ/L (0.15%) IN NACL 0.45% INJ
+-1 kcl 40 meq/l (0.3%) in dextrose 5% & nacl 0.45% inj
+-1 KCL 40 MEQ/L (0.3%) IN NACL 0.9% INJ
+-1 KCL/D5W/NACL INJ 0.3/0.9%
+-1 DIP/TET PED INJ 25-5LFU
+-1 TPN ELECTROL INJ
+-1 PRENATAL VIT TAB LOW IRON
+-1 dextrose SOLN 5%, 10%
+-1 dextrose SOLN 50%, 70%
+-1 kcl 30 meq/l (0.224%) in dextrose 5% & nacl 0.45% inj
+-1 levonest
+643 amikacin sulfate SOLN 1gm/4ml, 500mg/2ml
+644 amiloride & hydrochlorothiazide tab 5-50 mg
+723 amoxicillin & k clavulanate tab 875-125 mg
+723 amoxicillin & k clavulanate chew tab 400- 57 mg
+723 amoxicillin & k clavulanate for susp 200- 28.5 mg/5ml
+723 amoxicillin & k clavulanate tab 500-125 mg
+723 amoxicillin & k clavulanate for susp 400-57 mg/5ml
+723 amoxicillin & k clavulanate for susp 600- 42.9 mg/5ml
+723 amoxicillin & k clavulanate for susp 250- 62.5 mg/5ml
+723 amoxicillin & k clavulanate chew tab 200- 28.5 mg
+723 amoxicillin & k clavulanate tab er 12hr 1000-62.5 mg
+723 amoxicillin & k clavulanate tab 250-125 mg
+733 ampicillin & sulbactam sodium for iv soln 15 (10-5) gm
+733 ampicillin & sulbactam sodium for iv soln 3 (2-1) gm
+733 ampicillin & sulbactam sodium for iv soln 1.5 (1-0.5) gm
+733 ampicillin & sulbactam sodium for inj 3 (2- 1) gm
+733 ampicillin & sulbactam sodium for inj 1.5 (1-0.5) gm
+1202 atenolol & chlorthalidone tab 50-25 mg
+1202 atenolol & chlorthalidone tab 100-25 mg
+1919 calcium acetate (phosphate binder) CAPS
+2019 carbidopa & levodopa tab er 50-200 mg
+2019 carbidopa & levodopa tab 25-250 mg
+2019 carbidopa & levodopa tab 25-100 mg
+2019 carbidopa & levodopa tab 10-100 mg
+2019 carbidopa & levodopa tab er 25-100 mg
+4083 estradiol & norethindrone acetate tab 0.5- 0.1 mg
+4083 estradiol & norethindrone acetate tab 1-0.5 mg
+4170 ethynodiol diacetate & ethinyl estradiol tab 1 mg-50 mcg
+4170 ethynodiol diacetate & ethinyl estradiol tab 1 mg-35 mcg
+6373 levonorgestrel & ethinyl estradiol tab 0.15 mg-30 mcg
+6373 levonorgestrel & ethinyl estradiol tab 0.1 mg-20 mcg
+6373 levonorgestrel & ethinyl estradiol (91-day) tab 0.15-0.03 mg
+6476 loxapine succinate CAPS 5mg, 10mg, 25mg, 50mg
+6606 malathion LOTN .5%
+6918 metoprolol & hydrochlorothiazide tab 100- 25 mg
+6918 metoprolol & hydrochlorothiazide tab 50- 25 mg
+6918 metoprolol & hydrochlorothiazide tab 100- 50 mg
+7514 norethindrone ace & ethinyl estradiol-fe tab 1 mg-20 mcg
+7514 norethindrone ace & ethinyl estradiol tab 1.5 mg-30 mcg
+7514 norethindrone ace & ethinyl estradiol tab 1 mg-20 mcg
+7983 PENICILLIN G PROCAINE SUSP 600000unit/ml
+8705 prochlorperazine edisylate SOLN 10mg/2ml
+9793 silver sulfadiazine CREA 1%
+9900 penicillin g sodium SOLR 5000000unit
+9919 valproate sodium SOLN 100mg/ml, 250mg/5ml
+9997 spironolactone & hydrochlorothiazide tab 25-25 mg
+10761 triamcinolone acetonide (mouth) PSTE .1%
+10761 triamcinolone acetonide (topical) CREA .1%
+10763 triamterene & hydrochlorothiazide tab 37.5-25 mg
+10763 triamterene & hydrochlorothiazide tab 75- 50 mg
+10763 triamterene & hydrochlorothiazide cap 37.5-25 mg
+17268 alclometasone dipropionate CREA .05%
+18867 benazepril & hydrochlorothiazide tab 10- 12.5 mg
+18867 BENAZEPRIL & HYDROCHLOROTHIAZIDE TAB 5-6.25MG
+18867 benazepril & hydrochlorothiazide tab 20-25 mg
+18867 benazepril & hydrochlorothiazide tab 20- 12.5 mg
+19484 bisoprolol & hydrochlorothiazide tab 2.5- 6.25 mg
+19484 bisoprolol & hydrochlorothiazide tab 10- 6.25 mg
+19484 bisoprolol & hydrochlorothiazide tab 5-6.25 mg
+21245 clobetasol propionate e CREA .05%
+22656 desogestrel & ethinyl estradiol tab 0.15 mg-30 mcg
+26180 GOLYTELY SOL
+29046 lisinopril & hydrochlorothiazide tab 20-12.5 mg
+29046 lisinopril & hydrochlorothiazide tab 20-25
+29046 lisinopril & hydrochlorothiazide tab 10-12.5 mg
+30145 mometasone furoate CREA .1%
+30145 mometasone furoate SOLN .1%
+31994 norgestimate & ethinyl estradiol tab 0.25 mg-35 mcg
+39171 brimonidine tartrate SOLN .2%
+41656 NULYTELY SOL LMN/LIME
+42697 GAMMAGARD S/D IGA LESS TH SOLR 5gm, 10gm
+48305 colistimethate sodium SOLR 150mg
+48470 CREON CAP 12000UNT
+48470 CREON CAP 24000UNT
+48470 CREON CAP 3000UNIT
+48470 CREON CAP 6000UNIT
+48470 CREON CAP 36000UNT
+52582 mesalamine CP24 .375gm
+52582 mesalamine TBEC 1.2gm
+53524 SYNAREL SOLN 2mg/ml
+59943 imiquimod CREA 5%
+83947 tazarotene CREA .1%
+92995 ISOPTO ATROPINE SOLN 1%
+103401 hydrocortisone (topical) OINT 2.5%
+103456 fluocinonide CREA .05%
+103457 fluocinonide OINT .05%
+104485 colestipol hcl
+104884 metoclopramide hcl SOLN 5mg/5ml, 5mg/ml
+105292 isoniazid SYRP 50mg/5ml
+105553 LEUKERAN TABS 2mg
+105585 methotrexate sodium TABS 2.5mg
+105590 TABLOID TABS 40mg
+106302 tretinoin CREA .025%, .05%, .1%
+106346 mupirocin OINT 2%
+106387 permethrin CREA 5%
+141935 haloperidol lactate CONC 2mg/ml
+142046 metronidazole vaginal GEL .75%
+142426 bromocriptine mesylate CAPS 5mg
+142440 lidocaine hcl (mouth-throat) SOLN 2%
+150985 water for irrigation, sterile irrigation soln
+151029 mometasone furoate OINT .1%
+151539 COMBIVENT AER 20-100
+152971 NORVIR SOLN 80mg/ml
+153189 TWINRIX INJ
+153822 candesartan cilexetil TABS 4mg, 8mg, 16mg
+165516 fludrocortisone acetate TABS .1mg
+196463 PROGRAF PACK .2mg, 1mg
+197303 acetazolamide TABS 125mg, 250mg
+197305 acetic acid (otic) SOLN 2%
+197311 acyclovir TABS 400mg, 800mg
+197316 albuterol sulfate TABS 2mg, 4mg
+197319 allopurinol TABS 100mg, 300mg
+197321 alprazolam TABS .25mg, .5mg, 1mg, 2mg
+197362 lactic acid (ammonium lactate) LOTN 12%
+197365 amoxapine TABS 25mg, 50mg, 100mg, 150mg
+197380 atenolol TABS 25mg, 50mg, 100mg
+197388 azathioprine TABS 50mg
+197405 betamethasone dipropionate (topical) OINT .05%
+197405 betamethasone dipropionate (topical) CREA .05%
+197405 betamethasone dipropionate (topical) LOTN .05%
+197409 betamethasone valerate OINT .1%
+197411 bromocriptine mesylate TABS 2.5mg
+197418 bumetanide TABS .5mg, 1mg, 2mg
+197452 cefprozil TABS 250mg, 500mg
+197465 clorazepate dipotassium TABS 3.75mg, 7.5mg, 15mg
+197499 chlorthalidone TABS 25mg, 50mg
+197511 ciprofloxacin hcl TABS 250mg, 500mg, 750mg
+197516 clarithromycin TABS 250mg, 500mg
+197528 clonazepam TABS .5mg, 1mg
+197529 clonazepam TABS 2mg
+197535 clozapine TABS 100mg
+197541 colchicine TABS .6mg
+197549 CYCLOPHOSPHAMIDE TABS 25mg, 50mg
+197558 dapsone TABS 25mg, 100mg
+197579 dexamethasone TABS .5mg, .75mg, 1mg, 1.5mg, 2mg, 4mg, 6mg
+197590 diazepam TABS 2mg, 5mg, 10mg
+197593 diazoxide SUSP 50mg/ml
+197595 dicloxacillin sodium CAPS 250mg, 500mg
+197603 diflunisal TABS 500mg
+197604 digoxin TABS 125mcg, 250mcg
+197623 disulfiram TABS 250mg, 500mg
+197625 doxazosin mesylate TABS 1mg, 2mg, 4mg, 8mg
+197658 estradiol TABS .5mg, 1mg, 2mg
+197686 etodolac TABS 400mg, 500mg
+197701 fluconazole TABS 50mg, 100mg, 150mg, 200mg
+197724 flurbiprofen TABS 100mg
+197735 gentamicin sulfate (topical) CREA .1%
+197738 glycopyrrolate TABS 1mg, 2mg
+197745 guanfacine hcl TABS 1mg, 2mg
+197785 hydrocortisone (topical) LOTN 2.5%
+197787 hydrocortisone TABS 5mg, 10mg, 20mg
+197803 ibuprofen SUSP 100mg/5ml
+197805 ibuprofen TABS 400mg, 600mg, 800mg
+197815 indapamide TABS 1.25mg, 2.5mg
+197853 ketoconazole TABS 200mg
+197863 leucovorin calcium TABS 5mg, 10mg, 15mg, 25mg
+197877 lidocaine-prilocaine cream 2.5-2.5%
+197890 lithium carbonate TABS 300mg
+197901 lorazepam TABS .5mg, 1mg, 2mg
+197903 lovastatin TABS 10mg, 20mg, 40mg
+197931 mercaptopurine TABS 50mg
+197939 methazolamide TABS 25mg, 50mg
+197942 methimazole TABS 5mg, 10mg
+197956 METHYLDOPA TABS 250mg, 500mg
+197979 metolazone TABS 2.5mg, 5mg, 10mg
+197987 minoxidil TABS 2.5mg, 10mg
+198006 nadolol TABS 20mg, 40mg, 80mg
+198013 naproxen TABS 250mg, 375mg, 500mg
+198038 nitroglycerin SUBL .3mg, .4mg, .6mg
+198052 ondansetron hcl TABS 4mg, 8mg, 24mg
+198056 oxandrolone TABS 2.5mg
+198071 penicillamine TABS 250mg
+198076 perphenazine TABS 2mg, 4mg, 8mg, 16mg
+198105 pindolol TABS 5mg, 10mg
+198140 praziquantel TABS 600mg
+198144 prednisone TABS 1mg, 2.5mg, 5mg, 10mg, 20mg, 50mg
+198150 primidone TABS 50mg, 250mg
+198152 probenecid TABS 500mg
+198153 colchicine w/ probenecid tab 0.5-500 mg
+198159 prochlorperazine SUPP 25mg
+198175 propylthiouracil TABS 50mg
+198181 pyrazinamide TABS 500mg
+198228 sulfadiazine TABS 500mg
+198232 sulfasalazine TABS 500mg
+198238 sulindac TABS 150mg, 200mg
+198240 tamoxifen citrate TABS 10mg, 20mg
+198245 terconazole vaginal SUPP 80mg
+198285 TIMOLOL MALEATE TABS 20mg
+198286 timolol maleate TABS 5mg, 10mg
+198322 trifluoperazine hcl TABS 1mg, 2mg, 5mg, 10mg
+198332 TRIMETHOPRIM TABS 100mg
+198334 sulfamethoxazole-trimethoprim tab 400-80 mg
+198334 sulfamethoxazole-trimethoprim iv soln 400-80 mg/5ml
+198335 sulfamethoxazole-trimethoprim tab 800- 160 mg
+198358 felbamate TABS 400mg, 600mg
+198368 phenobarbital sodium SOLN 65mg/ml, 130mg/ml
+198372 torsemide TABS 5mg, 10mg, 20mg, 100mg
+198373 calcipotriene OINT .005%
+198706 hydrocortisone (topical) CREA 1%, 2.5%
+199123 bicalutamide TABS 50mg
+199147 lamivudine TABS 150mg, 300mg
+199148 lamivudine SOLN 10mg/ml
+199192 famciclovir TABS 125mg, 250mg, 500mg
+199206 riluzole TABS 50mg
+199224 anastrozole TABS 1mg
+199245 glimepiride TABS 1mg, 2mg
+199247 glimepiride TABS 4mg
+199353 trandolapril TABS 1mg, 2mg, 4mg
+199369 sodium phenylbutyrate TABS 500mg
+199370 ciprofloxacin hcl TABS 100mg
+199387 risperidone SOLN 1mg/ml
+199422 nevirapine TABS 200mg
+199521 vigabatrin TABS 500mg
+199592 tetrabenazine TABS 25mg
+199663 zidovudine TABS 300mg
+199672 albendazole TABS 200mg
+199703 cabergoline TABS .5mg
+199739 famotidine in nacl 0.9% iv soln 20 mg/50ml
+199884 levofloxacin TABS 250mg, 500mg, 750mg
+199888 topiramate TABS 25mg, 50mg, 100mg, 200mg
+200034 olanzapine TABS 2.5mg, 5mg, 10mg
+200060 mycophenolate mofetil TABS 500mg
+200064 letrozole TABS 2.5mg
+200082 lamivudine-zidovudine tab 150-300 mg
+200094 irbesartan TABS 75mg, 150mg, 300mg
+200132 acarbose TABS 25mg, 50mg, 100mg
+200224 montelukast sodium TABS 10mg
+200256 repaglinide TABS .5mg, 1mg
+200258 repaglinide TABS 2mg
+200284 valsartan-hydrochlorothiazide tab 80-12.5 mg
+200285 valsartan-hydrochlorothiazide tab 160-12.5 mg
+200311 fenofibrate micronized CAPS 67mg, 134mg, 200mg
+201708 MARPLAN TABS 10mg
+202828 GENOTROPIN SOLR 5mg, 12mg
+203088 ketoconazole (topical) CREA 2%
+203088 ketoconazole (topical) SHAM 2%
+203123 enalapril maleate & hydrochlorothiazide tab 10-25 mg
+203123 enalapril maleate & hydrochlorothiazide tab 5-12.5 mg
+203133 penicillin g potassium SOLR 5000000unit, 20000000unit
+203160 losartan potassium & hydrochlorothiazide tab 100-12.5 mg
+203160 losartan potassium & hydrochlorothiazide tab 100-25 mg
+203160 losartan potassium & hydrochlorothiazide tab 50-12.5 mg
+203388 THEO-24 CP24 100mg, 200mg, 300mg, 400mg
+203422 tazicef SOLR 1gm, 2gm
+203422 TAZICEF SOLR 6gm
+203592 SOLU-CORTEF SOLR 100mg, 250mg, 500mg, 1000mg
+204423 neomycin-polymyxin-hc otic soln 1%
+204520 potassium chloride SOLN 2meq/ml, 10meq/100ml, 20meq/100ml, 40meq/100ml
+205284 leflunomide TABS 10mg, 20mg
+205301 PREDNISONE INTENSOL CONC 5mg/ml
+205324 modafinil TABS 200mg
+205532 PULMOZYME SOLN 2.5mg/2.5ml
+205562 EMCYT CAPS 140mg
+205918 PROCRIT SOLN 2000unit/ml, 3000unit/ml, 4000unit/ml, 10000unit/ml
+206620 DELESTROGEN OIL 10mg/ml
+206880 accutane CAPS 10mg, 20mg, 30mg, 40mg
+206913 ibu TABS 600mg, 800mg
+207059 BETASERON KIT .3mg
+207088 CELONTIN CAPS 300mg
+207100 NATACYN SUSP 5%
+207273 NITRO-BID OINT 2%
+207373 LYSODREN TABS 500mg
+207588 MATULANE CAPS 50mg
+207949 CHEMET CAPS 100mg
+208327 avita CREA .025%
+208332 avita GEL .025%
+208821 TOBRADEX OIN 0.3-0.1%
+209066 NORPACE CR CP12 100mg, 150mg
+209789 CYSTAGON CAPS 50mg, 150mg
+211817 epitol TABS 200mg
+212118 VIRACEPT TABS 250mg, 625mg
+212219 PROCRIT SOLN 20000unit/ml, 40000unit/ml
+212957 SANDIMMUNE SOLN 100mg/ml
+213120 NORITATE CREA 1%
+213197 REGRANEX GEL .01%
+213226 CIPRO SUSR 500mg/5ml
+213262 ALREX SUSP .2%
+213282 DROXIA CAPS 200mg, 300mg, 400mg
+213291 PAXIL SUSP 10mg/5ml
+213307 CILOXAN OINT .3%
+213360 THALOMID CAPS 50mg, 100mg
+213361 REMICADE SOLR 100mg
+213442 NOVOLIN INJ 70/30 FP
+213442 NOVOLIN INJ 70/30
+213484 EPIVIR HBV SOLN 5mg/ml
+213502 PANRETIN GEL .1%
+213729 BETOPTIC-S SUSP .25%
+215068 ala-cort CREA 1%, 2.5%
+215247 lactic acid (ammonium lactate) CREA 12%
+215664 betamethasone dipropionate augmented CREA .05%
+215664 betamethasone dipropionate augmented LOTN .05%
+217806 ISOLYTE-S INJ
+217996 CARB/LEVO ORALLY DISINTEGRATING TAB 25-100MG
+217996 CARB/LEVO ORALLY DISINTEGRATING TAB 25-250MG
+217996 CARB/LEVO ORALLY DISINTEGRATING TAB 10-100MG
+218128 M-M-R II INJ
+219113 PASER PACK 4gm
+219397 prevalite PACK 4gm
+219397 prevalite POWD 4gm/dose
+219579 RABAVERT INJ
+219770 ssd CREA 1%
+220347 toposar SOLN 1gm/50ml, 100mg/5ml
+220458 triderm CREA .5%
+220976 YF-VAX INJ
+224903 INFANRIX INJ
+225852 leucovorin calcium SOLR 50mg, 100mg, 200mg, 350mg, 500mg
+226343 dexamethasone sodium phosphate (ophth) SOLN .1%
+226552 scopolamine PT72 1mg/3days
+227278 fosinopril sodium & hydrochlorothiazide tab 20-12.5 mg
+227278 fosinopril sodium & hydrochlorothiazide tab 10-12.5 mg
+227897 betamethasone valerate LOTN .1%
+227897 betamethasone valerate CREA .1%
+237082 rizatriptan benzoate TBDP 5mg, 10mg
+238100 lorazepam SOLN 2mg/ml, 4mg/ml
+238151 mesalamine w/ cleanser KIT 4gm
+238151 mesalamine ENEM 4gm
+238600 selenium sulfide LOTN 2.5%
+238720 tranexamic acid SOLN 1000mg/10ml
+239189 nafcillin sodium SOLR 10gm
+239204 gentamicin sulfate SOLN 10mg/ml, 40mg/ml
+239238 griseofulvin microsize SUSP 125mg/5ml
+240741 clarithromycin SUSR 125mg/5ml, 250mg/5ml
+240912 granisetron hcl SOLN 1mg/ml, 4mg/4ml
+242333 estradiol PTTW .025mg/24hr, .037mg/24hr, .05mg/24hr, .075mg/24hr, .1mg/24hr
+242333 estradiol PTWK .025mg/24hr, .05mg/24hr, .06mg/24hr, .075mg/24hr, .1mg/24hr, 37.5mcg/24hr
+242446 ofloxacin (otic) SOLN .3%
+242462 cilostazol TABS 50mg, 100mg
+242679 abacavir sulfate TABS 300mg
+242680 abacavir sulfate SOLN 20mg/ml
+242831 griseofulvin ultramicrosize TABS 125mg, 250mg
+244095 dextrose 2.5% w/ sodium chloride 0.45%
+244098 dextrose 10% w/ sodium chloride 0.45%
+244374 benzoyl peroxide-erythromycin gel 5-3%
+244967 polymyxin b-trimethoprim ophth soln 10000 unit/ml-0.1%
+245317 epinephrine (anaphylaxis) SOAJ .15mg/0.3ml, .3mg/0.3ml
+248109 ribavirin (hepatitis c) TABS 200mg
+248420 mesalamine SUPP 1000mg
+248656 azithromycin TABS 250mg, 500mg, 600mg
+251322 ethosuximide SOLN 250mg/5ml
+253182 INSULIN SYRINGES: BD/ULTIMED/ALLISON/TRIVIDIA/MHC
+258348 ACTIMMUNE SOLN 2000000unit/0.5ml
+259081 aspirin-dipyridamole cap er 12hr 25-200 mg
+259306 alosetron hcl TABS 1mg
+259966 methylprednisolone TABS 4mg, 8mg, 16mg, 32mg
+260218 modafinil TABS 100mg
+260260 carbidopa TABS 25mg
+260350 digitek TABS .125mg, .25mg
+261101 PRIFTIN TABS 150mg
+261105 ENBREL SOLR 25mg
+261178 nystop POWD 100000unit/gm
+261306 SYNERCID INJ 500MG
+282401 lamotrigine TABS 25mg, 100mg, 150mg, 200mg
+282486 bumetanide SOLN .25mg/ml
+282755 telmisartan TABS 20mg, 40mg, 80mg
+283077 prednisolone SOLN 15mg/5ml
+283316 telmisartan-hydrochlorothiazide tab 40- 12.5 mg
+283317 telmisartan-hydrochlorothiazide tab 80- 12.5 mg
+283523 gabapentin SOLN 250mg/5ml
+283535 doxycycline hyclate TABS 20mg, 100mg
+283536 oxcarbazepine SUSP 300mg/5ml
+283672 citalopram hydrobromide TABS 10mg, 20mg, 40mg
+284008 travoprost SOLN .004%
+284245 famotidine TABS 40mg
+284254 compro SUPP 25mg
+284496 TAZORAC CREA .05%
+284592 TREXALL TABS 5mg, 7.5mg, 10mg, 15mg
+287617 IPOL INJ INACTIVE
+307650 abacavir sulfate-lamivudine-zidovudine tab 300-150-300 mg
+307707 acetic acid SOLN .25%
+307718 acetylcysteine SOLN 10%, 20%
+307730 acyclovir SUSP 200mg/5ml
+308136 amlodipine besylate TABS 2.5mg, 5mg, 10mg
+308177 amoxicillin CHEW 125mg, 250mg
+308192 amoxicillin TABS 500mg, 875mg
+308429 atovaquone SUSP 750mg/5ml
+308459 azithromycin SUSR 100mg/5ml, 200mg/5ml
+308493 neomycin-bacitrac zn-polymyx 5(3.5)mg- 400unt-10000unt op oin
+308714 clotrimazole w/ betamethasone cream 1- 0.05%
+308720 betaxolol hcl (ophth) SOLN .5%
+308805 brinzolamide SUSP 1%
+308865 calcipotriene SOLN .005%
+308867 calcitriol CAPS .25mcg, .5mcg
+308963 captopril TABS 12.5mg, 25mg, 50mg, 100mg
+308973 carbamazepine CHEW 100mg
+308976 carbamazepine SUSP 100mg/5ml
+308979 carbamazepine TABS 200mg
+309044 cefaclor SUSR 125mg/5ml, 250mg/5ml, 375mg/5ml
+309048 cefadroxil SUSR 250mg/5ml, 500mg/5ml
+309054 cefdinir SUSR 125mg/5ml, 250mg/5ml
+309058 cefixime SUSR 100mg/5ml, 200mg/5ml
+309076 cefpodoxime proxetil TABS 100mg, 200mg
+309079 cefpodoxime proxetil SUSR 50mg/5ml, 100mg/5ml
+309080 cefprozil SUSR 125mg/5ml, 250mg/5ml
+309097 cefuroxime axetil TABS 250mg, 500mg
+309110 cephalexin SUSR 125mg/5ml, 250mg/5ml
+309289 ciclopirox olamine CREA .77%
+309290 ciclopirox olamine SUSP .77%
+309307 ciprofloxacin hcl (ophth) SOLN .3%
+309311 cisplatin SOLN 50mg/50ml, 100mg/100ml, 200mg/200ml
+309313 citalopram hydrobromide SOLN 10mg/5ml
+309332 clindamycin phosphate (topical) GEL 1%
+309332 clindamycin phosphate (topical) LOTN 1%
+309333 clindamycin phosphate (topical) SOLN 1%
+309335 clindamycin phosphate in d5w iv soln 600 mg/50ml
+309336 clindamycin phosphate in d5w iv soln 900 mg/50ml
+309339 clindamycin phosphate in d5w iv soln 300 mg/50ml
+309362 clopidogrel bisulfate TABS 75mg
+309370 clotrimazole (topical) SOLN 1%
+309683 tobramycin-dexamethasone ophth susp 0.3-0.1%
+309684 DEXAMETHASONE INTENSOL CONC 1mg/ml
+309686 dexamethasone SOLN .5mg/5ml
+309686 dexamethasone ELIX .5mg/5ml
+309783 potassium chloride 20 meq/l (0.15%) in dextrose 5% inj
+309843 diazepam SOLN 5mg/5ml
+309844 diazepam CONC 5mg/ml
+309845 diazepam inj SOLN 5mg/ml
+309952 dipyridamole TABS 25mg, 50mg, 75mg
+309958 disopyramide phosphate CAPS 100mg, 150mg
+310003 dofetilide CAPS 125mcg, 250mcg, 500mcg
+310015 dorzolamide hcl SOLN 2%
+310149 erythromycin (ophth) OINT 5mg/gm
+310169 estradiol vaginal CREA .1mg/gm
+310190 estradiol valerate OIL 20mg/ml, 40mg/ml
+310261 exemestane TABS 25mg
+310273 famotidine TABS 20mg
+310274 famotidine SUSR 40mg/5ml
+310285 felbamate SUSP 600mg/5ml
+310295 fentanyl citrate LPOP 200mcg
+310297 fentanyl citrate LPOP 400mcg, 600mcg, 800mcg, 1200mcg, 1600mcg
+310346 finasteride TABS 5mg
+310362 fluocinonide GEL .05%
+310364 fluocinonide SOLN .05%
+310379 fluorouracil (topical) SOLN 2%, 5%
+310380 fluorouracil (topical) CREA 5%
+310386 fluoxetine hcl SOLN 20mg/5ml
+310404 fluvastatin sodium CAPS 20mg, 40mg
+310429 furosemide TABS 20mg, 40mg, 80mg
+310433 gabapentin TABS 600mg
+310434 gabapentin TABS 800mg
+310436 galantamine hydrobromide TABS 4mg, 8mg, 12mg
+310459 gemfibrozil TABS 600mg
+310465 gentamicin sulfate (topical) OINT .1%
+310467 gentamicin sulfate (ophth) SOLN .3%
+310488 glipizide TABS 10mg
+310489 glipizide xl TB24 2.5mg, 5mg
+310490 glipizide TABS 5mg
+310594 neomycin-polymy-gramicid op sol 1.75- 10000-0.025mg-unt-mg/ml
+310599 granisetron hcl TABS 1mg
+310600 griseofulvin microsize TABS 500mg
+310672 haloperidol TABS .5mg, 1mg, 2mg, 5mg, 10mg, 20mg
+310687 neomycin-polymyxin-hc otic susp 3.5 mg/ml-10000 unit/ml-1%
+310792 irbesartan-hydrochlorothiazide tab 150- 12.5 mg
+310793 irbesartan-hydrochlorothiazide tab 300- 12.5 mg
+310796 quinapril-hydrochlorothiazide tab 10-12.5 mg
+310797 quinapril-hydrochlorothiazide tab 20-12.5 mg
+310809 quinapril-hydrochlorothiazide tab 20-25 mg
+310878 hydrocortisone (intrarectal) ENEM 100mg/60ml
+310879 hydrocortisone (rectal) CREA 2.5%
+311027 NOVOLIN N SUSP 100unit/ml
+311033 NOVOLIN R SOLN 100unit/ml
+311166 isoniazid TABS 100mg, 300mg
+311207 ivermectin TABS 3mg
+311265 lamotrigine CHEW 5mg, 25mg
+311288 levetiracetam TABS 250mg, 500mg, 750mg, 1000mg
+311345 linezolid SUSR 100mg/5ml
+311347 linezolid TABS 600mg
+311353 lisinopril TABS 2.5mg, 5mg, 10mg, 20mg, 30mg, 40mg
+311369 lopinavir-ritonavir soln 400-100 mg/5ml (80-20 mg/ml)
+311376 lorazepam CONC 2mg/ml
+311376 lorazepam intensol CONC 2mg/ml
+311486 meloxicam TABS 7.5mg, 15mg
+311625 methotrexate sodium SOLR 1gm
+311625 methotrexate sodium SOLN 1gm/40ml, 50mg/2ml, 250mg/10ml
+311659 methylprednisolone sod succ SOLR 40mg, 125mg, 1000mg
+311668 metoclopramide hcl TABS 5mg, 10mg
+311678 metronidazole (topical) LOTN .75%
+311678 metronidazole (topical) CREA .75%
+311679 metronidazole (topical) GEL .75%
+311683 metronidazole in nacl 0.79% iv soln 500 mg/100ml
+311725 mirtazapine TABS 15mg, 30mg, 45mg
+311727 misoprostol TABS 100mcg, 200mcg
+311759 montelukast sodium PACK 4mg
+311759 montelukast sodium CHEW 4mg, 5mg
+311787 moxifloxacin hcl TABS 400mg
+311892 nabumetone TABS 500mg, 750mg
+311943 NEVIRAPINE SUSP 50mg/5ml
+311982 nilutamide TABS 150mg
+312036 nortriptyline hcl SOLN 10mg/5ml
+312055 nystatin (mouth-throat) SUSP 100000unit/ml
+312068 OCTREOTIDE ACETATE SOSY 50mcg/ml, 100mcg/ml
+312068 octreotide acetate SOLN 50mcg/ml, 100mcg/ml, 200mcg/ml
+312070 OCTREOTIDE ACETATE SOSY 500mcg/ml
+312070 octreotide acetate SOLN 500mcg/ml, 1000mcg/ml
+312075 ofloxacin (ophth) SOLN .3%
+312079 olanzapine TABS 7.5mg, 15mg, 20mg
+312085 ondansetron hcl SOLN 4mg/5ml
+312132 oxaprozin TABS 600mg
+312136 oxcarbazepine TABS 150mg, 300mg, 600mg
+312199 paclitaxel CONC 30mg/5ml, 100mg/16.7ml, 150mg/25ml, 300mg/50ml
+312242 paroxetine hcl SUSP 10mg/5ml
+312347 phenelzine sulfate TABS 15mg
+312357 phenobarbital TABS 15mg, 16.2mg, 30mg, 32.4mg, 60mg, 64.8mg, 97.2mg, 100mg
+312439 pimozide TABS 1mg, 2mg
+312504 potassium chloride microencapsulated crystals er TBCR 10meq, 20meq
+312515 potassium chloride SOLN 10%, 20%
+312529 potassium chloride CPCR 8meq, 10meq
+312529 potassium chloride TBCR 8meq, 10meq,
+312614 prednisolone sodium phosphate SOLN 5mg/5ml, 15mg/5ml, 25mg/5ml
+312635 prochlorperazine maleate TABS 5mg, 10mg
+312744 quetiapine fumarate TABS 25mg, 50mg, 100mg, 200mg, 300mg, 400mg
+312750 quinapril hcl TABS 5mg, 10mg, 20mg, 40mg
+312830 risperidone TABS .25mg, .5mg, 1mg, 2mg, 3mg, 4mg
+312840 rizatriptan benzoate TABS 5mg, 10mg
+312847 ropinirole hydrochloride TB24 2mg, 4mg, 6mg, 8mg, 12mg
+312849 ropinirole hydrochloride TABS .25mg, .5mg, 1mg, 2mg, 3mg, 4mg, 5mg
+312940 sertraline hcl TABS 25mg, 50mg, 100mg
+312962 simvastatin TABS 5mg, 10mg, 20mg, 40mg, 80mg
+312988 sodium chloride SOLN .45%, .9%, 2.5meq/ml, 3%, 5%
+313096 spironolactone TABS 25mg, 50mg, 100mg
+313115 streptomycin sulfate SOLR 1gm
+313134 sulfamethoxazole-trimethoprim susp 200- 40 mg/5ml
+313189 tacrolimus (topical) OINT .03%, .1%
+313222 terbinafine hcl TABS 250mg
+313226 terconazole vaginal CREA .4%, .8%
+313306 theophylline SOLN 80mg/15ml
+313354 thioridazine hcl TABS 10mg, 25mg, 50mg, 100mg
+313412 tizanidine hcl TABS 2mg, 4mg
+313415 tobramycin (ophth) SOLN .3%
+313428 toremifene citrate TABS 60mg
+313447 tranylcypromine sulfate TABS 10mg
+313450 tretinoin GEL .01%, .025%
+313477 trifluridine SOLN 1%
+313496 trimipramine maleate CAPS 100mg
+313498 trimipramine maleate CAPS 25mg
+313499 trimipramine maleate CAPS 50mg
+313564 valacyclovir hcl TABS 1gm, 500mg
+313566 valganciclovir hcl TABS 450mg
+313582 venlafaxine hcl TABS 25mg, 37.5mg, 50mg, 75mg, 100mg
+313758 zafirlukast TABS 10mg, 20mg
+313797 amoxicillin SUSR 125mg/5ml, 200mg/5ml, 250mg/5ml, 400mg/5ml
+313919 calcitonin (salmon) spray SOLN 200unit/act
+313932 calcitriol SOLN 1mcg/ml
+314072 latanoprost SOLN .005%
+314106 metronidazole TABS 250mg, 500mg
+314142 nateglinide TABS 60mg, 120mg
+314165 PREDNISOLONE SODIUM PHOSP SOLN 1%
+314184 paromomycin sulfate CAPS 250mg
+314200 pantoprazole sodium SOLR 40mg
+314214 rivastigmine tartrate CAPS 1.5mg, 3mg
+314215 rivastigmine tartrate CAPS 4.5mg, 6mg
+314230 sirolimus SOLN 1mg/ml
+314234 sucralfate TABS 1gm
+314659 heparin sodium (porcine) SOLN 1000unit/ml, 5000unit/ml, 10000unit/ml, 20000unit/ml
+315102 sodium fluoride 1.1 (0.5 f) mg/ml soln
+315107 glipizide xl TB24 10mg
+315134 levocarnitine (metabolic modifiers) SOLN 1gm/10ml
+315187 prednisone SOLN 5mg/5ml
+315223 sumatriptan succinate TABS 25mg, 50mg, 100mg
+315277 acitretin CAPS 10mg, 17.5mg, 25mg
+315280 acyclovir CAPS 200mg
+315369 amoxicillin CAPS 250mg, 500mg
+315374 amphotericin b SOLR 50mg
+315563 carbamazepine TB12 100mg, 200mg, 400mg
+315563 carbamazepine CP12 100mg, 200mg, 300mg
+315584 cefaclor CAPS 250mg, 500mg
+315587 CEFACLOR ER TB12 500mg
+315593 cefadroxil CAPS 500mg
+315595 cefdinir CAPS 300mg
+315603 celecoxib CAPS 100mg
+315604 celecoxib CAPS 200mg
+315607 cephalexin CAPS 250mg, 500mg
+315695 clarithromycin TB24 500mg
+315701 clotrimazole TROC 10mg
+315705 clozapine TBDP 100mg
+315746 cyclophosphamide CAPS 25mg, 50mg
+315748 cycloserine CAPS 250mg
+315751 cyclosporine CAPS 25mg, 100mg
+315753 cyclosporine SOLN 50mg/ml
+315757 danazol CAPS 50mg, 100mg, 200mg
+315817 digoxin SOLN .05mg/ml, .25mg/ml
+315844 dronabinol CAPS 2.5mg, 5mg, 10mg
+315853 efavirenz CAPS 50mg, 200mg
+315900 ethosuximide CAPS 250mg
+315906 etodolac CAPS 200mg, 300mg
+315908 etodolac TB24 400mg, 500mg, 600mg
+315926 felodipine TB24 2.5mg, 5mg, 10mg
+315940 flucytosine CAPS 250mg, 500mg
+315951 fluoxetine hcl CAPS 10mg, 20mg, 40mg
+315960 flutamide CAPS 125mg
+315972 furosemide SOLN 8mg/ml, 10mg/ml
+315974 ganciclovir sodium SOLR 500mg
+316047 hydrochlorothiazide CAPS 12.5mg
+316070 hydroxyurea CAPS 500mg
+316109 isotretinoin CAPS 10mg, 20mg, 30mg, 40mg
+316111 isradipine CAPS 2.5mg, 5mg
+316131 lamotrigine TBDP 25mg, 50mg, 100mg, 200mg
+316131 lamotrigine TB24 25mg, 50mg, 100mg, 200mg, 250mg, 300mg
+316139 levocarnitine (metabolic modifiers) TABS 330mg
+316144 levofloxacin SOLN 25mg/ml
+316316 mycophenolate mofetil CAPS 250mg
+316327 naproxen TBEC 375mg
+316327 ec-naproxen TBEC 375mg
+316328 naproxen TBEC 500mg
+316328 ec-naproxen TBEC 500mg
+316343 niacin (antihyperlipidemic) TBCR 500mg, 750mg, 1000mg
+316355 nimodipine CAPS 30mg
+316370 nitroglycerin PT24 .1mg/hr, .2mg/hr, .4mg/hr, .6mg/hr
+316382 nizatidine CAPS 150mg, 300mg
+316385 norethindrone (contraceptive) TABS .35mg
+316404 olanzapine TBDP 10mg
+316404 olanzapine SOLR 10mg
+316407 omeprazole CPDR 10mg, 20mg, 40mg
+316466 pentoxifylline TBCR 400mg
+316524 piroxicam CAPS 10mg, 20mg
+316584 prednisone TBPK 5mg, 10mg
+316626 ramipril CAPS 1.25mg, 2.5mg, 5mg, 10mg
+316640 rifabutin CAPS 150mg
+316641 rifampin CAPS 150mg, 300mg
+316643 risperidone TBDP 1mg, 2mg, 3mg, 4mg
+316751 sulfasalazine TBEC 500mg
+316759 tacrolimus CAPS .5mg, 1mg, 5mg
+316766 temazepam CAPS 15mg
+316767 temazepam CAPS 30mg
+316768 temazepam CAPS 7.5mg
+316799 theophylline TB12 300mg, 450mg
+316839 topiramate CPSP 15mg, 25mg
+316850 tretinoin (chemotherapy) CAPS 10mg
+316915 zidovudine CAPS 100mg
+316933 zolmitriptan TBDP 2.5mg, 5mg
+316933 zolmitriptan TABS 2.5mg, 5mg
+317094 entacapone TABS 200mg
+317288 acetazolamide CP12 500mg
+317336 clonazepam TBDP 2mg
+317373 fluconazole SUSR 10mg/ml, 40mg/ml
+317379 glipizide TB24 10mg
+317394 itraconazole CAPS 100mg
+317420 mesalamine CPDR 400mg
+317427 methylprednisolone TBPK 4mg
+317450 olanzapine TBDP 5mg, 15mg, 20mg
+317515 theophylline TB24 400mg, 600mg
+317573 pioglitazone hcl TABS 15mg, 30mg, 45mg
+317655 nifedipine TB24 30mg, 60mg, 90mg
+318202 erythromycin (acne aid) SOLN 2%
+323964 rifampin SOLR 600mg
+328305 ampicillin CAPS 500mg
+328450 ondansetron TBDP 4mg, 8mg
+328488 minocycline hcl CAPS 50mg, 75mg, 100mg
+328624 stavudine CAPS 15mg, 20mg, 30mg, 40mg
+328656 acebutolol hcl CAPS 200mg, 400mg
+328724 terazosin hcl CAPS 1mg, 2mg, 5mg, 10mg
+328731 thiothixene CAPS 1mg, 2mg, 5mg, 10mg
+328783 vancomycin hcl CAPS 125mg
+328784 vancomycin hcl CAPS 250mg
+328799 venlafaxine hcl CP24 37.5mg, 75mg, 150mg
+328868 nortriptyline hcl CAPS 10mg, 25mg, 50mg, 75mg
+329456 clozapine TBDP 150mg
+329457 clozapine TABS 200mg
+329457 clozapine TBDP 200mg
+329618 calcium acetate (phosphate binder) TABS 667mg
+329753 etoposide SOLN 100mg/5ml, 500mg/25ml
+330059 naratriptan hcl TABS 1mg, 2.5mg
+330249 sumatriptan SOLN 20mg/act
+330250 sumatriptan SOLN 5mg/act
+330349 glipizide TB24 2.5mg, 5mg
+330370 levetiracetam TB24 500mg, 750mg
+330414 ziprasidone hcl CAPS 20mg, 40mg, 60mg, 80mg
+330450 clindamycin hcl CAPS 75mg, 150mg, 300mg
+330527 prazosin hcl CAPS 1mg, 2mg, 5mg
+330623 azithromycin SOLR 500mg
+330694 guanfacine hcl (adhd) TB24 1mg, 2mg, 3mg, 4mg
+330788 fluvastatin sodium TB24 80mg
+331495 bexarotene CAPS 75mg
+331587 mycophenolate mofetil SUSR 200mg/ml
+331727 clobazam TABS 10mg, 20mg
+332118 lithium carbonate CAPS 150mg, 300mg, 600mg
+332339 ribavirin (hepatitis c) CAPS 200mg
+332422 cytarabine SOLN 20mg/ml
+332535 lithium carbonate TBCR 300mg, 450mg
+333433 vigabatrin PACK 500mg
+336764 pantoprazole sodium TBEC 20mg, 40mg
+343086 lansoprazole TBDD 15mg, 30mg
+343086 lansoprazole CPDR 15mg, 30mg
+343091 mirtazapine TBDP 15mg, 30mg, 45mg
+345817 gabapentin CAPS 100mg
+345818 gabapentin CAPS 300mg
+345819 gabapentin CAPS 400mg
+348719 tobramycin NEBU 300mg/5ml
+349094 budesonide (inhalation) SUSP .25mg/2ml, .5mg/2ml
+349200 valsartan TABS 320mg
+349208 sirolimus TABS .5mg, 1mg, 2mg
+349251 tenofovir disoproxil fumarate TABS 300mg
+349253 bosentan TABS 62.5mg
+349353 valsartan-hydrochlorothiazide tab 160-25 mg
+349373 olmesartan medoxomil TABS 5mg
+349401 olmesartan medoxomil TABS 20mg, 40mg
+349407 treprostinil SOLN 20mg/20ml, 50mg/20ml, 100mg/20ml, 200mg/20ml
+349420 desloratadine TABS 5mg
+349434 voriconazole TABS 200mg
+349435 voriconazole TABS 50mg
+349477 efavirenz TABS 600mg
+349483 valsartan TABS 40mg, 80mg, 160mg
+349556 ezetimibe TABS 10mg
+349590 levalbuterol hcl NEBU .31mg/3ml, .63mg/3ml, 1.25mg/0.5ml, 1.25mg/3ml
+349697 levonorgestrel-eth estra tab 0.05- 30/0.075-40/0.125-30mg-mcg
+350560 clonazepam TBDP .125mg, .25mg, .5mg, 1mg
+350637 voriconazole SOLR 200mg
+350640 dutasteride CAPS .5mg
+350656 celecoxib CAPS 400mg
+350663 aripiprazole TBDP 10mg, 15mg
+350673 atomoxetine hcl CAPS 10mg, 18mg, 25mg
+350676 atomoxetine hcl CAPS 40mg
+350677 atomoxetine hcl CAPS 60mg, 80mg, 100mg
+351249 escitalopram oxalate TABS 5mg, 10mg, 20mg
+351256 eplerenone TABS 25mg, 50mg
+351264 buprenorphine hcl SUBL 2mg, 8mg
+351266 buprenorphine hcl-naloxone hcl sl tab 2- 0.5 mg (base equiv)
+351267 buprenorphine hcl-naloxone hcl sl tab 8-2 mg (base equiv)
+351276 oxandrolone TABS 10mg
+351285 escitalopram oxalate SOLN 5mg/5ml
+351859 HUMULIN R U-500 (CONCENTR SOLN 500unit/ml
+351926 NOVOLOG SOLN 100unit/ml
+352210 MESNEX TABS 400mg
+352257 XYREM SOLN 500mg/ml
+352297 PEGASYS SOLN 180mcg/ml
+352401 altavera
+352572 DAPTACEL INJ
+352877 PEDIARIX INJ 0.5ML
+353116 ziprasidone mesylate SOLR 20mg
+353342 cevimeline hcl CAPS 30mg
+353359 nitisinone CAPS 2mg, 5mg, 10mg
+353423 isosorbide mononitrate TABS 10mg, 20mg
+353484 HUMIRA PEDIA INJ CROHNS
+353484 HUMIRA PEN-CD/UC/HS START PNKT 40mg/0.8ml, 80mg/0.8ml
+358338 PEGASYS SOSY
+358371 clotrimazole (topical) CREA 1%
+358697 glatiramer acetate SOSY 20mg/ml
+370983 bacitracin (ophthalmic) OINT 500unit/gm
+372225 fluorometholone (ophth) SUSP .1%
+373135 nystatin (topical) OINT 100000unit/gm
+373137 nystatin TABS 500000unit
+373907 sodium fluoride chew
+373911 sodium fluoride tab
+374629 bacitracin-polymyxin b ophth oint
+374698 neomycin-polymyxin-dexamethasone ophth susp 0.1%
+374699 neomycin-polymyxin-dexamethasone ophth oint 0.1%
+381035 isosorbide dinitrate TABS 5mg, 10mg, 20mg, 30mg
+381047 isosorbide mononitrate TB24 30mg, 60mg, 120mg
+389201 quetiapine fumarate TB24 150mg, 200mg
+391937 lactulose SOLN 10gm/15ml
+391937 lactulose (encephalopathy) SOLN 10gm/15ml
+402091 IRESSA TABS 250mg
+402092 RESTASIS MULTIDOSE EMUL .05%
+402109 fosamprenavir calcium TABS 700mg
+402244 VELCADE SOLR 3.5mg
+402246 atazanavir sulfate CAPS 150mg, 200mg, 300mg
+402346 miglustat CAPS 100mg
+403810 aprepitant capsule therapy pack 80 & 125 mg
+403818 moxifloxacin hcl (ophth) SOLN .5%
+403850 carbidopa-levodopa-entacapone tabs 12.5- 50-200 mg
+403851 carbidopa-levodopa-entacapone tabs 25- 100-200 mg
+403852 carbidopa-levodopa-entacapone tabs 37.5- 150-200 mg
+403853 olmesartan medoxomil-hydrochlorothiazide tab 20-12.5 mg
+403854 olmesartan medoxomil-hydrochlorothiazide tab 40-12.5 mg
+403855 olmesartan medoxomil-hydrochlorothiazide tab 40-25 mg
+403878 imatinib mesylate TABS 100mg
+403879 imatinib mesylate TABS 400mg
+403884 levetiracetam SOLN 100mg/ml, 500mg/5ml
+403888 potassium chloride microencapsulated crystals er TBCR 15meq
+403908 ciprofloxacin-dexamethasone otic susp 0.3- 0.1%
+403975 alosetron hcl TABS .5mg
+404011 amlodipine besylate-atorvastatin calcium tab 5-80 mg
+404013 amlodipine besylate-atorvastatin calcium tab 10-80 mg
+404058 amnesteem CAPS 10mg, 20mg, 40mg
+404059 claravis CAPS 10mg, 20mg, 30mg, 40mg
+404457 SOMAVERT SOLR 10mg, 15mg, 20mg, 25mg, 30mg
+404460 FUZEON SOLR 90mg
+404492 ALDURAZYME SOLN 2.9mg/5ml
+404967 CYSTADANE POW
+405405 ZEMAIRA SOLR 1000mg
+405960 clozapine TBDP 12.5mg, 25mg
+406016 emtricitabine CAPS 200mg
+406298 zonisamide CAPS 25mg, 50mg, 100mg
+406503 doxercalciferol CAPS .5mcg, 1mcg, 2.5mcg
+427163 nitazoxanide TABS 500mg
+429503 hydrochlorothiazide TABS 12.5mg, 25mg, 50mg
+432400 cinacalcet hcl TABS 90mg
+432401 cinacalcet hcl TABS 60mg
+432402 cinacalcet hcl TABS 30mg
+476345 ezetimibe-simvastatin tab 10-10 mg
+476349 ezetimibe-simvastatin tab 10-20 mg
+476350 ezetimibe-simvastatin tab 10-40 mg
+476351 ezetimibe-simvastatin tab 10-80 mg
+476556 emtricitabine-tenofovir disoproxil fumarate tab 200-300 mg
+476809 mirtazapine TABS 7.5mg
+477130 telmisartan-hydrochlorothiazide tab 80-25 mg
+477139 voriconazole SUSR 40mg/ml
+477367 solifenacin succinate TABS 5mg, 10mg
+477562 fenofibrate TABS 48mg, 54mg, 145mg, 160mg
+483441 pregabalin CAPS 25mg, 50mg, 75mg, 100mg, 150mg
+483445 pregabalin CAPS 200mg
+484788 cyclosporine modified (for microemulsion) CAPS 25mg, 50mg, 100mg
+485018 mycophenolate sodium TBEC 180mg, 360mg
+485422 darifenacin hydrobromide TB24 7.5mg, 15mg
+485436 entecavir TABS .5mg, 1mg
+485496 aripiprazole SOLN 1mg/ml
+486515 sodium chloride (gu irrigant) SOLN .9%
+493191 ROTARIX SUS
+496892 ROTATEQ SOL
+541037 metyrosine CAPS 250mg
+541363 amphetamine-dextroamphetamine cap er 24hr 30 mg
+541363 amphetamine-dextroamphetamine tab 30 mg
+541845 ALTOPREV TB24 20mg
+541878 amphetamine-dextroamphetamine tab 5 mg
+541892 amphetamine-dextroamphetamine cap er 24hr 10 mg
+541892 amphetamine-dextroamphetamine tab 10 mg
+542190 ALTOPREV TB24 40mg, 60mg
+543489 procto-pak CREA 1%
+544452 constulose SOLN 10gm/15ml
+544455 generlac SOLN 10gm/15ml
+544840 doxy 100 SOLR 100mg
+545236 gentak OINT .3%
+545259 ZYLET SUS 0.5-0.3%
+545290 INTRON A SOLR 18000000unit
+545290 INTRON A SOLN 6000000unit/ml, 10000000unit/ml
+545290 INTRON A SOLR 50000000unit
+545835 leuprolide acetate KIT 1mg/0.2ml
+562266 clindamycin palmitate hydrochloride SOLR 75mg/5ml
+565729 SULFAMYLON CREA 85mg/gm
+566951 ery-tab TBEC 250mg, 333mg, 500mg
+573371 lamivudine (hbv) TABS 100mg
+577033 sildenafil citrate (pulmonary hypertension) TABS 20mg
+577057 fentanyl PT72 12mcg/hr, 25mcg/hr, 50mcg/hr, 75mcg/hr, 100mcg/hr
+577126 pregabalin CAPS 225mg, 300mg
+577154 megestrol acetate (appetite) SUSP 625mg/5ml
+577300 rasagiline mesylate TABS .5mg
+577315 paricalcitol CAPS 1mcg, 2mcg, 4mcg
+577957 amphetamine-dextroamphetamine tab 15 mg
+577957 amphetamine-dextroamphetamine cap er 24hr 15 mg
+577961 amphetamine-dextroamphetamine cap er 24hr 20 mg
+577961 amphetamine-dextroamphetamine tab 20 mg
+578018 bromfenac sodium (ophth) SOLN .09%
+578325 candesartan cilexetil-hydrochlorothiazide tab 16-12.5 mg
+578330 candesartan cilexetil-hydrochlorothiazide tab 32-12.5 mg
+582595 VENTAVIS SOLN 10mcg/ml, 20mcg/ml
+582926 podofilox SOLN .5%
+583218 ABRAXANE INJ 100MG
+583411 BOOSTRIX INJ
+584222 NAGLAZYME SOLN 1mg/ml
+584414 nyamyc POWD 100000unit/gm
+596702 MENACTRA INJ
+596925 duloxetine hcl CPEP 20mg, 30mg, 40mg, 60mg
+597195 carboplatin SOLN 50mg/5ml, 150mg/15ml, 450mg/45ml, 600mg/60ml
+597730 lopinavir-ritonavir tab 200-50 mg
+597823 tobramycin sulfate SOLN 1.2gm/30ml, 10mg/ml, 40mg/ml, 80mg/2ml
+597848 anagrelide hcl CAPS .5mg, 1mg
+597967 amlodipine besylate-atorvastatin calcium tab 10-20 mg
+597971 amlodipine besylate-atorvastatin calcium tab 2.5-10 mg
+597974 amlodipine besylate-atorvastatin calcium tab 2.5-20 mg
+597977 amlodipine besylate-atorvastatin calcium tab 5-10 mg
+597980 amlodipine besylate-atorvastatin calcium tab 5-20 mg
+597984 amlodipine besylate-atorvastatin calcium tab 5-40 mg
+597987 amlodipine besylate-atorvastatin calcium tab 10-10 mg
+597990 amlodipine besylate-atorvastatin calcium tab 10-40 mg
+597993 amlodipine besylate-atorvastatin calcium tab 2.5-40 mg
+598006 erythromycin base TABS 250mg, 500mg
+598006 erythromycin base TBEC 250mg, 333mg, 500mg
+598006 erythromycin base CPEP 250mg
+602393 abacavir sulfate-lamivudine tab 600-300 mg
+602964 aripiprazole TABS 2mg, 5mg, 10mg, 15mg, 20mg, 30mg
+603203 erlotinib hcl TABS 100mg, 150mg
+603208 erlotinib hcl TABS 25mg
+603378 APTIVUS CAPS 250mg
+605718 ADACEL INJ
+606051 PROQUAD INJ
+606726 esomeprazole magnesium CPDR 20mg, 40mg
+607579 BARACLUDE SOLN .05mg/ml
+608328 rasagiline mesylate TABS 1mg
+608934 VANDAZOLE GEL .75%
+615882 INCRELEX SOLN 40mg/4ml
+615979 NEXAVAR TABS 200mg
+616148 EMTRIVA SOLN 10mg/ml
+616238 LEVEMIR SOLN 100unit/ml
+616279 sunitinib malate CAPS 12.5mg, 25mg, 37.5mg, 50mg
+616487 quetiapine fumarate TB24 50mg, 300mg, 400mg
+616490 ranolazine TB12 500mg, 1000mg
+617312 atorvastatin calcium TABS 10mg, 20mg, 40mg, 80mg
+628958 klor-con 10 TBCR 10meq
+630208 albuterol sulfate NEBU .083%, .63mg/3ml, 1.25mg/3ml, 2.5mg/0.5ml
+636042 valsartan-hydrochlorothiazide tab 320-12.5 mg
+636045 valsartan-hydrochlorothiazide tab 320-25 mg
+636216 azelastine hcl SOLN .1%, .15%
+636676 VARENICLINE TARTRATE TABS .5mg, 1mg
+637190 CHANTIX TABS .5mg, 1mg
+637216 VIVITROL SUSR 380mg
+637866 ACTHIB INJ
+639537 candesartan cilexetil TABS 32mg
+643066 efavirenz-emtricitabine-tenofovir df tab 600-200-300 mg
+643173 SPRYCEL TABS 20mg, 50mg, 70mg, 80mg, 100mg, 140mg
+644087 aprepitant CAPS 40mg, 80mg, 125mg
+644304 SOLTAMOX SOLN 10mg/5ml
+656659 bosentan TABS 125mg
+665022 NOXAFIL SUSP 40mg/ml
+665040 JANUVIA TABS 25mg, 50mg, 100mg
+668606 ZOLINZA CAPS 100mg
+668956 arformoterol tartrate NEBU 15mcg/2ml
+672149 lapatinib ditosylate TABS 250mg
+672568 paliperidone TB24 6mg
+674453 PENTACEL INJ
+683648 HIBERIX SOLR 10mcg
+686161 paraplatin SOLN 1000mg/100ml
+686378 celecoxib CAPS 50mg
+686404 erythromycin ethylsuccinate TABS 400mg
+686924 carvedilol TABS 3.125mg, 6.25mg, 12.5mg, 25mg
+687043 amphetamine-dextroamphetamine tab 12.5 mg
+695935 BROVANA NEBU 15mcg/2ml
+700418 THALOMID CAPS 150mg, 200mg
+702519 phenobarbital ELIX 20mg/5ml
+706825 RISPERDAL CONSTA SRER 12.5mg, 25mg
+706827 RISPERDAL CONSTA SRER 37.5mg, 50mg
+722122 ambrisentan TABS 5mg, 10mg
+722126 amlodipine besylate-valsartan tab 10-160 mg
+722131 amlodipine besylate-valsartan tab 10-320 mg
+722134 amlodipine besylate-valsartan tab 5-160 mg
+722137 amlodipine besylate-valsartan tab 5-320 mg
+723827 LEXIVA SUSP 50mg/ml
+724859 armodafinil TABS 150mg, 200mg, 250mg
+724863 armodafinil TABS 50mg
+725021 rivastigmine PT24 4.6mg/24hr, 9.5mg/24hr, 13.3mg/24hr
+727339 sumatriptan succinate SOLN 6mg/0.5ml
+727339 sumatriptan succinate SOCT 6mg/0.5ml
+727339 sumatriptan succinate SOAJ 6mg/0.5ml
+727762 fulvestrant SOLN 250mg/5ml
+728109 oseltamivir phosphate CAPS 30mg
+728113 oseltamivir phosphate CAPS 45mg, 75mg
+728223 maraviroc TABS 150mg, 300mg
+730861 amlodipine besylate-olmesartan medoxomil tab 10-20 mg
+730866 amlodipine besylate-olmesartan medoxomil tab 10-40 mg
+730869 amlodipine besylate-olmesartan medoxomil tab 5-20 mg
+730872 amlodipine besylate-olmesartan medoxomil tab 5-40 mg
+730988 carbidopa-levodopa-entacapone tabs 50- 200-200 mg
+731217 OMNIPOD MIS 5 PACK
+731217 OMNIPOD KIT STARTER
+731566 BICILLIN L-A SUSP 600000unit/ml, 1200000unit/2ml, 2400000unit/4ml
+744846 ISENTRESS TABS 400mg
+745791 levalbuterol tartrate AERO 45mcg/act
+746645 lopinavir-ritonavir tab 100-25 mg
+748798 drospirenone-ethinyl estradiol tab 3-0.02 mg
+748800 drospirenone-ethinyl estradiol tab 3-0.03 mg
+748859 zovia 1/35
+748865 trivora-28
+748879 levora 0.15/30-28
+748962 camila TABS .35mg
+748977 nora-be TABS .35mg
+749148 leena
+749157 norgestimate-eth estrad tab 0.18- 25/0.215-25/0.25-25 mg-mcg
+749206 sevelamer carbonate TABS 800mg
+749784 norgestimate-eth estrad tab 0.18- 35/0.215-35/0.25-35 mg-mcg
+749813 SOMATULINE DEPOT SOLN 60mg/0.2ml, 90mg/0.3ml, 120mg/0.5ml
+749848 desogest-eth estrad & eth estrad tab 0.15- 0.02/0.01 mg(21/5)
+750244 low-ogestrel
+750265 cryselle-28
+750267 aranelle
+750268 aviane
+750839 erythrocin stearate TABS 250mg
+751618 nebivolol hcl TABS 2.5mg, 5mg, 10mg
+751620 BYSTOLIC TABS 2.5mg, 5mg, 10mg
+751868 nortrel 0.5/35 (28)
+751870 nortrel 1/35 (28)
+751871 nortrel 1/35 (21)
+751875 necon 0.5/35-28
+751884 lutera
+751885 lessina
+751890 portia-28
+753478 previfem
+753481 sprintec 28
+753482 apri
+753483 kelnor 1/35
+753543 reclipsen
+753544 sronyx
+754761 etravirine TABS 100mg, 200mg
+755470 enulose SOLN 10gm/15ml
+755497 albuterol sulfate SYRP 2mg/5ml
+756059 LITHIUM SOLN 8meq/5ml
+756209 zidovudine SYRP 50mg/5ml
+757692 nevirapine TB24 100mg, 400mg
+759473 RELENZA DISKHALER AEPB 5mg/blister
+761977 enpresse-28
+762001 kariva
+762333 tri-sprintec
+762334 velivet
+762663 jolessa
+762897 GENOTROPIN MINIQUICK SOLR .2mg, .4mg, .6mg, .8mg, 1mg, 1.2mg, 1.4mg, 1.6mg, 1.8mg, 2mg
+763457 ARCALYST SOLR 220mg
+763496 nisoldipine TB24 8.5mg, 17mg, 20mg, 25.5mg, 30mg, 34mg, 40mg
+794610 PREZISTA TABS 600mg
+795735 CHANTIX CONTINUING MONTH TABS 1mg
+795737 CHANTIX PAK 0.5& 1MG
+797544 BD ALCOHOL SWABS
+797554 GAMASTAN INJ
+798133 ery PADS 2%
+798430 ENGERIX-B SUSP 10mcg/0.5ml, 20mcg/ml
+798448 PEDVAX HIB SUSP 7.5mcg/0.5ml
+800405 CLINIMIX INJ 8/10
+800412 CLINIMIX INJ 4.25/D5W
+800412 CLINIMIX INJ 4.25/D10
+800438 CLINIMIX INJ 5%/D20W
+800438 CLINIMIX INJ 6/5
+800438 CLINIMIX INJ 8/14
+800438 CLINIMIX INJ 5%/D15W
+800585 clinisol sf 15%
+800809 ISOLYTE-P INJ /D5W
+800928 ISOLYTE-S INJ PH 7.4
+800930 hepatamine
+801095 VENTOLIN HFA (INSTITUTIONAL PACK) AERS 108mcg/act
+801095 VENTOLIN HFA AERS 108mcg/act
+801112 PLASMA-LYTE INJ -A
+801136 PROSOL INJ 20%
+801185 ocella
+801357 PLASMA-LYTE INJ -148
+801405 PREMASOL SOL 10%
+801414 PROCALAMINE INJ 3%
+801648 TRAVASOL INJ 10%
+801957 diazepam (anticonvulsant) GEL 2.5mg, 10mg, 20mg
+802749 candesartan cilexetil-hydrochlorothiazide tab 32-25 mg
+804544 difluprednate EMUL .05%
+804547 DUREZOL EMUL .05%
+805464 tetrabenazine TABS 12.5mg
+809984 VIMPAT SOLN 200mg/20ml
+809990 VIMPAT TABS 100mg, 150mg, 200mg
+810002 VIMPAT TABS 50mg
+810072 TOVIAZ TB24 4mg, 8mg
+810083 carbidopa-levodopa-entacapone tabs 31.25-125-200 mg
+810090 carbidopa-levodopa-entacapone tabs 18.75-75-200 mg
+824295 rufinamide TABS 200mg
+824301 rufinamide TABS 400mg
+825425 PROMACTA PACK 25mg
+825429 PROMACTA TABS 50mg, 75mg
+826611 silodosin CAPS 4mg, 8mg
+827073 nebivolol hcl TABS 20mg
+827075 BYSTOLIC TABS 20mg
+828320 cyclobenzaprine hcl TABS 5mg, 10mg
+829757 magnesium sulfate in dextrose 5% iv soln 1 gm/100ml
+830470 IMOVAX RABIES (H.D.C.V.) INJ 2.5unit/ml
+830844 diltiazem hcl coated beads TB24 180mg, 240mg, 300mg, 360mg, 420mg
+830864 diltiazem hcl CP12 60mg, 90mg, 120mg
+831054 diltiazem hcl coated beads CP24 120mg, 180mg, 240mg, 300mg, 360mg
+831109 cromolyn sodium (ophth) SOLN 4%
+831196 taztia xt CP24 120mg, 180mg, 240mg, 300mg, 360mg
+831214 dilt-xr CP24 120mg, 180mg, 240mg
+831215 diltiazem hcl extended release beads CP24 120mg, 180mg, 240mg, 300mg, 360mg, 420mg
+831226 cartia xt CP24 120mg, 180mg, 240mg, 300mg
+831246 cromolyn sodium NEBU 20mg/2ml
+831261 cromolyn sodium (mastocytosis) CONC 100mg/5ml
+831430 AMINOSYN-PF INJ 7%
+831533 errin TABS .35mg
+831870 PREZISTA TABS 75mg
+831872 azurette
+832718 klor-con 8 TBCR 8meq
+832731 klor-con m15 TBCR 15meq
+832864 sulfacetamide sodium (acne) LOTN 10%
+833136 SAVELLA MIS TITR PAK
+833143 SAVELLA TABS 12.5mg, 25mg, 50mg, 100mg
+833217 diltiazem hcl TABS 30mg, 60mg, 90mg, 120mg
+833528 amiodarone hcl TABS 200mg
+833532 amiodarone hcl SOLN 50mg/ml, 900mg/18ml
+834046 penicillin v potassium SOLR 125mg/5ml, 250mg/5ml
+834060 penicillin v potassium TABS 250mg, 500mg
+834127 chlorhexidine gluconate (mouth-throat) SOLN .12%
+834137 periogard SOLN .12%
+834235 febuxostat TABS 40mg, 80mg
+834346 pacerone TABS 200mg
+834768 caziant
+835593 imipramine hcl TABS 10mg, 25mg, 50mg
+835603 tramadol hcl TABS 50mg
+835721 TRECATOR TABS 250mg
+835725 acamprosate calcium TBEC 333mg
+835808 testosterone enanthate SOLN 200mg/ml
+835828 testosterone cypionate SOLN 100mg/ml, 200mg/ml
+835885 cyclosporine modified (for micro SOLN 100mg/ml
+835892 gengraf SOLN 100mg/ml
+835896 gengraf CAPS 25mg, 100mg
+835956 amiodarone hcl TABS 100mg, 400mg
+835958 pacerone TABS 100mg, 400mg
+836358 ipratropium bromide SOLN .02%
+836368 ATROVENT HFA AERS 17mcg/act
+836395 tramadol-acetaminophen tab 37.5-325 mg
+845512 AFINITOR TABS 10mg
+845514 everolimus TBSO 5mg
+845529 IXIARO INJ
+847241 LEVEMIR FLEXTOUCH SOPN 100unit/ml
+847627 dextrose 5% in lactated ringers
+847630 lactated ringer's solution
+847734 COARTEM TAB 20-120MG
+847917 BYETTA SOPN 5mcg/0.02ml, 10mcg/0.04ml
+848131 amlodipine-valsartan-hydrochlorothiazide tab 10-160-12.5 mg
+848139 amlodipine-valsartan-hydrochlorothiazide tab 10-320-25 mg
+848140 amlodipine-valsartan-hydrochlorothiazide tab 5-160-12.5 mg
+848145 amlodipine-valsartan-hydrochlorothiazide tab 5-160-25 mg
+848151 amlodipine-valsartan-hydrochlorothiazide tab 10-160-25 mg
+848180 betamethasone dipropionate augmented OINT .05%
+848208 betamethasone dipropionate augmented GEL .05%
+848723 FANAPT PAK
+848726 FANAPT TABS 1mg, 2mg, 4mg, 6mg, 8mg, 10mg, 12mg
+848943 cholestyramine POWD 4gm/dose
+848943 cholestyramine PACK 4gm
+849385 amantadine hcl SOLN 50mg/5ml
+849388 amantadine hcl CAPS 100mg
+849395 amantadine hcl TABS 100mg
+849398 naproxen sodium TABS 275mg, 550mg
+849501 desmopressin acetate SOLN 4mcg/ml
+849506 desmopressin acetate spray SOLN .01%
+849514 desmopressin acetate TABS .1mg, .2mg
+850309 BESIVANCE SUSP .6%
+850436 gavilyte-c
+850457 PREZISTA TABS 150mg
+852877 quinidine sulfate TABS 200mg, 300mg
+854228 enoxaparin sodium SOLN 30mg/0.3ml, 40mg/0.4ml, 60mg/0.6ml, 80mg/0.8ml, 100mg/ml, 120mg/0.8ml, 150mg/ml, 300mg/3ml
+854801 diclofenac sodium (ophth) SOLN .1%
+854840 VYVANSE CAPS 40mg, 50mg, 60mg, 70mg
+854859 MULTAQ TABS 400mg
+854862 rabeprazole sodium TBEC 20mg
+854876 zolpidem tartrate TABS 5mg, 10mg
+854905 bisoprolol fumarate TABS 5mg, 10mg
+854984 perindopril erbumine TABS 2mg, 4mg, 8mg
+855168 levocetirizine dihydrochloride SOLN 2.5mg/5ml
+855172 levocetirizine dihydrochloride TABS 5mg
+855178 tolterodine tartrate TABS 1mg, 2mg
+855181 tolterodine tartrate CP24 2mg, 4mg
+855288 warfarin sodium TABS 1mg, 2mg, 2.5mg, 3mg, 4mg, 5mg, 6mg, 7.5mg, 10mg
+855292 jantoven TABS 1mg, 2mg, 2.5mg, 3mg,
+855480 alclometasone dipropionate OINT .05%
+855633 diclofenac sodium (topical) GEL 1%
+855656 diclofenac sodium TB24 100mg
+855663 diclofenac sodium TBEC 25mg, 50mg, 75mg
+855671 phenytoin sodium extended CAPS 100mg, 200mg, 300mg
+855818 prasugrel hcl TABS 5mg, 10mg
+855863 PHENYTEK CAPS 200mg, 300mg
+855871 DILANTIN CAPS 30mg, 100mg
+855888 phenytoin sodium SOLN 50mg/ml
+855942 diclofenac potassium TABS 50mg
+856377 trazodone hcl TABS 50mg, 100mg, 150mg
+856448 propranolol hcl TABS 10mg, 20mg, 40mg,
+856534 propranolol hcl CP24 60mg, 80mg, 120mg, 160mg
+856605 rimantadine hydrochloride TABS 100mg
+856655 dantrolene sodium CAPS 25mg, 50mg, 100mg
+856666 XIFAXAN TABS 550mg
+856724 propranolol hcl SOLN 20mg/5ml, 40mg/5ml
+856783 amitriptyline hcl TABS 10mg, 25mg, 50mg, 75mg, 100mg, 150mg
+856940 hydrocodone-acetaminophen soln 7.5-325 mg/15ml
+856999 hydrocodone-acetaminophen tab 10-325 mg
+857002 hydrocodone-acetaminophen tab 5-325 mg
+857005 hydrocodone-acetaminophen tab 7.5-325 mg
+857045 gavilyte-g
+857051 gavilyte-n/flavor pack
+857169 fosinopril sodium TABS 10mg, 20mg, 40mg
+857295 clomipramine hcl CAPS 25mg, 50mg, 75mg
+857336 bethanechol chloride TABS 5mg, 10mg, 25mg, 50mg
+857560 trospium chloride TABS 20mg
+857677 terbutaline sulfate TABS 2.5mg, 5mg
+858051 INVEGA SUSTENNA SUSY 78mg/0.5ml, 117mg/0.75ml, 156mg/ml, 234mg/1.5ml
+858074 INVEGA SUSTENNA SUSY 39mg/0.25ml
+858612 nicardipine hcl CAPS 20mg, 30mg
+858747 ursodiol CAPS 300mg
+858751 ursodiol TABS 250mg, 500mg
+858798 hydrocodone-ibuprofen tab 7.5-200 mg
+858804 enalapril maleate TABS 2.5mg, 5mg, 10mg, 20mg
+859052 pramipexole dihydrochloride TABS .125mg, .25mg, .5mg, .75mg, 1mg, 1.5mg
+859185 selegiline hcl CAPS 5mg
+859193 selegiline hcl TABS 5mg
+859423 rosuvastatin calcium TABS 5mg, 10mg, 20mg, 40mg
+859823 fluphenazine decanoate SOLN 25mg/ml
+859835 fluphenazine hcl ELIX 2.5mg/5ml
+859865 INVIRASE TABS 500mg
+859866 haloperidol decanoate SOLN 50mg/ml, 100mg/ml
+859995 paliperidone TB24 1.5mg, 3mg, 9mg
+860103 ketorolac tromethamine (ophth) SOLN .4%, .5%
+860215 megestrol acetate TABS 20mg, 40mg
+860224 megestrol acetate SUSP 40mg/ml
+860714 galantamine hydrobromide CP24 8mg, 16mg, 24mg
+860805 azelastine hcl (ophth) SOLN .05%
+860900 galantamine hydrobromide SOLN 4mg/ml
+860974 metformin hcl TB24 500mg
+860980 metformin hcl TB24 750mg
+861004 metformin hcl TABS 1000mg
+861007 metformin hcl TABS 500mg
+861010 metformin hcl TABS 850mg
+861064 sertraline hcl CONC 20mg/ml
+861131 alfuzosin hcl TB24 10mg
+861155 propafenone hcl CP12 225mg, 325mg, 425mg
+861206 ALPHAGAN P SOLN .1%
+861208 brimonidine tartrate SOLN .15%
+861360 fondaparinux sodium SOLN 2.5mg/0.5ml
+861363 fondaparinux sodium SOLN 5mg/0.4ml, 7.5mg/0.6ml, 10mg/0.8ml
+861370 sevelamer carbonate PACK 2.4gm
+861375 sevelamer carbonate PACK .8gm
+861416 azithromycin PACK 1gm
+861424 propafenone hcl TABS 150mg, 225mg, 300mg
+861434 clobetasol propionate GEL .05%
+861448 clobetasol propionate OINT .05%
+861487 clobetasol propionate SOLN .05%
+861505 clobetasol propionate CREA .05%
+861637 COMBIGAN SOL 0.2/0.5%
+861646 LIVALO TABS 1mg, 2mg, 4mg
+861668 dihydroergotamine mesylate SOLN 4mg/ml
+861671 dihydroergotamine mesylate SOLN 1mg/ml
+861731 glipizide-metformin hcl tab 2.5-250 mg
+861736 glipizide-metformin hcl tab 2.5-500 mg
+861740 glipizide-metformin hcl tab 5-500 mg
+861771 JANUMET XR TAB 50-1000
+861771 JANUMET TAB 50-1000
+861821 JANUMET XR TAB 50-500MG
+861821 JANUMET TAB 50-500MG
+861848 fluphenazine hcl CONC 5mg/ml
+863038 bepotastine besilate SOLN 1.5%
+863042 BEPREVE SOLN 1.5%
+863557 valganciclovir hcl SOLR 50mg/ml
+863599 oxybutynin chloride SYRP 5mg/5ml
+863606 e.e.s. 400 TABS 400mg
+863618 oxybutynin chloride TB24 10mg, 15mg
+863635 oxybutynin chloride TB24 5mg
+863664 oxybutynin chloride TABS 5mg
+863668 tamsulosin hcl CAPS .4mg
+864650 ZIRGAN GEL .15%
+864661 efavirenz-lamivudine-tenofovir df tab 600- 300-300 mg
+864675 atovaquone-proguanil hcl tab 250-100 mg
+864681 atovaquone-proguanil hcl tab 62.5-25 mg
+864718 methadone hcl TABS 5mg, 10mg
+864761 methadone hcl SOLN 5mg/5ml, 10mg/5ml
+865117 fluphenazine hcl TABS 1mg, 2.5mg, 5mg, 10mg
+865129 fluphenazine hcl SOLN 2.5mg/ml
+865208 EMSAM PT24 6mg/24hr, 9mg/24hr, 12mg/24hr
+866021 cyproheptadine hcl SYRP 2mg/5ml
+866042 neomycin sulfate TABS 500mg
+866047 SEREVENT DISKUS AEPB 50mcg/dose
+866094 buspirone hcl TABS 5mg, 10mg, 15mg
+866144 cyproheptadine hcl TABS 4mg
+866508 metoprolol tartrate SOLN 5mg/5ml
+866905 colesevelam hcl PACK 3.75gm
+866910 colesevelam hcl TABS 625mg
+866924 metoprolol tartrate TABS 25mg, 50mg, 100mg
+867381 BERINERT KIT 500unit
+867506 VOTRIENT TABS 200mg
+876514 telmisartan-amlodipine tab 40-10 mg
+876519 telmisartan-amlodipine tab 80-10 mg
+876524 telmisartan-amlodipine tab 40-5 mg
+876529 telmisartan-amlodipine tab 80-5 mg
+881341 adefovir dipivoxil TABS 10mg
+883826 tranexamic acid TABS 650mg
+884173 clonidine hcl TABS .1mg, .2mg, .3mg
+884707 estradiol vaginal TABS 10mcg
+885204 benztropine mesylate SOLN 1mg/ml
+885213 benztropine mesylate TABS .5mg, 1mg, 2mg
+885856 balsalazide disodium CAPS 750mg
+886626 butorphanol tartrate SOLN 1mg/ml, 2mg/ml
+886662 flecainide acetate TABS 50mg, 100mg, 150mg
+891877 morphine sulfate TBCR 15mg, 30mg, 60mg, 100mg, 200mg
+892476 morphine sulfate SOLN 1mg/ml, 4mg/ml, 10mg/ml
+892582 morphine sulfate TABS 15mg, 30mg
+892588 MORPHINE SULFATE SOLN 2mg/ml, 4mg/ml, 5mg/ml, 8mg/ml, 10mg/ml
+892589 morphine sulfate SOLN 10mg/5ml, 20mg/5ml
+892625 morphine sulfate SOLN 100mg/5ml
+894892 vincristine sulfate SOLN 1mg/ml
+895487 fluticasone propionate OINT .005%
+895987 fluticasone propionate CREA .05%
+895996 FLOVENT HFA AERO 44mcg/act, 110mcg/act, 220mcg/act
+896019 FLOVENT DISKUS AEPB 50mcg/blist
+896023 FLOVENT DISKUS AEPB 100mcg/blist, 250mcg/blist
+896185 ADVAIR DISKU AER 100/50
+896212 ADVAIR DISKU AER 250/50
+896229 ADVAIR DISKU AER 500/50
+896237 ADVAIR HFA AER 45/21
+896245 ADVAIR HFA AER 115/21
+896273 ADVAIR HFA AER 230/21
+896758 labetalol hcl TABS 100mg, 200mg, 300mg
+897019 dalfampridine TB12 10mg
+897126 VICTOZA SOPN 18mg/3ml
+897583 verapamil hcl CP24 100mg, 120mg, 180mg, 200mg, 240mg, 300mg, 360mg
+897611 verapamil hcl TBCR 120mg, 180mg, 240mg
+897652 hydromorphone hcl LIQD 1mg/ml
+897696 hydromorphone hcl TABS 2mg, 4mg, 8mg
+897705 verapamil hcl SOLN 2.5mg/ml
+897722 verapamil hcl TABS 40mg, 80mg, 120mg
+898342 amlodipine besylate-benazepril hcl cap 10- 20 mg
+898346 amlodipine besylate-benazepril hcl cap 10- 40 mg
+898350 amlodipine besylate-benazepril hcl cap 2.5- 10 mg
+898353 amlodipine besylate-benazepril hcl cap 5- 10 mg
+898356 amlodipine besylate-benazepril hcl cap 5- 20 mg
+898359 amlodipine besylate-benazepril hcl cap 5- 40 mg
+898490 potassium citrate (alkalinizer) TBCR 15meq, 540mg, 1080mg
+898715 pregabalin SOLN 20mg/ml
+898723 benazepril hcl TABS 5mg, 10mg, 20mg, 40mg
+899548 dexmethylphenidate hcl TABS 10mg
+899557 dexmethylphenidate hcl TABS 2.5mg, 5mg
+900575 ritonavir TABS 100mg
+900577 NORVIR PACK 100mg
+901515 MENVEO INJ
+901540 pramipexole dihydrochloride TB24 .375mg, .75mg, 1.5mg, 2.25mg, 3mg, 3.75mg, 4.5mg
+901614 CAYSTON SOLR 75mg
+902622 DEXILANT CPDR 30mg, 60mg
+903456 liothyronine sodium TABS 5mcg, 25mcg, 50mcg
+903857 pyridostigmine bromide TABS 60mg
+903887 fluvoxamine maleate TABS 25mg, 50mg, 100mg
+904170 PRIMAQUINE PHOSPHATE TABS 26.3mg
+904170 primaquine phosphate TABS 26.3mg
+904414 nalbuphine hcl SOLN 10mg/ml, 20mg/ml
+904419 alendronate sodium TABS 10mg, 35mg, 70mg
+904447 alendronate sodium SOLN 70mg/75ml
+904458 pravastatin sodium TABS 10mg, 20mg, 40mg, 80mg
+904465 FOSAMAX + D TAB 70-5600
+904495 FOSAMAX + D TAB 70-2800
+904589 sotalol hcl TABS 80mg, 120mg, 160mg, 240mg
+904600 sotalol hcl (afib/afl) TABS 80mg, 120mg, 160mg
+904605 sorine TABS 80mg, 120mg, 160mg, 240mg
+904922 PAMIDRONATE DISODIUM SOLN 6mg/ml
+904932 ibandronate sodium TABS 150mg
+904955 ibandronate sodium SOLN 3mg/3ml
+905023 risedronate sodium TBEC 35mg
+905041 risedronate sodium TABS 5mg, 30mg, 35mg, 150mg
+905059 TRELSTAR MIXJECT SUSR 3.75mg, 11.25mg
+905172 protriptyline hcl TABS 5mg, 10mg
+905199 hydralazine hcl TABS 10mg, 25mg, 50mg, 100mg
+905269 trihexyphenidyl hcl TABS 2mg, 5mg
+905272 trihexyphenidyl hcl SOLN .4mg/ml
+905394 CARBAGLU TABS 200mg
+966153 euthyrox TABS 25mcg, 50mcg, 75mcg, 88mcg, 100mcg, 112mcg, 125mcg, 137mcg, 150mcg, 175mcg, 200mcg
+966154 levo-t TABS 25mcg, 50mcg, 75mcg, 88mcg, 100mcg, 112mcg, 125mcg, 137mcg, 150mcg, 175mcg, 200mcg, 300mcg
+966157 levoxyl TABS 25mcg, 50mcg, 75mcg, 88mcg, 100mcg, 112mcg, 125mcg, 137mcg, 150mcg, 175mcg, 200mcg
+966158 SYNTHROID TABS 25mcg, 50mcg, 75mcg, 88mcg, 100mcg, 112mcg, 125mcg, 137mcg, 150mcg, 175mcg, 200mcg, 300mcg
+966220 levothyroxine sodium TABS 25mcg, 50mcg, 75mcg, 88mcg, 100mcg, 112mcg, 125mcg, 137mcg, 150mcg, 175mcg, 200mcg, 300mcg
+966228 unithroid TABS 25mcg, 50mcg, 75mcg, 88mcg, 100mcg, 112mcg, 125mcg, 137mcg, 150mcg, 175mcg, 200mcg, 300mcg
+966524 PULMICORT FLEXHALER AEPB 180mcg/act
+966529 PULMICORT FLEXHALER AEPB 90mcg/act
+966571 hydralazine hcl SOLN 20mg/ml
+966787 doxepin hcl (sleep) TABS 3mg, 6mg
+967018 ZYCLARA PUMP CREA 2.5%
+967388 AMBISOME SUSR 50mg
+977427 everolimus (immunosuppressant) TABS .25mg, .5mg, .75mg, 1mg
+977836 heather TABS .35mg
+977840 NOVOLOG MIX INJ FLEXPEN
+977842 NOVOLOG MIX INJ 70/30
+977880 amiloride hcl TABS 5mg
+977978 halobetasol propionate OINT .05%
+977990 halobetasol propionate CREA .05%
+977997 loperamide hcl CAPS 2mg
+978573 carteolol hcl (ophth) SOLN 1%
+979092 hydroxychloroquine sulfate TABS 200mg
+979480 losartan potassium TABS 25mg, 50mg, 100mg
+984082 ABELCET SUSP 5mg/ml
+984105 sodium phenylbutyrate POWD 3gm/tsp
+991039 chlorpromazine hcl TABS 10mg, 25mg, 50mg, 100mg, 200mg
+991060 dicyclomine hcl CAPS 10mg
+991082 dicyclomine hcl SOLN 10mg/5ml
+991086 dicyclomine hcl TABS 20mg
+991147 methadone hydrochloride i CONC 10mg/ml
+991212 chlorpromazine hcl SOLN 25mg/ml, 50mg/2ml
+991233 TARGRETIN GEL 1%
+991332 CHLORPROMAZINE HYDROCHLOR CONC 30mg/ml, 100mg/ml
+992150 methenamine hippurate TABS 1gm
+992395 gatifloxacin (ophth) SOLN .5%
+992432 promethazine hcl SYRP 6.25mg/5ml
+992438 promethazine hcl TABS 12.5mg, 25mg, 50mg
+992460 promethazine hcl SOLN 25mg/ml, 50mg/ml
+993072 LUMIZYME SOLR 50mg
+993456 PROLIA SOSY 60mg/ml
+993466 midodrine hcl TABS 2.5mg, 5mg, 10mg
+993502 bupropion hcl TB12 100mg, 150mg, 200mg
+993517 bupropion hcl TB24 150mg, 300mg
+993691 bupropion hcl TABS 75mg, 100mg
+993755 acetaminophen w/ codeine soln 120-12 mg/5ml
+993770 acetaminophen w/ codeine tab 300-15 mg
+993781 acetaminophen w/ codeine tab 300-30 mg
+993890 acetaminophen w/ codeine tab 300-60 mg
+995156 VIMPAT SOLN 10mg/ml
+995218 hydroxyzine hcl TABS 10mg, 25mg, 50mg
+995241 hydroxyzine hcl SYRP 10mg/5ml
+995270 hydroxyzine hcl SOLN 25mg/ml, 50mg/ml
+995599 ethambutol hcl TABS 100mg, 400mg
+995624 meclizine hcl TABS 12.5mg, 25mg
+995906 pfizerpen SOLR 5000000unit, 20000000unit
+996097 dutasteride-tamsulosin hcl cap 0.5-0.4 mg
+996571 memantine hcl TABS 5mg, 10mg
+996614 memantine hcl CP24 7mg, 14mg, 21mg, 28mg
+996740 memantine hcl SOLN 2mg/ml
+997009 quinine sulfate CAPS 324mg
+997219 donepezil hydrochloride TBDP 10mg
+997223 donepezil hydrochloride TABS 10mg
+997225 donepezil hydrochloride TBDP 5mg
+997229 donepezil hydrochloride TABS 5mg
+998189 everolimus TABS 2.5mg, 5mg, 7.5mg, 10mg
+998671 clonidine PTWK .1mg/24hr, .2mg/24hr, .3mg/24hr
+999967 olmesartan-amlodipine-hydrochlorothiazide tab 20-5-12.5 mg
+999986 olmesartan-amlodipine-hydrochlorothiazide tab 40-10-12.5 mg
+999991 olmesartan-amlodipine-hydrochlorothiazide tab 40-10-25 mg
+999996 olmesartan-amlodipine-hydrochlorothiazide tab 40-5-12.5 mg
+1000001 olmesartan-amlodipine-hydrochlorothiazide tab 40-5-25 mg
+1000047 doxepin hcl CAPS 10mg, 25mg, 50mg, 75mg, 100mg
+1000054 doxepin hcl CONC 10mg/ml
+1000063 doxepin hcl CAPS 150mg
+1000089 LASTACAFT SOLN .25%
+1000126 medroxyprogesterone acetate (contraceptive) SUSP 150mg/ml
+1000126 medroxyprogesterone acetate (contraceptive) SUSY 150mg/ml
+1000135 medroxyprogesterone acetate TABS 2.5mg, 5mg, 10mg
+1000405 norethindrone acetate TABS 5mg
+1000647 pilocarpine hcl SOLN 1%, 2%, 4%
+1000673 sulfacetamide sodium (ophth) OINT 10%
+1000913 pilocarpine hcl (oral) TABS 5mg, 7.5mg
+1001405 docetaxel CONC 20mg/ml
+1001690 SUPREP BOWEL SOL PREP KIT
+1005928 ELLA TABS 30mg
+1006120 sulfacetamide sodium (ophth) SOLN 10%
+1009145 amphetamine-dextroamphetamine tab 7.5 mg
+1009341 LUMIGAN SOLN .01%
+1010296 lidocaine OINT 5%
+1010600 buprenorphine hcl-naloxone hcl sl film 2- 0.5 mg (base equiv)
+1010604 buprenorphine hcl-naloxone hcl sl film 8-2 mg (base equiv)
+1010900 lidocaine hcl (local anesth.) SOLN .5%, 1%, 1.5%, 2%
+1011080 TOBRADEX ST SUS 0.3-0.05
+1011736 aliskiren fumarate TABS 150mg, 300mg
+1011987 BLEPHAMIDE OIN S.O.P.
+1012021 sulfacetamide sodium-prednisolone ophth soln 10-0.23(0.25)%
+1012896 GILENYA CAPS .5mg
+1013636 calcitrene OINT .005%
+1014431 FREAMINE III INJ 10%
+1014614 oxycodone hcl CAPS 5mg
+1014673 cetirizine hcl SOLN 1mg/ml
+1020155 introvale
+1037181 PRADAXA CAPS 75mg, 150mg
+1040012 TEFLARO SOLR 400mg, 600mg
+1040043 LATUDA TABS 80mg
+1040058 NUEDEXTA CAP 20-10MG
+1041518 azelaic acid GEL 15%
+1046402 XGEVA SOLN 120mg/1.7ml
+1046920 NICOTROL INHALER INHA 10mg
+1048450 colestipol hcl PACK 5gm
+1048450 colestipol hcl GRAN 5gm
+1049214 oxycodone w/ acetaminophen tab 10-325 mg
+1049216 endocet tab 10-325mg
+1049221 oxycodone w/ acetaminophen tab 5-325 mg
+1049223 endocet tab 5-325mg
+1049225 oxycodone w/ acetaminophen tab 7.5-325 mg
+1049227 endocet tab 7.5-325mg
+1049399 dexamethasone sodium phosphate SOLN 4mg/ml, 10mg/ml, 20mg/5ml, 100mg/10ml, 120mg/30ml
+1049604 oxycodone hcl SOLN 5mg/5ml
+1049615 oxycodone hcl CONC 100mg/5ml
+1049621 oxycodone hcl TABS 5mg, 10mg, 15mg, 20mg, 30mg
+1049633 diphenhydramine hcl SOLN 50mg/ml
+1049635 oxycodone w/ acetaminophen tab 2.5-325 mg
+1085633 triamcinolone acetonide (topical) OINT .025%, .1%, .5%
+1085644 triamcinolone acetonide (topical) CREA .025%, .5%
+1085644 triamcinolone acetonide (topical) LOTN .025%, .1%
+1086776 VIIBRYD TABS 10mg, 20mg, 40mg
+1090993 jinteli
+1091133 methylphenidate hcl SOLN 10mg/5ml
+1091136 methylphenidate hcl TBCR 10mg, 20mg
+1091341 methylphenidate hcl SOLN 5mg/5ml
+1091389 methylphenidate hcl CHEW 2.5mg, 5mg, 10mg
+1091392 methylphenidate hcl TABS 20mg
+1091488 metadate er TBCR 20mg
+1091497 methylphenidate hcl TABS 5mg, 10mg
+1091632 matzim la TB24 180mg, 240mg, 300mg, 360mg, 420mg
+1091650 EDARBI TABS 40mg, 80mg
+1091828 emoquette
+1092357 rufinamide SUSP 40mg/ml
+1094543 briellyn
+1095362 balziva
+1098678 nefazodone hcl TABS 50mg, 100mg, 150mg, 200mg, 250mg
+1099026 loryna
+1099269 syeda
+1099288 desipramine hcl TABS 10mg, 25mg, 50mg, 75mg, 100mg, 150mg
+1099503 LOTEMAX OINT .5%
+1099562 divalproex sodium TB24 250mg, 500mg
+1099595 divalproex sodium TBEC 125mg, 250mg, 500mg
+1099595 divalproex sodium CSDR 125mg
+1100075 abiraterone acetate TABS 250mg, 500mg
+1100706 TRADJENTA TABS 5mg
+1102277 EDURANT TABS 25mg
+1111110 DIFICID TABS 200mg
+1111339 olopatadine hcl SOLN .1%
+1112980 NULOJIX SOLR 250mg
+1114074 CAPRELSA TABS 100mg, 300mg
+1114085 zoledronic acid SOLN 4mg/100ml, 5mg/100ml
+1114202 XARELTO TABS 10mg, 15mg, 20mg
+1114470 RECTIV OINT .4%
+1115012 GRALISE TABS 300mg
+1115013 GRALISE TABS 600mg
+1115459 LUPRON DEPOT (1-MONTH) KIT 3.75mg
+1115464 LUPRON DEPOT-PED (1-MONTH KIT 7.5mg, 11.25mg, 15mg
+1115473 LUPRON DEPOT-PED (3-MONTH KIT 11.25mg, 30mg
+1115473 LUPRON DEPOT (3-MONTH) KIT 11.25mg
+1115698 oseltamivir phosphate SUSR 6mg/ml
+1117097 ZENPEP CAP 10000UNT
+1117097 ZENPEP CAP 15000UNT
+1117097 ZENPEP CAP 20000UNT
+1117531 chloroquine phosphate TABS 250mg, 500mg
+1147228 ZELBORAF TABS 240mg
+1147334 COMPLERA TAB
+1148141 icatibant acetate SOLN 30mg/3ml
+1148398 rosadan CREA .75%
+1148502 XALKORI CAPS 200mg, 250mg
+1149617 SANTYL OINT 250unit/gm
+1150836 levobunolol hcl SOLN .5%
+1155342 neomycin-polymyxin-hc ophth susp
+1155342 bacitracin-polymyxin-neomycin-hc ophth oint 1%
+1160437 nystatin (topical) POWD 100000unit/gm
+1160437 nystatin (topical) CREA 100000unit/gm
+1170896 CIPRO HC SUS OTIC
+1189640 TROPHAMINE INJ 10%
+1190568 diphenoxylate w/ atropine liq 2.5-0.025 mg/5ml
+1190572 diphenoxylate w/ atropine tab 2.5-0.025 mg
+1190655 atropine sulfate (ophthalmic) SOLN 1%
+1190655 ATROPINE SULFATE SOLN 1%
+1190911 TENIVAC INJ 5-2LF
+1190955 ANDRODERM PT24 2mg/24hr, 4mg/24hr
+1191013 proparacaine hcl SOLN .5%
+1191138 doxorubicin hcl SOLN 2mg/ml
+1191221 naloxone hcl SOCT .4mg/ml
+1191222 naloxone hcl SOLN .4mg/ml, 4mg/10ml
+1191234 naloxone hcl LIQD 4mg/0.1ml
+1191250 naloxone hcl SOSY 2mg/2ml
+1191256 fluocinolone acetonide OINT .025%
+1191299 fluocinolone acetonide (otic) OIL .01%
+1191302 fluocinolone acetonide CREA .01%
+1191307 fluocinolone acetonide OIL .01%
+1191310 fluocinolone acetonide SOLN .01%
+1191315 fluocinolone acetonide CREA .025%
+1191495 doxorubicin hcl liposomal INJ 2mg/ml
+1193341 JAKAFI TABS 5mg, 10mg, 15mg, 20mg, 25mg
+1193358 levetiracetam in sodium chloride iv soln 1000 mg/100ml
+1193360 levetiracetam in sodium chloride iv soln 1500 mg/100ml
+1193362 levetiracetam in sodium chloride iv soln 500 mg/100ml
+1232088 XARELTO STAR TAB 15/20MG
+1233711 ARALAST NP SOLR 500mg, 1000mg
+1233850 vestura
+1235150 EDARBYCLOR TAB 40-12.5
+1235157 EDARBYCLOR TAB 40-25MG
+1235249 LATUDA TABS 20mg, 40mg, 60mg, 120mg
+1235591 ISENTRESS PACK 100mg
+1235591 ISENTRESS CHEW 100mg
+1235595 ISENTRESS CHEW 25mg
+1235874 philith
+1236632 PREZISTA SUSP 100mg/ml
+1242233 REVLIMID CAPS 2.5mg, 5mg, 10mg, 15mg
+1242611 myorisan CAPS 10mg, 20mg, 30mg, 40mg
+1242786 alyacen 1/35
+1242787 alyacen 7/7/7
+1242998 ERIVEDGE CAPS 150mg
+1243010 INLYTA TABS 1mg
+1243014 INLYTA TABS 5mg
+1243026 JENTADUETO TAB XR 5-1000MG
+1243026 JENTADUETO TAB XR 2.5-1000MG
+1243026 JENTADUETO TAB 2.5-1000
+1243033 JENTADUETO TAB 2.5-500
+1243040 JENTADUETO TAB 2.5-850
+1243052 KALYDECO TABS 150mg
+1243326 VIREAD TABS 150mg, 200mg, 250mg
+1243346 VIREAD POWD 40mg/gm
+1243585 flurbiprofen sodium SOLN .03%
+1243833 JANUMET XR TAB 100-1000
+1244064 RELISTOR SOLN 8mg/0.4ml, 12mg/0.6ml
+1245003 PROMACTA TABS 12.5mg, 25mg
+1245003 PROMACTA PACK 12.5mg
+1245268 KORLYM TABS 300mg
+1245443 digox TABS 125mcg, 250mcg
+1245919 marlissa
+1246315 SYMBICORT AER 80-4.5
+1246317 SYMBICORT AER 160-4.5
+1246319 formoterol fumarate NEBU 20mcg/2ml
+1247259 M-NATAL PLUS TAB
+1249631 FLAREX SUSP .1%
+1250723 INTELENCE TABS 25mg
+1251323 norethindrone acetate-ethinyl estradiol tab 0.5 mg-2.5 mcg
+1251914 NEUPRO PT24 1mg/24hr, 2mg/24hr, 3mg/24hr, 4mg/24hr, 6mg/24hr, 8mg/24hr
+1252016 viorele
+1292459 VARIVAX INJ 1350pfu/0.5ml
+1293504 ergotamine w/ caffeine tab 1-100 mg
+1298910 molindone hcl TABS 5mg, 10mg, 25mg
+1299897 moexipril hcl TABS 7.5mg, 15mg
+1299911 tiagabine hcl TABS 2mg, 4mg, 12mg, 16mg
+1300538 dasetta 1/35
+1300793 MYRBETRIQ TB24 25mg, 50mg
+1300911 wera
+1304980 VASCEPA CAPS .5gm, 1gm
+1304988 falmina
+1305089 elinest
+1305757 tri-lo-marzia
+1306293 STRIBILD TAB
+1307056 buprenorphine hcl-naloxone hcl sl film 4-1 mg (base equiv)
+1307061 buprenorphine hcl-naloxone hcl sl film 12-3 mg (base equiv)
+1307630 BOSULIF TABS 100mg, 400mg, 500mg
+1310138 AFINITOR DISPERZ TBSO 2mg
+1310144 AFINITOR DISPERZ TBSO 3mg
+1310147 AFINITOR DISPERZ TBSO 5mg
+1311535 tri-linyah
+1312408 STIVARGA TABS 40mg
+1313112 phenytoin SUSP 125mg/5ml
+1313785 CYSTARAN SOLN .44%
+1313884 DILANTIN-125 SUSP 125mg/5ml
+1313885 phenytoin CHEW 50mg
+1313887 DILANTIN INFATABS CHEW 50mg
+1356074 kurvelo
+1356563 FYCOMPA TABS 2mg
+1356572 FYCOMPA TABS 4mg, 6mg
+1356580 FYCOMPA TABS 8mg, 10mg, 12mg
+1356693 SYNRIBO SOLR 3.5mg
+1357547 XELJANZ TABS 5mg, 10mg
+1358496 methylprednisolone acetate SUSP 40mg/ml, 80mg/ml
+1358765 junel fe 1/20
+1358770 loestrin fe 1/20
+1358775 microgestin fe 1/20
+1358780 junel 1/20
+1358781 loestrin 1/20-21
+1359020 microgestin 1/20
+1359025 junel fe 1.5/30
+1359026 loestrin fe 1.5/30
+1359027 microgestin fe 1.5/30
+1359030 junel 1.5/30
+1359031 loestrin 1.5/30-21
+1359032 microgestin 1.5/30
+1359105 diclofenac w/ misoprostol tab delayed release 75-0.2 mg
+1359129 mimvey
+1359134 tilia fe
+1359271 PREZISTA TABS 800mg
+1361047 heparin sodium (porcine) 100 unit/ml in d5w
+1361607 heparin sodium (porcine)-dextrose iv sol 20000 unit/500ml-5%
+1363408 COMETRIQ KIT 140MG
+1363408 COMETRIQ KIT 100MG
+1364114 SIGNIFOR SOLN .3mg/ml, .6mg/ml, .9mg/ml
+1364358 ICLUSIG TABS 15mg, 30mg, 45mg
+1364441 ELIQUIS TABS 2.5mg
+1364447 ELIQUIS TABS 5mg
+1364477 GATTEX KIT 5mg
+1364581 COMETRIQ (60MG DOSE) KIT 20mg
+1364848 chateal
+1365866 ILEVRO SUSP .3%
+1365899 mono-linyah
+1366192 clobazam SUSP 2.5mg/ml
+1366548 budesonide TB24 9mg
+1367436 etonogestrel-ethinyl estradiol va ring 0.120-0.015 mg/24hr
+1369724 POMALYST CAPS 1mg, 2mg
+1369732 POMALYST CAPS 3mg, 4mg
+1369737 estarylla
+1369831 VERSACLOZ SUSP 50mg/ml
+1370418 TRICARE TAB PRENATAL
+1370489 metoprolol succinate TB24 25mg, 50mg, 100mg, 200mg
+1373333 zenatane CAPS 10mg, 20mg, 30mg, 40mg
+1375922 PROLENSA SOLN .07%
+1376336 prednisolone acetate (ophth) SUSP 1%
+1421456 SIMBRINZA SUS 1-0.2%
+1422081 enskyce
+1425118 MEKINIST TABS .5mg, 2mg
+1425228 TAFINLAR CAPS 50mg, 75mg
+1426600 norethindrone acetate-ethinyl estradiol tab
+1427300 pirmella 1/35
+1428933 orsythia
+1429367 REVLIMID CAPS 20mg, 25mg
+1430383 lyza TABS .35mg
+1430449 GILOTRIF TABS 20mg, 30mg, 40mg
+1433218 FETZIMA CAP TITRATIO
+1433228 FETZIMA CP24 20mg, 40mg
+1433240 FETZIMA CP24 80mg, 120mg
+1433887 choline fenofibrate CPDR 45mg, 135mg
+1435117 FORTEO SOPN 620mcg/2.48ml
+1437702 ipratropium-albuterol nebu soln 0.5-2.5(3) mg/3ml
+1437713 VALCHLOR GEL .016%
+1438778 pimtrea
+1439896 ADEMPAS TABS .5mg, 1mg, 1.5mg, 2mg, 2.5mg
+1440183 larin fe 1/20
+1440185 aubra eq
+1440936 proctozone-hc CREA 2.5%
+1440937 larin fe 1.5/30
+1442143 OPSUMIT TABS 10mg
+1442533 hydrocodone bitartrate T24A 20mg, 30mg, 40mg, 60mg
+1442992 IMBRUVICA CAPS 140mg
+1482513 APTIOM TABS 200mg, 400mg, 600mg, 800mg
+1482905 posaconazole TBEC 100mg
+1483744 naltrexone hcl TABS 50mg
+1484090 hydroxyzine pamoate CAPS 25mg, 50mg
+1485332 vyfemla
+1486496 TYPHIM VI SOLN 25mcg/0.5ml
+1486686 sapropterin dihydrochloride TABS 100mg
+1486686 sapropterin dihydrochloride PACK 100mg, 500mg
+1486981 FARXIGA TABS 5mg, 10mg
+1487086 larin 1/20
+1487288 endocet tab 2.5-325mg
+1487360 glatiramer acetate SOSY 40mg/ml
+1487524 ANORO ELLIPT AER 62.5-25
+1490022 droxidopa CAPS 100mg
+1490033 droxidopa CAPS 200mg, 300mg
+1490065 raloxifene hcl TABS 60mg
+1491624 HETLIOZ CAPS 20mg
+1495092 norlyroc TABS .35mg
+1536490 PURIXAN SUSP 2000mg/100ml
+1536581 xulane
+1537209 larin 1.5/30
+1539893 BREO ELLIPTA INH 100-25
+1539953 deblitane TABS .35mg
+1539955 sharobel TABS .35mg
+1540356 proctosol hc CREA 2.5%
+1540868 SIVEXTRO SOLR 200mg
+1540868 SIVEXTRO TABS 200mg
+1543069 lidocaine PTCH 5%
+1544471 ZYDELIG TABS 100mg, 150mg
+1545664 JARDIANCE TABS 10mg
+1545668 JARDIANCE TABS 25mg
+1546889 TRIUMEQ TAB
+1547231 CERDELGA CAPS 84mg
+1547575 BELSOMRA TABS 5mg, 10mg, 15mg, 20mg
+1547650 ARNUITY ELLIPTA AEPB 50mcg/act, 100mcg/act, 200mcg/act
+1549443 glydo PRSY 2%
+1550536 tarina fe 1/20 eq
+1550946 MITIGARE CAPS .6mg
+1551300 TRULICITY SOPN .75mg/0.5ml, 1.5mg/0.5ml, 3mg/0.5ml, 4.5mg/0.5ml
+1551923 MOVANTIK TABS 12.5mg
+1551999 TYBOST TABS 150mg
+1591949 HARVONI TAB 90-400MG
+1592285 ESBRIET CAPS 267mg
+1592748 OFEV CAPS 100mg, 150mg
+1593136 TRUMENBA INJ
+1593775 XIGDUO XR TAB 10-1000
+1593831 XIGDUO XR TAB 5-500MG
+1593833 XIGDUO XR TAB 5-1000MG
+1593835 XIGDUO XR TAB 10-500MG
+1593858 VYVANSE CAPS 10mg, 20mg, 30mg
+1594673 ZENPEP CAP 25000
+1595292 ZENPEP CAP 3000UNIT
+1595457 ZENPEP CAP 5000UNIT
+1595736 HYSINGLA ER T24A 20mg, 30mg, 40mg, 60mg, 80mg, 100mg, 120mg
+1596445 INCRUSE ELLIPTA AEPB 62.5mcg/inh
+1596780 testosterone GEL 1%, 25mg/2.5gm, 50mg/5gm
+1597095 GARDASIL 9 INJ
+1598989 REYATAZ PACK 50mg
+1600710 PREZCOBIX TAB 800-150
+1601373 MOVANTIK TABS 25mg
+1601403 BEXSERO INJ
+1601660 EVOTAZ TAB 300-150
+1601978 plenamine
+1602028 NATPARA CART 25mcg, 50mcg, 75mcg, 100mcg
+1602115 GLYXAMBI TAB 10-5 MG
+1602120 GLYXAMBI TAB 25-5 MG
+1602588 NAMZARIC CAP 14-10MG
+1602594 NAMZARIC CAP 28-10MG
+1603361 FARYDAK CAPS 10mg, 15mg, 20mg
+1604350 LENVIMA CAP 14 MG
+1604352 LENVIMA CAP 24 MG
+1604384 LENVIMA 20 MG DAILY DOSE CPPK 10mg
+1604384 LENVIMA 10 MG DAILY DOSE CPPK 10mg
+1605071 ZARXIO SOSY 300mcg/0.5ml, 480mcg/0.8ml
+1606337 asenapine maleate SUBL 2.5mg, 5mg, 10mg
+1607795 deferasirox TABS 90mg, 180mg, 360mg
+1607795 deferasirox PACK 90mg, 180mg, 360mg
+1607804 QUADRACEL INJ
+1648755 nitrofurantoin monohyd macro CAPS 100mg
+1648765 nitrofurantoin macrocrystal CAPS 50mg, 100mg
+1648789 BREO ELLIPTA INH 200-25
+1649400 doxycycline (monohydrate) CAPS 50mg, 100mg
+1649404 doxycycline hyclate CAPS 50mg, 100mg
+1649491 CORLANOR TABS 5mg,
+1649571 PEN NEEDLES: NOVO/BD/ULTIMED/OWEN/TRIVIDIA
+1649987 doxycycline hyclate SOLR 100mg
+1650968 INVEGA TRINZA SUSY 273mg/0.88ml, 410mg/1.32ml, 546mg/1.75ml, 819mg/2.63ml
+1652673 doxycycline (monohydrate) TABS 50mg, 75mg, 100mg
+1653198 NOVOLOG PENFILL SOCT 100unit/ml
+1653204 NOVOLOG FLEXPEN SOPN 100unit/ml
+1653225 ENBREL SURECLICK SOAJ 50mg/ml
+1653470 VIIBRYD KIT STARTER
+1653579 BCG VACCINE INJ
+1654079 STELARA SOSY 45mg/0.5ml, 90mg/ml
+1654079 STELARA SOLN 45mg/0.5ml
+1654630 glatopa SOSY 20mg/ml
+1654845 NUTRILIPID EMUL 20gm/100ml
+1655728 HUMIRA PEN KIT PS/UV
+1655934 ORKAMBI TAB 200-125
+1655940 INFLIXIMAB SOLR 100mg
+1656346 ENTRESTO TAB 24-26MG
+1656351 ENTRESTO TAB 49-51MG
+1656356 ENTRESTO TAB 97-103MG
+1656398 BENLYSTA SOLR 120mg, 400mg
+1657068 AVASTIN SOLN 100mg/4ml, 400mg/16ml
+1657212 XOLAIR SOLR 150mg
+1657751 KEYTRUDA SOLN 100mg/4ml
+1657864 RITUXAN SOLN 100mg/10ml, 500mg/50ml
+1658066 HAVRIX SUSP 720elu/0.5ml, 1440elu/ml
+1658087 KADCYLA SOLR 100mg, 160mg
+1658106 VAQTA SUSP 25unit/0.5ml, 50unit/ml
+1658155 RECOMBIVAX HB SUSP 5mcg/0.5ml, 10mcg/ml, 40mcg/ml
+1658259 MAGNESIUM SULFATE SOLN 2gm/50ml, 4gm/100ml, 4gm/50ml, 20gm/500ml, 40gm/1000ml
+1658259 magnesium sulfate SOLN 2gm/50ml, 4gm/100ml, 4gm/50ml, 20gm/500ml, 40gm/1000ml, 50%
+1658333 REXULTI TABS .25mg, .5mg, 1mg, 2mg
+1658341 REXULTI TABS 3mg, 4mg
+1658717 HEPARIN/NACL INJ 25000UNT
+1659131 piperacillin sod-tazobactam sod for inj 2.25 gm (2-0.25 gm)
+1659137 piperacillin sod-tazobactam na for inj 3.375 gm (3-0.375 gm)
+1659149 piperacillin sod-tazobactam sod for inj 4.5 gm (4-0.5 gm)
+1659149 piperacillin sod-tazobactam sod for inj 13.5 gm (12-1.5 gm)
+1659149 piperacillin sod-tazobactam sod for inj 40.5 gm (36-4.5 gm)
+1659178 PRALUENT SOAJ 75mg/ml, 150mg/ml
+1659195 heparin sodium (porcine)-dextrose iv sol 25000 unit/500ml-5%
+1659283 CEFTAZIDIME/ SOL D5W 1GM
+1659283 ceftazidime SOLR 1gm, 2gm, 6gm
+1659287 CEFTAZIDIME/ SOL D5W 2GM
+1659803 FINACEA FOAM 15%
+1659818 ABILIFY MAINTENA PRSY 300mg, 400mg
+1659818 ABILIFY MAINTENA SRER 300mg, 400mg
+1659927 ODOMZO CAPS 200mg
+1660690 cyred eq
+1661092 setlakin
+1661220 PROLASTIN-C SOLN 1000mg/20ml
+1661220 PROLASTIN-C SOLR 1000mg
+1662285 linezolid SOLN 600mg/300ml
+1662285 linezolid in sodium chloride iv soln 600 mg/300ml-0.9%
+1664321 SYNJARDY TAB 5-500MG
+1664325 SYNJARDY TAB 12.5-500
+1664328 SYNJARDY TAB 5-1000MG
+1664328 SYNJARDY XR TAB 5-1000MG
+1664981 aztreonam SOLR 1gm, 2gm
+1665021 ceftriaxone sodium SOLR 1gm, 2gm, 10gm, 250mg, 500mg
+1665050 CEFAZOLIN INJ 1GM/50ML
+1665050 cefazolin sodium SOLR 1gm, 10gm, 500mg
+1665060 CEFAZOLIN SOLN 2GM/100ML-4%
+1665093 cefepime hcl SOLR 1gm, 2gm
+1665102 cefoxitin sodium SOLR 1gm, 2gm, 10gm
+1665210 ciprofloxacin 200 mg/100ml in d5w
+1665212 ciprofloxacin 400 mg/200ml in d5w
+1665369 SYNJARDY XR TAB 12.5-1000MG
+1665369 SYNJARDY TAB 12.5-1000MG
+1665444 cefuroxime sodium SOLR 1.5gm, 7.5gm, 750mg
+1665497 levofloxacin in d5w iv soln 250 mg/50ml
+1665507 levofloxacin in d5w iv soln 500 mg/100ml
+1665515 levofloxacin in d5w iv soln 750 mg/150ml
+1666334 BRILINTA TABS 60mg, 90mg
+1667666 VRAYLAR CAPS 1.5mg
+1667670 VRAYLAR CAPS 3mg, 4.5mg, 6mg
+1670016 TRESIBA FLEXTOUCH SOPN 100unit/ml, 200unit/ml
+1670322 LONSURF TAB 15-6.14
+1673274 ARISTADA PRSY 441mg/1.6ml, 662mg/2.4ml, 882mg/3.2ml
+1716095 ENSTILAR AER
+1716210 VELTASSA PACK 8.4gm, 16.8gm, 25.2gm
+1718928 ZYPREXA RELPREVV SUSR 405mg
+1718932 ZYPREXA RELPREVV SUSR 300mg
+1718936 ZYPREXA RELPREVV SUSR 210mg
+1719290 furosemide inj SOLN 10mg/ml
+1720314 ERYTHROCIN LACTOBIONATE SOLR 500mg
+1720616 vienva
+1720960 gemcitabine hcl SOLN 1gm/26.3ml, 2gm/52.6ml, 200mg/5.26ml
+1721314 fluconazole in nacl 0.9% inj 400 mg/200ml
+1721315 fluconazole in nacl 0.9% inj 200 mg/100ml
+1721458 nafcillin sodium SOLR 1gm, 2gm
+1721475 ampicillin sodium SOLR 1gm, 2gm, 10gm, 125mg, 250mg, 500mg
+1721571 TAGRISSO TABS 40mg, 80mg
+1721614 GENVOYA TAB
+1722376 COTELLIC TABS 20mg
+1722939 meropenem SOLR 1gm, 500mg
+1722942 micafungin sodium SOLR 50mg, 100mg
+1723478 PRADAXA CAPS 110mg
+1723763 NINLARO CAPS 2.3mg, 3mg, 4mg
+1724328 TIGECYCLINE SOLR 50mg
+1724328 tigecycline SOLR 50mg
+1725064 NARCAN LIQD 4mg/0.1ml
+1726102 BENDEKA SOLN 100mg/4ml
+1726204 imipenem-cilastatin intravenous for soln 250 mg
+1726214 imipenem-cilastatin intravenous for soln 500 mg
+1726268 CEREZYME SOLR 400unit
+1726319 irinotecan hcl SOLN 40mg/2ml, 100mg/5ml, 300mg/15ml, 500mg/25ml
+1726496 azacitidine SUSR 100mg
+1727485 ALECENSA CAPS 150mg
+1728079 ALIMTA SOLR 100mg, 500mg
+1729418 vinorelbine tartrate SOLN 10mg/ml, 50mg/5ml
+1729516 blisovi fe 1.5/30
+1731020 roweepra TABS 500mg
+1731317 HUMULIN R U-500 KWIKPEN SOPN 500unit/ml
+1732182 epirubicin hcl SOLN 50mg/25ml, 200mg/100ml
+1734683 ertapenem sodium SOLR 1gm
+1734690 caspofungin acetate SOLR 50mg, 70mg
+1734919 cyclophosphamide SOLR 1gm, 2gm, 500mg
+1734919 CYCLOPHOSPHAMIDE SOLN 1gm/5ml, 500mg/2.5ml
+1734921 CYCLOPHOSPHAMIDE MONOHYDR SOLN 2gm/10ml
+1734932 acyclovir sodium SOLN 50mg/ml
+1735509 PRENATAL TAB 27-1MG
+1735509 PRENATAL TAB PLUS
+1736044 SPRITAM TB3D 1000mg
+1736047 SPRITAM TB3D 250mg
+1736050 SPRITAM TB3D 500mg
+1736053 SPRITAM TB3D 750mg
+1736654 fyavolv tab 0.5mg-2.5mcg
+1736656 fyavolv tab 1mg-5mcg
+1736776 oxaliplatin SOLN 50mg/10ml, 100mg/20ml, 200mg/40ml
+1736783 oxaliplatin SOLR 50mg, 100mg
+1736863 BASAGLAR KWIKPEN SOPN 100unit/ml
+1737244 clindamycin phosphate SOLN 300mg/2ml, 600mg/4ml, 900mg/6ml, 9000mg/60ml
+1737458 pamidronate disodium SOLN 30mg/10ml, 90mg/10ml
+1737458 pamidronate disodium SOLR 30mg, 90mg
+1738483 paroxetine hcl TABS 10mg, 20mg, 30mg, 40mg
+1738486 paroxetine hcl TB24 12.5mg, 25mg, 37.5mg
+1739754 BRIVIACT SOLN 50mg/5ml
+1739766 BRIVIACT TABS 10mg, 25mg, 50mg, 75mg, 100mg
+1739788 BRIVIACT SOLN 10mg/ml
+1740467 ondansetron hcl SOLN 4mg/2ml, 40mg/20ml
+1741047 XELJANZ XR TB24 11mg, 22mg
+1741733 ODEFSEY TAB
+1741747 VRAYLAR CAP 1.5-3MG
+1743547 oxacillin sodium SOLR 1gm, 2gm, 10gm
+1743587 risperidone TBDP .25mg, .5mg
+1743833 famotidine SOLN 20mg/2ml, 40mg/4ml, 200mg/20ml
+1744001 emtricitabine-tenofovir disoproxil fumarate tab 100-150 mg
+1744005 emtricitabine-tenofovir disoproxil fumarate tab 133-200 mg
+1744009 emtricitabine-tenofovir disoproxil fumarate tab 167-250 mg
+1745105 TALTZ SOAJ 80mg/ml
+1745105 TALTZ SOSY 80mg/ml
+1747567 VENCLEXTA TABS 100mg
+1747577 VENCLEXTA TABS 10mg
+1747579 VENCLEXTA TABS 50mg
+1747580 VENCLEXTA TAB START PK
+1747697 DESCOVY TAB 200/25MG
+1790126 FYCOMPA SUSP .5mg/ml
+1790146 BROMSITE SOLN .075%
+1790167 CABOMETYX TABS 20mg, 40mg, 60mg
+1790644 BEVESPI AER 9-4.8MCG
+1790680 procto-med hc CREA 2.5%
+1790886 TRINTELLIX TABS 10mg
+1790890 TRINTELLIX TABS 20mg
+1790892 TRINTELLIX TABS 5mg
+1791229 diltiazem hcl SOLN 25mg/5ml, 50mg/10ml, 125mg/25ml
+1791736 fluorouracil SOLN 1gm/20ml, 2.5gm/50ml, 5gm/100ml, 500mg/10ml
+1792393 LENVIMA CAP 18 MG
+1793916 sumatriptan succinate SOAJ 4mg/0.5ml
+1793916 sumatriptan succinate SOCT 4mg/0.5ml
+1794886 dextrose 5% w/ sodium chloride 0.2%
+1794904 dextrose 5% w/ sodium chloride 0.225%
+1795147 dextrose 5% w/ sodium chloride 0.3%
+1795348 dextrose 5% w/ sodium chloride 0.9%
+1795598 larissia
+1796079 TIVICAY TABS 10mg
+1796083 TIVICAY TABS 25mg, 50mg
+1796672 MG SO4/D5W INJ 10MG/ML
+1796922 femynor
+1797113 yuvafem TABS 10mcg
+1797833 ipratropium bromide (nasal) SOLN .03%, .06%
+1797843 OMNARIS SUSP 50mcg/act
+1797865 mometasone furoate (nasal) SUSP 50mcg/act
+1797888 NICOTROL NS SOLN 10mg/ml
+1797895 olopatadine hcl (nasal) SOLN .6%
+1797907 fluticasone propionate (nasal) SUSP 50mcg/act
+1799218 EPCLUSA TAB 400-100
+1799310 adriamycin SOLN 2mg/ml
+1799654 sps SUSP 15gm/60ml
+1800499 mili
+1801237 flunisolide (nasal) SOLN .025%
+1801278 HUMIRA PEN-PS/UV STARTER PNKT 40mg/0.8ml
+1801279 cholestyramine light POWD 4gm/dose
+1801279 cholestyramine light PACK 4gm
+1801283 fluocinonide emulsified base CREA .05%
+1801289 bupropion hcl (smoking deterrent) TB12 150mg
+1801295 klor-con m20 TBCR 20meq
+1801299 klor-con m10 TBCR 10meq
+1804762 FABRAZYME SOLR 5mg, 35mg
+1804993 BORTEZOMIB SOLR 3.5mg
+1805273 lillow
+1805422 NAMZARIC CAP 21-10MG
+1805427 NAMZARIC CAP 7-10MG
+1806683 amabelz
+1807513 VANCOMYCIN INJ 1 GM
+1807513 vancomycin hcl SOLR 1gm, 5gm, 10gm, 500mg, 750mg
+1807516 VANCOMYCIN INJ 500MG
+1807518 VANCOMYCIN INJ 750MG
+1808539 diclofenac w/ misoprostol tab delayed release 50-0.2 mg
+1809416 BIVIGAM SOLN 5gm/50ml
+1809436 GAMMAKED SOLN 1gm/10ml, 5gm/50ml, 10gm/100ml, 20gm/200ml
+1809448 FLEBOGAMMA DIF SOLN 2.5gm/50ml, 5gm/100ml, 5gm/50ml, 10gm/100ml, 10gm/200ml, 20gm/200ml, 20gm/400ml
+1809499 OCTAGAM SOLN 1gm/20ml, 2gm/20ml, 2.5gm/50ml, 5gm/100ml, 5gm/50ml, 10gm/100ml, 10gm/200ml, 20gm/200ml, 25gm/500ml, 30gm/300ml
+1809521 PRIVIGEN SOLN 5gm/50ml, 10gm/100ml, 20gm/200ml, 40gm/400ml
+1809580 GAMUNEX-C SOLN 1gm/10ml, 2.5gm/25ml, 5gm/50ml, 10gm/100ml, 20gm/200ml, 40gm/400ml
+1809665 GAMMAGARD LIQUID SOLN 1gm/10ml, 2.5gm/25ml, 5gm/50ml, 10gm/100ml, 20gm/200ml, 30gm/300ml
+1811402 pentamidine isethionate inj SOLR 300mg
+1811402 pentamidine isethionate inh SOLR 300mg
+1812279 ayuna
+1812470 ORKAMBI TAB 100-125
+1855336 PRILOSEC PACK 2.5mg, 10mg
+1856402 nylia 1/35
+1857917 SELZENTRY TABS 75mg, 150mg, 300mg
+1857925 SELZENTRY SOLN 20mg/ml
+1858267 VEMLIDY TABS 25mg
+1858836 tri-lo-mili
+1858971 NAMZARIC CAP PACK
+1859000 SOLIQUA INJ 100/33
+1859370 INTRALIPID EMUL 20gm/100ml, 30gm/100ml
+1860172 XULTOPHY INJ 100/3.6
+1860226 hydrocodone bitartrate T24A 80mg, 100mg, 120mg
+1860241 POTASSIUM CHLORIDE SOLN 10meq/50ml, 20meq/50ml
+1860414 afirmelle
+1860485 DOCETAXEL CONC 80mg/4ml, 160mg/8ml
+1860485 docetaxel CONC 80mg/4ml, 160mg/8ml
+1860619 docetaxel SOLN 20mg/2ml, 80mg/8ml, 160mg/16ml
+1860619 DOCETAXEL SOLN 20mg/2ml, 80mg/8ml, 160mg/16ml
+1862595 RUBRACA TABS 200mg, 250mg, 300mg
+1862688 SYNJARDY XR TAB 10-1000
+1862697 SYNJARDY XR TAB 25-1000
+1865663 zoledronic acid CONC 4mg/5ml
+1866047 isibloom
+1867544 potassium chloride PACK 20meq
+1867547 klor-con PACK 20meq
+1868016 ESBRIET TABS 267mg
+1868020 ESBRIET TABS 801mg
+1869512 everolimus TBSO 2mg
+1869518 everolimus TBSO 3mg
+1869525 carglumic acid TABS 200mg
+1869533 deferasirox TBSO 125mg
+1869540 deferasirox TBSO 250mg, 500mg
+1869699 LINZESS CAPS 72mcg, 145mcg, 290mcg
+1870225 epinephrine (anaphylaxis) SOAJ .15mg/0.15ml, .3mg/0.3ml
+1870243 gentamicin in saline inj 2 mg/ml
+1870262 gentamicin in saline inj 1 mg/ml
+1870289 gentamicin in saline inj 0.8 mg/ml
+1870627 gentamicin in saline inj 1.6 mg/ml
+1870630 gentamicin in saline inj 1.2 mg/ml
+1871459 VYVANSE CHEW 40mg, 50mg, 60mg
+1871465 VYVANSE CHEW 10mg, 20mg, 30mg
+1872458 XERMELO TABS 250mg
+1872980 HUMIRA PSKT 40mg/0.4ml, 40mg/0.8ml
+1872980 HUMIRA PEN PNKT 40mg/0.4ml, 40mg/0.8ml
+1873087 HUMIRA PEDIATRIC CROHNS D PSKT 80mg/0.8ml
+1873991 KISQALI 200 DOSE TBPK 200mg
+1873993 KISQALI 400 DOSE TBPK 200mg
+1873995 KISQALI 600 DOSE TBPK 200mg
+1874124 desmopressin acetate spray refrigerated SOLN .01%
+1874564 desvenlafaxine succinate TB24 25mg, 50mg, 100mg
+1876502 haloperidol lactate SOLN 5mg/ml
+1876673 GAMMAPLEX SOLN 5gm/100ml, 5gm/50ml, 10gm/100ml, 10gm/200ml, 20gm/200ml, 20gm/400ml
+1876810 simliya
+1876920 AUSTEDO TABS 6mg
+1876924 AUSTEDO TABS 9mg, 12mg
+1918230 INGREZZA CAPS 40mg, 60mg, 80mg
+1918242 ZEJULA CAPS 100mg
+1919094 RYDAPT CAPS 25mg
+1921010 HUMIRA PSKT 10mg/0.1ml, 20mg/0.2ml
+1921223 ALUNBRIG PAK
+1921228 ALUNBRIG TABS 30mg, 90mg, 180mg
+1921240 HUMIRA PEN-PEDIATRIC UC S PNKT 80mg/0.8ml
+1921240 HUMIRA PEN PNKT 80mg/0.8ml
+1921598 XATMEP SOLN 2.5mg/ml
+1922512 HERCEPTIN SOLR 150mg
+1923054 KISQALI 200 PAK FEMARA
+1923056 KISQALI 400 PAK FEMARA
+1923058 KISQALI 600 PAK FEMARA
+1923428 timolol maleate (ophth) SOLG .25%, .5%
+1923428 timolol maleate (ophth) SOLN .25%, .5%
+1923432 dorzolamide hcl-timolol maleate ophth soln 22.3-6.8 mg/ml
+1924315 ISENTRESS HD TABS 600mg
+1925264 ARISTADA PRSY 1064mg/3.9ml
+1926823 HAEGARDA SOLR 2000unit
+1926827 HAEGARDA SOLR 3000unit
+1927290 RENFLEXIS SOLR 100mg
+1927366 aurovela 1/20
+1927617 amphetamine-dextroamphetamine cap er 24hr 25 mg
+1927630 amphetamine-dextroamphetamine cap er 24hr 5 mg
+1927886 RITUXAN INJ HYCELA
+1928936 ENDARI PACK 5gm
+1939297 BENLYSTA SOSY 200mg/ml
+1939297 BENLYSTA SOAJ 200mg/ml
+1939329 VOSEVI TAB
+1940376 IDHIFA TABS 50mg, 100mg
+1940498 XIGDUO XR TAB 2.5-1000
+1940654 NERLYNX TABS 40mg
+1940709 MAVYRET TAB 100-40MG
+1942485 LYNPARZA TABS 100mg, 150mg
+1944626 trientine hcl CAPS 250mg
+1945044 TRELEGY AER ELLIPTA 200-62.5-25 MCG
+1945044 TRELEGY AER ELLIPTA 100-62.5-25 MCG
+1946836 VERZENIO TABS 50mg, 100mg, 150mg, 200mg
+1986350 FIASP FLEX INJ TOUCH
+1986354 FIASP INJ 100/ML
+1986374 CLINOLIPID EMU 20%
+1986791 aurovela fe 1.5/30
+1986819 CALQUENCE CAPS 100mg
+1986830 SHINGRIX SUSR 50mcg/0.5ml
+1988308 tiadylt er CP24 120mg, 180mg, 240mg, 300mg, 360mg, 420mg
+1988399 VYZULTA SOLN .024%
+1988671 PREVYMIS TABS 240mg, 480mg
+1988979 pregabalin (once-daily) TB24 82.5mg, 165mg, 330mg
+1989106 FASENRA SOSY 30mg/ml
+1989506 JULUCA TAB 50-25MG
+1990869 BYDUREON BCISE AUIJ 2mg/0.85ml
+1991311 OZEMPIC (0.25 OR 0.5MG/DOSE) SOPN 2mg/1.5ml
+1991317 OZEMPIC (1MG/DOSE) SOPN 2mg/1.5ml
+1992299 timolol maleate (ophth) once-daily SOLN .5%
+1992428 ELIQUIS STARTER PACK TBPK 5mg
+1992873 RHOPRESSA SOLN .02%
+1994362 IMBRUVICA CAPS 70mg
+1994758 vylibra
+1994764 tri-vylibra
+1995479 ZENPEP CAP 40000
+1996245 daptomycin SOLR 350mg, 500mg
+1996245 DAPTOMYCIN SOLR 350mg
+1998783 gemcitabine hcl SOLR 1gm, 2gm, 200mg
+1999389 SYMDEKO TAB 100-150
+1999587 ERLEADA TABS 60mg
+1999668 BIKTARVY TAB 50-200-25 MG
+2000007 glatopa SOSY 40mg/ml
+2000019 IMBRUVICA TABS 140mg, 280mg, 420mg, 560mg
+2000695 kelnor 1/50
+2001264 ZYPITAMAG TABS 2mg, 4mg
+2001321 DALIRESP TABS 250mcg, 500mcg
+2001424 efavirenz-lamivudine-tenofovir df tab 400- 300-300 mg
+2001508 subvenite TABS 25mg, 100mg, 150mg, 200mg
+2002719 TASIGNA CAPS 50mg, 150mg, 200mg
+2003255 CIMDUO TAB 300-300
+2043322 TROGARZO SOLN 200mg/1.33ml
+2045196 zumandimine
+2045201 flac OIL .01%
+2045245 PLENVU SOL
+2045632 AIMOVIG SOAJ 70mg/ml, 140mg/ml
+2045959 DOPTELET TABS 20mg
+2047634 LOKELMA PACK 5gm, 10gm
+2047760 hailey 1.5/30
+2047864 vigadrone PACK 500mg
+2049121 BRAFTOVI CAPS 75mg
+2049133 MEKTOVI TABS 15mg
+2049264 iclevia
+2049271 NUPLAZID TABS 10mg
+2049278 NUPLAZID CAPS 34mg
+2049343 ARISTADA INITIO PRSY 675mg/2.4ml
+2049672 SYMTUZA TAB
+2049884 TIBSOVO TABS 250mg
+2052064 incassia TABS .35mg
+2053512 ORKAMBI GRA 100-125
+2053519 ORKAMBI GRA 150-188
+2054157 LENVIMA 4 MG DAILY DOSE CPPK 4mg
+2054157 LENVIMA 8 MG DAILY DOSE CPPK 4mg
+2054159 LENVIMA 12MG DAILY DOSE CPPK 4mg
+2054269 INGREZZA CAP 40-80MG
+2054979 DIACOMIT CAPS 250mg
+2054979 DIACOMIT PACK 250mg
+2054982 DIACOMIT CAPS 500mg
+2054983 DIACOMIT PACK 500mg
+2055766 PIFELTRO TABS 100mg
+2055774 DELSTRIGO TAB
+2056897 ZORTRESS TABS 1mg
+2058520 COPIKTRA CAPS 15mg, 25mg
+2058906 EPIDIOLEX SOLN 100mg/ml
+2058922 VIZIMPRO TABS 15mg, 30mg, 45mg
+2058950 XOLAIR SOSY 75mg/0.5ml, 150mg/ml
+2059017 XARELTO TABS 2.5mg
+2099952 TALZENNA CAPS .25mg
+2099956 TALZENNA CAPS 1mg
+2101899 sodium polystyrene sulfonate powder
+2102440 PANZYGA SOLN 1gm/10ml, 2.5gm/25ml, 5gm/50ml, 10gm/100ml, 20gm/200ml, 30gm/300ml
+2102713 SYMPAZAN FILM 10mg, 20mg
+2102717 SYMPAZAN FILM 5mg
+2103175 LORBRENA TABS 25mg, 100mg
+2104192 tri-vylibra lo
+2104714 leucovorin calcium SOLN 500mg/50ml
+2105653 VITRAKVI SOLN 20mg/ml
+2105657 VITRAKVI CAPS 25mg, 100mg
+2105817 XOSPATA TABS 40mg
+2105831 TRUXIMA SOLN 100mg/10ml, 500mg/50ml
+2105860 DAURISMO TABS 25mg, 100mg
+2105978 tetracycline hcl CAPS 250mg, 500mg
+2106330 TDVAX INJ 2-2 LF
+2106997 jasmiel
+2107522 TRESIBA SOLN 100unit/ml
+2107764 lidocaine hcl GEL 2%
+2110774 dotti PTTW .025mg/24hr, .037mg/24hr, .05mg/24hr, .075mg/24hr, .1mg/24hr
+2119481 ZERVIATE SOLN .24%
+2119696 TECENTRIQ SOLN 840mg/14ml, 1200mg/20ml
+2119719 HERCEP HYLEC SOL 60-10000
+2121061 ZYKADIA TABS 150mg
+2122526 DOVATO TAB 50-300MG
+2123034 TEMIXYS TAB 300-300
+2123111 albuterol sulfate AERS 108mcg/act
+2123111 albuterol sulfate AERS 108mcg/act
+2123111 albuterol sulfate AERS 108mcg/act
+2123137 BALVERSA TABS 3mg, 4mg, 5mg
+2166143 SKYRIZI PSKT 75mg/0.83ml
+2166401 KALYDECO PACK 25mg, 50mg, 75mg
+2167575 EZALLOR SPRINKLE CPSP 5mg, 10mg, 20mg, 40mg
+2168596 CORLANOR SOLN 5mg/5ml
+2169314 PIQRAY 200MG DAILY DOSE TBPK 200mg
+2169320 PIQRAY 250MG TAB DOSE
+2169322 PIQRAY 300MG DAILY DOSE TBPK 150mg
+2169362 HERZUMA SOLR 150mg, 420mg
+2174390 SYMDEKO TAB 50-75MG
+2178403 XPOVIO 60 MG ONCE WEEKLY TBPK 20mg, 60mg
+2178405 XPOVIO 80 MG ONCE WEEKLY TBPK 20mg, 40mg
+2178407 XPOVIO 80 MG TWICE WEEKLY TBPK 20mg
+2178409 XPOVIO 100 MG ONCE WEEKLY TBPK 20mg, 50mg
+2178792 SYMJEPI SOSY .15mg/0.3ml, .3mg/0.3ml
+2179758 OGIVRI SOLR 150mg
+2179763 OGIVRI INJ 420MG
+2180336 NUBEQA TABS 300mg
+2182340 ENBREL SOSY 50mg/ml
+2182340 ENBREL MINI SOCT 50mg/ml
+2183131 TURALIO CAPS 200mg
+2196896 RINVOQ TB24 15mg, 30mg
+2197501 INREBIC CAPS 100mg
+2197691 DENGVAXIA SUS
+2197844 lidocaine hcl SOLN 4%
+2197873 ROZLYTREK CAPS 100mg, 200mg
+2199304 GVOKE HYPOPEN 2-PACK SOAJ .5mg/0.1ml, 1mg/0.2ml
+2199312 GVOKE PFS SOSY .5mg/0.1ml, 1mg/0.2ml
+2200174 DRIZALMA SPRINKLE CSDR 20mg, 30mg, 40mg, 60mg
+2200654 RYBELSUS TABS 3mg, 7mg, 14mg
+2203897 HARVONI TAB 45-200MG
+2203897 HARVONI PAK 45-200MG
+2204102 HARVONI PAK 33.75-150MG
+2205454 FIASP PENFIL INJ U-100
+2205634 FASENRA PEN SOAJ 30mg/ml
+2206092 NOVOLIN R FLEXPEN SOPN 100unit/ml
+2206099 NOVOLIN N FLEXPEN SUPN 100unit/ml
+2257013 TRIKAFTA TAB 100-50-75MG & 150MG
+2257013 TRIKAFTA TAB 50-25-37.5MG & 75MG
+2257300 KANJINTI SOLR 150mg, 420mg
+2262446 BRUKINSA CAPS 80mg
+2265701 XCOPRI TABS 50mg
+2265729 SECUADO PT24 3.8mg/24hr, 5.7mg/24hr, 7.6mg/24hr
+2266502 eluryng
+2268044 ZIRABEV SOLN 100mg/4ml, 400mg/16ml
+2268231 UBRELVY TABS 50mg, 100mg
+2272629 VALTOCO LIQD 5mg/0.1ml, 10mg/0.1ml
+2272635 VALTOCO LQPK 7.5mg/0.1ml, 10mg/0.1ml
+2273517 RUXIENCE SOLN 100mg/10ml, 500mg/50ml
+2274390 TAZVERIK TABS 200mg
+2275613 CAPLYTA CAPS 42mg
+2279847 DIFICID SUSR 40mg/ml
+2283505 XCOPRI TABS 100mg, 150mg, 200mg
+2283505 XCOPRI PAK 50-100MG
+2283509 XCOPRI PAK 100-150
+2283515 XCOPRI PAK 150-200MG (MAINTENANCE)
+2283525 XCOPRI PAK 12.5-25
+2283540 XCOPRI PAK 150-200MG (TITRATION)
+2284108 IBRANCE CAPS 75mg, 100mg, 125mg
+2284108 IBRANCE TABS 75mg, 100mg, 125mg
+2288816 EPCLUSA TAB 200-50MG
+2288816 EPCLUSA PAK 200-50MG
+2289232 ONTRUZANT SOLR 150mg, 420mg
+2359285 TRIJARDY XR TAB ER 24HR 10-5-1000MG
+2359290 TRIJARDY XR TAB ER 24HR 12.5-2.5- 1000MG
+2359344 PEMAZYRE TABS 4.5mg, 9mg, 13.5mg
+2359353 TRIJARDY XR TAB ER 24HR 25-5-1000MG
+2359358 TRIJARDY XR TAB ER 24HR 5-2.5-1000MG
+2360584 MENQUADFI INJ
+2361300 TUKYSA TABS 50mg, 150mg
+2361313 NYMALIZE SOLN 6mg/ml
+2362240 TABRECTA TABS 150mg, 200mg
+2369403 QINLOCK TABS 50mg
+2370170 RETEVMO CAPS 40mg, 80mg
+2371050 KYNMOBI FILM 10mg, 15mg, 20mg, 25mg, 30mg
+2373941 SIRTURO TABS 20mg, 100mg
+2374566 TIVICAY PD TBSO 5mg
+2380550 RUKOBIA TB12 600mg
+2381144 FINTEPLA SOLN 2.2mg/ml
+2382605 PHESGO SOL
+2382990 XPOVIO 60 MG TWICE WEEKLY TBPK 20mg
+2382991 XPOVIO 40 MG TWICE WEEKLY TBPK 20mg, 40mg
+2382993 XPOVIO 40 MG ONCE WEEKLY TBPK 20mg, 40mg
+2384464 INQOVI TAB 35-100MG
+2387325 BREZTRI AERO AER SPHERE (INSTITUTIONAL PACK)
+2387325 BREZTRI AERO AER SPHERE
+2387343 MONJUVI SOLR 200mg
+2390646 XTANDI TABS 40mg, 80mg
+2390646 XTANDI CAPS 40mg
+2392142 ENBREL SOSY 25mg/0.5ml
+2392142 ENBREL SOLN 25mg/0.5ml
+2394947 GAVRETO CAPS 100mg
+2396770 ONUREG TABS 200mg, 300mg
+2396905 CYSTADROPS SOLN .37%
+2397128 lyleq TABS .35mg
+2398842 OZEMPIC (1MG/DOSE) SOPN 4mg/3ml
+2399892 lyllana PTTW .025mg/24hr, .037mg/24hr, .05mg/24hr, .075mg/24hr, .1mg/24hr
+2468058 nymyo
+2472332 RIABNI SOLN 100mg/10ml, 500mg/50ml
+2472789 ORGOVYX TABS 120mg
+2472794 TRAZIMERA SOLR 150mg, 420mg
+2473042 ICLUSIG TABS 10mg
+2477272 TEPMETKO TABS 225mg
+2478437 XELJANZ SOLN 1mg/ml
+2478450 UKONIQ TABS 200mg
+2531280 zafemy
+2534244 FOTIVDA CAPS .89mg, 1.34mg
+2540695 SKYRIZI PEN SOAJ 150mg/ml
+2540699 SKYRIZI SOSY 150mg/ml
+2541234 MYRBETRIQ SRER 8mg/ml
+2550725 LUMAKRAS TABS 120mg
+2551012 TRUSELTIQ 100 MG DAILY DOSE CPPK 100mg
+2551207 TRUSELTIQ 50 MG DAILY DOSE CPPK 25mg
+2551212 TRUSELTIQ 75 MG DAILY DOSE CPPK 25mg
+2551217 TRUSELTIQ 125 MG DAILY DOSE
+2557910 MAVYRET PAK 50-20MG
+2559725 AYVAKIT TABS 25mg, 50mg, 100mg, 200mg, 300mg
+2564037 REZUROCK TABS 200mg
+2567237 WELIREG TABS 40mg
+2569480 sajazir SOLN 30mg/3ml
+2570748 EXKIVITY CAPS 40mg
+2572293 RESTASIS EMUL .05%
+2583650 TICOVAC SUSY 2.4mcg/0.5ml
+2584199 EPCLUSA PAK 150-37.5
+2584326 SCEMBLIX TABS 20mg
+2584330 SCEMBLIX TABS 40mg
+2584354 BIKTARVY TAB 30-120-15 MG
+2586433 EPRONTIA SOLN 25mg/ml
+2587070 BESREMI SOSY 500mcg/ml
+2587361 GVOKE KIT SOLN 1mg/0.2ml
+2587810 clindamycin phosphate vaginal CREA 2%
+2588066 XARELTO SUSR 1mg/ml
+2588240 PREHEVBRIO SUSP 10mcg/ml
