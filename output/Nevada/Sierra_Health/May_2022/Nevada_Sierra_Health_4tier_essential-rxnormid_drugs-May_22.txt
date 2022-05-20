@@ -1,0 +1,2160 @@
+-1 MM EASY TOUCH GLUCOSE  METER
+-1 AEROCHAMBER PLUS FLO-VU  LARGE
+-1 ONETOUCH VERIO SYNC SYSTEM
+-1 ONETOUCH VERIO TEST STRIPS
+-1 QUFLORA GUMMIES
+-1 DEXCOM G4 / G5 / G6 RECEIVER,  TRANSMITTER, SENSOR  (INCLUDING PLATINUM,  PLATINUM PEDIATRIC)
+-1 DEXCOM G5 MOBILE  TRANSMITTER
+-1 VEXATROL
+-1 OPTIUM TEST
+-1 DEXCOM G6 SENSOR
+-1 DEXCOM RECEIVER KIT DEVICE
+-1 EASY TOUCH TEST
+-1 EASYMAX 15 TEST
+-1 peg-kcl-nacl-nasulf-na asc-c
+-1 peg-3350/electrolytes/ascorbat
+-1 OPTIUMEZ TEST
+-1 PARADIGM REAL-TIME  TRANSMITTER
+-1 EASYMAX V BLOOD GLUCOSE
+-1 peg-3350/electrolytes
+-1 CARETOUCH MONITOR SYSTEM
+-1 VORTEX VALVED HOLDING  CHAMBER
+-1 AEROCHAMBER PLUS FLO-VU
+-1 PRECISION LINK
+-1 PRIZOTRAL-II
+-1 PRECISION PCX
+-1 MINILINK REAL-TIME  TRANSMITTER
+-1 PRECISION PCX PLUS TEST
+-1 PRECISION QID MONITOR
+-1 PRECISION QID TEST
+-1 CONTOUR NEXT MONITOR KIT   W/DEVICE
+-1 INSPIREASE
+-1 INSPIRACHAMBER/SMALL
+-1 ONETOUCH VERIO REFLECT
+-1 INSPIRACHAMBER/MOUTHPIECE
+-1 CONTOUR NEXT EZ KIT   W/DEVICE
+-1 EASIVENT
+-1 EASIVENT MASK LARGE
+-1 EASIVENT MASK MEDIUM
+-1 EASIVENT MASK SMALL
+-1 CONTOUR NEXT ONE KIT
+-1 CONTOUR NEXT TEST STRIPS
+-1 CONTOUR TEST STRIPS
+-1 VALCOPREP-100
+-1 NOVOTWIST
+-1 ONETOUCH DELICA PLUS  LANCETS
+-1 CONTOUR NEXT BLOOD  GLUCOSE METER
+-1 CONTOUR MONITOR KIT   W/DEVICE
+-1 CVS ADVANCED GLUCOSE TEST
+-1 hyosyne
+-1 CVS GLUCOSE METER TEST  STRIPS
+-1 FLEXICHAMBER
+-1 AEROCHAMBER PLUS FLO-VU   W/MASK
+-1 INSPIRACHAMBER/LARGE
+-1 CHEMSTRIP BG LOG BOOK
+-1 ONETOUCH ULTRALINK
+-1 ONETOUCH ULTRASOFT  LANCETS
+-1 ONETOUCH VERIO IQ SYSTEM
+-1 ONETOUCH VERIO KIT W/DEVICE
+-1 CARETOUCH TEST
+-1 INSPIRACHAMBER/MEDIUM
+-1 AEROCHAMBER PLUS FLO-VU  SMALL
+-1 DICLOFONO
+-1 sf 5000 plus
+-1 sf
+-1 CONTOUR MONITOR DEVICE
+-1 EXACTECH R-S-G TEST
+-1 FLORIVA PLUS
+-1 FREESTYLE PRECISION NEO  TEST
+-1 IN TOUCH
+-1 ACCU-CHEK FASTCLIX LANCET  KIT
+-1 ACCU-CHEK FASTCLIX LANCETS
+-1 ACCU-CHEK GUIDE KIT W/DEVICE
+-1 GEN7T
+-1 OMEPRAZOLE+SYRSPEND SF  ALKA
+-1 CYANOCOBALAMIN INJECTION  SOLUTION 2000 MCG/ML
+-1 NOVOFINE PLUS PEN NEEDLE
+-1 ACCU-CHEK GUIDE ME METER
+-1 coremino
+-1 ACCU-CHEK GUIDE TEST STRIPS
+-1 ACCU-CHEK MULTICLIX LANCET  KIT
+-1 TRUETRACK TEST
+-1 EXACTECH TEST
+-1 DEXABLISS
+-1 FREESTYLE PRECISION NEO  SYSTEM
+-1 GIALAX
+-1 tri-nymyo
+-1 PRENA1 PEARL
+-1 QUFLORA PEDIATRIC
+-1 tri-estarylla
+-1 AGONEAZE
+-1 ANODYNE LPT
+-1 NEUTEK 2TEK TEST
+-1 EHA
+-1 KROGER TEST
+-1 tri-lo-sprintec
+-1 KROGER BLOOD GLUCOSE KIT
+-1 SURESTEP PRO LINEARITY
+-1 rivelsa
+-1 tri-mili
+-1 VITAPEARL
+-1 tri-lo-estarylla
+-1 ACCU-CHEK MULTICLIX LANCETS
+-1 CONTOUR NEXT LINK KIT   W/DEVICE
+-1 FREESTYLE LIBRE 14 DAY  READER
+-1 FREESTYLE LIBRE 14 DAY  SENSOR
+-1 FREESTYLE LIBRE SENSOR  SYSTEM
+-1 ACCU-CHEK SOFTCLIX LANCETS
+-1 UNISTRIP1 GENERIC
+-1 LIVIXIL PAK
+-1 PRECISION XTRA
+-1 PRECISION XTRA BLOOD  GLUCOSE
+-1 ACCU-CHEK SOFTCLIX LANCET  DEVICE KIT
+-1 FORTISCARE G1 TEST STRIP
+-1 sss 10-5
+-1 FORTISCARE TEST
+-1 ACCU-CHEK SOFT TOUCH  LANCETS
+-1 FREESTYLE LIBRE 2 READER
+-1 FREESTYLE LIBRE READER
+-1 ACCU-CHEK SMARTVIEW TEST  STRIPS
+-1 FREESTYLE LIBRE 2 SENSOR
+-1 PRECISION XTRA MONITOR
+103 mercaptopurine oral
+167 acetazolamide oral
+167 acetazolamide er
+411 TRUE METRIX AIR GLUCOSE  METER
+519 allopurinol oral
+596 alprazolam intensol
+596 alprazolam er
+596 alprazolam xr
+703 amiodarone hcl oral
+723 amoxicillin
+769 ANASPAZ
+1202 atenolol oral
+1225 hyoscyamine sulfate er
+1225 hyoscyamine sulfate sl
+1225 hyoscyamine sulfate oral
+1256 azathioprine oral solution, oral  tablet 50 mg
+1827 buspirone hcl oral
+1894 calcitriol external
+1894 calcitriol oral
+2177 cefadroxil
+2231 cephalexin
+2409 chlorthalidone
+2598 clonazepam oral
+3008 CYCLOSPORINE IN KLARITY
+3013 cyproheptadine hcl oral
+3081 CYTOMEL
+3287 dextroamphetamine sulfate er
+3322 diazepam intensol
+3361 dicyclomine hcl oral
+4018 ERGOCAL
+4450 fluconazole oral
+4461 fluocinolone acetonide external  solution
+4719 gemfibrozil oral
+4815 glyburide oral
+4821 glipizide ir
+4821 glipizide er
+4850 ACCUTREND GLUCOSE
+4850 FORTISCARE T1 GLUCOSE  SYSTEM
+4850 TRUE FOCUS BLOOD GLUCOSE  STRIP
+4850 QUINTET AC BLOOD GLUCOSE  TEST
+4850 QUINTET BLOOD GLUCOSE TEST
+4850 TRUETRACK BLOOD GLUCOSE  DEVICE
+4850 TRUE METRIX BLOOD GLUCOSE  TEST
+4850 QUINTET AC BLOOD GLUCOSE
+4850 QUINTET BLOOD GLUCOSE  SYSTEM
+4850 PREMIUM BLOOD GLUCOSE TEST
+4850 OPTIUM BLOOD GLUCOSE  MONITOR
+4850 EASYMAX NG BLOOD GLUCOSE
+4850 OPTIUM GLUCOSE MONITOR  SYSTEM
+4850 D-CARE BLOOD GLUCOSE
+4850 ENLITE GLUCOSE SENSOR
+5470 hydralazine hcl oral
+5781 indomethacin er
+6185 labetalol hcl oral
+6387 LIDO BDK
+6387 LIDOCANNA
+6387 premium lidocaine
+6472 lovastatin oral
+6835 methimazole oral
+6845 methocarbamol oral
+7226 nadolol oral
+7243 naltrexone hcl oral
+7258 ec-naproxen
+7393 niacin er (antihyperlipidemic)
+7393 niacin (antihyperlipidemic)
+7417 nifedipine oral
+7417 nifedipine er
+7531 nortriptyline hcl oral
+7597 nystatin mouth/throat
+7597 nystatin external
+7646 FIRST-OMEPRAZOLE
+7866 PAMELOR
+8591 potassium chloride er
+8629 prazosin hcl oral
+8706 prochlorperazine maleate oral
+8727 FIRST-PROGESTERONE VGS
+8787 propranolol hcl er
+8998 PYRIDIUM
+9230 REGLAN
+9524 sulfasalazine oral
+9601 scopolamine
+9947 sotalol hcl oral
+9997 spironolactone oral
+10355 temazepam
+10601 TIMOPTIC
+10737 trazodone hcl oral
+10761 triamcinolone acetonide external  aerosol solution
+10767 triazolam
+10831 sulfamethoxazole-trimethoprim oral
+15996 mirtazapine oral
+17300 alfuzosin hcl er
+18602 azelaic acid external
+19254 betamethasone dipropionate aug  external gel
+19711 amoxicillin-potassium clavulanate er
+19711 amoxicillin-potassium clavulanate
+19831 budesonide er
+20352 carvedilol
+20493 cefuroxime axetil
+20791 chlorhexidine gluconate mouth/  throat
+21212 clarithromycin er
+21245 clobetasol propionate external  solution
+21245 clobetasol propionate external  liquid
+21245 clobetasol propionate external gel
+21949 cyclobenzaprine hcl er
+24605 etodolac
+24605 etodolac er
+25037 cefdinir
+25789 glimepiride
+26180 GOLYTELY
+26225 ondansetron odt
+28004 isosorbide mononitrate er
+28004 isosorbide mononitrate
+28200 ketorolac tromethamine ophthalmic
+28200 KETOROLAC TROMETHAMINE  NASAL
+28200 ketorolac tromethamine oral
+28439 lamotrigine er
+28874 LOMOTIL
+30125 modafinil
+30145 mometasone furoate external
+30236 morphine sulfate oral
+31448 nabumetone oral
+31983 norethindrone acetate oral
+32624 oxcarbazepine
+32915 TERIPARATIDE (RECOMBINANT)
+32937 paroxetine hcl er
+33199 permethrin external
+34372 prednisolone acetate p-f
+34552 PROCTOFOAM HC
+35296 ramipril
+35623 riluzole
+35636 risperidone
+35829 ranolazine er
+36572 SINEMET
+37801 terbinafine hcl oral
+37806 terconazole
+38404 topiramate er
+38413 torsemide
+39173 doxazosin mesylate oral
+39998 zonisamide oral
+40114 guanfacine hcl er
+42316 tacrolimus oral
+42331 misoprostol oral
+42351 lithium carbonate oral
+42351 lithium carbonate er
+42372 mupirocin external
+42568 WELLBUTRIN SR
+42634 desmopressin acetate pf
+42634 desmopressin acetate oral
+42686 flecainide acetate
+42729 HUMATE-P
+42844 PERCOCET
+42933 timolol maleate pf
+43611 latanoprost ophthalmic
+47579 cabergoline
+48470 CREON
+49131 DIPENTUM
+51428 INSULIN ASPART
+52440 MAXZIDE
+52582 mesalamine oral
+54251 oxybutynin chloride er
+54251 oxybutynin chloride oral
+54993 potassium citrate er
+58827 PROZAC
+58927 NORVASC
+59078 metaxalone
+61805 nitisinone
+66981 ZOFRAN
+67158 sumatriptan succinate  subcutaneous
+67158 sumatriptan succinate oral
+67158 sumatriptan succinate refill
+68149 mycophenolate mofetil oral
+69749 valsartan
+70057 RECOMBINATE
+71515 MINIPRESS
+72210 ACCUPRIL
+72302 ropinirole hcl er
+72965 letrozole oral
+73494 telmisartan
+73645 valacyclovir hcl oral
+73689 febuxostat
+74704 PULMOZYME
+75207 bosentan
+82063 OXYCODONE HCL ER
+82122 levofloxacin oral
+82728 ZOLOFT
+82828 BETASERON
+83553 SEROQUEL XR
+83553 SEROQUEL
+83818 irbesartan
+84375 glatiramer acetate
+84815 ADDERALL XR
+84815 ADDERALL
+84857 anastrozole oral
+85762 ritonavir
+85783 ZESTORETIC
+86009 INSULIN LISPRO
+86009 INSULIN LISPRO PROT & LISPRO
+92265 CORTIFOAM
+92515 DRISDOL
+92880 HUMULIN N VIAL
+92881 HUMULIN R VIAL
+92881 HUMULIN R U-500 VIAL
+93028 K-TAB
+93253 MAXZIDE-25
+93416 NAPROSYN ORAL SUSPENSION
+93417 NAPROSYN ORAL TABLET
+93558 NOVOLIN N VIAL
+93560 NOVOLIN R RELION
+93560 NOVOLIN R VIAL
+103456 fluocinonide external cream 0.05 %
+103943 CILOXAN OPHTHALMIC  SOLUTION
+103990 carbidopa-levodopa
+103990 carbidopa-levodopa er
+104416 amlodipine besylate oral
+105583 fluorouracil external cream 5 %
+106258 hydrocortisone external cream 1 %
+106892 HUMULIN 70/30 VIAL
+108513 PROGRAF ORAL CAPSULE
+114194 warfarin sodium oral
+114228 PAXIL ORAL TABLET
+114228 PAXIL CR
+114265 FOSAMAX
+114398 TEMOVATE
+114477 levetiracetam er
+115713 montelukast sodium oral tablet
+118463 olmesartan medoxomil-hctz
+118463 olmesartan medoxomil oral
+128790 POLYTRIM
+131725 AMBIEN
+131725 AMBIEN CR
+134774 REMERON
+134920 MAXITROL
+135423 ZYPREXA ORAL
+135446 ARICEPT
+135779 COPAXONE
+135805 HUMALOG
+139462 moxifloxacin hcl (2x day)
+140587 celecoxib oral
+141625 colesevelam hcl
+142146 bisoprolol fumarate oral
+142440 lidocaine hcl mouth/throat
+142448 liothyronine sodium oral
+144254 LORTAB
+151177 NITROLINGUAL
+151195 atenolol-chlorthalidone
+151317 ALDACTONE
+151392 AUGMENTIN
+151399 BACTRIM
+151549 CORGARD
+151558 COZAAR
+151578 CYTOTEC
+151612 DEXEDRINE
+151692 EFFEXOR XR
+151720 ESTRING
+152318 RISPERDAL
+152323 ROCALTROL
+152413 TENORMIN
+152483 VAGIFEM
+152490 VALTREX
+152535 ZOVIRAX ORAL
+152633 CELLCEPT
+152699 MOBIC
+152819 ACULAR
+153101 RETIN-A
+153159 XALATAN
+153165 LIPITOR
+153171 ENTOCORT EC
+153266 ALPHANATE
+153326 AVONEX PEN
+153354 ZOMIG ORAL
+153379 ULTIMA
+153442 AMERGE
+153581 CRINONE
+153592 AMARYL
+153668 AVAPRO
+153736 ZANAFLEX
+153767 MALARONE
+153889 SINGULAIR ORAL TABLET
+153889 SINGULAIR ORAL PACKET
+154682 HYALGAN
+174742 PLAVIX
+175184 FIORICET
+187220 FOLLISTIM AQ
+187832 pregabalin er
+190283 FLOMAX
+190465 VIAGRA
+194000 capecitabine
+194881 brinzolamide
+194882 AZOPT
+196463 PROGRAF ORAL PACKET
+196468 CARDURA
+196472 ZESTRIL
+196474 ZITHROMAX ORAL
+196476 PROSCAR
+196479 NORVIR ORAL TABLET
+196479 NORVIR ORAL SOLUTION
+196479 NORVIR ORAL PACKET
+196487 PULMICORT SUSPENSION
+196493 CANASA
+196495 PENTASA
+196498 NEURONTIN
+196501 RILUTEK
+196502 LAMICTAL XR ORAL KIT
+196502 LAMICTAL
+196503 ZOCOR
+197117 NARCAN
+197123 HUMATROPE
+197397 benzonatate oral capsule 100 mg,  200 mg
+197405 betamethasone dipropionate aug  external ointment
+197405 betamethasone dipropionate  external ointment
+197446 carisoprodol oral tablet 350 mg
+197519 clindamycin phosphate external  lotion
+197785 hydrocortisone external lotion 2.5 %
+197803 ibuprofen oral suspension   100 mg/5ml
+197805 ibuprofen oral tablet 400 mg,   600 mg, 800 mg
+197817 indomethacin oral capsule 25 mg,  50 mg
+197843 isotretinoin capsule 10 mg oral
+197844 isotretinoin capsule 20 mg oral
+197845 isotretinoin capsule 40 mg oral
+197877 PRILO PATCH II
+197877 PRILO PATCH
+197877 PRILOVIX
+197877 PRILOVIX ULTRALITE
+197877 PRILOVIX LITE PLUS
+197877 PRILOVIX ULTRALITE PLUS
+197877 PRILOLID
+197877 PRILOVIX LITE
+197877 PRILOVIX PLUS
+197877 lidocaine-prilocaine external kit
+197877 LIDO-PRILO CAINE PACK
+198215 MULTIVITAMIN/FLUORIDE TABLET   CHEWABLE 0.25 MG ORAL (RX)
+198215 multivitamin/fluoride tablet  chewable 0.25 mg oral (rx)
+198240 tamoxifen citrate oral tablet 10 mg
+199378 carbamazepine er oral tablet  extended release 12 hour
+199607 estradiol vaginal tablet
+200131 carbamazepine er oral capsule  extended release 12 hour
+200345 simvastatin oral tablet 80 mg
+201240 LAMICTAL ODT ORAL TABLET  DISPERSIBLE
+202363 XANAX XR
+202363 XANAX
+202462 PLAQUENIL
+202472 VALIUM
+202479 ATIVAN ORAL
+202508 NITRO-DUR
+202516 NITRO-BID
+202525 NITROSTAT
+202559 IMURAN
+202585 KLONOPIN
+202619 ESTRACE
+202633 FLUOROPLEX
+202637 pregnyl
+202645 CORTEF
+202724 CUPRIMINE
+202770 AZULFIDINE
+202770 AZULFIDINE EN-TABS
+202795 accutane
+202813 DIFLUCAN
+202817 NEORAL
+202828 GENOTROPIN
+202834 SFROWASA
+202844 PRED FORTE
+202845 PRED MILD
+202866 FLAGYL
+202869 METROGEL
+202877 KENALOG EXTERNAL
+202888 PROVERA
+202896 PREMARIN ORAL
+202991 LASIX
+202998 LODINE
+202999 LOPID
+203029 TEGRETOL
+203029 TEGRETOL-XR
+203105 hydrocortisone external ointment   1 %, 2.5 %
+203142 guanfacine hcl
+203143 fluvoxamine maleate er
+203143 fluvoxamine maleate
+203144 pravastatin sodium
+203152 alendronate sodium
+203160 losartan potassium oral
+203160 losartan potassium-hctz
+203167 KEFLEX
+203177 hydromorphone hcl er
+203182 hydroxyzine pamoate oral
+203195 penicillin v potassium
+203204 bupropion hcl er (sr)
+203211 diltiazem hcl er
+203214 ENOVARX-DICLOFENAC SODIUM
+203214 diclofenac sodium oral
+203214 diclofenac sodium er
+203214 diclofenac sodium external solution
+203251 epitol
+203321 LITHOBID
+203344 LOPRESSOR
+203354 MS CONTIN
+203365 INDOCIN ORAL
+203477 THALITONE
+203490 CALAN SR
+203494 CARDIZEM
+203563 CIPRO ORAL TABLET
+203600 ZYLOPRIM
+203644 PRINIVIL
+203658 DDAVP
+203658 DDAVP PF
+203754 RELAFEN
+203769 FEMARA
+204315 SKELAXIN
+204362 SOMA
+204423 neomycin-polymyxin-hc otic
+205301 prednisone intensol
+205604 VIBRAMYCIN ORAL CAPSULE
+206347 ala-cort external cream 1 %
+207136 MEDROL ORAL TABLET 2 MG
+207138 MEDROL ORAL TABLET 16 MG,   4 MG, 8 MG
+207141 MEDROL ORAL TABLET 32 MG
+207774 PROCARDIA XL
+207846 TOBREX OPHTHALMIC SOLUTION
+207850 TOBREX OPHTHALMIC OINTMENT
+208813 TOBRADEX OPHTHALMIC  SUSPENSION
+208821 TOBRADEX OPHTHALMIC  OINTMENT
+213263 LOTEMAX OPHTHALMIC  SUSPENSION
+213291 PAXIL ORAL SUSPENSION
+213307 CILOXAN OPHTHALMIC  OINTMENT
+213442 NOVOLIN 70/30 VIAL
+213442 NOVOLIN 70/30 RELION
+214199 ipratropium-albuterol
+214223 amlodipine besylate-benazepril hcl
+214287 benazepril-hydrochlorothiazide
+214317 bisoprolol-hydrochlorothiazide
+214444 promethazine-codeine
+214491 promethazine-dm
+214617 irbesartan-hydrochlorothiazide
+214618 lisinopril-hydrochlorothiazide
+214626 valsartan-hydrochlorothiazide
+215085 ALDARA
+215168 ALORA
+215176 ALREX
+215264 ANALPRAM-HC EXTERNAL  LOTION
+215264 ANALPRAM-HC EXTERNAL  CREAM
+215264 ANALPRAM HC SINGLES
+215264 ANALPRAM HC
+215283 ANDRODERM
+215407 ARMOUR THYROID
+215492 ACCU-CHEK AVIVA PLUS TEST  STRIPS
+215492 AVITA
+215496 AYGESTIN
+215672 BETIMOL
+215879 CARBATROL
+215916 CATAFLAM
+215927 CELEBREX
+215928 CELEXA
+216221 COREG
+216253 COSOPT PF
+216253 COSOPT
+216459 DEPAKOTE
+216459 DEPAKOTE ER
+216462 DEPEN TITRATABS
+216501 DESOWEN
+216652 DIOVAN
+216653 DIOVAN HCT
+216664 DIPROLENE
+216727 DORYX
+216903 endocet
+216971 ESGIC
+217006 euthyrox
+217134 FLAREX
+217681 HYZAAR
+217713 IMITREX ORAL
+217713 IMITREX SUBCUTANEOUS
+217717 ADVANCED ALLERGY  COLLECTION
+217905 klor-con 10
+217905 klor-con
+217993 LEVBID
+217996 levo-t
+218002 levoxyl
+218003 LEVSIN ORAL
+218003 LEVSIN/SL
+218088 LOTENSIN
+218089 LOTENSIN HCT
+218090 LOTREL
+218248 MAXALT
+218343 METROCREAM
+218345 METROLOTION
+218353 MICARDIS
+218402 MIRAPEX ER
+218599 NAPRELAN
+218728 niacor
+218778 NORITATE
+218830 nystop
+218853 OCUFLOX
+218986 OXYCONTIN
+219136 PEDIAPRED
+219169 periogard
+219298 POLY-VI-FLOR
+219314 polymyxin b-trimethoprim
+219442 promethegan
+219484 PROVIGIL
+219641 RESTORIL
+220091 sulfatrim pediatric
+220145 SYPRINE
+220181 TAZORAC
+220238 TEXACORT
+220329 TOBI NEBULIZER
+220343 TOPAMAX
+220456 TRICOR
+220601 ONETOUCH ULTRA MINI KIT   W/DEVICE
+220601 ONETOUCH ULTRA TEST STRIPS
+220601 ONETOUCH ULTRA 2 KIT   W/DEVICE
+220606 ULTRAM
+220697 UROCIT-K 5
+220697 UROCIT-K 15
+220697 UROCIT-K 10
+220735 VANADOM
+220778 VERELAN
+220778 VERELAN PM
+220939 WESTHROID
+220961 XELODA
+221003 ZEBUTAL
+221078 citalopram hydrobromide
+221095 enoxaparin sodium
+221128 mupirocin calcium
+221153 quetiapine fumarate
+221153 quetiapine fumarate er
+221183 zolpidem tartrate er
+221183 zolpidem tartrate oral
+224891 PERIDEX
+224909 BETAPACE
+224913 DILAUDID ORAL
+224917 RITALIN
+224920 SYNTHROID
+224921 VASOTEC
+224945 EFUDEX
+224949 SYNALAR
+225036 LOVENOX
+227253 THIOLA
+227253 THIOLA EC
+227423 HALCION
+227682 DECADRON
+227719 HEMOFIL M
+227743 CARAFATE
+228271 REBIF
+233272 bexarotene
+235224 terazosin hcl
+235370 trientine hcl
+235743 metformin hcl er (mod)
+235743 metformin hcl er
+235759 quinapril hcl
+235988 venlafaxine hcl
+236077 cyclosporine modified
+236495 tamsulosin hcl
+236553 ropinirole hcl
+236690 naratriptan hcl
+236747 pramipexole dihydrochloride er
+236747 pramipexole dihydrochloride
+236883 nebivolol hcl
+236916 ibandronate sodium oral
+236991 clopidogrel bisulfate oral
+237082 rizatriptan benzoate
+238153 butalbital-apap-caffeine oral  capsule 50-325-40 mg
+238920 betamethasone dipropionate  external cream
+238920 betamethasone dipropionate aug  external cream
+240209 betamethasone dipropionate aug  external lotion
+240209 betamethasone dipropionate  external lotion
+240707 desogestrel-ethinyl estradiol oral  tablet 0.15-30 mg-mcg
+240741 clarithromycin oral suspension  reconstituted
+242892 estradiol patch twice weekly   0.025 mg/24hr transdermal
+242892 estradiol patch twice weekly   0.025 mg/24hr transdermal
+242892 estradiol patch twice weekly   0.05 mg/24hr transdermal
+242892 estradiol patch twice weekly   0.075 mg/24hr transdermal
+242892 estradiol patch twice weekly   0.075 mg/24hr transdermal
+242892 estradiol patch twice weekly   0.1 mg/24hr transdermal
+242892 estradiol patch twice weekly   0.1 mg/24hr transdermal
+242892 estradiol patch twice weekly   0.05 mg/24hr transdermal
+245136 fentanyl transdermal patch 72 hour  100 mcg/hr, 12 mcg/hr, 25 mcg/hr,  50 mcg/hr, 75 mcg/hr
+245314 albuterol sulfate nebulization  solution (5 mg/ml) 0.5% inhalation
+245314 ALBUTEROL SULFATE  NEBULIZATION SOLUTION (5 MG/  ML) 0.5% INHALATION
+245723 tretinoin external gel 0.05 %
+248642 fluoxetine hcl oral tablet 20 mg
+253017 PRECISION POINT OF CARE TEST
+253146 amphetamine-dextroamphetamine er
+253146 amphetamine-dextroamphetamine
+258324 TARGRETIN ORAL
+258324 TARGRETIN EXTERNAL
+258337 triamterene-hctz
+258344 TRIDESILON
+258355 RAPAMUNE ORAL SOLUTION
+258355 RAPAMUNE ORAL TABLET
+259319 pioglitazone hcl
+261105 ENBREL SUBCUTANEOUS  SOLUTION
+261105 ENBREL SUBCUTANEOUS  SOLUTION RECONSTITUTED
+261315 TAMIFLU ORAL CAPSULE
+261414 norgestimate-eth estradiol
+261440 ACIPHEX
+261442 ACTOS
+261448 ANDROGEL
+261454 AVALIDE
+261530 gengraf
+261534 GYNAZOLE-1
+261547 KEPPRA ORAL
+261547 KEPPRA XR
+261551 LANTUS U-100 VIAL
+261551 LANTUS SOLOSTAR
+261555 LIDODERM
+261572 METHYLIN
+261624 PROTONIX ORAL
+261680 TRILEPTAL
+261708 ZONEGRAN
+262128 NASCOBAL
+262418 ALTACE
+262485 ARIMIDEX
+266856 divalproex sodium er
+278346 LOVAZA
+282519 VISTARIL
+283077 prednisolone oral solution  15mg/5mL
+283523 gabapentin oral solution   250 mg/5ml
+283535 doxycycline hyclate oral tablet   20 mg
+283809 travoprost (bak free)
+284191 FLUOROURACIL EXTERNAL  CREAM 0.5 %
+284378 VIVELLE-DOT
+284623 atovaquone-proguanil hcl
+284681 CAPEX
+284704 CONCERTA
+284771 LUMIGAN
+284810 NOVOLOG U-100 VIAL
+284812 NULEV
+284814 OLUX
+284818 OVIDREL
+284900 TREXALL
+284910 unithroid
+284918 WELCHOL
+285032 TRAVATAN Z
+285064 GEODON ORAL
+285077 ORAPRED ODT
+285129 glyburide-metformin
+285133 CARAC
+287734 methotrexate sodium
+303263 CIALIS
+303838 BIDIL
+306266 entecavir
+309291 ciclopirox treatment
+309332 clindamycin phosphate gel 1 %  external
+309332 clindamycin phosphate gel 1 %  external
+309594 cyanocobalamin injection solution  1000 mcg/ml
+309680 neomycin-polymyxin-dexameth  ophthalmic suspension   3.5-10000-0.1
+309684 dexamethasone intensol
+310346 finasteride oral tablet 5 mg
+310410 folic acid oral tablet 1 mg
+310497 glucagon emergency kit 1 mg  injection 1 mg
+310497 GLUCAGON EMERGENCY KIT   1 MG INJECTION 1 MG
+310891 hydrocortisone external cream   2.5 %
+310982 imiquimod external cream 5 %
+311027 NOVOLIN N RELION
+311264 lamotrigine oral tablet dispersible
+311376 lorazepam intensol
+311376 lorazepam oral concentrate   2 mg/ml
+311679 metronidazole external gel 0.75 %
+311759 montelukast sodium oral tablet  chewable
+312020 NITRO-TIME
+312515 potassium chloride oral solution  20 meq/15ml (10%), 40 meq/15ml  (20%)
+313029 sodium fluoride mouth/throat
+313036 multivitamin/fluoride tablet  chewable 0.5 mg oral
+313036 MULTIVITAMIN/FLUORIDE TABLET   CHEWABLE 0.5 MG ORAL
+313195 tamoxifen citrate oral tablet 20 mg
+313450 tretinoin external gel 0.01 %
+313451 tretinoin gel 0.025 % external
+313585 venlafaxine hcl er oral capsule  extended release 24 hour
+314229 sildenafil citrate oral tablet 100 mg,  25 mg, 50 mg
+314231 simvastatin oral tablet 10 mg,   20 mg, 40 mg, 5 mg
+315107 glipizide xl
+315213 multivitamin/fluoride tablet  chewable 1 mg oral
+315213 MULTIVITAMIN/FLUORIDE TABLET   CHEWABLE 1 MG ORAL
+320864 CRESTOR
+322248 tenofovir disoproxil fumarate
+323502 TRACLEER
+323828 rosuvastatin calcium
+323984 CLIMARA
+326381 ORFADIN
+327148 SYMBICORT
+327503 BENICAR
+337535 REVLIMID
+339855 ZELNORM
+340705 chorionic gonadotropin  intramuscular
+341248 ezetimibe
+343076 INSULIN LISPRO (1 UNIT DIAL)
+346366 NIASPAN
+348719 tobramycin nebulization solution  300 mg/5ml inhalation
+348719 TOBRAMYCIN NEBULIZATION  SOLUTION 300 MG/5ML  INHALATION
+351246 montelukast sodium oral packet
+351875 TRANSDERM-SCOP (1.5 MG)  TRANSDERMAL PATCH 72 HOUR  1 MG/3DAYS
+351926 NOVOLOG RELION
+352047 ARANESP (ALBUMIN FREE)
+352050 VIREAD ORAL TABLET 300 MG
+352364 buprenorphine hcl-naloxone hcl
+352372 dexmethylphenidate hcl er
+352376 etonogestrel-ethinyl estradiol
+352393 ABILIFY
+352401 altavera
+352546 CLINDAGEL
+352578 DERMA-SMOOTHE/FS BODY
+352578 DERMA-SMOOTHE/FS SCALP
+352618 ED-SPAZ
+352645 FINACEA
+352654 FOCALIN
+352654 FOCALIN XR
+352657 FORTEO
+352741 LEXAPRO
+352792 NATURE-THROID
+352897 PLEXION
+352917 PREVIDENT DENTAL
+352951 RESTASIS
+352990 SUBOXONE
+353016 TESTIM
+353098 XYREM
+353099 ZETIA
+353103 atomoxetine hcl
+353105 dexmethylphenidate hcl
+353108 escitalopram oxalate oral tablet
+353108 escitalopram oxalate oral solution
+353484 HUMIRA
+353484 HUMIRA PEN
+353484 HUMIRA PEN-CD/UC/HS STARTER
+353501 NEULASTA
+353724 RELPAX
+356728 UROXATRAL
+356739 ALVESCO
+356767 XOLAIR
+356778 RANEXA
+358330 STRATTERA
+359229 azathioprine oral tablet 75 mg,   100 mg
+360288 eletriptan hydrobromide
+370542 albuterol sulfate oral tablet
+370570 amitriptyline hcl oral
+370635 hydrochlorothiazide oral
+370647 hydrocortisone oral
+370653 hydromorphone hcl oral
+370655 hydromorphone hcl rectal
+370659 hydroxyzine hcl oral
+370782 acyclovir oral
+370815 alprazolam oral
+370975 azithromycin oral
+370984 baclofen oral
+371001 benazepril hcl oral
+371161 buprenorphine hcl sublingual
+371259 carbamazepine oral
+371504 ciclopirox external solution
+371524 ciprofloxacin hcl oral
+371540 clarithromycin oral tablet
+371583 clonidine hcl oral
+371624 colchicine oral tablet
+371728 dexamethasone oral elixir
+371728 dexamethasone oral solution
+371729 dexamethasone oral tablet
+371729 dexamethasone oral tablet therapy  pack
+371753 dextroamphetamine sulfate oral  tablet
+371781 diazepam oral
+371957 donepezil hcl oral tablet dispersible
+371962 doxepin hcl oral capsule
+371965 doxycycline hyclate oral capsule
+371966 doxycycline monohydrate oral  tablet
+372007 enalapril maleate oral tablet
+372035 ergocalciferol oral capsule
+372078 estradiol oral
+372222 fluocinonide external ointment
+372230 fluorouracil external solution
+372231 fluoxetine hcl oral capsule
+372232 fluoxetine hcl oral solution
+372280 furosemide oral
+372565 lamotrigine oral tablet chewable
+372567 lamotrigine oral tablet
+372647 lorazepam oral tablet
+372754 meloxicam oral tablet
+372785 mesalamine rectal enema
+372786 mesalamine rectal suppository
+372803 metformin hcl oral tablet
+372836 methotrexate oral
+372861 methylphenidate hcl oral tablet
+372868 methylprednisolone oral
+372883 metoclopramide hcl oral solution
+372886 metoclopramide hcl oral tablet
+372886 metoclopramide hcl oral tablet  dispersible
+372895 metronidazole oral
+372933 minocycline hcl oral capsule
+372936 minocycline hcl oral tablet
+373004 naproxen oral suspension
+373005 naproxen oral tablet
+373009 naproxen oral tablet delayed  release
+373106 nitroglycerin sublingual
+373114 norethindrone oral
+373142 olanzapine oral tablet dispersible
+373142 olanzapine oral tablet
+373146 ondansetron hcl oral
+373195 oxycodone hcl oral capsule
+373196 oxycodone hcl oral solution
+373199 OXYCODONE-ACETAMINOPHEN  ORAL SOLUTION
+373222 pantoprazole sodium oral tablet  delayed release
+373245 paroxetine hcl oral suspension
+373257 penicillamine oral capsule
+373258 penicillamine oral tablet
+373583 prednisone oral
+373630 promethazine hcl oral tablet
+373632 promethazine hcl rectal
+373653 propranolol hcl oral
+373867 SERTRALINE HCL ORAL CAPSULE
+373868 sertraline hcl oral tablet
+373966 sucralfate oral suspension
+373967 sucralfate oral tablet
+374146 tizanidine hcl oral tablet
+374290 verapamil hcl er oral tablet  extended release
+374363 zolmitriptan oral tablet
+374363 zolmitriptan oral tablet dispersible
+374615 oseltamivir phosphate oral capsule
+374699 neomycin-polymyxin-dexameth  ophthalmic ointment
+374751 butalbital-apap-caffeine oral tablet
+374787 apap-caff-dihydrocodeine oral  capsule
+375144 loteprednol etabonate ophthalmic  suspension
+375256 rabeprazole sodium oral tablet  delayed release
+375278 sirolimus oral solution
+375674 apap-caff-dihydrocodeine oral  tablet
+377504 ketoconazole external shampoo
+377668 desonide external cream
+377736 ketoconazole external cream
+377743 lidocaine-prilocaine external cream
+377759 metronidazole external cream
+377760 metronidazole external lotion
+377828 tretinoin external cream
+378003 diazepam rectal
+378069 ciclopirox external gel
+378086 clotrimazole-betamethasone  external cream
+378099 gabapentin oral tablet
+378100 gabapentin oral capsule
+378233 bupropion hcl oral
+378236 omeprazole oral capsule delayed  release
+378277 sirolimus oral tablet
+378301 aripiprazole oral tablet
+378301 aripiprazole oral tablet dispersible
+378605 desonide external lotion
+378615 estradiol vaginal cream
+378618 fluoxetine hcl oral capsule delayed  release
+378678 tazarotene external cream
+378790 hydrocodone polst-chlorphen polst  er susp
+378925 paroxetine hcl oral tablet
+378983 desonide external ointment
+379077 fluocinonide external gel
+379106 clotrimazole-betamethasone  external lotion
+379154 ciclopirox external shampoo
+385001 fluocinonide external solution
+389132 BUDESONIDE-FORMOTEROL  FUMARATE
+392038 sodium fluoride 5000 ppm
+393149 diltiazem hcl oral
+393163 verapamil hcl oral
+393355 calcipotriene-betameth diprop  external ointment
+400560 LEVEMIR U-100 VIAL
+402000 zolmitriptan solution 5 mg nasal
+402092 RESTASIS MULTIDOSE
+402099 CLIMARA PRO
+402169 ZOMIG NASAL SOLUTION 5 MG
+402343 levocetirizine dihydrochloride oral  tablet
+403888 potassium chloride crys er oral  tablet extended release 15 meq
+403922 estradiol patch twice weekly   0.0375 mg/24hr transdermal
+403922 estradiol patch twice weekly   0.0375 mg/24hr transdermal
+403930 isotretinoin capsule 30 mg oral
+404070 CENTANY AT
+404854 amnesteem
+404872 AZASAN
+404880 BENICAR HCT
+404925 CENTANY
+404930 CIPRODEX
+404945 CLOBEX
+404980 DENTA 5000 PLUS
+405052 ESTROGEL
+405155 jantoven
+405304 RIOMET
+405336 STIMATE
+405392 VIGAMOX
+405944 claravis
+406082 metformin hcl oral solution
+406106 moxifloxacin hcl ophthalmic  solution
+406106 MOXIFLOXACIN HCL  OPHTHALMIC SOLUTION  PREFILLED SYRINGE
+406121 levetiracetam oral
+408142 mycophenolate sodium
+412174 URSODIOL ORAL CAPSULE   200 MG, 400 MG
+434018 doxycycline hyclate oral tablet  delayed release 100 mg, 150 mg,  200 mg, 50 mg, 75 mg
+438864 desonide external gel
+446251 meloxicam oral capsule
+450999 promethazine hcl oral solution
+461016 eszopiclone
+465397 ciprofloxacin-dexamethasone
+476365 methylphenidate hcl oral tablet  chewable
+476368 methylphenidate hcl oral solution
+476545 estradiol transdermal patch weekly
+477451 clindamycin phosphate external  foam
+477560 fenofibrate oral tablet 145 mg,   160 mg, 54 mg
+482574 CYMBALTA
+483437 pregabalin oral capsule
+484211 ezetimibe-simvastatin
+484348 omega-3-acid ethyl esters
+484814 tadalafil oral tablet 10 mg, 20 mg
+485483 tizanidine hcl oral capsule
+485495 aripiprazole oral solution
+485647 fluocinonide external cream 0.1 %
+495215 VYTORIN
+496585 CLINDESSE
+498464 SOLTAMOX
+539786 XIFAXAN
+540404 LUNESTA
+540618 dilt-xr
+541684 BONIVA
+541841 ALTOPREV
+542509 ISTALOL
+543481 VANOS
+543651 CLENIA PLUS
+544268 URSO FORTE
+544581 APOKYN
+544738 EVOCLIN
+544743 LOPROX EXTERNAL SHAMPOO
+545256 ZYLET
+545273 MENOSTAR
+545890 ONETOUCH VERIO FLEX SYSTEM  KIT W/DEVICE
+562265 clindamycin hcl oral
+577237 metronidazole external gel 1 %
+579570 MYFORTIC
+580261 SPIRIVA HANDIHALER
+584411 nyamyc
+588846 BARACLUDE ORAL SOLUTION
+588846 BARACLUDE ORAL TABLET
+593441 LYRICA CR
+593441 LYRICA
+594040 diphenoxylate-atropine
+596926 duloxetine hcl oral capsule delayed  release particles 20 mg, 30 mg,   60 mg
+604432 DENTAGEL
+604726 EUFLEXXA
+605173 ACZONE
+606381 vandazole
+607295 dapsone external gel 5 %
+608793 EC-NAPROSYN ORAL TABLET  DELAYED RELEASE 375 MG
+613876 NEVANAC
+615906 LIPOFEN
+616011 ORENCIA SUBCUTANEOUS
+616402 duloxetine hcl oral capsule delayed  release particles 40 mg
+616852 fenofibrate oral capsule 150 mg,   50 mg
+617311 atorvastatin calcium oral tablet   40 mg, 80 mg
+617312 atorvastatin calcium oral tablet   10 mg, 20 mg
+617614 FLUORIDEX
+617624 FLUORIDEX ENHANCED  WHITENING
+618028 AUGMENTIN ES-600
+619047 folic acid injection
+628953 potassium chloride crys er oral  tablet extended release 10 meq,   20 meq
+629695 minocycline hcl er oral tablet  extended release 24 hour
+630189 sodium fluoride 5000 plus
+630194 PREVIDENT 5000 DRY MOUTH
+630194 PREVIDENT MOUTH/THROAT
+630194 PREVIDENT 5000 PLUS
+630194 PREVIDENT 5000 BOOSTER PLUS
+630194 PREVIDENT 5000 ORTHO  DEFENSE
+630208 albuterol sulfate inhalation  nebulization solution (2.5 mg/3ml)  0.083%, 0.63 mg/3ml, 1.25 mg/3ml,   2.5 mg/0.5ml
+630820 SOLODYN
+636674 varenicline tartrate
+638596 JANUVIA
+639888 TRUVADA ORAL TABLET   200-300 MG
+643066 emtricitabine-tenofovir df oral tablet   200-300 mg
+643067 ATRIPLA
+643075 PREZISTA
+644964 OMNITROPE
+645109 GLUMETZA
+647295 PROAIR HFA
+647366 XOLEGEL
+662263 dorzolamide hcl-timolol mal pf
+662263 dorzolamide hcl-timolol mal
+669348 ADVATE
+669446 DESONATE
+669559 MOVIPREP
+669747 VERDESO
+677229 MULTAQ
+683073 OMNARIS
+683693 desvenlafaxine succinate er
+686430 LIALDA
+690808 pseudoephedrine-bromphen-dm
+700402 TEKTURNA
+702296 VIBRAMYCIN ORAL SUSPENSION  RECONSTITUTED
+705009 FEXMID
+705129 nitroglycerin translingual
+705130 NITROMIST
+705862 PYLERA
+706464 ELESTRIN
+706869 AZASITE
+710529 NUVARING
+711043 VYVANSE
+711372 PRISTIQ
+722127 EXFORGE
+722259 DIVIGEL
+723732 PERFOROMIST
+725085 AMRIX
+725095 ENDOMETRIN
+727316 epinephrine solution auto-injector  0.3 mg/0.3ml injection
+727316 epinephrine solution auto-injector  0.3 mg/0.3ml injection
+727316 epinephrine solution auto-injector  0.3 mg/0.3ml injection
+727316 epinephrine solution auto-injector  0.15 mg/0.3ml injection
+727316 epinephrine solution auto-injector  0.15 mg/0.3ml injection
+727341 EPIPEN JR 2-PAK
+727341 EPIPEN 2-PAK
+727610 medroxyprogesterone acetate  intramuscular suspension prefilled  syringe
+727815 AVONEX PREFILLED
+728119 EVAMIST
+728207 doxycycline monohydrate oral  capsule 150 mg, 75 mg
+728470 ATRALIN
+728511 EXTINA
+728549 ketoconazole external foam
+728656 TIROSINT
+728656 TIROSINT-SOL
+729455 amlodipine besylate-valsartan
+730794 carisoprodol oral tablet 250 mg
+730984 TUSSICAPS
+732498 aliskiren fumarate
+735866 TASIGNA
+744843 ISENTRESS
+745791 LEVALBUTEROL HFA INHALATION   AEROSOL 45 MCG/ACT
+746023 TENORETIC 100
+746030 TENORETIC 50
+746466 XOPENEX HFA
+746611 TREZIX
+746763 PROVENTIL HFA
+746962 COMBIGAN
+748281 TACLONEX
+748746 CLEOCIN ORAL CAPSULE   150 MG, 300 MG
+748750 CLEOCIN ORAL CAPSULE 75 MG
+748856 YAZ
+748857 YASMIN 28
+748868 levonorgestrel-ethinyl estrad oral  tablet 0.1-20 mg-mcg,   0.15-30 mg-mcg
+748879 levora 0.15/30 (28)
+748962 camila
+748977 nora-be
+748987 MICRODOT TEST
+749157 norgestimate-ethinyl estradiol  triphasic oral tablet 0.18/0.215/  0.25 mg-25 mcg
+749289 APO-VARENICLINE
+749761 levonorgest-eth estrad 91-day oral  tablet 0.15-0.03 &0.01 mg
+749761 levonorgest-eth estrad 91-day oral  tablet 0.15-0.03 mg
+749762 SEASONIQUE
+749784 norgestimate-ethinyl estradiol  triphasic oral tablet 0.18/0.215/  0.25 mg-35 mcg
+749802 fenofibrate oral tablet 120 mg,   40 mg, 48 mg
+749816 SOMATULINE DEPOT
+750149 ZITHROMAX Z-PAK
+750157 ZITHROMAX TRI-PAK
+750244 low-ogestrel
+750265 cryselle-28
+750268 aviane
+751139 lamotrigine starter kit-blue
+751553 levonorgest-eth estrad 91-day oral  tablet 0.1-0.02 & 0.01 mg
+751553 levonorgest-eth est & eth est
+751563 lamotrigine starter kit-orange
+751613 BYSTOLIC
+751868 nortrel 0.5/35 (28)
+751870 nortrel 1/35 (28)
+751871 nortrel 1/35 (21)
+751875 necon 0.5/35 (28)
+751884 lutera
+751885 lessina
+751890 portia-28
+752388 HUMALOG MIX 75/25 VIAL
+752869 REMERON SOLTAB
+753451 lamotrigine starter kit-green
+753478 previfem
+753479 tri-previfem
+753481 sprintec 28
+753482 apri
+753543 reclipsen
+753544 sronyx
+754503 ZYPREXA ZYDIS
+755497 albuterol sulfate oral syrup
+757335 dextroamphetamine sulfate oral  solution
+757707 tadalafil oral tablet 2.5 mg, 5 mg
+758020 MEDROL ORAL TABLET THERAPY   PACK
+758523 IMITREX STATDOSE REFILL
+758523 IMITREX STATDOSE SYSTEM
+759743 desogestrel-ethinyl estradiol oral  tablet 0.15-0.02/0.01 mg (21/5)
+759919 levocetirizine dihydrochloride oral  solution
+762001 kariva
+762002 MIRCETTE
+762333 tri-sprintec
+762663 jolessa
+762875 GENOTROPIN MINIQUICK
+763247 FENOGLIDE
+763306 pantoprazole sodium oral packet
+791057 DEPO-PROVERA  INTRAMUSCULAR SUSPENSION  PREFILLED SYRINGE
+795082 CIMZIA
+795085 CIMZIA PREFILLED KIT
+795094 MILLIPRED
+795749 REBIF TITRATION PACK
+797272 clindamycin phosphate external  solution
+797274 clindamycin phosphate external  swab
+797447 CLEOCIN-T
+801095 VENTOLIN HFA
+801185 ocella
+801958 DIASTAT PEDIATRIC
+801962 DIASTAT ACUDIAL
+802652 ENBREL SUBCUTANEOUS  SOLUTION PREFILLED SYRINGE
+808753 venlafaxine hcl er oral tablet  extended release 24 hour
+809868 CINRYZE
+809979 VIMPAT ORAL SOLUTION
+809979 VIMPAT ORAL TABLET
+810072 TOVIAZ
+810097 LOSEASONIQUE
+817579 acetaminophen-codeine #2
+817579 acetaminophen-codeine #3
+817579 acetaminophen-codeine #4
+817579 acetaminophen-codeine
+825130 mesalamine er oral capsule   0.375 gm
+825131 APRISO
+828299 cyclobenzaprine hcl oral tablet   7.5 mg
+828327 SUMAXIN
+828348 cyclobenzaprine hcl oral tablet   10 mg, 5 mg
+828537 MAXALT-MLT
+828693 ZOLPIMIST
+830602 avidoxy
+830861 diltiazem hcl er coated beads
+830863 CARDIZEM CD
+830876 CARDIZEM LA
+831226 cartia xt
+831533 errin
+831838 NAFRINSE DAILY/NEUTRAL
+831872 azurette
+831887 GELNIQUE
+831894 VECTICAL
+832731 klor-con m15
+833461 calcipotriene-betameth diprop  external suspension
+833709 tramadol hcl er oral tablet extended  release 24 hour
+834236 ULORIC
+834346 PACERONE ORAL TABLET 200 MG
+835560 EC-NAPROSYN ORAL TABLET  DELAYED RELEASE 500 MG
+835603 tramadol hcl oral tablet 50 mg
+835827 TESTOSTERONE CYPIONATE  INJECTION
+835827 testosterone cypionate  intramuscular
+835831 DEPO-TESTOSTERONE  INTRAMUSCULAR SOLUTION   100 MG/ML
+835842 DEPO-TESTOSTERONE  INTRAMUSCULAR SOLUTION   200 MG/ML
+835958 PACERONE ORAL TABLET   100 MG, 400 MG
+836368 ATROVENT HFA
+836641 zolpidem tartrate sublingual
+836642 EDLUAR
+840781 drospirenone-ethinyl estradiol
+845479 TOPAMAX SPRINKLE
+847176 PROCENTRA
+847189 HUMULIN 70/30 KWIKPEN
+847189 HUMULIN N KWIKPEN
+847213 HUMALOG KWIKPEN
+847213 HUMALOG MIX 50/50 VIAL
+847213 HUMALOG MIX 50/50 KWIKPEN
+847241 LEVEMIR U-100 FLEXTOUCH
+847247 NORDITROPIN FLEXPRO
+847254 HUMALOG MIX 75/25 KWIKPEN
+847913 BYETTA 10 MCG PEN
+847917 BYETTA 5 MCG PEN
+848161 SIMPONI
+848195 DIPROLENE AF
+849383 ASACOL HD
+849398 naproxen sodium oral tablet   275 mg, 550 mg
+849580 BACTRIM DS
+849599 CIMZIA STARTER KIT
+850306 BESIVANCE
+850436 gavilyte-c
+851204 NAFRINSE WEEKLY
+851748 lamotrigine oral kit
+853353 STELARA SUBCUTANEOUS  SOLUTION PREFILLED SYRINGE
+854137 NUCYNTA ER
+854137 NUCYNTA
+854910 ZIAC ORAL TABLET 10-6.25 MG,  2.5-6.25 MG
+854921 ZIAC ORAL TABLET 5-6.25 MG
+855200 ganirelix acetate solution  prefilled syringe 250 mcg/0.5ml  subcutaneous
+855200 ganirelix acetate solution  prefilled syringe 250 mcg/0.5ml  subcutaneous
+855633 VENNGEL ONE
+855633 diclofenac sodium external gel 1 %
+855942 diclofenac potassium oral tablet   50 mg
+856462 INDERAL LA
+856940 hydrocodone-acetaminophen oral  solution 7.5-325 mg/15ml
+856944 hydrocodone-acetaminophen oral  solution 10-325 mg/15ml
+856980 hydrocodone-acetaminophen oral  tablet 10-300 mg, 5-300 mg,   7.5-300 mg
+856999 hydrocodone-acetaminophen oral  tablet 10-325 mg, 5-325 mg,   7.5-325 mg
+857045 gavilyte-g
+857702 diclofenac potassium oral tablet   25 mg
+857796 TYVASO
+857796 TYVASO STARTER
+857799 TYVASO REFILL
+858037 ONGLYZA
+858068 COLCRYS
+858343 ZIPSOR
+858359 ACUVAIL
+858747 ursodiol oral tablet
+858747 ursodiol oral capsule 300 mg
+858752 URSO 250
+859976 SAPHRIS
+860105 ACULAR LS
+860241 EXTAVIA
+860647 asenapine maleate
+861043 SYMLINPEN 120
+861045 SYMLINPEN 60
+861064 sertraline hcl oral concentrate
+861200 brimonidine tartrate ophthalmic  solution 0.2 %
+861206 ALPHAGAN P OPHTHALMIC  SOLUTION 0.1 %
+861208 brimonidine tartrate ophthalmic  solution 0.15 %
+861210 ALPHAGAN P OPHTHALMIC  SOLUTION 0.15 %
+861353 clobetasol propionate external foam
+861420 TIMOPTIC-XE
+861448 clobetasol propionate external  ointment
+861490 clobetasol propionate external  shampoo
+861495 clobetasol propionate external  cream
+861505 clobetasol propionate external  lotion
+861513 CLOBEX SPRAY
+862007 INTUNIV
+863622 DITROPAN XL
+865568 GLUCOTROL XL
+866047 SEREVENT DISKUS
+866412 metoprolol succinate er oral tablet  extended release 24 hour 100 mg,  200 mg, 50 mg
+866414 TOPROL XL
+866427 metoprolol succinate er oral tablet  extended release 24 hour 25 mg
+866511 metoprolol tartrate oral tablet   100 mg, 25 mg, 50 mg
+867378 BERINERT
+883815 tobramycin-dexamethasone
+884074 ALA SCALP
+884739 WILATE
+885131 clindamycin phos-benzoyl perox  external gel 1.2-5 %
+889520 butalbital-apap-caffeine oral  capsule 50-300-40 mg
+891874 morphine sulfate er oral tablet  extended release
+892342 morphine sulfate er oral capsule  extended release 24 hour
+892516 morphine sulfate rectal
+892625 morphine sulfate (concentrate) oral  solution 100 mg/5ml, 20 mg/ml
+895761 ACTEMRA SUBCUTANEOUS
+896001 FLOVENT HFA
+896019 FLOVENT DISKUS
+896184 fluticasone-salmeterol inhalation  aerosol powder breath activated  100-50 mcg/dose, 250-50 mcg/  dose, 500-50 mcg/dose
+896185 ADVAIR DISKUS
+896273 ADVAIR HFA
+896872 novarel intramuscular solution  reconstituted 10000 unit
+897018 dalfampridine er
+897022 AMPYRA
+897126 VICTOZA SOLUTION PEN- INJECTOR 18 MG/3ML  SUBCUTANEOUS
+897584 verapamil hcl er oral capsule  extended release 24 hour 100 mg,  200 mg, 300 mg
+897612 verapamil hcl er oral capsule  extended release 24 hour 120 mg,  180 mg, 240 mg, 360 mg
+898714 pregabalin oral solution
+900165 LAMICTAL XR ORAL TABLET  EXTENDED RELEASE 24 HOUR
+902621 DEXILANT
+903291 benzonatate oral capsule 150 mg
+905458 LEVOTHYROXINE SODIUM ORAL  CAPSULE
+966248 levothyroxine sodium oral tablet
+966524 PULMICORT FLEXHALER
+967017 IMIQUIMOD PUMP
+967017 imiquimod external cream 3.75 %
+967018 ZYCLARA
+967018 ZYCLARA PUMP
+967941 PENNSAID
+977836 heather
+978950 NATAZIA
+979092 hydroxychloroquine sulfate oral  tablet 200 mg
+991278 HUMIRA PEN-PEDIATRIC UC  START
+992421 SPRIX
+992432 promethazine hcl oral syrup
+992456 phenazo oral tablet 200 mg
+993541 bupropion hcl er (xl) oral tablet  extended release 24 hour 150 mg,  300 mg
+993545 WELLBUTRIN XL
+997223 donepezil hcl oral tablet 10 mg,   5 mg
+998029 ZUPLENZ
+999457 ACCU-CHEK COMPACT PLUS  TEST STRIPS
+999613 sulfacetamide sodium-sulfur  external liquid 10-5 %, 9-4 %,   9-4.5 %
+999613 sulfacetamide sod-sulfur wash
+1000054 doxepin hcl oral concentrate
+1000086 LASTACAFT
+1000112 medroxyprogesterone acetate oral
+1000133 DEPO-PROVERA  INTRAMUSCULAR SUSPENSION
+1000153 medroxyprogesterone acetate  intramuscular suspension
+1000158 DEPO-SUBQ PROVERA 104
+1000487 PREMPHASE
+1000500 PREMPRO
+1000720 bp 10-1
+1000731 sulfacetamide sodium-sulfur  external cream 10-2 %, 10-5 %
+1000736 AVAR-E LS
+1000895 sulfacetamide sodium-sulfur  external liquid 10-2 %, 9.8-4.8 %
+1000946 sulfacetamide sodium-sulfur  external pad 10-4 %
+1001690 SUPREP BOWEL PREP KIT
+1005767 AVAR CLEANSER
+1005835 AVAR-E EMOLLIENT
+1005835 AVAR-E GREEN
+1005856 sulfacetamide sodium-sulfur  external lotion 10-5 %
+1005856 sulfacetamide sodium-sulfur  external suspension 10-5 %
+1006105 AVAR LS CLEANSER
+1006555 CLINPRO 5000
+1007761 efavirenz-emtricitab-tenofovir
+1008789 efavirenz-lamivudine-tenofovir
+1009346 EQ BLOOD GLUCOSE TEST
+1010234 SULFACLEANSE 8/4
+1010234 sulfacetamide sodium-sulfur  external suspension 8-4 %
+1010739 lidocaine viscous hcl
+1011080 TOBRADEX ST
+1011081 zarah
+1012896 GILENYA
+1013629 drospiren-eth estrad-levomefol
+1013630 BEYAZ
+1014599 OXYCODONE-ACETAMINOPHEN  ORAL TABLET 10-300 MG,   5-300 MG
+1020155 introvale
+1037046 PRADAXA
+1037185 LO LOESTRIN FE
+1037259 OXYCODONE-ACETAMINOPHEN  ORAL TABLET 2.5-300 MG
+1040032 LATUDA
+1040055 NUEDEXTA
+1046982 hyoscyamine sulfate sublingual
+1047040 cyclafem 1/35
+1047505 MOXEZA
+1049214 oxycodone-acetaminophen oral  tablet 10-325 mg, 2.5-325 mg,  5-325 mg, 7.5-325 mg
+1049502 oxycodone hcl oral tablet 10 mg,   15 mg, 20 mg, 30 mg
+1049613 ROXICODONE ORAL TABLET   15 MG, 30 MG
+1049615 oxycodone hcl oral concentrate   100 mg/5ml
+1049621 oxycodone hcl oral tablet 5 mg
+1049623 ROXICODONE ORAL TABLET   5 MG
+1050494 SAFYRAL
+1051071 FORTESTA
+1085633 triamcinolone acetonide external  ointment 0.025 %, 0.1 %, 0.5 %
+1085644 triamcinolone acetonide external  cream 0.025 %, 0.1 %
+1085686 triamcinolone acetonide external  cream 0.5 %
+1085745 triamcinolone acetonide external  lotion
+1085773 triderm external cream 0.1 %
+1086773 VIIBRYD
+1090641 triamcinolone in absorbase
+1090641 triamcinolone acetonide external  ointment 0.05 %
+1091143 RITALIN LA
+1091145 methylphenidate hcl er oral tablet  extended release 10 mg, 20 mg
+1091155 methylphenidate hcl er oral tablet  extended release 24 hour
+1091155 methylphenidate hcl er oral tablet  extended release 18 mg, 27 mg,   36 mg, 54 mg, 72 mg
+1091339 clindacin etz external swab
+1091339 clindacin-p
+1091620 matzim la
+1091647 EDARBI
+1091828 emoquette
+1094107 phenazopyridine hcl oral tablet   100 mg, 200 mg
+1094543 briellyn
+1095362 balziva
+1099026 loryna
+1099269 syeda
+1099503 LOTEMAX OPHTHALMIC  OINTMENT
+1099596 divalproex sodium oral capsule  delayed release sprinkle
+1099598 DEPAKOTE SPRINKLES
+1099678 divalproex sodium oral tablet  delayed release
+1100054 ciclodan
+1100184 donepezil hcl oral tablet 23 mg
+1100703 TRADJENTA
+1110803 TRIANEX
+1111107 DIFICID ORAL TABLET
+1111107 DIFICID
+1111339 olopatadine hcl ophthalmic solution  0.1 %
+1111343 olopatadine hcl ophthalmic solution  0.2 %
+1112687 amethia
+1114199 XARELTO
+1114333 ARCAPTA NEOHALER
+1115698 oseltamivir phosphate oral  suspension reconstituted
+1115700 TAMIFLU ORAL SUSPENSION  RECONSTITUTED
+1115727 PROCORT
+1115895 SUMADAN WASH
+1116320 naproxen sodium er oral tablet  extended release 24 hour 375 mg,  500 mg
+1116349 NAPROXEN SODIUM ER ORAL  TABLET EXTENDED RELEASE   24 HOUR 750 MG
+1116499 hydrocortisone ace-pramoxine  external cream 1-1 %
+1116636 BRILINTA
+1117097 ZENPEP
+1146685 oscimin sr
+1146685 oscimin
+1148142 FIRAZYR
+1148398 rosadan external cream
+1148478 tramadol hcl er (biphasic)
+1148478 TRAMADOL HCL ER ORAL  CAPSULE EXTENDED RELEASE   24 HOUR
+1148479 CONZIP
+1149667 camrese
+1151338 budesonide oral
+1152116 ciprofloxacin hcl ophthalmic
+1157100 timolol maleate ophthalmic
+1157110 tobramycin ophthalmic
+1157762 DESMOPRESSIN ACETATE NASAL
+1158615 ipratropium bromide nasal
+1158842 azelastine hcl nasal solution 0.15 %
+1158842 azelastine hcl nasal solution 0.1 %,  137 mcg/spray
+1158843 azelastine hcl ophthalmic
+1159339 sodium fluoride dental
+1160451 ofloxacin ophthalmic
+1160453 ofloxacin otic
+1161198 bimatoprost ophthalmic
+1164087 metronidazole vaginal
+1164502 erythromycin ophthalmic
+1165656 fluticasone propionate nasal
+1165757 prednisolone acetate ophthalmic
+1172732 INDOCIN RECTAL
+1185839 PREMARIN VAGINAL
+1190110 fluoxetine hcl oral tablet 60 mg
+1190225 COMBIVENT RESPIMAT
+1191256 fluocinolone acetonide external  ointment
+1191302 fluocinolone acetonide body
+1191302 fluocinolone acetonide external  cream
+1191307 fluocinolone acetonide scalp
+1232585 BUPROPION HCL ER (XL) ORAL  TABLET EXTENDED RELEASE   24 HOUR 450 MG
+1232591 FORFIVO XL
+1233688 cavarest
+1233850 vestura
+1235205 D-CARE GLUCOMETER
+1235267 camrese lo
+1235874 philith
+1237051 SUBSYS
+1242606 myorisan
+1242786 alyacen 1/35
+1242799 ZETONNA
+1242819 PICATO EXTERNAL GEL 0.015 %,  0.05 %
+1242993 ERIVEDGE
+1243326 VIREAD ORAL TABLET 150 MG,  200 MG, 250 MG
+1244612 ZIOPTAN
+1245781 VIOKACE
+1245919 marlissa
+1248078 BINOSTO
+1251688 rosadan external gel
+1252016 viorele
+1291307 STENDRA
+1291987 OMECLAMOX-PAK
+1293865 hydrocort-pramoxine (perianal)
+1294123 PERTZYE
+1294533 ziprasidone hcl
+1294605 icatibant acetate
+1296363 SINGULAIR ORAL TABLET  CHEWABLE
+1299198 ABSORICA
+1300272 ketodan external foam
+1300538 dasetta 1/35
+1300911 wera
+1302651 XIMINO
+1302674 MINOCYCLINE HCL ER ORAL  CAPSULE EXTENDED RELEASE   24 HOUR
+1303126 RAYOS
+1304974 icosapent ethyl
+1304980 VASCEPA
+1304988 falmina
+1305089 elinest
+1305264 AUVI-Q
+1305757 tri-lo-marzia
+1306293 STRIBILD
+1307410 LINZESS
+1310526 AUBAGIO
+1311535 tri-linyah
+1312403 STIVARGA
+1312492 bd ultra-fine pen needles
+1312492 bd ultra-fine insulin syringes
+1312492 bd autoshield duo pen needles
+1312582 methylphenidate hcl er (xr)
+1312584 QUILLIVANT XR
+1312624 loteprednol etabonate ophthalmic  gel
+1314763 tobramycin inhalation nebulization  solution 300 mg/4ml
+1314764 BETHKIS
+1356074 kurvelo
+1356974 MINIVELLE
+1357542 XELJANZ
+1357542 XELJANZ XR
+1358765 junel fe 1/20
+1358770 LOESTRIN FE 1/20
+1358775 microgestin fe 1/20
+1358776 norethin ace-eth estrad-fe oral  tablet
+1358776 norethin ace-eth estrad-fe oral  capsule
+1358780 junel 1/20
+1358781 LOESTRIN 1/20 (21)
+1359020 microgestin 1/20
+1359025 junel fe 1.5/30
+1359026 LOESTRIN FE 1.5/30
+1359027 microgestin fe 1.5/30
+1359030 junel 1.5/30
+1359031 LOESTRIN 1.5/30 (21)
+1359032 microgestin 1.5/30
+1364436 ELIQUIS
+1364848 chateal
+1364848 chateal eq
+1365655 OXTELLAR XR
+1365862 ILEVRO
+1365899 mono-linyah
+1365980 multi-vitamin/fluoride
+1366551 UCERIS ORAL
+1367410 vitamin d (ergocalciferol) oral  capsule 1.25 mg (50000 ut)
+1368000 ALOGLIPTIN BENZOATE
+1368007 NESINA
+1368384 ALOGLIPTIN-METFORMIN HCL
+1368402 ALOGLIPTIN-PIOGLITAZONE
+1368880 TRILURON
+1368955 DELZICOL
+1369737 estarylla
+1370977 OSPHENA
+1372686 PANCREAZE
+1372692 KAZANO
+1372706 JENTADUETO XR
+1372706 JENTADUETO
+1372717 OSENI
+1372730 KOMBIGLYZE XR
+1372759 EDARBYCLOR
+1373328 zenatane
+1373504 QUARTETTE
+1374574 TOBI PODHALER
+1375947 doxylamine-pyridoxine
+1375949 DICLEGIS
+1422081 enskyce
+1422896 jencycla
+1423123 daysee
+1423388 RELION TRUE METRIX TEST  STRIPS
+1423388 RELION BLOOD GLUCOSE TEST
+1423388 RELION ULTIMA GLUCOSE  SYSTEM
+1423388 RELION ULTIMA TEST
+1423388 RELION TRUE MET AIR GLUC  METER
+1425332 ZENZEDI
+1425506 LIDOPRIL
+1425506 LIDOPRIL XR
+1426600 norethindrone acet-ethinyl est
+1426601 MINASTRIN 24 FE
+1427300 pirmella 1/35
+1428933 orsythia
+1430137 TEKTURNA HCT
+1430383 lyza
+1431077 ZUBSOLV
+1431982 ASTAGRAF XL
+1433874 TIVICAY
+1435623 enalapril maleate oral solution
+1435625 EPANED
+1436240 TROKENDI XR
+1436954 MIRVASO
+1437269 WP THYROID
+1438778 pimtrea
+1439028 GUARDIAN SENSOR (3)
+1439028 GUARDIAN LINK 3 TRANSMITTER
+1439028 GUARDIAN REAL-TIME REPLACE  PED
+1439889 ADEMPAS
+1440183 larin fe 1/20
+1440185 aubra
+1440185 aubra eq
+1440937 larin fe 1.5/30
+1441403 OTREXUP
+1441735 DUAVEE
+1442138 OPSUMIT
+1483318 RABEPRAZOLE SODIUM ORAL  CAPSULE SPRINKLE
+1483319 ACIPHEX SPRINKLE
+1483677 ZOLMITRIPTAN NASAL SOLUTION  2.5 MG
+1483679 ZOMIG NASAL SOLUTION 2.5 MG
+1484290 VELPHORO
+1485332 vyfemla
+1486972 FARXIGA
+1487086 larin 1/20
+1487524 ANORO ELLIPTA
+1490727 INDOMETHACIN ORAL CAPSULE  20 MG
+1491522 TIVORBEX
+1492733 OTEZLA
+1493270 SITAVIG
+1494170 sulfacetamide sodium-sulfur  external pad 9.8-4.8 %
+1494173 sulfacetamide sodium-sulfur  external cream 9.8-4.8 %
+1494174 sulfacetamide sodium-sulfur  external lotion 9.8-4.8 %
+1494761 QUDEXY XR
+1494825 PLEXION CLEANSER
+1494827 PLEXION CLEANSING CLOTH
+1495059 HEMANGEOL
+1495092 norlyroc
+1536143 ASMANEX (30 METERED DOSES)
+1536143 ASMANEX (60 METERED DOSES)
+1536143 ASMANEX (7 METERED DOSES)
+1536143 ASMANEX (14 METERED DOSES)
+1536485 PURIXAN
+1536581 xulane
+1537040 ZONTIVITY
+1537209 larin 1.5/30
+1537331 sulfamez wash
+1538130 delyla
+1539881 INCRUSE ELLIPTA
+1539891 BREO ELLIPTA
+1539902 VOGELXO
+1539902 VOGELXO PUMP
+1539953 deblitane
+1539955 sharobel
+1540242 neuac external gel
+1541087 bac
+1541098 clodan external shampoo
+1543069 lidocaine external ointment 5 %
+1543089 ELOCTATE
+1543191 NATESTO
+1543203 AFREZZA
+1543553 nikki
+1543946 ACTICLATE
+1544379 RASUVO
+1545659 JARDIANCE
+1546064 STRIVERDI RESPIMAT
+1546173 PLEGRIDY INTRAMUSCULAR
+1546173 PLEGRIDY SUBCUTANEOUS
+1546198 PLEGRIDY STARTER PACK
+1546889 TRIUMEQ
+1547105 BELSOMRA
+1547226 CERDELGA
+1547561 isotretinoin oral capsule 25 mg,   35 mg
+1547650 ARNUITY ELLIPTA
+1549683 XARELTO STARTER PACK
+1550536 tarina fe 1/20 eq
+1550536 tarina fe 1/20
+1550939 COLCHICINE ORAL CAPSULE
+1550941 MITIGARE
+1551296 TRULICITY
+1591942 LEDIPASVIR-SOFOSBUVIR
+1591944 HARVONI ORAL TABLET
+1593726 SOTYLIZE
+1594358 HUMIRA PEDIATRIC CROHNS  START
+1595731 HYSINGLA ER
+1595764 hydrocodone bitartrate er oral  tablet er 24 hour abuse-deterrent
+1596018 AURYXIA
+1596030 KITABIS PAK
+1596776 UCERIS RECTAL
+1597074 ANDROGEL PUMP
+1597588 LYNPARZA
+1598067 ivermectin external cream
+1598069 SOOLANTRA
+1599245 RYTARY
+1599793 COSENTYX (300 MG DOSE)
+1599797 COSENTYX 150 MG/ML  SUBCUTANEOUS SOLUTION  PREFILLED SYRINGE 150 MG/ML
+1599837 RUCONEST
+1599847 DUOPA
+1600705 PREZCOBIX
+1601381 IBRANCE
+1602110 GLYXAMBI
+1603495 fentanyl transdermal patch 72 hour  37.5 mcg/hr, 62.5 mcg/hr,   87.5 mcg/hr
+1603861 ashlyna
+1604332 NUVESSA
+1604544 TOUJEO SOLOSTAR
+1605067 ZARXIO
+1605086 juleber
+1605091 larin 24 fe
+1605363 ELEPSIA XR
+1606347 metoprolol tartrate oral tablet 37.5  mg, 75 mg
+1607560 NOVOEIGHT
+1607990 norethin ace-eth estrad-fe oral  tablet chewable
+1608328 CRESEMBA ORAL
+1648156 ZOMACTON
+1648160 ZOMACTON (FOR ZOMA-JET 10)
+1648175 APTENSIO XR
+1648999 triderm external cream 0.5 %
+1649486 CORLANOR
+1649961 PROAIR RESPICLICK
+1649988 doxycycline monohydrate oral  capsule 100 mg, 50 mg
+1650030 doxycycline monohydrate oral  suspension reconstituted
+1650142 doxycycline hyclate oral tablet   100 mg
+1650282 REBIF REBIDOSE TITRATION  PACK
+1650282 REBIF REBIDOSE
+1650444 doxycycline hyclate oral tablet   150 mg, 50 mg, 75 mg
+1651267 STIOLTO
+1652084 junel fe 24
+1653196 INSULIN ASPART PENFILL
+1653198 NOVOLOG PENFILL
+1653202 INSULIN ASPART FLEXPEN
+1653204 NOVOLOG FLEXPEN
+1653204 NOVOLOG FLEXPEN RELION
+1653225 ENBREL SURECLICK
+1653243 COSENTYX SENSOREADY   (300 MG)
+1653243 COSENTYX SENSOREADY PEN
+1653470 VIIBRYD STARTER PACK
+1653787 VIBERZI
+1654079 STELARA SUBCUTANEOUS  SOLUTION
+1654626 glatopa
+1654861 INSULIN PEN NEEDLES
+1655960 methotrexate sodium (pf)
+1656327 RELADOR PAK
+1656327 RELADOR PAK PLUS
+1659157 PRALUENT
+1659922 ODOMZO
+1659928 naloxone hcl injection
+1660690 cyred
+1660690 cyred eq
+1661092 setlakin
+1664316 SYNJARDY XR
+1664316 SYNJARDY
+1664435 ENVARSUS XR
+1664443 OXAYDO
+1665896 REPATHA
+1665900 REPATHA SURECLICK
+1666386 ADDYI
+1666542 mondoxyne nl oral capsule 100 mg
+1666545 mondoxyne nl oral capsule 75 mg
+1667643 TRUE METRIX METER KIT
+1667643 TRUE METRIX GO GLUCOSE  METER
+1667643 TRUE METRIX PRO BLOOD  GLUCOSE
+1667661 VRAYLAR
+1667882 SPIRIVA RESPIMAT
+1670012 TRESIBA
+1670016 TRESIBA FLEXTOUCH
+1716058 BELBUCA
+1716095 ENSTILAR
+1716210 VELTASSA
+1718966 KOATE
+1718970 KOATE-DVI
+1719231 KOGENATE FS
+1720264 STRENSIQ
+1720616 vienva
+1721082 SUPARTZ FX
+1721614 GENVOYA
+1721965 microgestin 24 fe
+1722350 VIVLODEX
+1722680 blisovi 24 fe
+1723231 desmopressin acetate injection
+1724432 np thyroid
+1724801 blisovi fe 1/20
+1727444 QUILLICHEW ER
+1727480 ALECENSA
+1729087 NUWIQ
+1729511 ala-cort external cream 2.5 %
+1729516 blisovi fe 1.5/30
+1731015 roweepra
+1731317 HUMULIN R U-500 KWIKPEN
+1734637 ZEPATIER
+1735496 NUTROPIN AQ NUSPIN 20
+1735496 NUTROPIN AQ NUSPIN 5
+1735537 NUTROPIN AQ NUSPIN 10
+1736038 SPRITAM
+1736863 BASAGLAR KWIKPEN
+1738537 SERNIVO
+1738581 ZEMBRACE SYMTOUCH
+1739337 ONZETRA XSAIL
+1739750 BRIVIACT
+1741049 XELJANZ XR ORAL TABLET  EXTENDED RELEASE 24 HOUR   11 MG
+1741392 ADYNOVATE
+1741734 ODEFSEY
+1741905 DAPSONE EXTERNAL GEL 7.5 %
+1743370 KOVALTRY
+1744001 emtricitabine-tenofovir df oral tablet   100-150 mg, 133-200 mg,   167-250 mg
+1744003 TRUVADA ORAL TABLET   100-150 MG, 133-200 MG,   167-250 MG
+1745091 lidocaine external patch 5 %
+1747692 DESCOVY
+1790528 XTAMPZA ER
+1790644 BEVESPI AEROSPHERE
+1790881 TRINTELLIX
+1795598 larissia
+1796384 AFSTYLA INTRAVENOUS KIT 1000   UNIT, 2000 UNIT, 250 UNIT, 3000  UNIT, 500 UNIT
+1796384 AFSTYLA INTRAVENOUS KIT 1500   UNIT, 2500 UNIT
+1796922 femynor
+1797109 yuvafem
+1799211 SOFOSBUVIR-VELPATASVIR
+1799213 EPCLUSA ORAL PACKET
+1799218 EPCLUSA ORAL TABLET   400-100 MG
+1799230 ORENCIA CLICKJECT
+1800499 mili
+1801140 DORYX MPC
+1801278 HUMIRA PEN-PS/UV/ADOL HS  START
+1801295 klor-con m20
+1801299 klor-con m10
+1801322 REPATHA PUSHTRONEX SYSTEM
+1801836 XIIDRA
+1803887 ADLYXIN
+1803903 ADLYXIN STARTER PACK
+1805273 lillow
+1805880 nitroglycerin transdermal
+1806166 testosterone transdermal
+1806181 methylphenidate hcl er (cd)
+1806185 methylphenidate hcl er (la) oral  capsule extended release 24 hour  60 mg
+1806195 methylphenidate hcl er (la) oral  capsule extended release 24 hour  10 mg, 20 mg, 30 mg, 40 mg
+1806883 lisinopril oral
+1806885 QBRELIS
+1806943 TARGADOX
+1807894 metformin hcl er (osm)
+1809905 TAYTULLA
+1811763 norlyda
+1812015 nifedipine er osmotic release
+1812279 ayuna
+1855067 RAYALDEE
+1858262 VEMLIDY
+1858836 tri-lo-mili
+1858996 SOLIQUA
+1860414 afirmelle
+1860491 hydrocodone bitartrate er oral  capsule extended release 12 hour
+1862600 tri femynor
+1865295 NOVAREL INTRAMUSCULAR  SOLUTION RECONSTITUTED 5000  UNIT
+1865958 EUCRISA
+1866047 isibloom
+1869381 GELSYN-3
+1869817 RHOFADE
+1870225 epinephrine injection solution auto- injector 0.15 mg/0.15ml
+1872986 HUMIRA PEN-PSOR/UVEIT  STARTER
+1873704 mibelas 24 fe
+1873760 TRULANCE
+1874537 fayosim
+1876404 DUPIXENT SUBCUTANEOUS  SOLUTION PREFILLED SYRINGE
+1876604 SYMPROIC
+1876810 simliya
+1876911 AUSTEDO
+1918056 simpesse
+1918194 FLUTICASONE-SALMETEROL  INHALATION AEROSOL POWDER  BREATH ACTIVATED 113-14 MCG/  ACT, 232-14 MCG/ACT, 55-14 MCG/  ACT
+1918199 AIRDUO RESPICLICK 113/14
+1918205 AIRDUO RESPICLICK 232/14
+1918211 AIRDUO RESPICLICK 55/14
+1918237 ZEJULA
+1921077 TYMLOS
+1921223 ALUNBRIG
+1922877 TIMOPTIC OCUDOSE  OPHTHALMIC SOLUTION 0.25 %
+1922877 timolol maleate ocudose
+1922895 TIMOPTIC OCUDOSE  OPHTHALMIC SOLUTION 0.5 %
+1923421 kalliga
+1924315 ISENTRESS HD
+1926331 INSULIN LISPRO JUNIOR  KWIKPEN
+1926332 HUMALOG U-100 JUNIOR  KWIKPEN
+1926819 HAEGARDA
+1926946 aurovela fe 1/20
+1927366 aurovela 1/20
+1927611 MYDAYIS
+1927689 INTRAROSA
+1927957 aurovela 24 fe
+1928007 aurovela 1.5/30
+1928593 TREMFYA
+1928936 ENDARI
+1939330 VOSEVI
+1940338 IDHIFA
+1940704 MAVYRET ORAL TABLET
+1941465 NITYR
+1941484 MINOLIRA
+1943340 CAROSPIR
+1944257 FLOLIPID
+1945044 TRELEGY ELLIPTA
+1946584 XHANCE
+1946831 VERZENIO
+1986791 aurovela fe 1.5/30
+1986814 CALQUENCE
+1988395 VYZULTA
+1989105 FASENRA
+1989113 SYMJEPI
+1989501 JULUCA
+1989507 hailey 24 fe
+1989873 hailey fe 1/20
+1990869 BYDUREON BCISE  AUTOINJECTOR
+1991307 OZEMPIC
+1991504 CLENPIQ
+1992165 ADMELOG
+1992171 ADMELOG SOLOSTAR
+1992299 timolol maleate (once-daily)
+1992428 ELIQUIS DVT/PE STARTER PACK
+1992869 RHOPRESSA
+1994746 XEPI
+1994758 vylibra
+1994764 tri-vylibra
+1995456 IMPOYZ
+1998453 ABILIFY MYCITE
+1998453 ABILIFY MYCITE MAINTENANCE  KIT
+1998453 ABILIFY MYCITE STARTER KIT  ORAL TABLET 10 MG, 15 MG,   2 MG, 20 MG, 5 MG
+1998461 ABILIFY MYCITE STARTER KIT  ORAL TABLET 30 MG
+1998481 TAPERDEX 12-DAY
+1998482 TAPERDEX 6-DAY
+1998774 QVAR REDIHALER
+1999582 ERLEADA
+1999652 BONJESTA
+1999724 tydemy
+2001430 SYMFI LO
+2001435 ZTLIDO
+2001501 subvenite
+2001751 jaimiess
+2001756 volnea
+2002420 TOUJEO MAX SOLOSTAR
+2003250 CIMDUO
+2003375 lo-zumandimine
+2003797 subvenite starter kit-green
+2003798 subvenite starter kit-orange
+2003799 subvenite starter kit-blue
+2043437 tulana
+2043459 SYMFI
+2044923 TAVALISSE
+2045196 zumandimine
+2045245 PLENVU
+2045495 NALOCET
+2045628 AIMOVIG
+2045953 DOPTELET
+2047242 OLUMIANT ORAL TABLET
+2047634 LOKELMA
+2047760 hailey 1.5/30
+2047766 KAPSPARGO SPRINKLE
+2048573 NOCDURNA
+2049264 iclevia
+2049380 NOVOLIN 70/30 FLEXPEN RELION
+2049380 NOVOFINE PEN NEEDLE
+2049380 NOVOFINE AUTOCOVER PEN  NEEDLE
+2049380 NOVOLIN 70/30 FLEXPEN
+2049853 ORILISSA
+2052064 incassia
+2052821 relexxii
+2054097 ARAKODA
+2054310 IMVEXXY MAINTENANCE PACK
+2054313 IMVEXXY STARTER PACK
+2054990 MULPLETA
+2055004 ALTRENO
+2055022 CEQUA
+2055282 INVELTYS
+2055646 TAKHZYRO
+2055660 JIVI
+2055668 PERSERIS
+2055984 ANNOVERA
+2056744 XELPROS
+2058873 EMGALITY
+2058873 EMGALITY (300 MG DOSE)
+2059261 TIGLUTIK
+2059275 NUZYRA ORAL
+2099319 TEGSEDI
+2099508 hailey fe 1.5/30
+2099769 LYMEPAK
+2100099 XOFLUZA (40 MG DOSE) ORAL  TABLET THERAPY PACK   2 X 20 MG
+2100100 XOFLUZA (80 MG DOSE) ORAL  TABLET THERAPY PACK   2 X 40 MG
+2102780 YUPELRI
+2104192 tri-vylibra lo
+2105640 VITRAKVI
+2106075 ACTEMRA ACTPEN
+2106997 jasmiel
+2107008 tarina 24 fe
+2107346 MOTEGRITY
+2107617 INBRIJA
+2108295 budesonide inhalation
+2108925 BIJUVA
+2109234 KRINTAFEL
+2109969 DUROLANE
+2110510 wixela inhub
+2110769 dotti
+2117770 lojaimiess
+2118539 LOTEMAX OPHTHALMIC GEL
+2118539 LOTEMAX SM
+2118829 HIDEX 6-DAY
+2118835 TAPERDEX 7-DAY
+2119550 ADHANSIA XR
+2119702 ROCKLATAN
+2120195 AIMOVIG SUBCUTANEOUS  SOLUTION AUTO-INJECTOR   140 MG/ML
+2121091 MAYZENT
+2121735 DXEVO 11-DAY
+2121759 SUNOSI
+2122343 DOXYCYCLINE HYCLATE ORAL  TABLET DELAYED RELEASE   80 MG
+2122521 DOVATO
+2122636 MAVENCLAD
+2123029 TEMIXYS
+2123076 albuterol sulfate hfa aerosol solution   108 (90 base) mcg/act inhalation
+2123076 ALBUTEROL SULFATE HFA  AEROSOL SOLUTION 108 (90  BASE) MCG/ACT INHALATION
+2166138 SKYRIZI
+2166797 PROAIR DIGIHALER
+2167563 EZALLOR SPRINKLE
+2168839 JORNAY PM
+2170992 NUCALA SUBCUTANEOUS  SOLUTION AUTO-INJECTOR
+2173495 NAYZILAM
+2173822 NUCALA SUBCUTANEOUS  SOLUTION PREFILLED SYRINGE
+2176317 VYLEESI
+2179635 tramadol hcl oral tablet 100 mg
+2180331 NUBEQA
+2180553 GLOPERBA
+2180671 BAQSIMI TWO PACK
+2180671 BAQSIMI ONE PACK
+2182340 ENBREL MINI
+2196792 ASMANEX (120 METERED DOSES)
+2196792 ASMANEX HFA
+2196895 RINVOQ
+2197868 ROZLYTREK
+2197885 WAKIX
+2198949 XENLETA ORAL
+2199021 NOURIANZ
+2199300 GVOKE PFS
+2199308 GVOKE HYPOPEN 1-PACK
+2199308 GVOKE HYPOPEN 2-PACK
+2200174 DRIZALMA SPRINKLE
+2200291 RELAFEN DS
+2200645 RYBELSUS
+2201573 OZOBAX
+2204104 HARVONI ORAL PACKET
+2205634 FASENRA PEN
+2206092 NOVOLIN R FLEXPEN RELION
+2206092 NOVOLIN R FLEXPEN
+2206099 NOVOLIN N FLEXPEN RELION
+2206099 NOVOLIN N FLEXPEN
+2256938 REYVOW
+2257674 AMZEEQ
+2260705 ZIEXTENZO
+2261403 VTOL LQ
+2265696 XCOPRI
+2266502 eluryng
+2267567 EXSERVAN
+2268222 UBRELVY
+2272409 DAYVIGO
+2272614 VALTOCO
+2273102 ORTIKOS
+2273115 XELJANZ XR ORAL TABLET  EXTENDED RELEASE 24 HOUR   22 MG
+2279505 PROLATE
+2280761 charlotte 24 fe
+2282409 NEXLETOL
+2283231 NEXLIZET
+2286256 HEMADY
+2288407 ZEPOSIA
+2288431 ZEPOSIA STARTER KIT
+2288433 ZEPOSIA 7-DAY STARTER PACK
+2288816 EPCLUSA ORAL TABLET   200-50 MG
+2289419 KOSELUGO
+2359280 TRIJARDY XR
+2371044 KYNMOBI
+2371068 KYNMOBI TITRATION KIT
+2371768 ORIAHNN
+2374566 TIVICAY PD
+2375329 DUPIXENT SUBCUTANEOUS  SOLUTION PEN-INJECTOR
+2375334 ZILXI
+2377130 SEMGLEE
+2377334 REDITREX
+2380232 LYUMJEV VIAL
+2380260 LYUMJEV KWIKPEN
+2380356 PRECISION SOF-TACT TEST
+2380356 PRECISION SOF-TACT MONITOR
+2380540 RUKOBIA
+2380565 GIMOTI
+2387328 BREZTRI AEROSPHERE
+2387356 ZCORT 7-DAY
+2390950 KESIMPTA
+2393588 BAFIERTAM
+2393800 XYWAV
+2394942 GAVRETO
+2395809 QDOLO
+2395828 AIRDUO DIGIHALER
+2395840 ARMONAIR DIGIHALER
+2397128 lyleq
+2399654 ALKINDI SPRINKLE
+2399887 lyllana
+2462145 IMPEKLO
+2463733 RETACRIT INJECTION SOLUTION  10000 UNIT/ML, 2000 UNIT/ML,  3000 UNIT/ML, 4000 UNIT/ML,  40000 UNIT/ML
+2463737 RETACRIT INJECTION SOLUTION  20000 UNIT/ML
+2463741 gemmily
+2464839 EYSUVIS
+2465331 tyblume
+2465558 SUTAB
+2468058 nymyo
+2471096 KLISYRI
+2471874 WYNZORA
+2472784 ORGOVYX
+2473277 THYQUIDITY
+2475836 BRONCHITOL
+2475840 BRONCHITOL TOLERANCE TEST
+2475847 VERQUVO
+2477891 RELTONE
+2478445 UKONIQ
+2531280 zafemy
+2532159 fluoxetine hcl oral tablet 10 mg
+2535239 ZEGALOGUE
+2540695 SKYRIZI PEN
+2540699 SKYRIZI (150 MG DOSE)
+2540704 KLOXXADO
+2550713 COSENTYX 150 MG/ML  SUBCUTANEOUS SOLUTION  PREFILLED SYRINGE 75  MG/0.5ML
+2556803 MYFEMBREE
+2557387 EMPAVELI
+2566439 taysofy
+2567321 tritocin
+2567326 desrx
+2569281 hydroxychloroquine sulfate oral  tablet 100 mg, 300 mg, 400 mg
+2569476 sajazir
+2569566 LOREEV XR
+2586426 topiramate oral
+2594797 MAYZENT STARTER PACK
+2595466 merzee
+2597448 KLARITY-L
