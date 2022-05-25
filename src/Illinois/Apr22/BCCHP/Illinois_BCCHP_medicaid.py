@@ -11,6 +11,7 @@ import json
 import requests
 import os
 import timeit
+import concurrent.futures
 import multiprocessing as mp
 from pathos.multiprocessing import ProcessingPool as Pool
 from cloud_detect import provider
@@ -39,6 +40,9 @@ else:
     BASE_DATA_DIR = '../../../../data/Illinois/Blue_Cross_Medicaid'
     IS_ON_GCP = False
     logger.info('Running on local machine')
+
+NUM_CORES = mp.cpu_count()
+NUM_THREADS = 40
 
 # Load Table Configuration
 def load_config_section():
@@ -359,48 +363,46 @@ def check_drug_match(drug_name, rxnorm_drug):
 ## [END] Functions for validating the DrugName match with the value from the RxNorm Id Search API
 
 ## [START] Functions for fetching the rxnormIds and validating the DrugName match through check_drug_match function
-def fetch_rxnorm_ids(file_content):
-    for (index, file_content_row) in file_content.iterrows():
-        # Iterate over the URLs to fetch the RxNorm Id
-        for url in file_content_row[3]:
-            try:
-                response = requests.get(url) #requests.get(url, params=payload)
-                if 'approximateTerm.json' in url:
-                    file_content_row[4] = response.json()['approximateGroup']['candidate'][0]['rxcui']
-                    # Add check for Drug Name if URL has 'approximateTerm.json'
-                    url_check = 'https://rxnav.nlm.nih.gov/REST/rxcui/' + file_content_row[4] + '/property.json?propName=RxNorm%20Name'
-                    return_value = requests.get(url_check)
-                    return_val= return_value.json()['propConceptGroup']['propConcept'][0]['propValue']
-                    if check_drug_match(get_cleanedup_drug_name(file_content_row[0]), return_val):
-                        # found a match
-                        logger.info("Drug name: {}, response: {}, Found Match.".format(file_content_row[0]+": " + url, response.json()))
-                        break
-                    else:
-                        # no match found
-                        logger.error("Drug name: {}, response: {}, No Match Found.".format(file_content_row[0]+": " + url, response.json()))
-                        file_content_row[4] = ""
+def fetch_rxnorm_id_row(file_content_row):
+    # Iterate over the URLs to fetch the RxNorm Id
+    for url in file_content_row[3]:
+        try:
+            response = requests.get(url) #requests.get(url, params=payload)
+            if 'approximateTerm.json' in url:
+                file_content_row[4] = response.json()['approximateGroup']['candidate'][0]['rxcui']
+                # Add check for Drug Name if URL has 'approximateTerm.json'
+                url_check = 'https://rxnav.nlm.nih.gov/REST/rxcui/' + file_content_row[4] + '/property.json?propName=RxNorm%20Name'
+                return_value = requests.get(url_check)
+                return_val= return_value.json()['propConceptGroup']['propConcept'][0]['propValue']
+                if check_drug_match(get_cleanedup_drug_name(file_content_row[0]), return_val):
+                    # found a match
+                    logger.info("Drug name: {}, response: {}, Found Match.".format(file_content_row[0]+": " + url, response.json()))
+                    break
                 else:
-                    file_content_row[4] = response.json()['idGroup']['rxnormId'][0]
-                    # Break if rxnorm_id was found!!!
-                    if file_content_row[4] != "":
-                        break
-            except Exception as e:
-                logger.error("Drug name: {}, response: {}, Exception: {}".format(file_content_row[0]+": " + url, response.json(), e))
-                file_content_row[4] = ""
-    return file_content
+                    # no match found
+                    logger.error("Drug name: {}, response: {}, No Match Found.".format(file_content_row[0]+": " + url, response.json()))
+                    file_content_row[4] = ""
+            else:
+                file_content_row[4] = response.json()['idGroup']['rxnormId'][0]
+                # Break if rxnorm_id was found!!!
+                if file_content_row[4] != "":
+                    break
+        except Exception as e:
+            logger.error("Drug name: {}, response: {}, Exception: {}".format(file_content_row[0]+": " + url, response.json(), e))
+            file_content_row[4] = ""
+    return file_content_row
 ## [END] Functions for fetching the rxnormIds and validating the DrugName match through check_drug_match function
 
 ## [START] Parallelized invokation of the function fetch_rxnorm_ids for each row in the dataframe
+# Multiprocessing implemented by splitting the dataframe into chunks and then fetching the RxNormId for each chunk
 def populate_rxnorm_ids(file_content):
     # Add a column RxnormId to the dataframe with default value as ""
     file_content['RxnormId'] = ""
     # Iterate over the dataframe and fetch the RxnormIds
-    num_cores = mp.cpu_count()
-    logger.info("Number of cores: {}".format(num_cores))
-    # Parallel(n_jobs=num_cores)(delayed(fetch_rxnorm_ids)(row) for (index, row) in file_content.iterrows())
-    file_content_split = np.array_split(file_content, num_cores, axis=0)
+    logger.info("Number of cores: {}. Number of threads per core: {}.".format(NUM_CORES, NUM_THREADS))
+    file_content_split = np.array_split(file_content, NUM_CORES, axis=0)
     # create the multiprocessing pool
-    pool = Pool(num_cores)
+    pool = Pool(NUM_CORES)
     # process the DataFrame by mapping function to each file_content_split across the pool
     file_content_xtended = np.vstack(pool.map(fetch_rxnorm_ids, file_content_split))
     # close down the pool and join
@@ -408,6 +410,25 @@ def populate_rxnorm_ids(file_content):
     pool.join()
     pool.clear()
     return file_content_xtended
+
+# Multithreaded implementation for each core to process a chunk of the dataframe
+def fetch_rxnorm_ids(file_content_chunk):
+    with concurrent.futures.ThreadPoolExecutor(max_workers=NUM_THREADS) as thread_executor:
+        # First, the ThreadPoolExecutor is used to call the RxNorm API for each row.
+        future_rxnormid_content = {
+                                    thread_executor.submit(fetch_rxnorm_id_row, file_content_row): file_content_row for (index, file_content_row) in file_content_chunk.iterrows()
+                                }
+        # As each API call thread completes it returns a Future object from the thread executor
+        aggregated_file_content = []
+        for future in concurrent.futures.as_completed(future_rxnormid_content):
+            file_row = future_rxnormid_content[future]
+            try:
+                aggregated_file_content.append(future.result())
+            except Exception as e:
+                logger.exception('Data row {} generated an exception: {}'.format(file_row, e))
+            else:
+                logger.info('Data row successfully processed - \n{}'.format(file_row))
+    return aggregated_file_content
 ## [END] Parallelized invokation of the function fetch_rxnorm_ids for each row in the dataframe
 
 ## [START] Build the JSON output from the dataframe
