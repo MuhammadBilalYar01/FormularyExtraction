@@ -13,7 +13,6 @@ import os
 import timeit
 import concurrent.futures
 import multiprocessing as mp
-from pathos.multiprocessing import ProcessingPool as Pool
 from cloud_detect import provider
 import logging
 from table import Table
@@ -23,6 +22,8 @@ BASE_DATA_FILE = 'Illinois_Blue_Cross_Medicaid_Apr_22.pdf'
 JSON_FILE = 'Illinois_Blue_Cross_Medicaid_Apr_22.json'
 PROCESSED_DATA_FILE = 'Illinois_Blue_Cross_Medicaid_Apr_22.csv'
 RXNORM_MAPPING_FILE = 'Illinois_Blue_Cross_Medicaid-rxnormid_drugs-Apr_22.txt'
+NUM_CORES = mp.cpu_count()
+NUM_THREADS = 40
 logging.basicConfig(format='%(asctime)s | %(levelname)s : %(message)s',
                      level=logging.INFO, filename=LOG_FILE, filemode='a+')
 logging.getLogger("pdfminer").setLevel(logging.WARNING)
@@ -41,8 +42,6 @@ else:
     IS_ON_GCP = False
     logger.info('Running on local machine')
 
-NUM_CORES = mp.cpu_count()
-NUM_THREADS = 40
 
 # Load Table Configuration
 def load_config_section():
@@ -401,14 +400,10 @@ def populate_rxnorm_ids(file_content):
     # Iterate over the dataframe and fetch the RxnormIds
     logger.info("Number of cores: {}. Number of threads per core: {}.".format(NUM_CORES, NUM_THREADS))
     file_content_split = np.array_split(file_content, NUM_CORES, axis=0)
-    # create the multiprocessing pool
-    pool = Pool(NUM_CORES)
-    # process the DataFrame by mapping function to each file_content_split across the pool
-    file_content_xtended = np.vstack(pool.map(fetch_rxnorm_ids, file_content_split))
-    # close down the pool and join
-    pool.close()
-    pool.join()
-    pool.clear()
+    with concurrent.futures.ProcessPoolExecutor() as executor:
+        file_content_xtended = executor.map(fetch_rxnorm_ids, file_content_split)
+    # file_content_xtended is returned as a generator object. 
+    # Each item in the generator is a list of file_content.shape[0] / NUM_CORES rows.
     return file_content_xtended
 
 # Multithreaded implementation for each core to process a chunk of the dataframe
@@ -416,7 +411,7 @@ def fetch_rxnorm_ids(file_content_chunk):
     with concurrent.futures.ThreadPoolExecutor(max_workers=NUM_THREADS) as thread_executor:
         # First, the ThreadPoolExecutor is used to call the RxNorm API for each row.
         future_rxnormid_content = {
-                                    thread_executor.submit(fetch_rxnorm_id_row, file_content_row): file_content_row for (index, file_content_row) in file_content_chunk.iterrows()
+                                    thread_executor.submit(fetch_rxnorm_id_row, file_content_row): file_content_row for (index, file_content_row) in file_content_chunk.iterrows() 
                                 }
         # As each API call thread completes it returns a Future object from the thread executor
         aggregated_file_content = []
@@ -432,42 +427,46 @@ def fetch_rxnorm_ids(file_content_chunk):
 ## [END] Parallelized invokation of the function fetch_rxnorm_ids for each row in the dataframe
 
 ## [START] Build the JSON output from the dataframe
-# Generate the JSON file
+# Generate the JSON file.
+# arguments: file_content - the generator object after the RxNorm Ids are populated
 def extract_output(file_content):
     _list_dict = []
-    for row in file_content:
-        try:
-            _dict = {}
-            _plans = {}
-            _dict["rxnorm_id"] = row[4]
-            _dict["drug_name"] = row[0]
-            _plans["drug_tier"] = row[1] #drug_tier_map[row[1]]
-            # This check for row[2] is to check for np.NaN values. This is the property of NaN dtype.
-            # row[2] is np.nan check stopped working once the collection became a ndarray after parallelization!!!
-            if row[2] != row[2]: #row[2] is np.nan:
-                _plans["prior_authorization"] = False
-                _plans["quantity_limit"] = False
-                _plans["step_therapy"] = False
-            else:
-                # parse PA
-                if "PA" in row[2]:
-                    _plans["prior_authorization"] = True
-                else:
+    for generator_row in file_content:
+        # each generator_row is a list of original file_content.shape[0] / NUM_CORES rows.
+        # Iterate over the list of rows and build the JSON output
+        for row in generator_row:
+            try:
+                _dict = {}
+                _plans = {}
+                _dict["rxnorm_id"] = row[4]
+                _dict["drug_name"] = row[0]
+                _plans["drug_tier"] = row[1] #drug_tier_map[row[1]]
+                # This check for row[2] is to check for np.NaN values. This is the property of NaN dtype.
+                # row[2] is np.nan check stopped working once the collection became a ndarray after parallelization!!!
+                if row[2] != row[2]: #row[2] is np.nan:
                     _plans["prior_authorization"] = False
-                # parse QL
-                if "QL" in row[2]:
-                    _plans["quantity_limit"] = True
-                else:
                     _plans["quantity_limit"] = False
-                # parse ST
-                if "ST" in row[2]:
-                    _plans["step_therapy"] = True
-                else:
                     _plans["step_therapy"] = False
-            _dict["plans"] = [_plans]
-            _list_dict.append(_dict)
-        except Exception as e:
-            logger.exception("row - {}\nException: {}".format(row, e))
+                else:
+                    # parse PA
+                    if "PA" in row[2]:
+                        _plans["prior_authorization"] = True
+                    else:
+                        _plans["prior_authorization"] = False
+                    # parse QL
+                    if "QL" in row[2]:
+                        _plans["quantity_limit"] = True
+                    else:
+                        _plans["quantity_limit"] = False
+                    # parse ST
+                    if "ST" in row[2]:
+                        _plans["step_therapy"] = True
+                    else:
+                        _plans["step_therapy"] = False
+                _dict["plans"] = [_plans]
+                _list_dict.append(_dict)
+            except Exception as e:
+                logger.exception("row - {}\nException: {}".format(row, e))
 
     with open(os.path.join(BASE_OUTPUT_DIR, JSON_FILE), 'w') as json_file:
         json.dump(_list_dict, json_file, indent=4)

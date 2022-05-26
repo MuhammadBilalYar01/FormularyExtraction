@@ -11,8 +11,8 @@ import json
 import requests
 import os
 import timeit
+import concurrent.futures
 import multiprocessing as mp
-from pathos.multiprocessing import ProcessingPool as Pool
 from cloud_detect import provider
 import logging
 from table import Table
@@ -22,6 +22,8 @@ BASE_DATA_FILE = 'Medi-Cal_Rx_Contract_Drugs_List_FINAL.pdf'
 JSON_FILE = 'CA_Medical_Medicaid_May_22.json'
 PROCESSED_DATA_FILE = 'CA_Medical_Medicaid_May_22.csv'
 RXNORM_MAPPING_FILE = 'CA_Medical_Medicaid-rxnormid_drugs-May_22.txt'
+NUM_CORES = mp.cpu_count()
+NUM_THREADS = 40
 logging.basicConfig(format='%(asctime)s | %(levelname)s : %(message)s',
                      level=logging.INFO, filename=LOG_FILE, filemode='a+')
 logging.getLogger("pdfminer").setLevel(logging.WARNING)
@@ -769,97 +771,116 @@ def check_drug_match(drug_name, rxnorm_drug):
 ## [END] Functions for validating the DrugName match with the value from the RxNorm Id Search API
 
 ## [START] Functions for fetching the rxnormIds and validating the DrugName match through check_drug_match function
-def fetch_rxnorm_ids(file_content):
-    for (index, file_content_row) in file_content.iterrows():
-        # Iterate over the URLs to fetch the RxNorm Id
-        for url in file_content_row[7]:
-            try:
-                response = requests.get(url) #requests.get(url, params=payload)
-                if 'approximateTerm.json' in url:
-                    file_content_row[9] = response.json()['approximateGroup']['candidate'][0]['rxcui']
-                    # Add check for Drug Name if URL has 'approximateTerm.json'
-                    url_check = 'https://rxnav.nlm.nih.gov/REST/rxcui/' + file_content_row[9] + '/property.json?propName=RxNorm%20Name'
-                    return_value = requests.get(url_check)
-                    return_val= return_value.json()['propConceptGroup']['propConcept'][0]['propValue']
-                    if check_drug_match(get_cleanedup_drug_name(file_content_row[6]), return_val):
-                        # found a match
-                        logger.info("Drug name: {}, response: {}, Found Match.".format(file_content_row[6]+": " + url, response.json()))
-                        break
-                    else:
-                        # no match found
-                        logger.error("Drug name: {}, response: {}, No Match Found.".format(file_content_row[6]+": " + url, response.json()))
-                        file_content_row[9] = ""
+def fetch_rxnorm_id_row(file_content_row):
+    # Iterate over the URLs to fetch the RxNorm Id
+    for url in file_content_row[7]:
+        try:
+            response = requests.get(url) #requests.get(url, params=payload)
+            if 'approximateTerm.json' in url:
+                file_content_row[9] = response.json()['approximateGroup']['candidate'][0]['rxcui']
+                # Add check for Drug Name if URL has 'approximateTerm.json'
+                url_check = 'https://rxnav.nlm.nih.gov/REST/rxcui/' + file_content_row[9] + '/property.json?propName=RxNorm%20Name'
+                return_value = requests.get(url_check)
+                return_val= return_value.json()['propConceptGroup']['propConcept'][0]['propValue']
+                if check_drug_match(get_cleanedup_drug_name(file_content_row[6]), return_val):
+                    # found a match
+                    logger.info("Drug name: {}, response: {}, Found Match.".format(file_content_row[6]+": " + url, response.json()))
+                    break
                 else:
-                    file_content_row[9] = response.json()['idGroup']['rxnormId'][0]
-                    # Break if rxnorm_id was found!!!
-                    if file_content_row[9] != "":
-                        break
-            except Exception as e:
-                logger.error("Drug name: {}, response: {}, Exception: {}".format(file_content_row[6]+": " + url, response.json(), e))
-                file_content_row[9] = ""
-    return file_content
+                    # no match found
+                    logger.error("Drug name: {}, response: {}, No Match Found.".format(file_content_row[6]+": " + url, response.json()))
+                    file_content_row[9] = ""
+            else:
+                file_content_row[9] = response.json()['idGroup']['rxnormId'][0]
+                # Break if rxnorm_id was found!!!
+                if file_content_row[9] != "":
+                    break
+        except Exception as e:
+            logger.error("Drug name: {}, response: {}, Exception: {}".format(file_content_row[6]+": " + url, response.json(), e))
+            file_content_row[9] = ""
+    return file_content_row
 ## [END] Functions for fetching the rxnormIds and validating the DrugName match through check_drug_match function
 
 ## [START] Parallelized invokation of the function fetch_rxnorm_ids for each row in the dataframe
+# Multiprocessing implemented by splitting the dataframe into chunks and then fetching the RxNormId for each chunk
 def populate_rxnorm_ids(file_content):
     # Add a column RxnormId to the dataframe with default value as ""
     file_content['RxnormId'] = ""
     # Iterate over the dataframe and fetch the RxnormIds
-    num_cores = mp.cpu_count()
-    logger.info("Number of cores: {}".format(num_cores))
-    # Parallel(n_jobs=num_cores)(delayed(fetch_rxnorm_ids)(row) for (index, row) in file_content.iterrows())
-    file_content_split = np.array_split(file_content, num_cores, axis=0)
-    # create the multiprocessing pool
-    pool = Pool(num_cores)
-    # process the DataFrame by mapping function to each file_content_split across the pool
-    file_content_xtended = np.vstack(pool.map(fetch_rxnorm_ids, file_content_split))
-    # close down the pool and join
-    pool.close()
-    pool.join()
-    pool.clear()
+    logger.info("Number of cores: {}. Number of threads per core: {}.".format(NUM_CORES, NUM_THREADS))
+    file_content_split = np.array_split(file_content, NUM_CORES, axis=0)
+    with concurrent.futures.ProcessPoolExecutor() as executor:
+        file_content_xtended = executor.map(fetch_rxnorm_ids, file_content_split)
+    # file_content_xtended is returned as a generator object. 
+    # Each item in the generator is a list of file_content.shape[0] / NUM_CORES rows.
     return file_content_xtended
+
+# Multithreaded implementation for each core to process a chunk of the dataframe
+def fetch_rxnorm_ids(file_content_chunk):
+    with concurrent.futures.ThreadPoolExecutor(max_workers=NUM_THREADS) as thread_executor:
+        # First, the ThreadPoolExecutor is used to call the RxNorm API for each row.
+        future_rxnormid_content = {
+                                    thread_executor.submit(fetch_rxnorm_id_row, file_content_row): file_content_row for (index, file_content_row) in file_content_chunk.iterrows() 
+                                }
+        # As each API call thread completes it returns a Future object from the thread executor
+        aggregated_file_content = []
+        for future in concurrent.futures.as_completed(future_rxnormid_content):
+            file_row = future_rxnormid_content[future]
+            try:
+                aggregated_file_content.append(future.result())
+            except Exception as e:
+                logger.exception('Data row {} generated an exception: {}'.format(file_row, e))
+            else:
+                logger.info('Data row successfully processed - \n{}'.format(file_row))
+    return aggregated_file_content
 ## [END] Parallelized invokation of the function fetch_rxnorm_ids for each row in the dataframe
 
 ## [START] Build the JSON output from the dataframe
-
 # Generate the JSON file
+# arguments: file_content - the generator object after the RxNorm Ids are populated
 def extract_output(file_content):
     _list_dict = []
-    for row in file_content:
-        _dict = {}
-        _plans = {}
-        _dict["rxnorm_id"] = row[9]
-        _dict["drug_name"] = row[6]
-        _plans["drug_tier"] = 'default'
-        # if '*' in str(row[6]):
-        if "prior authorization" in str(row[8]).lower():
-            _plans["prior_authorization"] = True
-            # _plans["extra"] = "Extras"
-        else:
-            _plans["prior_authorization"] = False
-            # _plans["extra"] = ""
-        if row[4] == '':
-            _plans["step_therapy"] = False
-            _plans["quantity_limit"] = False
-        else:
-            # parse QL
-            if ("QL" in str(row[4])) or ("quantity limit" in str(row[8]).lower()):
-                # print(row[2].split('; ')[0])
-                # Commenting out the value extraction for now
-                # ql_plan = get_plan(row[2], 'QL')
-                ## _plans["quantity_limit"] = [''.join(t) for t in re.findall(r'\((.+?)\)|(\w)', row[1].split('; ')[0].split(', ')[1])][-1:]
-                # _plans["quantity_limit"] = ql_plan.removeprefix('QL  (').removesuffix(')')
-                _plans["quantity_limit"] = True
-            else:
-                _plans["quantity_limit"] = False
-            # parse ST
-            if ("ST" in str(row[4])) or ("step therapy" in str(row[8]).lower()):
-                _plans["step_therapy"] = True
-            else:
-                _plans["step_therapy"] = False
-        _plans["extra"] = row[8]
-        _dict["plans"] = [_plans]
-        _list_dict.append(_dict)
+    for generator_row in file_content:
+        # each generator_row is a list of original file_content.shape[0] / NUM_CORES rows.
+        # Iterate over the list of rows and build the JSON output
+        for row in generator_row:
+            try:
+                _dict = {}
+                _plans = {}
+                _dict["rxnorm_id"] = row[9]
+                _dict["drug_name"] = row[6]
+                _plans["drug_tier"] = 'default'
+                # if '*' in str(row[6]):
+                if "prior authorization" in str(row[8]).lower():
+                    _plans["prior_authorization"] = True
+                    # _plans["extra"] = "Extras"
+                else:
+                    _plans["prior_authorization"] = False
+                    # _plans["extra"] = ""
+                if row[4] == '':
+                    _plans["step_therapy"] = False
+                    _plans["quantity_limit"] = False
+                else:
+                    # parse QL
+                    if ("QL" in str(row[4])) or ("quantity limit" in str(row[8]).lower()):
+                        # print(row[2].split('; ')[0])
+                        # Commenting out the value extraction for now
+                        # ql_plan = get_plan(row[2], 'QL')
+                        ## _plans["quantity_limit"] = [''.join(t) for t in re.findall(r'\((.+?)\)|(\w)', row[1].split('; ')[0].split(', ')[1])][-1:]
+                        # _plans["quantity_limit"] = ql_plan.removeprefix('QL  (').removesuffix(')')
+                        _plans["quantity_limit"] = True
+                    else:
+                        _plans["quantity_limit"] = False
+                    # parse ST
+                    if ("ST" in str(row[4])) or ("step therapy" in str(row[8]).lower()):
+                        _plans["step_therapy"] = True
+                    else:
+                        _plans["step_therapy"] = False
+                _plans["extra"] = row[8]
+                _dict["plans"] = [_plans]
+                _list_dict.append(_dict)
+            except Exception as e:
+                logger.exception("row - {}\nException: {}".format(row, e))
 
     with open(os.path.join(BASE_OUTPUT_DIR, JSON_FILE), 'w') as json_file:
         json.dump(_list_dict, json_file, indent=4)
