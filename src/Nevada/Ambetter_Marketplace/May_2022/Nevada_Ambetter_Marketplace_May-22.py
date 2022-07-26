@@ -174,24 +174,31 @@ def cleanup_text(text):
 
 # Get the base DrugName from the DrugName-Dosage combination text
 def get_base_drug_name(drug_name, drug_types):
-    try:
-        # Find the base drug name from drug_name having multiple strengths
-        # Here, we are splitting the drug name for multiple strengths and finding the base drug name
-        # find the index of any of the items in drug_types and split on that index
-        base_drug = ''
-        # Find index of any of the items in drug_types in drug_names[0] and split on that
-        if any(x in drug_name for x in drug_types):
-            base_drug = drug_name.split(max(filter(lambda x: x in drug_name, drug_types)))[0]
-            # base_drug = drug_names[0].split(any(x in drug_names[0] for x in drug_types))[0]
-            logger.info('base_drug: {}'.format(base_drug))
-        else:
+    # try:
+    # Find the base drug name from drug_name having multiple strengths
+    # Here, we are splitting the drug name for multiple strengths and finding the base drug name
+    # find the index of any of the items in drug_types and split on that index
+    base_drug = ''
+    # Find index of any of the items in drug_types in drug_names[0] and split on that
+    if any(x in drug_name for x in drug_types):
+        try:
+            # Find the index of last word in caps in drug_name
+            drug_name_words = drug_name.split()
+            last_word_index = [i for i, x in enumerate(drug_name_words) if x in drug_types][-1]
+            base_drug = ' '.join(drug_name_words[:last_word_index + 1])
+            base_strength = ' '.join(drug_name_words[last_word_index + 1:])
+            logger.info('base_drug: {}, base_strength: {}'.format(base_drug, base_strength))
+        except IndexError:
+            logger.warning('No match found for {}'.format(drug_name))
             base_drug = drug_name
-            logger.error('No match found for {}'.format(drug_name))
-
-        return base_drug
-    except Exception as e:
-        logger.warning('No match found for {} - {}'.format(drug_name, e.with_traceback()))
-        return drug_name
+            base_strength = ''
+        # base_drug = drug_name.split(max(filter(lambda x: x in drug_name, drug_types)))[0]
+        # # base_drug = drug_names[0].split(any(x in drug_names[0] for x in drug_types))[0]
+    else:
+        base_drug = drug_name
+        base_strength = ''
+        logger.error('No match found for {}'.format(drug_name))
+    return base_drug, base_strength
 
 # Build the RxNorm Id Search URL for each DrugName
 def build_urls(drugname):
@@ -208,22 +215,25 @@ def build_urls(drugname):
     if any(x in drugname for x in drug_types) and (',' in drugname):
         drug_strengths = [y.strip() for y in drugname.split(',')]
         logger.info('getting base drug name for {}'.format(drugname))
-        base_drug_name = get_base_drug_name(drugname.split(',')[0], drug_types)
+        base_drug_name, base_strength = get_base_drug_name(drugname.split(',')[0], drug_types)
+        # base_drug_name = get_base_drug_name(drugname.split(',')[0], drug_types)
     else:
         if ',' in drugname:
             logger.warning('did not find any of drug_types in {}'.format(drugname))
         drug_strengths = [drugname]
         base_drug_name = drugname
+        base_strength = ''
     
     # Remove * and + and fix other characters in the columns drug & dosage
     drug = cleanup_text(drug_strengths[0])
-    strength = [''] + drug_strengths[1:] if len(drug_strengths) > 1 else ['']
+    strength = [base_strength] + drug_strengths[1:] if len(drug_strengths) > 1 else [base_strength]
+
     urls = []
     for index, i in enumerate(strength):
         # Remove * and + and fix other characters in the strength column
         i = cleanup_text(i)
         base_drug_name = cleanup_text(base_drug_name)
-        url = 'https://rxnav.nlm.nih.gov/REST/rxcui.json?name=' + (drug if index == 0 else base_drug_name) + '+' + i + '&search=2'
+        url = 'https://rxnav.nlm.nih.gov/REST/rxcui.json?name=' + base_drug_name + '+' + i + '&search=2'
         url = '+'.join(url.split())
         urls.append(url)
 

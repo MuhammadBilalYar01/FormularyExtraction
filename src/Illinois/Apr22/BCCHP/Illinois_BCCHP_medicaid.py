@@ -362,15 +362,15 @@ def check_drug_match(drug_name, rxnorm_drug):
 ## [END] Functions for validating the DrugName match with the value from the RxNorm Id Search API
 
 ## [START] Functions for fetching the rxnormIds and validating the DrugName match through check_drug_match function
-def fetch_rxnorm_id_row(file_content_row):
+def fetch_rxnorm_id_row(file_content_row, url_column_index):
     # Iterate over the URLs to fetch the RxNorm Id
-    for url in file_content_row[3]:
+    for url in file_content_row[url_column_index]:
         try:
-            response = requests.get(url) #requests.get(url, params=payload)
+            response = requests.get(url)
             if 'approximateTerm.json' in url:
-                file_content_row[4] = response.json()['approximateGroup']['candidate'][0]['rxcui']
+                file_content_row[url_column_index + 1] = response.json()['approximateGroup']['candidate'][0]['rxcui']
                 # Add check for Drug Name if URL has 'approximateTerm.json'
-                url_check = 'https://rxnav.nlm.nih.gov/REST/rxcui/' + file_content_row[4] + '/property.json?propName=RxNorm%20Name'
+                url_check = 'https://rxnav.nlm.nih.gov/REST/rxcui/' + file_content_row[url_column_index + 1] + '/property.json?propName=RxNorm%20Name'
                 return_value = requests.get(url_check)
                 return_val= return_value.json()['propConceptGroup']['propConcept'][0]['propValue']
                 if check_drug_match(get_cleanedup_drug_name(file_content_row[0]), return_val):
@@ -380,38 +380,38 @@ def fetch_rxnorm_id_row(file_content_row):
                 else:
                     # no match found
                     logger.error("Drug name: {}, response: {}, No Match Found.".format(file_content_row[0]+": " + url, response.json()))
-                    file_content_row[4] = ""
+                    file_content_row[url_column_index + 1] = ""
             else:
-                file_content_row[4] = response.json()['idGroup']['rxnormId'][0]
+                file_content_row[url_column_index + 1] = response.json()['idGroup']['rxnormId'][0]
                 # Break if rxnorm_id was found!!!
-                if file_content_row[4] != "":
+                if file_content_row[url_column_index + 1] != "":
                     break
         except Exception as e:
             logger.error("Drug name: {}, response: {}, Exception: {}".format(file_content_row[0]+": " + url, response.json(), e))
-            file_content_row[4] = ""
+            file_content_row[url_column_index + 1] = ""
     return file_content_row
 ## [END] Functions for fetching the rxnormIds and validating the DrugName match through check_drug_match function
 
 ## [START] Parallelized invokation of the function fetch_rxnorm_ids for each row in the dataframe
 # Multiprocessing implemented by splitting the dataframe into chunks and then fetching the RxNormId for each chunk
-def populate_rxnorm_ids(file_content):
+def populate_rxnorm_ids(file_content, url_column_index):
     # Add a column RxnormId to the dataframe with default value as ""
     file_content['RxnormId'] = ""
     # Iterate over the dataframe and fetch the RxnormIds
     logger.info("Number of cores: {}. Number of threads per core: {}.".format(NUM_CORES, NUM_THREADS))
     file_content_split = np.array_split(file_content, NUM_CORES, axis=0)
     with concurrent.futures.ProcessPoolExecutor() as executor:
-        file_content_xtended = executor.map(fetch_rxnorm_ids, file_content_split)
+        file_content_xtended = executor.map(fetch_rxnorm_ids, file_content_split, [url_column_index] * NUM_CORES)
     # file_content_xtended is returned as a generator object. 
     # Each item in the generator is a list of file_content.shape[0] / NUM_CORES rows.
     return file_content_xtended
 
 # Multithreaded implementation for each core to process a chunk of the dataframe
-def fetch_rxnorm_ids(file_content_chunk):
+def fetch_rxnorm_ids(file_content_chunk, url_column_index):
     with concurrent.futures.ThreadPoolExecutor(max_workers=NUM_THREADS) as thread_executor:
         # First, the ThreadPoolExecutor is used to call the RxNorm API for each row.
         future_rxnormid_content = {
-                                    thread_executor.submit(fetch_rxnorm_id_row, file_content_row): file_content_row for (index, file_content_row) in file_content_chunk.iterrows() 
+                                    thread_executor.submit(fetch_rxnorm_id_row, file_content_row, url_column_index): file_content_row for (_, file_content_row) in file_content_chunk.iterrows() 
                                 }
         # As each API call thread completes it returns a Future object from the thread executor
         aggregated_file_content = []
@@ -429,7 +429,7 @@ def fetch_rxnorm_ids(file_content_chunk):
 ## [START] Build the JSON output from the dataframe
 # Generate the JSON file.
 # arguments: file_content - the generator object after the RxNorm Ids are populated
-def extract_output(file_content):
+def extract_output(file_content, url_column_index):
     _list_dict = []
     for generator_row in file_content:
         # each generator_row is a list of original file_content.shape[0] / NUM_CORES rows.
@@ -438,7 +438,7 @@ def extract_output(file_content):
             try:
                 _dict = {}
                 _plans = {}
-                _dict["rxnorm_id"] = row[4]
+                _dict["rxnorm_id"] = row[url_column_index + 1]
                 _dict["drug_name"] = row[0]
                 _plans["drug_tier"] = row[1] #drug_tier_map[row[1]]
                 # This check for row[2] is to check for np.NaN values. This is the property of NaN dtype.
@@ -540,12 +540,12 @@ if __name__ == '__main__':
         logger.info("Processed file. Time taken - {} secs.".format(milestone1 - start))
         logger.info("Processed file content. Populating RxNormIds now.")
         # Populate RxNormIds
-        xtended_file_content = populate_rxnorm_ids(processed_file_content)
+        xtended_file_content = populate_rxnorm_ids(processed_file_content, 3)
         milestone2 = timeit.default_timer()
         logger.info("RxNormId population took {} secs.".format(milestone2 - milestone1))
         logger.info('Loaded the processed data. Building JSON now!')
         # Extract the output
-        extract_output(xtended_file_content)
+        extract_output(xtended_file_content, 3)
         logger.info('JSON file saved. Building RxNormId - DrugName mapping now.')
         # Generate the DrugName vs. RxNorm Id map
         build_Drug_Name_RxNormId_Map()

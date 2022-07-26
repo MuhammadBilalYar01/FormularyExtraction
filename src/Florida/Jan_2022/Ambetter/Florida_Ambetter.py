@@ -10,10 +10,11 @@ import configparser
 import json
 import requests
 import os
+import timeit
+import concurrent.futures
+import multiprocessing as mp
 from cloud_detect import provider
-# import re
 import logging
-# import sys
 from table import Table
 
 LOG_FILE = 'Florida_Ambetter_Jan_22.log'
@@ -21,6 +22,8 @@ BASE_DATA_FILE = 'Florida_Ambetter_Jan_22.pdf'
 JSON_FILE = 'Florida_Ambetter_Jan_22.json'
 PROCESSED_DATA_FILE = 'Florida_Ambetter_Jan_22.csv'
 RXNORM_MAPPING_FILE = 'Florida_Ambetter-rxnormid_drugs-Jan_22.txt'
+NUM_CORES = mp.cpu_count()
+NUM_THREADS = 40
 logging.basicConfig(format='%(asctime)s | %(levelname)s : %(message)s',
                      level=logging.INFO, filename=LOG_FILE, filemode='a+')
 logging.getLogger("pdfminer").setLevel(logging.WARNING)
@@ -34,8 +37,8 @@ if provider(excluded=['alibaba', 'aws', 'do', 'azure', 'oci']) == 'gcp':
     IS_ON_GCP = True
     logger.info('Running on GCP')
 else:
-    BASE_OUTPUT_DIR = '../../../../../output/Florida/United_HealthCare'
-    BASE_DATA_DIR = '../../../../../data/Florida/United_HealthCare'
+    BASE_OUTPUT_DIR = '../../../../../output/Florida/Ambetter'
+    BASE_DATA_DIR = '../../../../../data/Florida/Jan_2022/Ambetter'
     IS_ON_GCP = False
     logger.info('Running on local machine')
 
@@ -195,8 +198,34 @@ def get_base_drug_name(drug_name, drug_types):
     return base_drug, base_strength
 
 # Build the RxNorm Id Search URL for each DrugName
-def build_urls(drugname, drug_types):
-   # Split the Drug name on ',' only if it has any of the words from drug_types and has ', ' in it
+def build_urls(drugname):
+    drug_types = ['SOLR', 'TABS', 'CAPS', 'SOLN', 'TB24', 'SUSR', 'SUSP', 'CHEW', 'PACK', 'POWD', 'CONC', 
+            'CPEP', 'CP12', 'GRAN', 'CP24', 'PT24', 'CREA', 'CSDR', 'LIQD', 'SOAJ', 'PTTW', 'ELIX', 
+            'SYRP', 'ENEM', 'CPCR', 'chew', 'OINT', 'LOTN', 'GEL','PRSY','SOCT','CPSP','CPDR','KIT',
+            'SOPN','SOCT','SUBL','EMUL','FILM','INJ','SOLG','FOAM','OIL','PT72','LPOP','T24A','SUPP',
+            'TBCR','T12A','T12','TBEC','AEPB','AERO','SUSY','SRER','SOSY','PTWK','TB12','TBDP','GUM',
+            'PSKT','AERS','NEBU','AERB','TBPK','CART','TBDD','PNKT','LQPK','TBSO','TABLET','HOUR',
+            'RELEASE','CAP','SOLUTION','SYRINGE','WEEKLY','LOZENGE','SPONGE','CLEANSER','DEVICE','LOTION',
+            'LIQUID','DROPS','MIST','Release','Tablet','Capsule','Solution','Syringe','Hour','Kit',
+            'Cream','Auto-Injector','Handle','Activated','Aerosol','Suspension','Gel','Reconstituted',
+            'Suppository','Weekly','Suspension','Ointment','Packet','Lotion','Oil','Needle','Device',
+            'Gum','Lozenge']
+    drug_types.extend([x.lower() for x in drug_types])
+    # Fix the drug name to remove any undesirable occurrences of comma
+    list_drugname = list(drugname)
+    for i, x in enumerate(list_drugname):
+        # If any ',' in drugname is not followed by a number then replace ',' with ' '
+        if x == ',' and not list_drugname[i+2].isdigit():
+            list_drugname[i] = ' '
+        # If there is a ',' in the numbers, then replace it with ''
+        elif x == ',' and (list_drugname[i - 1].isdigit() and list_drugname[i + 1].isdigit()):
+            list_drugname[i] = ''
+    drugname = ''.join(list_drugname)
+    # remove extra spaces from drugname
+    drugname = ' '.join(drugname.split())
+    logger.info("fixed drugname: {}".format(drugname))
+
+    # Split the Drug name on ',' only if it has any of the words from drug_types and has ', ' in it
     if any(x in drugname for x in drug_types) and (',' in drugname):
         drug_strengths = [y.strip() for y in drugname.split(',')]
         logging.info('getting base drug name for {}'.format(drugname))
@@ -342,74 +371,121 @@ def check_drug_match(drug_name, rxnorm_drug):
         fuzz.partial_ratio(drug_name.split()[0], rxnorm_drug)))
         return False
 ## [END] Functions for validating the DrugName match with the value from the RxNorm Id Search API
+## [START] Functions for fetching the rxnormIds and validating the DrugName match through check_drug_match function
+def fetch_rxnorm_id_row(file_content_row, url_column_index):
+    # Iterate over the URLs to fetch the RxNorm Id
+    for url in file_content_row[url_column_index]:
+        try:
+            response = requests.get(url)
+            if 'approximateTerm.json' in url:
+                file_content_row[url_column_index + 1] = response.json()['approximateGroup']['candidate'][0]['rxcui']
+                # Add check for Drug Name if URL has 'approximateTerm.json'
+                url_check = 'https://rxnav.nlm.nih.gov/REST/rxcui/' + file_content_row[url_column_index + 1] + '/property.json?propName=RxNorm%20Name'
+                return_value = requests.get(url_check)
+                return_val= return_value.json()['propConceptGroup']['propConcept'][0]['propValue']
+                if check_drug_match(get_cleanedup_drug_name(file_content_row[0]), return_val):
+                    # found a match
+                    logger.info("Drug name: {}, response: {}, Found Match.".format(file_content_row[0]+": " + url, response.json()))
+                    break
+                else:
+                    # no match found
+                    logger.error("Drug name: {}, response: {}, No Match Found.".format(file_content_row[0]+": " + url, response.json()))
+                    file_content_row[url_column_index + 1] = ""
+            else:
+                file_content_row[url_column_index + 1] = response.json()['idGroup']['rxnormId'][0]
+                # Break if rxnorm_id was found!!!
+                if file_content_row[url_column_index + 1] != "":
+                    break
+        except Exception as e:
+            logger.error("Drug name: {}, response: {}, Exception: {}".format(file_content_row[0]+": " + url, response.json(), e))
+            file_content_row[url_column_index + 1] = ""
+    return file_content_row
+## [END] Functions for fetching the rxnormIds and validating the DrugName match through check_drug_match function
+
+## [START] Parallelized invokation of the function fetch_rxnorm_ids for each row in the dataframe
+# Multiprocessing implemented by splitting the dataframe into chunks and then fetching the RxNormId for each chunk
+def populate_rxnorm_ids(file_content, url_column_index):
+    # Add a column RxnormId to the dataframe with default value as ""
+    file_content['RxnormId'] = ""
+    # Iterate over the dataframe and fetch the RxnormIds
+    logger.info("Number of cores: {}. Number of threads per core: {}.".format(NUM_CORES, NUM_THREADS))
+    file_content_split = np.array_split(file_content, NUM_CORES, axis=0)
+    with concurrent.futures.ProcessPoolExecutor() as executor:
+        file_content_xtended = executor.map(fetch_rxnorm_ids, file_content_split, [url_column_index] * NUM_CORES)
+    # file_content_xtended is returned as a generator object. 
+    # Each item in the generator is a list of file_content.shape[0] / NUM_CORES rows.
+    return file_content_xtended
+
+# Multithreaded implementation for each core to process a chunk of the dataframe
+def fetch_rxnorm_ids(file_content_chunk, url_column_index):
+    with concurrent.futures.ThreadPoolExecutor(max_workers=NUM_THREADS) as thread_executor:
+        # First, the ThreadPoolExecutor is used to call the RxNorm API for each row.
+        future_rxnormid_content = {
+                                    thread_executor.submit(fetch_rxnorm_id_row, file_content_row, url_column_index): file_content_row for (_, file_content_row) in file_content_chunk.iterrows() 
+                                }
+        # As each API call thread completes it returns a Future object from the thread executor
+        aggregated_file_content = []
+        for future in concurrent.futures.as_completed(future_rxnormid_content):
+            file_row = future_rxnormid_content[future]
+            try:
+                aggregated_file_content.append(future.result())
+            except Exception as e:
+                logger.exception('Data row {} generated an exception: {}'.format(file_row, e))
+            else:
+                logger.info('Data row successfully processed - \n{}'.format(file_row))
+    return aggregated_file_content
+## [END] Parallelized invokation of the function fetch_rxnorm_ids for each row in the dataframe
 
 ## [START] Build the JSON output from the dataframe
-_drug_tier_map = {
-                        '0': 'Tier 0',
-                        '1A': 'Tier 1A',
-                        '1B': 'Tier 1B',
-                        '2': 'Tier 2',
-                        '3': 'Tier 3',
-                        '4': 'Tier 4',
-                        'NF': 'Non-Formulary',
-                    }
-
-# Generate the JSON file
-def extract_output(file_content):
+# Generate the JSON file.
+# arguments: file_content - the generator object after the RxNorm Ids are populated
+def extract_output(file_content, url_column_index):
+    _drug_tier_map = {
+                            '0': 'Tier 0',
+                            '1A': 'Tier 1A',
+                            '1B': 'Tier 1B',
+                            '2': 'Tier 2',
+                            '3': 'Tier 3',
+                            '4': 'Tier 4',
+                            'NF': 'Non-Formulary',
+                        }
     _list_dict = []
-    for (index, row) in file_content.iterrows():
-        _dict = {}
-        _plans = {}
-        for url in row[3]:
+    for generator_row in file_content:
+        # each generator_row is a list of original file_content.shape[0] / NUM_CORES rows.
+        # Iterate over the list of rows and build the JSON output
+        for row in generator_row:
             try:
-                response = requests.get(url)
-                if 'approximateTerm.json' in url:
-                    _dict["rxnorm_id"] = response.json()['approximateGroup']['candidate'][0]['rxcui']
-                    # Add check for Drug Name if URL has 'approximateTerm.json'
-                    url_check = 'https://rxnav.nlm.nih.gov/REST/rxcui/' + _dict["rxnorm_id"] + '/property.json?propName=RxNorm%20Name'
-                    return_value = requests.get(url_check)
-                    return_val= return_value.json()['propConceptGroup']['propConcept'][0]['propValue']
-                    if check_drug_match(get_cleanedup_drug_name(row[0]), return_val):
-                        # found a match
-                        logger.info("Drug name: {}, response: {}, Found Match.".format(row[0]+": " + url, response.json()))
-                        break
-                    else:
-                        # no match found
-                        logger.error("Drug name: {}, response: {}, No Match Found.".format(row[0]+": " + url, response.json()))
-                        _dict["rxnorm_id"] = ""
+                _dict = {}
+                _plans = {}
+                _dict["rxnorm_id"] = row[url_column_index + 1]
+                _dict["drug_name"] = row[0]
+                _plans["drug_tier"] = _drug_tier_map[row[1]]
+                # This check for row[2] is to check for np.NaN values. This is the property of NaN dtype.
+                # row[2] is np.nan check stopped working once the collection became a ndarray after parallelization!!!
+                if row[2] != row[2]: #row[2] is np.nan:
+                    _plans["prior_authorization"] = False
+                    _plans["quantity_limit"] = False
+                    _plans["step_therapy"] = False
                 else:
-                    _dict["rxnorm_id"] = response.json()['idGroup']['rxnormId'][0]
-                    # Break if rxnorm_id was found!!!
-                    if _dict["rxnorm_id"] != "":
-                        break
+                    # parse PA
+                    if "PA" in row[2]:
+                        _plans["prior_authorization"] = True
+                    else:
+                        _plans["prior_authorization"] = False
+                    # parse QL
+                    if "QL" in row[2]:
+                        _plans["quantity_limit"] = True
+                    else:
+                        _plans["quantity_limit"] = False
+                    # parse ST
+                    if "ST" in row[2]:
+                        _plans["step_therapy"] = True
+                    else:
+                        _plans["step_therapy"] = False
+                _dict["plans"] = [_plans]
+                _list_dict.append(_dict)
             except Exception as e:
-                logger.error("Drug name: {}, response: {}, Exception: {}".format(row[0]+": " + url, response.json(), e))
-                _dict["rxnorm_id"] = ""
-
-        _dict["drug_name"] = row[0]
-        _plans["drug_tier"] = _drug_tier_map[row[1]]
-        if row[2] is np.NaN:
-            _plans["prior_authorization"] = False
-            _plans["quantity_limit"] = False
-            _plans["step_therapy"] = False
-        else:
-            # parse PA
-            if "PA" in row[2]:
-                _plans["prior_authorization"] = True
-            else:
-                _plans["prior_authorization"] = False
-            # parse QL
-            if "QL" in row[2]:
-                _plans["quantity_limit"] = True
-            else:
-                _plans["quantity_limit"] = False
-            # parse ST
-            if "ST" in row[2]:
-                _plans["step_therapy"] = True
-            else:
-                _plans["step_therapy"] = False
-        _dict["plans"] = [_plans]
-        _list_dict.append(_dict)
+                logger.exception("row - {}\nException: {}".format(row, e))
 
     with open(os.path.join(BASE_OUTPUT_DIR, JSON_FILE), 'w') as json_file:
         json.dump(_list_dict, json_file, indent=4)
@@ -469,38 +545,36 @@ def build_Drug_Name_RxNormId_Map():
 if __name__ == '__main__':
     path = os.path.join(BASE_DATA_DIR, BASE_DATA_FILE)
     list_cols = ['DrugName', 'DrugTier', 'Requirements_Limits']
-    drug_types = ['SOLR', 'TABS', 'CAPS', 'SOLN', 'TB24', 'SUSR', 'SUSP', 'CHEW', 'PACK', 'POWD', 'CONC', 
-              'CPEP', 'CP12', 'GRAN', 'CP24', 'PT24', 'CREA', 'CSDR', 'LIQD', 'SOAJ', 'PTTW', 'ELIX', 
-              'SYRP', 'ENEM', 'CPCR', 'chew', 'OINT', 'LOTN', 'GEL','PRSY','SOCT','CPSP','CPDR','KIT',
-              'SOPN','SOCT','SUBL','EMUL','FILM','INJ','SOLG','FOAM','OIL','PT72','LPOP','T24A','SUPP',
-              'TBCR','T12A','T12','TBEC','AEPB','AERO','SUSY','SRER','SOSY','PTWK','TB12','TBDP','GUM',
-              'PSKT','AERS','NEBU','AERB','TBPK','CART','TBDD','PNKT','LQPK','TBSO','TABLET','HOUR',
-              'RELEASE','CAP','SOLUTION','SYRINGE','WEEKLY','LOZENGE','SPONGE','CLEANSER','DEVICE','LOTION',
-              'LIQUID','DROPS','MIST','Release','Tablet','Capsule','Solution','Syringe','Hour','Kit',
-              'Cream','Auto-Injector','Handle','Activated','Aerosol','Suspension','Gel','Reconstituted',
-              'Suppository','Weekly','Suspension','Ointment','Packet','Lotion','Oil','Needle','Device',
-              'Gum','Lozenge']
-    drug_types.extend([x.lower() for x in drug_types])
     page_range = range(3, 136)
     try:
-        
-            # Load the table configuration for the pdf file
-            table_config_left, table_config_right = load_table_config()
-            logger.info("Loaded table configuration.")
-            # Load the pdf file
-            file_content = parse_pdf(path, list_cols, page_range, table_config_left, table_config_right)
-            
-            # Build the URL column
-            processed_file_content = process_file_content(file_content)
-            # Build the URL column
-            processed_file_content['URL'] = processed_file_content['DrugName'].apply(lambda drugname: build_urls(drugname, drug_types))
-            logger.info('Processed the data & added URL column.')
-            logger.info('Building JSON now!')
-            # Extract the output
-            extract_output(processed_file_content)
-            # Generate the DrugName vs. RxNorm Id map
-            build_Drug_Name_RxNormId_Map()
-            logger.info('Finished processing!!!')
+        start = timeit.default_timer()
+        logger.info("Start TimeStamp - {} secs.".format(start))    
+        # Load the table configuration for the pdf file
+        table_config_left, table_config_right = load_table_config()
+        logger.info("Loaded table configuration.")
+        # Load the pdf file
+        file_content = parse_pdf(path, list_cols, page_range, table_config_left, table_config_right)        
+        logger.info('Parsed the PDF file.')
+        # Process the file content
+        processed_file_content = process_file_content(file_content)
+        # Build the URL column
+        processed_file_content['URL'] = processed_file_content['DrugName'].apply(lambda drugname: build_urls(drugname))
+        milestone1 = timeit.default_timer()
+        logger.info("Processed file. Time taken - {} secs.".format(milestone1 - start))
+        logger.info("Processed file content. Populating RxNormIds now.")
+        # Populate RxNormIds
+        xtended_file_content = populate_rxnorm_ids(processed_file_content, 3)
+        milestone2 = timeit.default_timer()
+        logger.info("RxNormId population took {} secs.".format(milestone2 - milestone1))
+        logger.info('Loaded the processed data. Building JSON now!')
+        # Extract the output
+        extract_output(xtended_file_content, 3)
+        logger.info('JSON file saved. Building RxNormId - DrugName mapping now.')
+        # Generate the DrugName vs. RxNorm Id map
+        build_Drug_Name_RxNormId_Map()
+        stop = timeit.default_timer()
+        logger.info("Total Time taken - {} secs.".format(stop - start))
+        logger.info('Finished processing!!!')
     except Exception as e:
         logger.exception("Error: {}".format(e))
         pass

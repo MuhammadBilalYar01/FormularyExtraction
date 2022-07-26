@@ -1,0 +1,1549 @@
+-1 Pneumococcal Vaccine, 23-Valent, Non- Conjugated Injection 1-dose vial; 1-dose syringe *
+-1 Pneumococcal Vaccine, 13-Valent, Conjugated Injection 1-dose syringe *
+-1 Pneumococcal Vaccine, 20-Valent, Conjugated Injection 1-dose syringe *
+-1 Cyanocobalamin (Injectable Only) Injection 100 mcg/ml; 1000 mcg/ml
+-1 Pneumococcal Vaccine, 15-Valent, Conjugated Injection 1-dose syringe *
+1191 Aspirin Tablets or Capsules, long-acting 800 mg *+
+5224 Heparin Vial
+5879 Interferon Alfa-2a Powder for injection
+5879 Interferon Alfa-2a Injection, prefilled syringe
+5879 Interferon Alfa-2a Injection
+7268 Natamycin Ophthalmic Solution 5 %,15 ml
+7396 Nicardipine Tablets or capsules, long-acting 30 mg; 45 mg; 60 mg +
+7417 Nifedipine Tablets or Capsules, long-acting 30 mg; 60 mg; 90 mg +
+7597 Nystatin Vaginal tablets 15's; 30's
+7814 Oxymorphone Ampule 1 mg/ml, 1 ml; 1.5 mg/ml, 1 ml; 1.5 mg/ml, 10 ml
+7982 Penicillin G Benzathine Injection 300,000U/ml,10ml; 600,000 U/ml, 1ml; 600,000 U/ml, 2ml; 600,000 U/ml, 4ml
+7983 Penicillin G Procaine Injection
+8700 Procainamide Capsules or Tablets, long-acting 250 mg; 500 mg; 750 mg; 1000 mg +
+8985 Pyrantel Pamoate Liquid
+9069 Quinidine Sulfate Tablets or capsules
+10831 Trimethoprim and Sulfamethoxazole Injection
+10831 Trimethoprim and Sulfamethoxazole Injection
+17268 Dipropionate Ointment 0.05 %
+19478 Bismuth Subsalicylate
+20767 Hydrochloride capsules 2 mg; 5 mg; 10 mg +
+20769 Chloramphenicol Succinate, injectable 1 gm
+24947 Ferrous Sulfate
+29501 Meningococcal Polysaccharide Vaccine Injection 50 mcg *
+29652 Methenamine Hippurate Tablets 1 gm +
+35220 Quinidine Gluconate Injection 80 mg/ml, 10 ml
+39171 Brimonidine Tartrate Suspension *
+50121 Fluticasone Propionate carbons as the 12 gm *
+56946 Paclitaxel, Semi- Synthetic Injection
+66912 Paromomycin Sulfate Capsules
+72616 Salmeterol Xinafoate Inhalation powder 60s *
+82051 Molindone Hydrochloride Liquid 20 mg/ml, 120 ml *
+86009 Insulin Lispro (rDNA Origin) Cartridge 100 units/ml,3 ml x 5 *
+86009 Insulin Lispro (rDNA Origin) Prefilled Pen 100 units/ml,3 ml x 5 *
+86009 Insulin Lispro (rDNA Origin) Injection 100 units/ml, 3ml; 10ml *
+95104 Chloramphenicol Ophthalmic Ointment
+103328 Chlorhexidine Gluconate Mouthwash 0.12 %
+104884 Metoclopramide HCl Syrup 5 mg/5 ml
+105292 Isoniazid Liquid 50 mg/5 ml
+106336 Ketoconazole Shampoo 2 %
+106351 Silver Sulfadiazine Cream Cream 1 %
+114527 Vinorelbine Tartrate
+133008 Amoxicillin Trihydrate Pediatric drops 50 mg/ml
+142153 Albuterol Sulfate Inhaler (without chlorofluorocarbons as the propellant) 6.7 gm; 8.5 gm; 18 gm
+153822 Candesartan Cilexetil Tablets 4 mg; 8 mg; 16 mg; 32 mg
+197316 Albuterol Sulfate Tablets or Capsules 2 mg; 4 mg +
+197386 Auranofin Capsules 3 mg +
+197411 Bromocriptine Mesylate Tablets or Capsules 2.5 mg; 5 mg *+
+197433 Calcium Acetate Tablets or Capsules 667 mg +
+197444 Carbidopa and Levodopa Tablets, long-acting 25 mg/100 mg; 50 mg/200 mg *+
+197506 Cimetidine Tablets or Capsules 300 mg; 400 mg; 800 mg +
+197530 Clotrimazole Vaginal Tablets 100 mg; 500 mg
+197595 Dicloxacillin Sodium Capsules 50 mg; 100 mg
+197660 Estrogens, Conjugated Tablets or Capsules 0.3 mg; 0.625 mg; 0.9 mg; 1.25 mg; 2.5 mg +
+197666 Estrogens, Esterified Tablets or Capsules 0.3 mg; 0.625 mg; 1.25 mg; 2.5 mg +
+197695 Fenoprofen Tablets or Capsules 300 mg; 600 mg +
+197730 Furosemide Liquid 10 mg/ml, 60 ml; 10 mg/ml, 120 ml
+197731 Furosemide Solution 40 mg/5 ml
+197745 Guanfacine HCI Tablets 1 mg; 2 mg *+
+197803 Ibuprofen Suspension 100 mg/5 ml
+197815 Indapamide Tablets or Capsules 1.25 mg; 2.5 mg +
+197838 Isosorbide Dinitrate Sublingual 2.5 mg; 5 mg; 10 mg
+197854 Ketoprofen Tablets or Capsules 25 mg; 50 mg; 75 mg *+
+197863 Leucovorin Calcium Tablets 5 mg; 10 mg; 25 mg
+197873 Levorphanol Tartrate Tablets 2 mg *
+197877 Lidocaine/Prilocaine Cream 2.5 %/2.5 %
+197890 Lithium Carbonate Tablets, long-acting 300 mg *
+197963 Methyldopa with Hydrochlorothiazide Tablets 250 mg - 15 mg; 250 mg - 25 mg; 500 mg - 30 mg +
+197989 Mitoxantrone Injection 2 mg/ml, 10 ml; 2 mg/ml, 12.5 ml; 2 mg/ml, 15 ml *
+198013 Naproxen Tablets or Capsules 250 mg; 375 mg; 500 mg +
+198038 Nitroglycerin (Glyceryl Trinitrate) Tablets (sublingual) (no long-acting forms) 0.15 mg; 0.3 mg; 0.4 mg; 0.6 mg +
+198045 Nortriptyline HCL Capsules 10 mg; 25 mg; 50 mg; 75 mg
+198107 Piroxicam Tablets or Capsules 10 mg; 20 mg +
+198181 Pyrazinamide Tablets or capsules 500 mg
+198224 Spironolactone with Hydrochlorothiazide Tablets 25 mg/25 mg; 50 mg/50 mg
+198238 Sulindac Tablets or Capsules 150 mg; 200 mg +
+198240 Tamoxifen Citrate Tablets 10 mg; 20 mg
+198245 Terconazole Vaginal suppositories 80 mg, 3s
+198250 Tetracycline Tablets or capsules 250 mg; 500 mg
+198286 Timolol Maleate Tablets 5 mg; 10 mg; 20 mg
+198316 Triamterene with Hydrochlorothiazide Capsules 37.5 mg/25 mg; 50 mg/25 mg +
+198322 Trifluoperazine Tablets 1 mg; 2 mg; 5 mg; 10 mg *+
+198335 Trimethoprim and Sulfamethoxazole Double strength tablets 160/800 mg
+198335 Trimethoprim and Sulfamethoxazole Double strength tablets 160/800 mg
+199249 Ritonavir Solution 80 mg/ml *
+199387 Risperidone Solution 1 mg/ml *
+199498 Pentosan Polysulfate Sodium Capsules 100 mg; Laxatives
+199821 Triptorelin Pamoate Powder for injection 3.75 mg/vial; 11.25 mg/vial; 22.5 mg/vial *
+200224 Montelukast Sodium Tablets 5 mg; 10 mg +
+200284 Valsartan/ Hydrochlorothiazide Tablets 80 mg - 12.5 mg; 160 mg - 12.5 mg; 160 mg - 25 mg; 320 mg - 12.5 mg; 320 mg - 25 mg +
+203134 Piperacillin Sodium Powder for injection
+203172 Ceftriaxone Sodium Injection
+203211 Diltiazem HCL Tablets or Capsules, long acting 60 mg; 90 mg; 120 mg +
+204430 Isoniazid Injection 100 mg/ml; 50 mg
+205228 Potassium Iodide Saturated Solution (S.S.K.I.) Liquid
+205316 Topiramate Capsules, sprinkle 15 mg; 25 mg *
+205329 Miglitol Tablets 25 mg; 50 mg; 100 mg
+209765 Neomycin Tablets 0.5 gm
+212787 Cimetidine Liquid 300 mg/5 ml
+214444 Promethazine with Codeine Liquid *
+214449 Promethazine with Phenylephrine and Codeine Liquid *
+214452 Probenecid with Colchicine Tablets +
+214491 Promethazine with Dextromethorphan Liquid *
+217364 Glyburide Micronized 3 mg; 6 mg +
+219922 Theophylline Long-acting tablets or capsules +
+219922 Glipizide Tablets, Long Acting 2.5 mg; 5 mg; 10 mg +
+219922 Morphine Sulfate Long-Acting 30 mg; 60 mg; 100 mg *
+219922 Albuterol Sulfate Long-acting 4 mg
+221085 Cyclophosphamide Lyophilized 100 mg/vial; 200 mg/vial; 500 mg/vial; 1000 mg/vial; 2000 mg/vial
+221087 Daunorubicin Citrate Liposome Injection
+221147 Polyethylene Glycol 3350 and Electrolytes Solution 4000 ml
+226343 Dexamethasone Liquid Drops 1 mg/ml
+235379 Pancrelipase (Amylase/ Lipase/Protease) Capsules
+235379 Pancrelipase (Amylase/ Lipase/Protease) Capsules with enteric coated granules
+235379 Pancrelipase (Amylase/ Lipase/Protease) Capsules, delayed release 3,000 USP units of; lipase; 9,500 USP; units of protease;; 15,000 USP units; of amylase; 6,000 USP units of; lipase; 19,000 USP; units of protease;; 30,000 USP units; of amylase; 12,000 USP units; of lipase; 38,000; USP units of; protease; 60,000; USP units of; amylase; 24,000 USP units; of lipase; 76,000; USP units of; protease; 120,000; USP units of; amylase; 36,000 USP units; of lipase; 114,000; USP units of; protease; 180,000; USP units of; amylase *
+235379 Pancrelipase (Amylase/ Lipase/Protease) Capsules, delayed release 3,000 USP units of; lipase; 10,000 USP; units of protease;; 14,000 USP units; of amylase; 5,000 USP units of; lipase; 17,000 USP; units of protease;; 24,000 USP units; of amylase; 10,000 USP units; of lipase; 32,000; USP units of; protease; 42,000; USP units of; amylase; 15,000 USP units; of lipase; 47,000; USP units of; protease;; 63,000 USP units; of amylase; 20,000 USP units; of lipase; 63,000; USP units of; protease;; 84,000 USP units; of amylase; 25,000 USP units; of lipase; 79,000; USP units of; protease;; 105,000 USP units; of amylase; 40,000 USP units; of lipase;; 126,000 USP units; of protease;; 168,000 USP units; of amylase *
+235379 Pancrelipase (Amylase/ Lipase/Protease) Tablets
+238015 Norethindrone and Ethinyl Estradiol Tablets from 10/11 Combination Packet 10x0.5 mg/35mcg *
+238015 Norethindrone and Ethinyl Estradiol Tablets from 28 Tablet Packet 7x1.0 mg/35 mcg *
+238015 Norethindrone and Ethinyl Estradiol Tablets from 28 Tablet Packet 5x0.5 mg/35 mcg *
+239178 Vinblastine Sulfate Injection 1 mg/ml, 10 ml
+239178 Vinblastine Sulfate Powder for injection 10 mg/vial
+239180 Streptozocin Powder for injection 1 gm/vial
+240572 Rifampin, Isoniazid and Pyrazinamide Tablets 120 mg/50 mg/300 mg
+240573 Pentostatin Powder for injection 10 mg/vial
+240741 Clarithromycin Liquid 125 mg/5 ml; 250 mg/5 ml *
+242166 Porfimer Sodium Powder for injection
+242333 Estradiol Transdermal system once-weekly patch 0.025 mg; 0.05 mg; 0.075 mg; 0.1 mg
+242671 Rifapentine Tablets 150 mg
+242680 Abacavir Sulfate Liquid 20 mg/ml *
+242831 Griseofulvin Tablets or capsules (ultramicrosize only) 125 mg; 165 mg; 250 mg; 330 mg
+242892 Estradiol Transdermal system twice-weekly patch 0.1 mg
+242946 Nitroglycerin (Glyceryl Trinitrate) Ointment 2 %, 20 gm; 2 %, 30 gm; 2 %, 60 gm
+244374 Erythromycin/Benzoyl Peroxide Gel 3 %/5 %
+244416 Nystatin Topical Powder
+245134 Fentanyl Transdermal Patch 25 mcg; 50 mcg; 75 mcg; 100 mcg *
+245255 Cytarabine Powder for Injection 100 mg/vial; 500 mg/vial; 1 gm/vial; 2 gm/vial
+245314 Albuterol Sulfate Solution for inhalation 0.5%, 20 ml
+249220 Insulin Injection, concentrated, USP (rDNA Origin) regular 500 units/ml, 20 ml
+251322 Ethosuximide Syrup 250 mg/5 ml
+251872 Pantoprazole Sodium Tablets, delayed release 20 mg; 40 mg +
+251960 Sodium Fluoride Solution (does not include rinses)
+252995 Didanosine Powder for Oral 100 mg/packet *
+252995 Didanosine Pediatric Powder for Oral Solution 20 mg/ml *
+259081 Aspirin/Extended- Release Dipyridamole Capsules 25 mg/200 mg
+261105 Etanercept Lyophilized powder, multiple- dose vial for reconstitution 25 mg *
+274783 Insulin Glargine (rDNA Origin) Prefilled Pen 100 units/ml,3 ml x 5 *
+274783 Insulin Glargine (rDNA Origin) Injection 100 units/ml,10 ml *
+283077 Prednisolone Sodium Phosphate Solution 15 mg/5 ml
+283406 Mirtazapine Tablets or orally disintegrating tablets 15 mg; 30 mg; 45 mg
+283536 Oxcarbazepine Suspension 300 mg/5 ml
+283672 Citalopram HBR Tablets 10 mg; 20 mg; 40 mg
+284008 Travoprost Ophthalmic Solution with Sofzia Preservative 0.004 %, 2.5 ml; 0.004 %, 5.0 ml *
+284207 Ethinyl Estradiol/ Drospirenone Tablets 0.03 mg - 3 mg; 0.02 mg - 3 mg *
+307718 Acetylcysteine Solution 10 %; 20 %
+308136 Amlodipine Besylate Tablets 2.5 mg; 5 mg; 10 mg +
+308207 Ampicillin Powder for injection 125 mg/vial; 250 mg/vial; 500 mg/vial; 1 gm/vial; 2 gm/vial; 2.5 gm/vial; 10 gm/vial; 500 mg,piggyback; 1 gm, piggyback; 2 gm, piggyback
+308417 Aspirin Tablets or Capsules, enteric-coated 975 mg *+
+308459 Azithromycin Suspension 100 mg/5 ml; 200 mg /5 ml
+308714 Clotrimazole/ Betamethasone Dipropionate Cream 1 %/0.05 %
+308720 Betaxolol HCL Ophthalmic Drops 0.25 % ; 0.5 % *
+308865 Calcipotriene Solution 0.005 %
+308866 Calcitonin-Salmon Injection 200 IU/ml
+308867 Calcitriol Tablets or Capsules 0.25 mcg; 0.50 mcg
+308976 Carbamazepine Liquid 100 mg/5 ml
+309012 Carmustine Powder for Injection 100 mg/vial
+309054 Cefdinir Liquid 125 mg/ 5 ml; 250 mg/5 ml
+309076 Cefpodoxime Proxetil Tablet 100 mg; 200 mg
+309079 Cefpodoxime Proxetil Suspension 50 mg/5 ml; 100 mg/5 ml
+309092 Ceftriaxone Sodium Powder for Injection
+309110 Cephalexin Solution or 125 mg/5 ml
+309113 Cephalexin Suspension 250 mg/5ml
+309174 Chloramphenicol Ophthalmic solution/drops 0.5 %
+309289 Ciclopirox Cream 0.77 %
+309313 Citalopram HBR Solution 10 mg/5 ml
+309317 Potassium Citrate Monohydrate/ Sodium Citrate Dihydrate/Citric Acid Monohydrate Solution, oral 550 mg/500 mg /334 mg
+309329 Clindamycin Hydrochloride Tablets or Capsules 75 mg; 150 mg; 300 mg
+309332 Clindamycin Phosphate Gel 1 %, 30 gm; 1 %, 60 gm
+309371 Clotrimazole Troches 10 mg
+309682 Tobramycin with Dexamethasone Ophthalmic Ointment 0.3 % - 0.1 % *
+309683 Tobramycin with Dexamethasone Ophthalmic Solution or Suspension 0.3 % - 0.1 %
+309684 Dexamethasone Intensol Drops 1 mg/ml
+309686 Dexamethasone Solution 0.5 mg/5 ml
+309844 Diazepam Solution 5 mg/5 ml *
+309860 Dicloxacillin Sodium Capsules 125 mg; 250 mg; 500 mg
+310007 Dolasetron Mesylate Tablets 50 mg; 100 mg *+
+310154 Erythromycin Base Capsules, delayed release 250 mg
+310194 Estramustine Phosphate Capsules 140 mg
+310228 Ethynodiol Diacetate and Ethinyl Estradiol Tablets 1 mg - 35 mcg,Tablets from; 21-Tablet Packet; 1 mg - 35 mcg,Tablets from; 28-Tablet Packet; 1 mg - 50 mcg,Tablets from; 21-Tablet Packet; 1 mg - 50 mcg,Tablets from; 28-Tablet Packet *
+310248 Etoposide Phosphate Powder for injection
+310351 Floxuridine Powder for injection 500 mg/vial
+310352 Fluconazole Suspension 10 mg/ml; 40 mg/ml
+310364 Fluocinonide Solution 0.05 %
+310376 Fluorometholone Suspension 0.25 %
+310384 Fluoxetine HCI Capsules 10 mg; 20 mg; 40 mg
+310386 Fluoxetine HCI Solution 20 mg/5 ml
+310442 Ganciclovir Sodium Powder for injection 500 mg/vial *
+310459 Gemfibrozil Tablets or capsules 600 mg +
+310467 Gentamicin Ophthalmic Solution/Drops 0.3 %, 5ml; 0.3 %, 15ml
+310497 Glucagon (R-DNA Injection, 1 mg/vial
+310599 Granisetron Hydrochloride Tablets 1 mg *+
+310818 Triamterene with Hydrochlorothiazide Tablets 75 mg/50 mg +
+310878 Hydrocortisone Retention enema 100 mg/60 ml,60 ml
+311040 Insulin Aspart Injection 100 units/ml,10 ml *
+311040 Insulin Aspart (niacinamide) Injection 100 units/ml,10 ml *
+311144 Iron Dextran Injection Injection 2 ml
+311237 Ketotifen Fumarate Ophthalmic Drops 0.025 %
+311265 Lamotrigine Tablets, dispersible 5 mg; 25 mg
+311345 Linezolid Suspension 100 mg/5 ml
+311347 Linezolid Tablets 600 mg
+311625 Methotrexate Powder for injection 20 mg/vial; 50 mg/vial; 100 mg/vial; 250 mg/vial
+311727 Misoprostol Tablets 100 mcg; 200 mcg
+311759 Montelukast Sodium Chewable tablets 4 mg; 5 mg +
+311913 Naproxen Liquid 125 mg/5ml
+311943 Nevirapine Liquid 50 mg/5 ml *
+311982 Nilutamide Tablets 150 mg *
+312033 Norethindrone Acetate and Ethinyl Estradiol (28 Tablets/packet) 9 x mg/35 mcg; 7 inert *
+312036 Nortriptyline HCL Liquid 10 mg/5 ml
+312085 Ondansetron Liquid 4 mg/5 ml
+312370 Phenobarbital Injection 120 to 130; mg/ml, 1 ml *
+312593 Prazosin HCl Capsules 1 mg; 2 mg; 5 mg +
+312635 Prochlorperazine Tablets 5 mg; 10 mg; 25 mg +
+312644 Progesterone Injection 50 mg/ml, 10 ml
+312673 Propantheline Bromide Tablets 7.5 mg; 15 mg +
+312736 Pyridoxine Injection 100 mg/ml, 10 ml; 100 mg/ml, 30 ml
+312744 Quetiapine Fumarate Tablets 25 mg; 50 mg; 100 mg; 200 mg; 300 mg; 400 mg *
+312821 Rifampin Vial 600 mg
+312840 Rizatriptan Tablets 5 mg; 10 mg *
+312899 Salsalate Tablets or Capsules 500 mg; 750 mg
+312940 Sertraline HCL Tablets 25 mg; 50 mg; 100 mg
+312988 Sodium Chloride Inhalation Vials 0.45 %; 0.9 %; 3 %; 3.5 %; 6 %; 7 %; 10 %
+313123 Sucralfate Liquid 1 gm/10 ml
+313134 Trimethoprim and Sulfamethoxazole Suspension 40/200 mg per; 5 ml
+313134 Trimethoprim and Sulfamethoxazole Suspension 40/200mg per 5ml
+313199 Tazarotene Topical cream or gel 0.05 %; 0.1 %
+313216 Terazosin Tablets or 1 mg
+313324 Thiamine Hydrochloride Injection 100 mg/ml
+313354 Thioridazine Tablets 10 mg; 15 mg; 25 mg; 50 mg; 100 mg; 150 mg; 200 mg *+
+313583 Venlafaxine HCL Capsules, Extended Release 37.5 mg; 75 mg; 150 mg
+313786 Acetic Acid with Hydrocortisone Otic Solution 2 %-1 %
+313797 Amoxicillin Trihydrate Solution or suspension 125 mg/5 ml; 200 mg/5 ml; 250 mg/5 ml; 400 mg/5 ml
+313799 Ampicillin Solution or suspension 125 mg/5ml; 250 mg/5m
+313800 Ampicillin Tablets or capsules 250 mg; 500 mg
+313847 Alitretinoin Gel 0.1 % *
+313847 Alitretinoin Gel 0.1 % *
+313945 Dicloxacillin Sodium Suspension 62.5 mg/5 ml
+313979 Fludrocortisone Acetate Tablets 0.1 mg
+313990 Fluoxetine HCI Tablets 10 mg
+314007 Ganciclovir Capsules 250 mg; 500 mg *
+314167 Procarbazine Capsules 50 mg
+314168 Prochlorperazine Capsules, Sustained Release 10 mg; 15 mg; 30 mg +
+314214 Rivastigmine Tartrate Capsules 1.5 mg; 3.0 mg; 4.5 mg; 6.0 mg *
+314267 Thyroid Tablets, plain 15 mg; 30 mg; 65 mg; 98 mg; 120 mg; 200 mg; 250 mg; 325 mg +
+314684 Insulin Lispro Protamine/Insulin Lispro (rDNA Origin) Injection Insulin lispro protamine 75% and insulin lispro 25% 100 units/ml, 10 ml *
+314684 Insulin Lispro Protamine/Insulin Lispro (rDNA Origin) Prefilled pen Insulin lispro protamine 75% and insulin lispro 25% 100 units/ml, 3 ml X 5 *
+314684 Insulin Lispro Protamine/Insulin Lispro (rDNA Origin) Prefilled pen Insulin lispro protamine 50% and insulin lispro 50% 100 units/ml, 3 ml X 5 *
+314684 Insulin Lispro Protamine/Insulin Lispro (rDNA Origin) Injection Insulin lispro protamine 50% and insulin lispro 50% 100 units/ml, 10 ml *
+315090 Erythromycin Base Tablets, delayed release 333 mg
+315102 Sodium Fluoride Drops
+315134 Levocarnitine SF Liquid, oral 100 mg/ ml
+315217 Stavudine Powder for oral solution 1 mg/ml *
+315375 Ampicillin Drops 100 mg/ml
+315679 Cimetidine Injection 300 mg/2 ml; 300 m/8 ml; 300 mg in 0.9%; sodium chloride,50 ml
+315817 Digoxin Liquid 0.05 mg/ml
+316028 Haloperidol Liquid 2mg/ml, 15ml; 2mg/ml, 120ml *
+316126 Lamivudine Liquid 10 mg/ml *
+316168 Loratadine Liquid 5 mg/5 ml
+316268 Methenamine Mandelate Liquid 500 mg/5ml
+316359 Nitrofurantoin Liquid 5 mg/ml
+316468 Perphenazine Liquid 16 mg/5 ml *
+316543 Potassium Chloride Liquid 10 %; 20 %
+316555 Potassium Chloride Tablets, long acting 8 meq; 10 meq; 20 meq +
+316555 Potassium Chloride Capsules, long acting 8 meq; 10 meq +
+316597 Prochlorperazine Liquid 5 mg/5 ml
+317110 Isosorbide Mononitrate Tablets, Extended Release 30 mg; 60 mg; 120 mg
+317354 Diflunisal Tablets or Capsules 250 mg; 500 mg +
+317373 Fluconazole Oral solution 10 mg/ml
+317401 Levocarnitine Liquid, oral 100 mg/ml
+317428 Metronidazole Powder for injection 500 mg vial
+317617 Atovaquone Tablets 250 mg *
+318202 Erythromycin Topical Solution Topical solution 2 %
+327361 Adalimumab (original or citrate free) Pedi. Chron. *
+328642 Tolmetin Tablets or Capsules 200 mg; 400 mg; 600 mg +
+328702 Thioridazine Liquid Concentrate 30 mg/ ml; 100 mg/ ml *
+328735 Thiothixene Liquid 5 mg/ ml, 30 ml; 5 mg/ ml, 120 ml *
+328812 Prednisolone Injection 20 mg/ml, 2 ml; 20 mg/ml, 5 ml; 20 mg/ml, 10 ml; 25 mg/ml, 10 ml; 25 mg/ml, 30 ml
+328814 Prednisolone Liquid 5 mg/5 ml; 15 mg/5 ml
+329943 Loxapine HCI Solution 25 mg/ml *
+335684 Tetracycline Liquid 125 mg/5 ml
+336773 Perphenazine Injection 5 mg/ml, 1 ml *
+339995 Neomycin Liquid 125 mg/5 ml
+348804 Levonorgestrel and Ethinyl Estradiol Tablets from 6/5/10 Combination Packet (28 Tablets/Packet) 6x0.05mg/30 mcg; 5 x 0.075 mg/ 40 mcg 10 x 0.125; mg/30 mcg7 x; inert *
+348804 Levonorgestrel and Ethinyl Estradiol Tablets from 6/5/10 Combination Packet (21 Tablets/Packet) 6x0.05mg/30 mcg; 5 x 0.075 mg/ 40 mcg 10 x 0.125; mg/30 mcg *
+349094 Budesonide Suspension for Inhalation 0.25 mg/2 ml ampule; 0.5 mg/2 ml ampule; 1.0 mg/2 ml ampule *
+349373 Olmesartan Medoxomil Tablet 5 mg; 20 mg; 40 mg
+349472 Gefitinib Tablets 250 mg *
+350709 Aminophylline Liquid 105 mg/5 ml
+350934 Fulvestrant Injection 50 mg/ml *
+351136 Albuterol Sulfate Capsules only, for inhalation
+351136 Albuterol Sulfate Capsules for inhalation with inhalation device Package; containing 96 or; 100 Capsules and; one inhalation; device
+351156 Moxifloxacin HCl IV 400 mg/250 ml
+351246 Montelukast Sodium Granules 4 mg
+351249 Escitalopram Oxalate Tablets 5 mg; 10 mg; 20 mg
+351285 Escitalopram Oxalate Solution, oral 5 mg/5mL
+352384 Ifosfamide With Mesna Combo pack injection
+352385 Insulin Aspart Protamine Suspension/Insulin Aspart, (rDNA Origin) Injection, Insulin aspart protamine 70% and Insulin aspart 30% 100 units/ml, 10 ml *
+352385 Insulin Aspart Protamine Suspension/Insulin Aspart, (rDNA Origin) Prefilled Pen, Insulin aspart protamine 70% and insulin aspart 30% 100 units/ml, 3 ml x 5 *
+369489 Primidone Tablets 50 mg; 250 mg +
+370503 Abacavir Sulfate Tablets 300 mg *
+370504 Acarbose Tablets 25 mg; 50 mg; 100 mg +
+370525 Acetazolamide Tablets 125 mg; 250 mg +
+370527 Acetic Acid Irrigating Solution 0.25 %
+370536 Acyclovir Capsules 200 mg; 400 mg; 800 mg
+370537 Acyclovir Tablets
+370542 Albuterol Sulfate Tablets 8 mg +
+370547 Allopurinol Tablets 100 mg; 300 mg +
+370551 Altretamine Capsules 50 mg *
+370577 Amoxicillin Trihydrate Chewable Tablets 125 mg; 250 mg
+370578 Amoxicillin Trihydrate Capsules 250 mg; 500 mg
+370579 Amoxicillin Trihydrate Tablets 500 mg; 875 mg
+370588 Anastrozole Tablets 1 mg
+370619 Atenolol Tablets 25 mg; 50 mg; 100 mg +
+370622 Atovaquone Oral Suspension 750 mg/ 5 ml *
+370635 Hydrochlorothiazide Tablets 12.5 mg; 25 mg; 50 mg; 100 mg +
+370636 Hydrochlorothiazide Capsules 12.5 mg +
+370649 Hydrocortisone Tablets 5 mg; 10 mg; 20 mg
+370658 Hydroxyurea Capsules 200 mg; 300 mg; 400 mg; 500 mg
+370674 Ibuprofen Tablets 400 mg; 600 mg; 800 mg
+370687 Indomethacin Capsules 25 mg; 50 mg +
+370704 Irbesartan Tablets 75 mg; 150 mg; 300 mg
+370716 Isoniazid Tablets 100 mg; 300 mg +
+370724 Isradipine Capsules 2.5 mg; 5 mg +
+370726 Ivermectin Tablets 3 mg *
+370782 Acyclovir Oral Suspension 200 mg/5 ml
+370964 Atropine Ophthalmic Solution 1/2 %; 1 %; 2 %; 3 %; 4 %
+370973 Azathioprine Tablets 50 mg
+370976 Azithromycin Tablets 250 mg; 500 mg; 600 mg
+370983 Bacitracin Ophthalmic Ointment
+370985 Baclofen Tablets 5 mg; 10 mg; 20 mg
+371031 Benzonatate Capsules 100 mg; 200 mg
+371065 Betaxolol Tablets 10 mg; 20 mg +
+371070 Bicalutamide Tablets 50 mg *
+371084 Bisacodyl EC Tablets, delayed release 5 mg
+371112 Brinzolamide Ophthalmic Suspension 1.0 % *
+371158 Bumetanide Tablets 0.5 mg; 1 mg; 2 mg
+371161 Buprenorphine Sublingual Tablets 2 mg; 8 mg *
+371165 Busulfan Tablets 2 mg *
+371192 Calcium Carbonate and Magnesium Carbonate
+371250 Capecitabine Tablets 150 mg; 500 mg *
+371254 Captopril Tablets 12.5 mg; 25 mg; 50 mg; 100 mg +
+371257 Carbamazepine Chewable Tablets 100 mg
+371260 Carbamazepine Tablets 200 mg
+371267 Carbidopa and Levodopa Tablets 10 mg/100 mg; 25 mg/100 mg; 25 mg/250 mg *+
+371294 Carteolol HCL Ophthalmic Solution 1 %
+371296 Carvedilol Tablets 3.125 mg; 6.25 mg; 12.5 mg; 25 mg
+371313 Cefaclor Capsules 250 mg; 500 mg *
+371325 Cefdinir Capsules 300 mg
+371343 Celecoxib Capsules 100 mg; 200 mg
+371345 Cephalexin Capsules 250 mg; 500 mg
+371375 Chlorambucil Tablets 2 mg *
+371376 Chloramphenicol Capsules 250 mg
+371409 Chlorothiazide Oral, suspension 250 mg/5 ml
+371465 Chlorpropamide Tablets 100 mg; 250 mg +
+371472 Chlorthalidone Tablets 25 mg; 50 mg; 100 mg +
+371508 Cilostazol Tablets 50 mg; 100 mg
+371524 Ciprofloxacin Suspension, Oral 5 %; (250 mg/ 5 ml); 10 %; (500 mg/ 5 ml) *
+371525 Ciprofloxacin HCL Tablets 250 mg; 500 mg; 750 mg
+371540 Clarithromycin Tablets 250 mg; 500 mg *
+371560 Clobazam Tablets 10 mg; 20 mg *
+371579 Clonazepam Tablets 0.5 mg; 1.0 mg; 2.0 mg *+
+371594 Clotrimazole Topical Solution 1 %
+371602 Clozapine Tablets 25 mg; 50 mg; 100 mg; 200 mg *
+371624 Colchicine Tablets 0.6 mg
+371665 Cycloserine Capsules 250 mg +
+371689 Dapsone Tablets 25 mg; 100 mg
+371717 Desogestrel and Ethinyl Estradiol Tablets 0.15 mg - 30 mcg; Tablets from 21; Tablet Packet; Tablets from 28; Tablet Packet *
+371728 Dexamethasone Elixir 0.5 mg/5 ml
+371729 Dexamethasone Tablets 0.5 mg; 0.75 mg; 1.0 mg; 1.5 mg; 2.0 mg; 4.0 mg; 6.0 mg
+371786 Diazepam Tablets 2 mg; 5 mg; 10 mg *+
+371819 Didanosine Tablets, chewable 25 mg; 50 mg; 100 mg; 150 mg; 200 mg *
+371834 Digoxin Tablets 0.125 mg; 0.25 mg; 0.5 mg +
+371940 Disulfiram Tablets 0.25 gm; 0.5 gm
+371961 Doxazosin Mesylate Tablets 1 mg; 2 mg; 4 mg; 8 mg +
+371965 Doxycycline Monohydrate Capsules 50 mg; 100 mg
+371966 Doxycycline Hyclate Tablets 100 mg
+371966 Doxycycline Hyclate Tablets 20 mg *
+371966 Doxycycline Monohydrate Tablets 100 mg
+371971 Dronabinol Capsules 2.5 mg; 5 mg; 10 mg *
+372003 Efavirenz Capsules 50 mg; 100 mg *
+372035 Ergocalciferol Capsules 1.25 mg
+372063 Erythromycin Ophthalmic Ointment Ophthalmic Ointment
+372078 Estradiol Tablets 0.5 mg; 1 mg; 2 mg
+372105 Norethindrone Acetate and Ethinyl Estradiol Tablets 1 mg - 10 mcg/2 Fe tablets; Tablets from 28; tablet packet; 1 mg - 20 mcg; Tablets from 21; tablet packet; 1 mg - 20 mcg/7 Fe tablets; Tablets from 28; tablet packet; 1.5 mg - 30 mcg; Tablets from 21; tablet packet; 1.5 mg - 30 mcg/7 Fe tablets; Tablets from 28; tablet packet *
+372105 Norethindrone and Ethinyl Estradiol Tablets 0.4 mg - 35 mcg; Tablets from 21; Tablet Packet; 0.4 mg - 35 mcg; Tablets from 28; Tablet Packet; 0.5 mg - 35 mcg; Tablets from 21; Tablet Packet; 0.5 mg - 35 mcg; Tablets from 28; Tablet Packet; 1 mg - 35 mcg; Tablets from 21; Tablet Packet; 1 mg - 35 mcg; Tablets from 28; Tablet Packet *
+372105 Norethindrone and Ethinyl Estradiol Tablets from 7/7/7 Combination Packet 7x0.5 mg/35 mcg *
+372106 Ethionamide Tablets 250 mg
+372108 Ethosuximide Capsules 250 mg
+372132 Etoposide Capsules
+372139 Famotidine Oral Suspension 40 mg/5mL
+372140 Famotidine Tablets 20 mg; 40 mg +
+372199 Finasteride Tablets 5 mg
+372210 Fluconazole Tablets 50 mg; 100 mg; 150 mg; 200 mg
+372222 Fluocinonide Ointment 0.05 %
+372230 Fluorouracil Solution, topical 1 %; 2 %; 5 %
+372234 Fluoxymesterone Tablets 2 mg; 5 mg; 10 mg *
+372249 Flurbiprofen Tablets 50 mg; 100 mg +
+372251 Flutamide Capsules 125 mg
+372281 Furosemide Tablets 20 mg; 40 mg; 80 mg +
+372319 Glimepiride Tablets 1 mg; 2 mg; 4 mg +
+372320 Glipizide Tablets 5 mg; 10 mg +
+372333 Glyburide Tablets, 1.5 mg
+372333 Glyburide Tablets 1.25 mg; 2.5 mg; 5 mg +
+372340 Glycopyrrolate Tablets 1mg; 2mg +
+372377 Haloperidol Tablets 0.5mg; 1mg; 2mg; 5mg; 10mg; 20mg *+
+372416 Hydrocortisone Ointment 1 %; 2.5 %
+372508 Rifampin and Isoniazid Capsules 300 mg/150 mg
+372533 Ketoconazole Tablets 200 mg
+372562 Lamivudine Oral solution 5 mg/ml *
+372563 Lamivudine Tablets 100 mg; 150 mg; 300 mg *
+372564 Lamivudine and Zidovudine Tablets 150 mg/300 mg *
+372566 Lamotrigine Tablets, ODT 25 mg; 50 mg; 100 mg; 200 mg
+372567 Lamotrigine Tablets 25 mg; 100 mg; 150 mg; 200 mg +
+372570 Leflunomide Tablets 10 mg; 20 mg
+372571 Letrozole Tablets 2.5 mg *
+372584 Levocarnitine Tablets 330 mg
+372588 Levofloxacin Tablets 250 mg; 500 mg; 750 mg
+372590 Levonorgestrel and Ethinyl Estradiol Tablets 0.1 mg - 20 mcg,Tablets from 21; Tablet Packet; 0.1 mg - 20 mcg,Tablets from 28; Tablet Packet; 0.15 mg - 30mcg,Tablets from 21; Tablet Packet; 0.15 mg - 30mcg,Tablets from 28; Tablet Packet; 0.15 mg - 30mcg,Tablets from 91; Tablet Packet; 0.1 - 0.02 - 0.01; mg *
+372598 Lidocaine Ointment 5%
+372613 Lisinopril and Hydrochlorothiazide Tablets 10 mg-12.5 mg; 20 mg-25 mg +
+372614 Lisinopril Tablets 2.5 mg; 5 mg; 10 mg; 20 mg; 30 mg; 40 mg +
+372616 Lithium Carbonate Capsules 300 mg *
+372617 Lithium Carbonate Tablets 300 mg *
+372643 Loratadine Tablet 10 mg
+372644 Lorazepam Oral concentration 2 mg/ml *
+372647 Lorazepam Tablets 0.5 mg; 1 mg; 2 mg *
+372652 Lovastatin Tablets 10 mg; 20 mg; 40 mg
+372655 Loxapine Succinate Capsules 5 mg; 10 mg; 25 mg; 50 mg *
+372720 Mebendazole Tablets, chewable 100 mg
+372730 Meclizine HCl Tablets, chewable 25 mg +
+372754 Meloxicam Tablets 7.5 mg; 15 mg
+372756 Melphalan Tablets 2 mg
+372782 Mercaptopurine Tablets 50 mg
+372786 Mesalamine Rectal Suppositories 500 mg; 1000 mg
+372815 Methazolamide Tablets 25 mg; 50 mg +
+372827 Methimazole Tablets 5 mg; 10 mg +
+372831 Methocarbamol Tablets 500 mg; 750 mg
+372836 Methotrexate Tablets 2.5 mg; 5 mg ; 7.5 mg ; 10 mg ; 15 mg *
+372855 Methyldopa Tablets 125 mg; 250 mg; 500 mg +
+372868 Methylprednisolone Tablets 4 mg
+372873 Methyltestosterone Tablets 5 mg; 10 mg; 25 mg *
+372886 Metoclopramide HCl Tablets 5 mg; 10 mg
+372888 Metolazone Tablets 2.5 mg; 5 mg; 10 mg +
+372897 Metronidazole Oral Tablets 250 mg; 500 mg
+372942 Mitotane Tablets 500 mg
+372959 Morphine Sulfate Tablets, Oral 10 mg; 15 mg; 30 mg *
+372972 Mupirocin Ointment 2 %
+372978 Nadolol Tablets 20 mg; 40 mg; 80 mg
+372993 Naphazoline HCL Ophthalmic Solution 0.1 %
+373015 Nelfinavir Mesylate Tablets 250 mg; 625 mg *
+373046 Nevirapine Tablets 200 mg; 100 mg *
+373067 Nifedipine Capsules 10 mg; 20 mg +
+373101 Nitrofurantoin Tablets 50 mg; 100 mg
+373113 Norethindrone and Mestranol Tablets 1 mg - 50 mcg; Tablets from 21; tablet packet; 1 mg - 50 mcg; Tablets from 28; tablet packet *
+373114 Norethindrone Tablets 0.35 mg Tablets; from 28 Tablet; Packet; 0.35 mg Tablets; from 42 Tablet; Packet *
+373121 Norgestimate and Ethinyl Estradiol (Lo) Tablets 7x.018mg/25mcg; 7x0.215mg/25mcg; 7x0.25mg/25mcg
+373122 Norgestrel and Ethinyl Estradiol Tablets 0.3 mg - 30 mcg; Tablets from 21; tablet packet; 0.3 mg - 30 mcg; Tablets from 28; tablet packet; 0.5 mg - 50 mcg; Tablets from 21; tablet packet; 0.5 mg - 50 mcg; Tablets from 28; tablet packet *
+373133 Nystatin Cream 100,000 units/gm,15 gm; 100,000 units/gm,30 gm; 100,000 units/gm,15 gm; 100,000 units/gm,30 gm; 100,000 units/gm,240 gm
+373135 Nystatin Ointment
+373136 Nystatin Suspension, oral 100,000 units/ml,48 ml; 100,000 units/ml,60 ml; 100,000 units/ml,480 ml
+373137 Nystatin Tablets (oral) 500,000 units
+373141 Ofloxacin Tablets 200 mg; 300 mg; 400 mg *
+373142 Olanzapine Tablets 2.5 mg; 5 mg; 7.5 mg; 10 mg; 15 mg; 20 mg *
+373148 Ondansetron Tablets 4 mg; 8 mg +
+373149 Ondansetron Tablets, orally disintegrating 4 mg; 8 mg +
+373175 Oxcarbazepine Tablets 150 mg; 300 mg; 600 mg *
+373200 Oxycodone and Acetaminophen Tablets 5 mg to 325 mg; 7.5 mg to 325 mg; 10 mg to 325 mg *
+373245 Paroxetine HCL Suspension, oral 10 mg/5 ml
+373283 Pentobarbital Suppositories 30 mg; 60 mg; 120 mg; 200 mg *
+373287 Pentoxifylline Tablets, extended release 400 mg
+373299 Perphenazine Tablets 2 mg; 4 mg; 8 mg; 16 mg *+
+373326 Phenobarbital Tablets 15 mg; 16.2 mg; 30 mg; 32.4 mg; 60 mg; 65 mg; 97.2 mg; 100 mg *+
+373372 Phenylephrine Ophthalmic Solution 0.12 %; 2.5 %; 10 %
+373433 Phenytoin Tablets, chewable 50 mg +
+373450 Phytonadione Tablets 5 mg
+373453 Pilocarpine Ophthalmic Gel 4 %,
+373454 Pilocarpine Ophthalmic solution 1/4 %; 1 %; 2 %; 3 %; 4 %; 5 %; 6 %; 8 %; 10 %
+373460 Pindolol Tablets 5 mg; 10 mg +
+373529 Potassium Citrate Tablets, extended release 5 meq; 10 meq +
+373576 Prednisolone Ophthalmic solution 0.12 % - 0.125 %,5 ml; 0.12 % - 0.125 %,10 ml; 1.0 %, 5 ml; 1.0 %, 10 ml; 1.0 %, 15 ml
+373578 Prednisolone Tablets 5 mg
+373585 Prednisone Tablets 1 mg; 2.5 mg; 5 mg; 10 mg; 20 mg; 50 mg
+373594 Probenecid Tablets 500 mg +
+373608 Prochlorperazine Suppositories 2.5 mg; 5 mg; 25 mg
+373658 Propylthiouracil Tablets 50 mg +
+373718 Pyrimethamine Tablets 25 mg
+373731 Quinapril Tablets 5 mg; 10 mg; 20 mg; 40 mg
+373732 Quinapril and Hydrochlorothiazide Tablets 10 mg-12.5 mg; 20 mg-12.5 mg; 20 mg-25 mg
+373748 Ramipril Capsules 1.25 mg; 2.5 mg; 5 mg; 10 mg +
+373752 Ranitidine HCL Tablets 150 mg; 300 mg +
+373772 Ribavirin Capsules 200 mg *
+373774 Ribavirin Tablets 200 mg *
+373780 Rifabutin Capsules 150 mg
+373781 Rifampin Capsules 150 mg; 300 mg
+373787 Riluzole Tablets 50 mg *
+373791 Risperidone Tablets 0.25 mg; 0.5 mg; 1 mg; 2 mg; 3 mg; 4 mg *
+373795 Ritonavir Capsules 100 mg *
+373800 Ropinirole HCL Tablets 0.25 mg; 0.5 mg; 1 mg; 2 mg; 3 mg; 4 mg; 5 mg *
+373871 Sildenafil Citrate Tablets 20 mg *
+373888 Simvastatin Tablets 5 mg; 10 mg; 20 mg; 40 mg; 80 mg *+
+373907 Sodium Fluoride Chewable tablets 0.25 (0.55) mg; 0.50 (1.1) mg; 1.0 (2.2) mg +
+373907 Vitamins A, D, C, with Sodium Fluoride Chewable Tablets 100s +
+373911 Sodium Fluoride Tablets 2.2 mg +
+373946 Spironolactone Tablets 25 mg; 50 mg; 100 mg
+373959 Stavudine Capsules 15 mg; 20 mg; 30 mg; 40 mg *
+373964 Succimer Capsules 100 mg
+373967 Sucralfate Tablets 1 gm
+373972 Prednisolone with Sulfacetamide Ophthalmic ointment 0.25 %; 0.5 %
+373973 Prednisolone with Sulfacetamide Ophthalmic solution 0.2 % - 0.25 %,5 ml; 0.2 % - 0.25 %,10 ml; 0.2 % - 0.25 %,15 ml; 0.5 %, 5 ml; 0.5 %, 15 ml
+373977 Sulfadiazine Tablets 500 mg
+373991 Sulfasalazine Tablets 0.5 gm +
+373991 Sulfasalazine Tablets 0.5 gm +
+374012 Sumatriptan Succinate Tablets 25 mg ; 50 mg ; 100 mg *
+374015 Tacrolimus Capsules 0.5 mg; 1 mg
+374024 Telmisartan Tablets 20 mg; 40 mg; 80 mg +
+374026 Temazepam Capsules 7.5 mg; 15 mg; 30 mg *+
+374036 Terbinafine HCl Tablets 250 mg
+374074 Theophylline Tablets or capsules +
+374104 Thioguanine Tablets 40 mg *
+374110 Thiothixene Capsules 1 mg; 2 mg; 5 mg; 10 mg; 20 mg *+
+374138 Tinidazole Tablets 250 mg; 500 mg
+374146 Tizanidine HCL Tablets 2 mg; 4 mg
+374149 Tolazamide Tablets 100 mg; 250 mg; 500 mg +
+374152 Tolbutamide Tablets 250 mg; 500 mg +
+374166 Topiramate Tablets 25 mg; 50 mg; 100 mg; 200 mg *
+374168 Torsemide Tablets 5 mg; 10 mg; 20 mg; 100 mg
+374177 Trandolapril Tablets 1 mg; 2 mg; 4 mg
+374187 Tretinoin Capsules
+374189 Triamcinolone Nasal spray 50 mcg/actuation,15 ml
+374192 Triamterene and Hydrochlorothiazide Tablets 37.5 mg-25 mg
+374193 Triamterene Capsules 50 mg; 100 mg +
+374230 Trimethoprim Tablets 100 mg; 200 mg
+374234 Trimethoprim and Sulfamethoxazole Tablets 80/400 mg
+374234 Trimethoprim and Sulfamethoxazole Tablets 80/400 mg
+374272 Valacyclovir HCl Tablets 500 mg; 1 gm
+374285 Venlafaxine HCL Tablets 25 mg; 37.5 mg; 50 mg; 75 mg; 100 mg
+374331 Zidovudine Capsules 100 mg *
+374332 Zidovudine Tablets 300 mg *
+374371 Desmopressin spray 5 ml
+374438 Dexamethasone Ophthalmic Ointment 0.05 %; 0.1 %
+374526 Neomycin and Polymyxin Ampule - G.U. Irrigant
+374552 Atropine Ophthalmic Ointment 1/2 %; 1 %
+374583 Clopidogrel Tablets 75 mg
+374589 Ciprofloxacin Hydrochloride/ Hydrocortisone Otic Suspension 2mg/ml -; 10mg/ml *
+374590 Rizatriptan Tablets, orally disintegrating 5 mg; 10 mg *
+374606 Pioglitazone HCl Tablets 15 mg; 30 mg; 45 mg
+374610 Temozolomide Capsules 5 mg; 20 mg; 100 mg; 140 mg; 180 mg; 250 mg *
+374616 Entacapone Tablets 200 mg *
+374617 Levetiracetam Tablets 250 mg; 500 mg; 750 mg; 1000 mg
+374619 Moxifloxacin HCl Tablets 400 mg
+374625 Zonisamide Capsules 25 mg; 50 mg; 100 mg
+374627 Olanzapine Tablets, orally disintegrating 5 mg; 10 mg; 15 mg; 20 mg *
+374629 Polymyxin, Bacitracin Ophthalmic Ointment
+374642 Lopinavir and Ritonavir Capsules 133.3 mg-33.3mg *
+374643 Lopinavir and Ritonavir Oral solution 400 mg-100 mg/5 ml *
+374648 Nateglinide Tablets 60 mg
+374648 Nateglinide Tablets 120 mg +
+374649 Ziprasidone HCL Capsules 20 mg; 40 mg; 60 mg; 80 mg *
+374656 Valganciclovir HCL Tablets 450 mg *
+374679 Travoprost Ophthalmic Solution 0.004 %, 2.5 ml; 0.004 %, 5.0 ml *
+374686 Neomycin, Polymyxin and Gramicidin Ophthalmic Solution
+374698 Dexamethasone with Neomycin and Polymyxin Solution or Suspension 10,000U/gm 5 ml
+374699 Dexamethasone with Neomycin and Polymyxin Ophthalmic Ointment 0.1 % - 0.35 %/10,000U/gm; 3.5 gm
+374711 Oxycodone HCl and Aspirin Tablets 4.8355 mg to; 325 mg *
+374813 Abacavir Sulfate, Lamivudine and Zidovudine Tablets 300 mg/150 mg/300 mg *
+374899 Calcitonin-Salmon Nasal Spray 2200 IU/ml
+375061 Exemestane Tablets 25 mg
+375144 Loteprednol Etabonate Ophthalmic suspension 0.2 %; 0.25 % ; 0.5 % *
+375196 Oseltamivir Phosphate Oral suspension 6 mg/ml, 60ml
+375312 Tetrabenazine Tablets 12.5 mg; 25 mg *
+375450 Hydrocortisone with Polymyxin B and Neomycin Otic Suspension 1 %, 10,000 units; - 3.3 mg/ml,10 ml
+375802 Didanosine Solution 167 mg/packet; 250 mg/packet; 375 mg/packet *
+376030 Neomycin, Bacitracin and Polymyxin Ophthalmic Ointment
+376202 Ciprofloxacin HCL Ophthalmic Solution 0.3 %
+376305 Testosterone Injection in aqueous susp. 25 mg/ ml; 50 mg/ ml; 100 mg/ ml *
+376542 Timolol Maleate Ophthalmic Gel 0.25 %; 0.5 %
+377089 Lodoxamide Ophthalmic Solution 0.1 %
+377400 Tobramycin Ophthalmic Solution 0.3 %, 5 ml
+377402 Ofloxacin Ophthalmic Solution 0.3 %
+377418 Dexamethasone Ophthalmic Solution
+377423 Trifluridine Ophthalmic Solution 1 %, 7.5 ml
+377440 Dorzolamide HCL Ophthalmic Solution 2 %
+377441 Latanoprost Ophthalmic Solution 0.005 %
+377444 Cyclopentolate Ophthalmic solution 0.5 %; 1 %; 2 %
+377450 Ofloxacin Otic Solution 0.3 %; Oxytocics
+377481 Clindamycin Phosphate Topical solution 1 %
+377660 Clotrimazole Topical Cream 1 %
+377661 Clotrimazole Topical Lotion 1 %
+377662 Clotrimazole Vaginal Cream 45 gm; 90 gm
+377700 Fluorouracil Cream 1 %; 5 %
+377712 Hydrocortisone Topical cream 1 %; 2.5 %
+377713 Hydrocortisone Lotion 1 %; 2.5 %
+377736 Ketoconazole Topical cream 2 %
+377789 Permethrin Cream 5 %
+377828 Tretinoin Cream 0.025%; 0.05%; 0.1%
+377881 Crotamiton Cream 10 %
+377882 Crotamiton Lotion 10 %
+377925 Prednicarbate Cream 0.1 %
+377955 Benzoyl Peroxide Gel 5 %; 10 %
+377962 Tretinoin Gel 0.01%; 0.025%
+378001 Podofilox Topical gel 0.5 %
+378003 Diazepam Rectal Gel 2.5 mg twin pack; 10 mg delivery; system twin pack; 20 mg delivery; system twin pack *
+378076 Aluminum Hydroxide Gel
+378092 Lactulose Solution 10 g/15 ml
+378099 Gabapentin Tablets 600 mg; 800 mg
+378100 Gabapentin Capsules 100 mg; 300 mg; 400 mg
+378101 Gabapentin Solution, Oral 250 mg/5 ml
+378154 Aminophylline Tablets 100 mg; 200 mg +
+378166 Aminophylline Suppository 0.25 gm; 0.5 gm
+378235 Nelfinavir Mesylate Oral powder 50 mg/gm *
+378236 Omeprazole Capsules, delayed release 10 mg; 20 mg; 40 mg
+378276 Valsartan Tablets 40 mg; 80 mg; 160 mg; 320 mg +
+378299 Efavirenz Tablets 200 mg; 600 mg *
+378301 Aripiprazole Tablets 2 mg; 5 mg; 10 mg; 15 mg; 20 mg; 30 mg *
+378303 Ezetimibe Tablets 10 mg +
+378308 Atomoxetine HCL Capsules 10 mg; 18 mg; 25 mg; 40 mg; 60 mg; 80 mg; 100 mg *
+378341 Bimatoprost Ophthalmic Solution 0.01 % *
+378617 Fluocinonide Cream 0.05 %
+378643 Hydrocortisone with Polymyxin B and Neomycin Otic Solution 1 %, 10,000 units; - 3.3 mg/ml,10 ml
+378684 Nabumetone Tablets 500 mg; 750 mg
+378716 Dutasteride Capsules 0.5 mg
+378726 Eplerenone Tablet 25 mg; 50 mg
+378739 Isosorbide Dinitrate Tablets +
+378762 Buprenorphine/ Naloxone Sublingual Tablets 2 mg/0.5 mg; 8 mg/2 mg; 0.7 mg/0.18 mg; 1.4 mg/0.36 mg; 2.9 mg/0.71 mg; 5.7 mg/1.4 mg; 8.6 mg/2.1 mg; 11.4 mg/2.9 mg *
+378764 Estrogens, Conjugated Vaginal Cream Tube- refill; Tube with; applicator
+378921 Telmisartan and Hydrochlorothiazide Tablets 40 mg/12.5 mg; 80 mg/12.5 mg; 80 mg/25 mg +
+378925 Paroxetine HCL Tablets 10 mg; 20 mg; 30 mg; 40 mg
+378939 Doxercalciferol Capsules 0.5 mcg; 2.5 mcg
+378993 Proparacaine HCL Ophthalmic Solution 0.5 %, 2 ml; 0.5 %, 15 ml *
+378999 Tropicamide Ophthalmic Solution 0.5 %; 1 %
+379060 Mycophenolate Mofetil Capsules 250 mg; 500 mg
+379074 Clindamycin/Benzoyl Peroxide Topical gel 1 %/5 %, 50 gram; container
+379077 Fluocinonide Gel 0.05 %
+379111 Apraclonidine Ophthalmic solution 0.5 % *
+379118 Sumatriptan Nasal Spray 5 mg; 20 mg *
+379122 Metronidazole Vaginal gel 0.75 %, 70 gm; 1.3 %, 5 gm *
+379128 Trimethoprim Sulfate and Polymyxin B Sulfate Ophthalmic Solution
+379134 Echothiophate Ophthalmic
+379136 Collagenase Ointment
+379241 Calcipotriene Cream 0.005 %
+379242 Calcipotriene Ointment 0.005 %
+379487 Terconazole Vaginal cream 0.4 %, 45 gm; 0.8 %, 20 gm
+379818 Fenofibrate Tablets 48 mg; 54 mg; 145 mg; 160 mg
+381035 Isosorbide Dinitrate Oral 5 mg; 10 mg; 20 mg; 30 mg; 40 mg
+381053 Isosorbide Dinitrate Chewable 5 mg; 10 mg
+384613 Olopatadine HCL Ophthalmic Solution 0.1 %, 5 ml; 0.2 %, 2.5 ml; 0.7 % *
+385105 Econazole Nitrate Topical cream 1 %
+385106 Fluocinolone Topical oil 0.01 %
+388311 Carbamazepine Capsules, and Tablets extended release 100 mg; 200 mg; 300 mg; 400 mg
+392531 Acetate Combinations
+393324 Ganciclovir Ophthalmic gel 0.15 % *
+402109 Fosamprenavir Calcium Tablets 700 mg *
+402243 Bortezomib Powder for Injection 3.5 mg/vial *
+402341 Oxycodone HCl Solution *
+402370 Atazanavir Sulfate Capsules 100 mg; 150 mg; 200 mg; 300 mg *
+403850 Carbidopa and Levodopa and Entacapone Tablets 12.5 mg/50 mg/200 mg; 25 mg/100 mg/200 mg; 37.5 mg/150 mg/200 mg *+
+405798 Aprepitant Capsules 40 mg ; 80 mg; 125 mg *+
+405942 Ciprofloxacin HCL/ Dexamethasone Otic Suspension 3mg/ml - 1mg/ml *
+406017 Emtricitabine Capsules 200 mg *
+406050 Imatinib Mesylate Tablets 100 mg; 400 mg *
+406082 Metformin HCl Solution, Oral 100 mg/ ml
+406106 Moxifloxacin HCl Ophthalmic Solution 0.5 %
+406121 Levetiracetam Solution, oral 100 mg/ml
+409823 Cefixime Tablets or capsules 400 mg
+438654 Cinacalcet HCl Tablets 30 mg; 60 mg; 90 mg *
+439558 Felodipine Tablets, extended release 2.5 mg; 5 mg; 10 mg
+466568 Chlorpheniramine Maleate with Pseudoephedrine HCL and Codeine Liquid *
+466588 Aluminum Hydroxide, Magnesium Hydroxide, and Simethicone
+476143 Abacavir Sulfate and Lamivudine Tablets 600 mg/300 mg *
+476178 Clozapine Tablets, orally disintegrating 12.5 mg; 25 mg; 100 mg; 150 mg; 200 mg *
+476345 Ezetimibe/Simvastatin Tablets 10 mg/10 mg; 10 mg/20 mg; 10 mg/40 mg; 10 mg/80 mg *+
+477321 Erlotinib Tablets 25 mg; 100 mg; 150 mg *
+477367 Solifenacin Succinate Tablets 5 mg; 10 mg
+477392 Levofloxacin Solution, oral 25 mg/ml
+483427 Fenofibrate, Micronized Capsules 43 mg; 130 mg; 67 mg; 134 mg; 200 mg
+483437 Pregabalin Capsules 25 mg; 50 mg; 75 mg; 100 mg; 150 mg; 200 mg; 225 mg; 300 mg *
+484320 Insulin Detemir (rDNA Origin) Injection 100 units/ml *
+485032 Tiotropium Bromide Capsules for inhalation with inhalation device Package; containing 30 or; 90 Capsules and; one inhalation; device *
+485433 Entecavir Tablets 0.5 mg; 1.0 mg *
+485483 Tizanidine HCL Capsules 2 mg; 4 mg; 6 mg
+485495 Aripiprazole Oral Solution 1 mg/ml *
+485534 Entecavir Liquid 0.05 mg/ml *
+486515 Sodium Chloride Irrigating Solution Solution 0.9 %
+487066 Levalbuterol Tartrate Oral Inhaler without Chlorofluorocarbons as the Propellant 15 gm
+544933 Clobetasol Propionate Topical solution 0.05 %, 25 ml; 0.05 %, 50 ml
+545254 Loteprednol Etabonate/ Tobramycin Ophthalmic suspension 0.5 %; 0.3 %
+545830 Leuprolide Acetate Ped) 15 mg *
+562251 Amoxicillin/ Clavulanate Potassium Tablets, oral 250 mg; 500 mg; 875 mg; 1 gm
+562253 Amoxicillin/ Clavulanate Potassium Tablets, chewable 125 mg; 200 mg; 250 mg; 400 mg
+562266 Clindamycin Palmitate HCL Solution 75 mg/5 ml
+562524 Acetazolamide Capsules, sustained release 500 mg +
+562707 Trimethoprim Solution 50 mg/5 ml
+577212 Tipranavir Capsules 250 mg *
+577348 Ramelteon Tablets 8 mg *
+582925 Podofilox Topical solution 0.5 %
+596925 Duloxetine HCL Capsules 20 mg; 30 mg; 60 mg
+597195 Carboplatin Powder for Injection 50 mg/vial; 150 mg/vial; 450 mg/vial
+597195 Carboplatin Injection 10 mg/ml
+597267 Fosamprenavir Calcium Oral suspension 50 mg/ml *
+597290 Emtricitabine Oral solution 10 mg/ml *
+597729 Lopinavir and Ritonavir Tablets 200 mg-50 mg; 100 mg-25 mg *
+597746 Sorafenib Tablets 200 mg *
+597823 Tobramycin Powder for injection 1.2 gm/vial
+597849 Anagrelide Hydrochloride Capsules 0.5 mg; 1.0 mg
+598006 Erythromycin Base Tablets 250 mg; 500 mg
+606726 Esomeprazole Magnesium Capsules, delayed release 20 mg; 40 mg +
+606947 Isometheptene Mucate, Dichloralphenazone and APAP Capsules 65 mg; 100 mg; 325 mg *+
+616279 Sunitinib Malate Capsules 12.5 mg; 25 mg; 37.5 mg; 50 mg *
+617302 Amoxicillin/ Clavulanate Potassium Solution or suspension 125 mg/ 5ml; 200 mg/ 5ml; 250 mg/ 5ml; 400 mg/ 5ml; 600 mg/ 5ml
+617312 Atorvastatin Calcium Tablets 10 mg; 20 mg; 40 mg; 80 mg +
+619044 Folic Acid Tablets 1mg +
+630208 Albuterol Sulfate Solution for inhalation, premixed 0.083%; 1.25 mg/3 ml; 0.63 mg/3 ml
+636216 Azelastine HCl Ophthalmic Solution 0.05 %
+636671 Varenicline Tartrate Tablets 0.5 mg; 1.0 mg *
+643018 Aripiprazole Tablets, orally disintegrating 10 mg; 15 mg *
+643066 Efavirenz, Emtricitabine and Tenofovir Disoproxil Fumarate Tablets 600 mg/200 mg/300 mg *
+643073 Darunavir Tablets 75 mg; 150 mg; 300 mg; 400 mg; 600 mg; 800 mg *
+643104 Dasatinib Tablets 20 mg; 50 mg; 70 mg; 80 mg; 100 mg; 140 mg *
+643123 Prednisolone Sodium Phosphate Orally Disintegrating 10 mg; 15 mg
+643127 Prednisolone Sodium Phosphate Tablets 30 mg
+647237 Pioglitazone HCl/ Glimepiride Tablets 30 mg/2 mg; 30 mg/4 mg
+665032 Sitagliptin Tablets 25 mg; 50 mg; 100 mg *
+668578 Vorinostat Capsules 100 mg *
+672148 Lapatinib Tablets 250 mg *
+686350 Erythromycin Ethylsuccinate Tablets, chewable 200 mg
+686400 Erythromycin Ethylsuccinate Granules 200 mg/5 ml,100 ml; 200 mg/5 ml,200 ml
+686400 Erythromycin Ethylsuccinate Suspension 200 mg/5 ml; 400 mg/5 ml
+686418 Erythromycin Ethylsuccinate For Oral Suspension, drops 100 mg/2.5 ml
+686429 Mesalamine Tablets 1.2 gm *
+687198 Aluminum Hydroxide and Magnesium Trisilicate Gel
+702519 Phenobarbital Liquid 20 mg/5 ml *
+705128 Nitroglycerin (Glyceryl Trinitrate) Spray, lingual 2 %, 12 gm
+705610 Ranitidine HCL Syrup 15 mg/ml
+706867 Azithromycin Ophthalmic solution 1 % *
+722134 Amlodipine/Valsartan Tablets 5 mg/160 mg; 10 mg/160 mg; 5 mg/320 mg; 10 mg/320 mg
+722289 Temsirolimus Injection Kit 25 mg/ ml *
+727610 Medroxyprogesterone Acetate Prefilled syringe 104 mg/0.65 ml; 400 mg/0.65 ml
+727722 Enoxaparin Sodium Prefilled syringe 30 mg; 40 mg; 60 mg; 80 mg; 100 mg; 120 mg; 150 mg *
+727782 Hepatitis A Virus Vaccine Injection 50 units/ml; 1440 units/ml *
+728109 Oseltamivir Phosphate Capsules 30 mg; 45 mg; 75 mg
+728222 Maraviroc Tablets 25 mg; 75 mg; 150 mg; 300 mg *
+730869 Amlodipine Besylate and Olmesartan Medoxomil Tablets 5 mg-20 mg; 5 mg-40 mg; 10 mg-20 mg; 10 mg-40 mg
+731326 Peginterferon Alfa-2A Syringes, package of four, without alcohol pads 180 mcg/0.5 ml *
+744841 Raltegravir Tablets 400 mg; 600 mg *
+745286 Penicillin G Powder for injection 1,000,000 units/vial; 5,000,000 units/vial; 10,000,000 units/vial; 20,000,000 units/vial
+746605 Nilotinib Capsules 50 mg; 150 mg; 200 mg *
+747192 Topotecan HCL Capsules 0.25 mg ; 1 mg *
+749206 Sevelamer Carbonate Tablets 800 mg
+749761 Levonorgestrel and Ethinyl Estradiol/Ethinyl Estradiol Tablets 0.15 - 0.03 - 0.01; mg
+749784 Norgestimate and Ethinyl Estradiol Tablets from Monophasic Packet (28 tablets/packet) 21x0.25mg/35mcg; 7 inert *
+749784 Norgestimate and Ethinyl Estradiol Tablets from 7/7/7 (tri-phasic) Combination Packet (21 Tablets/Packet) 7x0.180mg/35mcg; 7x0.215mg/35mcg; 7x0.250mg/35mcg *
+749784 Norgestimate and Ethinyl Estradiol Tablets from 7/7/7 (tri-phasic) Combination Packet (28 Tablets/Packet) 7x0.180mg/35mcg; 7x0.215mg/35mcg; 7x0.250mg/35mcg; 7 inert *
+749811 Lanreotide Acetate Injection 60 mg/0.2 ml; 90 mg/0.3 ml; 120 mg/0.5 ml *
+749869 Norethindrone and Ethinyl Estradiol Tablets from 21 Tablet Packet 7x0.75 mg/35mcg *
+749869 Norethindrone and Ethinyl Estradiol Tablets from 21 Tablet Packet 9x1.0 mg/35 mcg *
+749869 Norethindrone and Ethinyl Estradiol Tablets from 21 Tablet Packet Tablets from 28 Tablet Packet 11 x 1 mg/35 mcg *
+750839 Erythromycin Stearate Tablets, film coated 250 mg; 500 mg
+751139 Lamotrigine Starter Kits Tablets 25 mg, tablets from 35-Tablet Kit; 25 mg - 100 mg,tablets from 49- tablet kit; 25 mg - 100 mg,tablets from 98- tablet kit
+754509 Aprepitant Tri-Fold Pack 1 x 125 mg; 2 x 80 mg *
+754760 Etravirine Tablets 25 mg; 100 mg; 200 mg *
+755497 Albuterol Sulfate Liquid 2 mg/5 ml
+756059 Lithium Citrate Liquid 8 mq/5 ml *
+756209 Zidovudine Liquid 50 mg/5 ml *
+756776 Pyridostigmine Oral, solution 60 mg/5 ml
+759471 Zanamivir Powder for inhalation 5 mg/inhalation
+759742 Desogestrel and Ethinyl Estradiol Tablets from 7/7/7 Combination Packet (28 Tablets/Packet) 7 x 0.100 mg/ 0.025 mg; 7 x 0.125 mg/ 0.025 mg; 7 x 0.150 mg/0.025 mg 7 x inert *
+759743 Desogestrel and Ethinyl Estradiol Tablets from the 21/2/5 Combination Packet (28 Tablets/Packet) 21 x 0.15 mg; Desogestrel/ 0.02 mg ethinyl; estradiol 2 x inert; 5 x 0.01 mg; ethinyl estradiol *
+762675 Methylprednisolone Dosepak 4 mg
+790263 Desvenlafaxine Succinate Tablets, Extended Release 25 mg; 50 mg; 100 mg
+790489 Nisoldipine, extended release Tablets 8.5 mg; 17 mg; 25.5 mg; 34 mg
+795735 Varenicline Tartrate Tablets from Continuing Month Box (56 tablets/box) 1.0 mg *
+795737 Varenicline Tartrate Tablets, Starting Month Box (53 tablets/box) 11 x 0.5 mg; 42 x 1.0 mg *
+797274 Clindamycin Phosphate Pledgets 1 %
+797641 Meningococcal Polysaccharide Diphtheria Conjugate Vaccine Injection 4 mcg/0.5 ml *
+797752 Hepatitis B Virus Vaccine Injection 10 mcg/ml; 20 mcg/0.5 ml; 20 mcg/ml; 40 mcg/ml *
+802320 Tipranavir Oral solution 100 mg/ ml *
+807277 Tetanus and Diphtheria Toxoids Adsorbed Vaccine Injection 1 dose/vial *
+807831 Levetiracetam Tablets, extended- release 500 mg; 750 mg
+808751 Venlafaxine HCL Tablets, Extended Release 37.5 mg; 75 mg; 150 mg; 225 mg
+809158 Etanercept Single dose prefilled syringe 25 mg/0.5 ml; 50 mg/ml *
+810071 Fesoterodine Fumarate Tablet, extended release (24-hour) 4 mg; 8 mg *
+822929 Amphetamine, mixed salts (amphetamine sulfate, amphetamine aspartate monohydrate, dextroamphetamine sulfate and dextroamphetamine saccharate) Tablets 5 mg; 7.5 mg; 10 mg; 12.5 mg; 15 mg; 20 mg; 30 mg *
+822929 Amphetamine, mixed salts (amphetamine sulfate, amphetamine aspartate monohydrate, dextroamphetamine sulfate and dextroamphetamine saccharate) Capsules, Extended Release 5 mg; 10 mg; 15 mg; 20 mg; 25 mg; 30 mg *
+823777 Norethindrone and Ethinyl Estradiol Tablets from 7/9/5 Combination Packet 7x0.5 mg/35 mcg *
+825324 Leuprolide Acetate Syringe Kit (Eligard) 7.5 mg; 22.5 mg; 30 mg; 45 mg *
+828320 Cyclobenzaprine Tablets 5 mg; 10 mg
+828379 Fenofibric Acid Delayed-release capsules 45 mg; 135 mg
+828706 Fludarabine Phosphate Tablets 10 mg
+828749 Degarelix Powder for Injection 80 mg/vial/kit; 120 mg/vial/kit *
+830467 Rabies Vaccine Injection 1-dose vial *
+830549 Diphtheria/Pertussis/ Tetanus Vaccine Injection (Single Dose Vial) 0.5 ml *
+830555 Diphtheria/Pertussis/ Tetanus Vaccine Prefilled Syringe 0.5 ml *
+831054 Diltiazem HCL Tablets or capsules, once-a-day 120 mg; 180 mg; 240 mg; 300 mg; 360 mg; 420 mg +
+831109 Cromolyn Sodium Ophthalmic solution 4 %
+831246 Cromolyn Sodium Nebulizer Solution 2 ml
+833141 Milnacipran HCl Tablets 12.5 mg; 25 mg; 50 mg; 100 mg *
+833151 Milnacipran HCl Titration Pack Tablets 12.5 mg, contains 5 Tablets; 25 mg, contains; 8 Tablets; 50 mg, contains; 42 Tablets *
+833203 Dexlansoprazole Capsules, delayed- release 30 mg; 60 mg *+
+833217 Diltiazem HCL Tablets 30 mg; 60 mg; 90 mg; 120 mg +
+834046 Penicillin VK Liquid 125mg/5ml,100ml; 125mg/5ml,150ml; 125mg/5ml,200ml; 250mg/5ml,100ml; 250mg/5ml,150ml; 250mg/5ml,200ml
+834061 Penicillin VK Tablets 125 mg; 250 mg; 500 mg
+835564 Imipramine Injection 25 mg, 2 ml
+835593 Imipramine Tablets 10 mg; 25 mg; 50 mg
+835603 Tramadol HCL Tablets 50 mg *
+835726 Acamprosate Calcium Delayed-release Tablets 333 mg
+835894 Cyclosporine, Modified Capsules 25 mg; 100 mg
+835945 Temozolomide Powder for injection 100 mg/vial *
+835956 Amiodarone Tablets 100 mg; 200 mg; 400 mg
+836343 Ipratropium Bromide HFA inhaler 12.9 gm *
+845506 Everolimus Tablets 2.5 mg; 5 mg; 7.5 mg; 10 mg *
+845527 Influenza Virus Vaccine Prefilled syringe 0.5 ml *
+847239 Insulin Detemir (rDNA Origin) Prefilled Pen 100 units/ml, 3 ml; x 5 *
+847915 Exenatide Pre-filled Injectable Pen 250mcg/ml, 1.2ml; 250mcg/ml, 2.4ml *
+848140 Amlodipine/Valsartan/ Hydrochlorothiazide Tablets 5 mg/160 mg/12.5 mg; 10 mg/160 mg/12.5 mg; 5 mg/160 mg/25 mg; 10 mg/160 mg/25 mg; 10 mg/320 mg/25 mg
+848328 Estradiol Vaginal ring 2 mg
+848721 Iloperidone Tablets 1 mg; 2 mg; 4 mg; 6 mg; 8 mg; 10 mg; 12 mg *
+849385 Amantadine Liquid 50 mg/5 ml *
+849389 Amantadine Capsules 100 mg *+
+849515 Desmopressin Tablets 0.1 mg; 0.2 mg
+849520 Desmopressin Nasal solution or 0.01 % 2.5ml
+850075 Lamotrigine Tablets, extended- release 25 mg; 50 mg; 100 mg; 200 mg; 300 mg
+852877 Quinidine Sulfate Tablets 100 mg; 200 mg; 300-325 mg +
+852919 Quinidine Gluconate Tablets, long acting 324 mg +
+853201 Quetiapine Fumarate Extended-release tablets 50 mg; 150 mg; 200 mg; 300 mg; 400 mg *
+854801 Diclofenac Sodium Ophthalmic Solution 0.1 %
+854876 Zolpidem Tartrate Tablets 5 mg; 10 mg *+
+854905 Bisoprolol Fumarate Tablets 5 mg; 10 mg +
+854984 Perindopril Erbumine Tablets 2 mg; 4 mg; 8 mg
+855178 Tolterodine Tartrate Tablets 1 mg; 2 mg +
+855182 Tolterodine Tartrate Capsules, extended release 2 mg; 4 mg +
+855288 Warfarin Sodium Tablets 1 mg; 2 mg; 2.5 mg; 3 mg; 4 mg; 5 mg; 7.5 mg; 10 mg
+855474 Alclometasone Cream 0.05 %
+855633 Diclofenac Sodium Gel 1%
+855663 Diclofenac Sodium Tablets 25 mg; 50 mg; 75 mg
+855811 Prasugrel Tablets 5 mg; 10 mg
+855869 Phenytoin Capsules, extended release 30 mg; 100 mg; 200 mg; 300 mg +
+856377 Trazodone Tablets 50 mg; 100 mg; 150 mg
+856448 Propranolol Tablets 10 mg; 20 mg; 40 mg; 60 mg; 80 mg; 90 mg +
+856535 Propranolol Capsules, extended release 60 mg; 80 mg; 120 mg; 160 mg
+856560 Delaviridine Mesylate Tablets 100 mg; 200 mg *
+856656 Dantrolene Sodium Capsules 25 mg; 50 mg; 100 mg
+856706 Amitriptyline HCL, Perphenazine Tablets 10 mg/2 mg; 10 mg/4 mg; 25 mg/2 mg; 25 mg/4 mg
+856783 Amitriptyline Tablets 10 mg; 25 mg; 50 mg; 75 mg; 100 mg; 150 mg
+856940 Hydrocodone and Acetaminophen Oral Solution 7.5mg/325mg/15ml *
+857002 Hydrocodone and Acetaminophen Tablets 5 mg/325 mg; 7.5 mg/325 mg; 10 mg/325 mg *
+857166 Fosinopril and Hydrochlorothiazide Tablets 10 mg-12.5 mg; 20 mg -12.5 mg
+857169 Fosinopril Sodium Tablets 10 mg; 20 mg; 40 mg
+857216 Sevelamer Hydrochloride Tablets 400 mg; 800 mg
+857297 Clomipramine HCL Capsules 25 mg; 50 mg; 75 mg
+857336 Bethanechol Chloride Tablets 5 mg; 10 mg; 25 mg; 50 mg
+857677 Terbutaline Tablets 2.5 mg; 5 mg +
+857886 Procainamide Injection 100 mg/ml, 10 ml
+857901 Procainamide Tablets 375 mg; 500 mg +
+858035 Saxagliptin Tablets 2.5 mg; 5 mg *
+858109 Procainamide Capsules or 250 mg
+858364 Ketorolac Tromethamine Ophthalmic solution, single use vials 0.45 %, 30s *
+858613 Nicardipine Capsules 20 mg; 30 mg +
+858747 Ursodiol Capsules 300 mg
+858751 Ursodiol Tablets 250 mg; 500 mg
+858804 Enalapril Maleate Tablets 2.5 mg; 5 mg; 10 mg; 20 mg +
+858824 Enalapril and Hydrochlorothiazide Tablets 5 mg-12.5 mg; 10 mg-25 mg
+859033 Pramipexole Dihydrochloride Tablets 0.125 mg; 0.25 mg; 0.5 mg; 1.0 mg; 1.5 mg *
+859193 Selegiline HCL Tablets 5 mg *
+859423 Rosuvastatin Calcium Tablets 5 mg; 10 mg; 20 mg; 40 mg
+859863 Saquinavir Mesylate Tablets 500 mg *
+859963 Morphine Sulfate Pellets 30 mg; 40 mg; 50 mg; 60 mg; 80 mg; 100 mg; 200 mg *
+859974 Asenapine Sublingual Tablets 2.5 mg; 5 mg; 10 mg *
+860103 Ketorolac Tromethamine Ophthalmic Solution 0.4 %; 0.5 %
+860215 Megestrol Acetate Tablets 20 mg; 40 mg
+860225 Megestrol Acetate Suspension 40 mg/ml
+860510 Carvedilol Phosphate Extended Release 10 mg *
+860515 Carvedilol Phosphate Capsules 20 mg; 40 mg; 80 mg *
+860715 Galantamine Hydrobromide Extended-Release Capsules 8 mg; 16 mg; 24 mg *
+860975 Metformin HCl Tablets, Extended Release 500 mg; 750 mg +
+860975 Metformin HCl Tablets, Extended Release (SCOT delivery system) 500 mg; 1000 mg +
+860975 Metformin HCl Tablets, extended release (GR drug delivery system) 500 mg +
+861007 Metformin HCl Tablets 500 mg; 850 mg; 1000 mg +
+861010 Hydrochloride Agents
+861042 Pramlintide Acetate 120 Pen Injector 2.7 ml *
+861044 Pramlintide Acetate 60 Pen Injector 1.5 ml *
+861064 Sertraline HCL Concentrate 20 mg/ml
+861132 Alfuzosin HCl Tablets, extended release 10 mg +
+861208 Brimonidine Tartrate Ophthalmic Solution 0.15 % ; 0.1 % ; 0.2 % *
+861416 Azithromycin Powder packet 1 gm +
+861448 Clobetasol Propionate Ointment 0.05 %, 15 gm; 0.05 %, 30 gm; 0.05 %, 45 gm
+861463 Meperidine HCl Injection, multi- dose vial 50 mcg/ml, 30 ml; 100 mg/ml, 20 ml *
+861479 Meperidine HCl Elixir 50 mg/5 ml *
+861495 Clobetasol Propionate Cream 0.05 %, 15 gm; 0.05 %, 30 gm; 0.05 %, 45 gm
+861601 Pentamidine Powder for injection 300 mg/vial *
+861601 Pentamidine Powder for aerosolized administration 300 mg/vial *
+861635 Brimonidine Tartrate/ Timolol Maleate Ophthalmic Solution 0.2 %/0.5 % *
+861731 Glipizide and Metformin HCl Tablets 2.5 mg/250 mg; 2.5 mg/500 mg; 5 mg/500 mg +
+861743 Glyburide and Metformin HCl Tablets 1.25 mg/250 mg; 2.5 mg/500 mg; 5 mg/500 mg +
+861783 Pioglitazone HCl/ Metformin HCl Tablets 15 mg/500 mg; 15 mg/850 mg +
+861819 Sitagliptin/Metformin HCL Tablets 50 mg/500 mg; 50 mg/1000 mg
+861848 Fluphenazine Liquid 0.5 mg/ml *
+861848 Fluphenazine Liquid concentrate 5 mg/ml *
+862005 Guanfacine HCl Extended-Release Tablets, Extended Release 1 mg; 2 mg; 3 mg; 4 mg *
+863599 Oxybutynin Chloride Syrup 5 mg/5 ml
+863636 Oxybutynin Chloride Tablets, extended release 5 mg; 10 mg; 15 mg
+863664 Oxybutynin Chloride Tablets 5 mg +
+863669 Tamsulosin HCl Capsules 0.4 mg +
+865117 Fluphenazine Tablets 1 mg; 2.5 mg; 5 mg; 10 mg *+
+866021 Cyproheptadine Liquid 2 mg/5 ml
+866094 Buspirone Tablets 5 mg; 10 mg; 15 mg; 30 mg *
+866144 Cyproheptadine Tablets 4 mg
+866427 Metoprolol Tartrate Tablets, extended- release 25 mg; 50 mg; 100 mg +
+866427 Metoprolol Succinate Tablets, extended- release 25 mg; 50 mg; 100 mg; 200 mg +
+866436 Metoprolol Succinate extended- release 50 mg; 100 mg; 200 mg
+866508 Metoprolol Tartrate Injection 1 mg/ml, 5 ml
+866905 Colesevelam HCl Oral suspension 3.75 gm packet *
+866910 Colesevelam HCl Tablets 625 mg
+867501 Pazopanib Hydrochloride Tablets 200 mg *
+876193 Polyethylene Glycol 3350 Powder 238 gm; 510 gm
+884173 Clonidine Hydrochloride Tablets 0.1 mg; 0.2 mg; 0.3 mg *+
+884386 Dextroamphetamine Sulfate Tablets 5 mg; 10 mg *
+885219 Benztropine Mesylate Tablets 0.5 mg; 1 mg; 2 mg *
+885857 Balsalazide Disodium Capsules 750 mg
+886662 Flecainide Acetate Tablets 50 mg; 100 mg; 150 mg
+890785 Butoconazole Nitrate Vaginal cream (prefilled applicator) 2 %
+890785 Butoconazole Nitrate Vaginal Cream (prefilled applicator) 2 %
+892494 Morphine Sulfate Capsules, Extended-Release 10 mg; 20 mg *
+892530 Morphine Sulfate Liquid 10 mg/5 ml; 20 mg/5 ml; 20 mg/ml *
+892582 Morphine Sulfate Tablets, 15 mg *
+895994 Fluticasone Propionate Oral Inhaler, without 44 mcg/actuation, 10.6 gm *
+895999 Fluticasone Propionate chlorofluoro- 110mcg/actuation *
+896004 Fluticasone Propionate propellant 220mcg/actuation; 12 gm *
+896018 Fluticasone Propionate Oral powder for 50 mcg per *
+896025 Fluticasone Propionate inhalation inhalation, 60; 100 mcg per; inhalation, 60; 250 mcg per; inhalation, 60 *
+896184 Fluticasone Propionate and Salmeterol Oral powder for inhalation 100 mcg/50 mcg per inhalation; 250 mcg/50 mcg per inhalation; 500 mcg/50 mcg per inhalation *
+896231 Fluticasone Propionate and Salmeterol Oral Inhaler, without chlorofluorocarbons as the propellant 45 mcg/21 mcg per inhalation, 12 gm; 115 mcg/21 mcg per inhalation,12 gm; 230 mcg/21 mcg per inhalation,12 gm *
+896758 Labetalol HCl Tablets 100 mg; 200 mg; 300 mg +
+897122 Liraglutide Prefilled Pen 18 mg/3ml *
+897696 Hydromorphone Tablets 2 mg; 4 mg; 8 mg *
+897722 Verapamil HCl Tablets 40 mg; 80 mg; 120 mg; 120 mg +
+897749 Hydromorphone Suppositories 3 mg *
+898340 Verapamil HCl Tablets or Capsules, long acting 180 mg; 240 mg +
+898350 Amlodipine Besylate/ Benazepril HCl Capsules 2.5 mg/10 mg; 5 mg/10 mg; 5 mg/20 mg; 10 mg/20 mg; 5 mg/40 mg; 10 mg/40 mg +
+898378 Benazepril HCL and Hydrochlorothiazide Tablets 5 mg - 6.25 mg; 10 mg - 12.5 mg; 20 mg - 12.5 mg; 20 mg - 25 mg +
+898723 Benazepril HCL Tablets 5 mg; 10 mg; 20 mg; 40 mg +
+899511 Dexmethylphenidate HCL Capsules, Extended Release 5 mg; 10 mg; 15 mg; 20 mg; 25 mg; 30 mg; 35 mg; 40 mg *
+899557 Dexmethylphenidate HCL Tablets 2.5 mg; 5 mg; 10 mg *
+900574 Ritonavir Tablets 100 mg *
+901518 Meningococcal Oligosaccharide Diphtheria Conjugate Vaccine Injection 10-5 mcg/0.5 ml *
+901541 Pramipexole Dihydrochloride Tablets, extended-release 0.375 mg; 0.75 mg; 1.5 mg; 3.0 mg; 4.5 mg *
+903456 Liothyronine Sodium Tablets 5 mcg; 25 mcg; 50 mcg
+903846 Pyridostigmine Tablets, long acting 180 mg +
+903857 Pyridostigmine Tablets 60 mg +
+903873 Fluvoxamine Maleate Capsules, Extended Release 100 mg; 150 mg
+903887 Fluvoxamine Maleate Tablets 25 mg; 50 mg; 100 mg
+904170 Primaquine Tablets 26.3 mg
+904425 Alendronate Sodium Tablets 5 mg; 10 mg; 35 mg; 40 mg; 70 mg +
+904458 Pravastatin Tablets 10 mg; 20 mg; 40 mg; 80 mg +
+904492 Alendronate Sodium/ Cholecalciferol Tablets 70 mg/2800 IU; 70 mg/5600 IU *+
+904589 Sotalol HCl Tablets 80 mg; 120 mg; 160 mg; 240 mg
+904880 Buprenorphine Transdermal Patch 5 mcg/hour; 7.5 mcg/hour; 10 mcg/hour; 15 mcg/hour; 20 mcg/hour *
+904932 Ibandronate Sodium Tablets 150 mg
+905041 Risedronate Sodium Tablets 5 mg; 30 mg; 35 mg
+905158 Sirolimus Tablets 0.5 mg; 1 mg
+905172 Protriptyline HCL Tablets 5 mg; 10 mg
+905199 Hydralazine Tablets 10 mg; 25 mg; 50 mg; 100 mg +
+905269 Trihexyphenidyl HCL Tablets 2 mg; 5 mg *
+905273 Trihexyphenidyl HCL Liquid 2 mg/5 ml *
+905377 Isosorbide Dinitrate and Hydralazine Hydrochloride Tablets 20 mg-37.5 mg *
+905516 Chlordiazepoxide HCl Capsules 5 mg; 10 mg; 25 mg *
+966406 Levothyroxine Sodium Tablets or Capsules 0.025 mg; 0.05 mg; 0.075 mg; 0.088 mg; 0.1 mg; 0.112 mg; 0.125 mg; 0.137 mg; 0.15 mg; 0.175 mg; 0.2 mg; 0.3 mg +
+966527 Budesonide Oral Powder for Inhalation 90 mcg/ Inhalation 60; Inhalations/container; 180 mcg/Inhalation 120; Inhalations/container *
+966536 Beclomethasone Dipropionate Oral Inhaler 40 mcg/actuation; 10.6 gm or 8.7gm; 80 mcg/actuation; 10.6 gm or 8.7gm *
+977880 Amiloride HCL Tablets 5 mg
+977883 Amiloride and Hydrochlorothiazide Tablets 5 mg-50 mg
+977939 Oxymorphone Suppositories 5 mg
+978006 Loperamide Capsules 2 mg
+978944 Estradiol Valerate/Dienogest Tablets 28 tablets/packet; 2x3 mg; Estradiol Valerate; 5x2 mg/2 mg; 17x2 mg/3 mg; 2x1 mg; Estradiol Valerate; 2 x inert *
+979092 Hydroxychloroquine Tablets 200 mg *
+979409 Metaproterenol Tablets 10 mg; 20 mg +
+979444 Metaproterenol Liquid 10 mg/ 5 ml
+979468 Losartan and Hydrochlorothiazide Tablets 50 mg-12.5 mg; 100 mg-12.5 mg; 100 mg-25 mg +
+979485 Losartan Tablets 25 mg; 50 mg; 100 mg +
+991039 Chlorpromazine Tablets 10 mg; 25 mg; 50 mg; 100 mg; 200 mg *+
+991061 Dicyclomine Tablets or Capsules 10 mg; 20 mg +
+991082 Dicyclomine Liquid 10 mg/5 ml
+992184 Methenamine Mandelate Tablets 0.5 gm; 1.0 gm +
+992438 Promethazine Tablets 12.5 mg; 25 mg; 50 mg *+
+992441 Promethazine Suppositories 12.5 mg; 25 mg; 50 mg *
+992765 Miconazole Nitrate Vaginal suppositories 200 mg, 3's
+993466 Midodrine HCL Tablets 2.5 mg; 5 mg; 10 mg
+993503 Bupropion HCL Tablets, Sustained Release (12-hour) 100 mg; 150 mg; 200 mg
+993541 Bupropion HCL Tablets, Extended Release (24-hour) 150 mg; 300 mg
+993691 Bupropion HCL Tablets 75 mg; 100 mg
+993755 Codeine and Acetaminophen Liquid 12 mg - 120; mg/5 ml
+993770 Codeine and Acetaminophen Tablets or Capsules 15 mg - 300 to; 325mg; 30 mg - 300 to; 325mg *
+995218 Hydroxyzine HCl Tablets 10 mg; 25 mg; 50 mg +
+995241 Hydroxyzine HCl Syrup 10 mg/5 mg
+995253 Hydroxyzine Pamoate Capsules 25 mg; 50 mg +
+995599 Ethambutol Tablets 100 mg; 400 mg +
+995666 Meclizine HCl Tablets 25 mg +
+995868 Guaifenesin with Codeine Liquid 100 mg-10 mg/5 ml *
+996571 Memantine HCl Tablets 5 mg; 10 mg
+996572 Memantine HCl Titration Pack 5 mg - 10 mg
+996615 Memantine HCl Capsules, Extended Release 7 mg; 14 mg; 21 mg; 28 mg
+996740 Memantine HCl Solution 2 mg/ml
+996824 Methylergonovine Maleate Tablets 0.2 mg
+997226 Donepezil HCL Tablets or Orally Disintegrating Tablets 5 mg; 10 mg *
+998671 Clonidine Hydrochloride Transdermal Patch 0.1 mg/24 hr; 0.2 mg/24 hr; 0.3 mg/24 hr *+
+998689 Acebutolol Capsules 200 mg; 400 mg +
+1000048 Doxepin HCL Capsules 10 mg; 25 mg; 50 mg; 75 mg; 100 mg; 150 mg
+1000054 Doxepin HCL Oral concentrate 10 mg/ml
+1000084 Alcaftadine Ophthalmic Solution 0.25 %
+1000112 Medroxyprogesterone Acetate Tablets
+1000153 Medroxyprogesterone Acetate Injection, prefilled syringe 150 mg/ml
+1000395 Estrogens, conjugated and Medroxyprogesterone Acetate Tablets 0.625 mg-2.5 mg; Tablets from; 28-tablet package; 0.625 mg - 5 mg; Tablets from; 28-tablet package
+1000673 Sulfacetamide Sodium Ophthalmic Ointment 10 %
+1001405 Docetaxel Injection, concentrate 20 mg/0.5 ml; 80 mg/2 ml; 20 mg/ml; 80 mg/4 ml *
+1001433 Cabazitaxel Kit for Injection 60 mg/1.5 ml *
+1005924 Ulipristal Acetate Tablets 30 mg *
+1006120 Sulfacetamide Sodium Ophthalmic Solution 10 %; 15 %; 30 %
+1009149 Aluminum and Magnesium Hydroxide Gel
+1010040 Testosterone Injection in oil 25 mg/ ml; 50 mg/ ml; 100 mg/ ml; 200 mg/ml, 1; ml/vial; 200 mg/ml, 10; ml/vial *
+1010739 Lidocaine Viscous solution 2%
+1010835 Lidocaine Cream 3%
+1011852 Lidocaine Jelly 2%
+1013625 Drospirenone/ Ethinyl estradiol/ Levomefolate Calcium Tablets 28 tablets/packet; 24x3 mg/0.02mg/0.451 mg; 4x0.451 mg; Levomefolate; Calcium; 28 tablets/packet; 21x3 mg/0.03mg/0.451 mg; 7x0.451 mg; Levomefolate; Calcium *
+1013930 Clonidine HCl 12-Hour Tablet 0.1 mg *
+1020477 Diphenhydramine HCL Tablets or Capsules 50 mg +
+1020477 Diphenhydramine Hydrochloride Tablets or Capsules 50 mg +
+1037044 Dabigatran Etexilate Mesylate Capsules 75 mg; 110 mg; 150 mg *
+1039670 Origin) Emergency Kit *
+1043563 Saxagliptin/Metformin HCl Extended-Release Tablets 2.5 mg /1,000 mg; 5 mg /500 mg; 5 mg /1,000 mg *
+1048450 Hydrochloride Granules, flavored (bottle) 450 gm
+1049615 Oxycodone HCl Concentrate *
+1049696 Oxycodone HCl Tablets or Capsules 5 mg; 15 mg; 30 mg *
+1085633 Triamcinolone Ointment (low- sensitizing base excluded) 0.025 %; 0.1 %; 0.5 %
+1085644 Triamcinolone Cream (low- sensitizing base excluded) 0.025 %; 0.1 %; 0.5 %
+1085665 Triamcinolone Intralesional 25 mg/ ml
+1085728 Triamcinolone Paste 0.1 %
+1085741 Triamcinolone Lotion 0.025 %, 60 ml
+1085750 Triamcinolone Parenteral 10 mg/ ml, 5 ml; 40 mg/ ml, 1 ml; 40 mg/ ml, 5 ml
+1085816 Spinosad Topical Suspension 0.9 % *
+1090992 Norethindrone Acetate and Ethinyl Estradiol Tablets from 5/7/9 combination packet 5 x 1 mg/20 mcg; 7 x 1 mg/30 mcg *
+1091155 Methylphenidate HCl Tablets, extended release 18 mg; 27 mg; 36 mg; 54 mg *
+1091497 Methylphenidate HCl Tablets 5 mg; 10 mg; 20 mg *
+1091646 Azilsartan Medoxomil Tablets 40 mg; 80 mg
+1094107 Phenazopyridine HCL Tablets 100 mg; 200 mg
+1095711 Nevirapine Tablets, extended release 400 mg *
+1098141 Niacin Tablets, extended release (includes film coated tablets) 500 mg; 750 mg; 1000 mg
+1098415 Vandetanib Tablets 100 mg; 300 mg *
+1099288 Desipramine HCL Tablets 10 mg; 25 mg; 50 mg; 75 mg; 100 mg; 150 mg
+1099563 Divalproex Sodium Tablets, Extended Release 250 mg; 500 mg +
+1099596 Divalproex Sodium Capsules 125 mg +
+1099625 Divalproex Sodium Tablets, enteric coated 125 mg; 250 mg; 500 mg +
+1099681 Valproic Acid Tablets or Capsules 250 mg
+1099687 Valproic Acid Liquid 250 mg/5 ml
+1099802 Calcium Acetate Liquid 133.4 mg/ml *
+1100701 Linagliptin Tablets 5 mg *
+1102272 Rilpivirine Tablets 25 mg *
+1111265 Potassium Bicarbonate/ Citric Acid Tablets, effervescent 10 meq; 20 meq; 25 meq +
+1114197 Rivaroxaban Tablets 10 mg; 15 mg; 20 mg *
+1115447 Leuprolide Acetate 3-Month Syringe 11.25 mg
+1115448 Leuprolide Acetate Kit (Lupron Depot- 11.25 mg
+1115462 Leuprolide Acetate Injection, prefilled dual chamber syringe 7.5 mg; 22.5 mg; 30 mg; 45 mg *
+1115462 Leuprolide Acetate 1-Month Syringe 7.5 mg
+1115464 Leuprolide Acetate Kit (Lupron Depot- Ped) 30 mg *
+1116634 Ticagrelor Tablets 60 mg; 90 mg *
+1117531 Chloroquine Tablets 250 mg *
+1145800 Emtricitabine/ Rilpivirine/ Tenofovir Disoproxil Fumarate Tablets 200 mg/25; mg/300 mg *
+1147223 Vemurafenib Film-coated Tablets 240 mg *
+1148497 Crizotinib Capsules 200 mg; 250 mg *
+1152273 Amitriptyline Injection 10 mg/ml
+1152860 Acetic Acid with Aluminum Acetate Otic Solution 2 %
+1153691 Naphazoline HCL and Antazoline Phosphate Ophthalmic Solution 0.05 % - 0.5 %
+1154245 Dexamethasone with Neomycin and Polymyxin Ophthalmic 0.1 % - 0.35 %/
+1155527 Cortisone Injection 50 mg/ml
+1157585 Promethazine with Phenylephrine Liquid *
+1158223 Triamcinolone Aerosol inhaler with adapter 20 gm
+1158539 Griseofulvin Liquid (micro size only)
+1160828 Fluorometholone Ophthalmic 0.1 %
+1161354 Paregoric Liquid
+1161354 Paregoric and Protective Liquid
+1161717 Primidone Liquid 0.25 gm/5 ml
+1163095 Brinzolamide/ Ophthalmic 1 % - 0.2 %
+1164236 Terbutaline Aerosol inhaler with adapter 7.5 ml
+1164236 Terbutaline Aerosol inhaler without adapter 7.5 ml
+1164864 Tetracycline Injection 250 mg; 500 mg
+1164876 Theophylline Liquid
+1190220 Ipratropium Bromide and Albuterol Sulfate Inhaler 4 gm; 20 mcg-100 mcg
+1190571 Diphenoxylate HCL with Tablets 2.5 mg
+1190805 Atropine Sulfate Liquid 2.5 mg/5 ml *
+1191185 Penbutolol Sulfate Tablets 20 mg +
+1191256 Fluocinolone Ointment 0.025 %
+1191302 Fluocinolone Cream 0.01 %; 0.025 %
+1191310 Fluocinolone Solution 0.01 %,
+1235247 Lurasidone Hydrochloride Tablets 20 mg; 40 mg; 60 mg; 80 mg; 120 mg *
+1235587 Raltegravir Chewable tablets 25 mg; 100 mg *
+1236627 Darunavir Oral Suspension 100 mg/ml *
+1242991 Vismodegib Capsules 150 mg *
+1243003 Axitinib Tablets 1 mg; 5 mg *
+1243027 Linagliptin/Metformin HCl Tablets 2.5 mg/500 mg; 2.5 mg/850 mg; 2.5 mg/1000 mg *
+1243324 Tenofovir Disoproxil Fumarate Tablets 150 mg; 200 mg; 250 mg; 300 mg *
+1243343 Tenofovir Disoproxil Fumarate Oral Powder 40 mg/1 gm oral; powder *
+1243846 Sitagliptin/Metformin HCL Tablets, Extended Release 50 mg/500 mg; 50 mg/1000 mg; 100 mg/1000 mg
+1245275 Flunisolide Inhalation Aerosol (without chlorofluorocarbons as the propellant) 80 mcg/actuation, 8.9 gm
+1246288 Budesonide/Formoterol Fumarate Dihydrate Inhalation Aerosol 80 mcg/4.5 mcg; 10.2 gm; 160 mcg/4.5 mcg; 10.2 gm *
+1246308 Mometasone Furoate and Formoterol Fumarate Dihydrate Oral inhaler 100 mcg/5 mcg; per actuation/13 gm; 200 mcg/5 mcg; per actuation/13 gm
+1248057 Promethazine Liquid 6.25 mg/5 ml *
+1248057 Promethazine Liquid Fortis 25 mg/5 ml *
+1251903 Ethacrynic Acid Tablets 25mg +
+1292459 Varicella Virus Vaccine Injection 1 dose/vial *
+1293504 Ergotamine Tartrate and Caffeine Tablets
+1293508 Ergotamine Tartrate and Caffeine Suppositories
+1294619 Bismuth Subcitrate Potassium/ Metronidazole/ Tetracycline HCL Capsules 140 mg/125; mg/125 mg *
+1298088 Flurazepam Capsules 15 mg; 30 mg *+
+1298448 Butenafine HCl Cream 1 %
+1298910 Molindone Hydrochloride Tablets 5 mg; 10 mg; 25 mg; 50 mg; 100 mg *+
+1299897 Moexipril HCL Tablets 7.5 mg; 15 mg
+1299911 Tiagabine HCL Tablets, plain 2 mg; 4 mg; 12 mg; 16 mg *+
+1301889 Human Papillomavirus Vaccine Injection 1-dose syringe; 1-dose vial *
+1306286 Elvitegravir Powder for injection 85 mg; 150 mg *
+1306292 Elvitegravir/Cobicistat/ Emtricitabine/Tenofovir Disoproxil Fumarate Tablets 150 mg/150 mg/200 mg/300 mg *
+1307302 Enzalutamide Capsules 40 mg *
+1307623 Bosutinib Tablets 100 mg; 400 mg; 500 mg *
+1312375 Influenza Virus Vaccine Injection (single dose vial) 0.5 ml *
+1312401 Regorafenib Tablets 40 mg *
+1313112 Phenytoin Suspension 125 mg/5 ml; 30 mg/5 ml
+1356556 Perampanel Tablets 2 mg; 4 mg; 6 mg; 8 mg; 10 mg; 12 mg *
+1356688 Omacetaxine Mepesuccinate Powder for injection 3.5 mg *
+1358776 Norethindrone/Ethinyl Estradiol/Iron Tablets 1 -0.02 mg *
+1362706 Mexiletine Hydrochloride Capsules 150 mg; 200 mg; 250 mg
+1363267 Cabozantinib S-Malate Tablets 20 mg; 40 mg; 60 mg *
+1363267 Cabozantinib S-Malate Capsules 60 mg daily-dose; carton (84x20 mg); 100mg daily-dose; carton; (28x80 mg and; 28x20 mg); 140mg daily-dose; carton; (28x80 mg and; 84x20 mg) *
+1364351 Ponatinib Tablets 10 mg; 15 mg; 30 mg; 45 mg *
+1364434 Apixaban Tablets 2.5 mg; 5 mg *
+1365980 Vitamins A, D, C, with Sodium Fluoride Drops 50 ml
+1366192 Clobazam Suspension 2.5 mg/ml *
+1367436 Etonogestrel and Ethinyl Estradiol Vaginal Ring 0.120 mg - 0.015; mg *+
+1368005 Alogliptin Tablets 6.25 mg; 12.5 mg; 25 mg *
+1368392 Alogliptin/ Metformin HCL Tablets 12.5 mg/500 mg; 12.5 mg/1000 mg *
+1368403 Alogliptin/ Pioglitazone Tablets 12.5 mg/15 mg; 12.5 mg/30 mg; 12.5 mg/45 mg; 25 mg/15 mg; 25 mg/30 mg; 25 mg/45 mg
+1370489 Metoprolol Succinate Capsules, 25 mg
+1371041 Ado-Trastuzumab Emtansine Vial 100 mg; 160 mg *
+1373013 Cefixime Liquid 100 mg/5 ml
+1375948 Doxylamine/ Pyridoxine HCL Tablets, delayed release 10 mg/10 mg *
+1424915 Dabrafenib Capsules 50 mg; 75 mg *
+1425103 Trametinib Tablets 0.5 mg; 2 mg *
+1430445 Afatinib Tablets 20 mg; 30 mg; 40 mg *
+1433872 Dolutegravir Tablets 10 mg; 25 mg; 50 mg *
+1437554 Mechlorethamine HCl Topical gel 0.016 % *
+1437702 Ipratropium Bromide and Albuterol Sulfate Solution for inhalation 0.5 mg/3.0 mg, 3 ml
+1437968 Cyclophosphamide Tablets/Capsules 25 mg; 50 mg
+1439807 Vortioxetine Tablets 5 mg; 10 mg; 20 mg
+1442982 Ibrutinib Tablets 140 mg; 280 mg; 420 mg; 560 mg *
+1442985 Ibrutinib Capsules 140 mg; 70 mg *
+1483744 Naltrexone HCL Tablets 50 mg
+1484915 Sofosbuvir Tablets 200 mg; 400 mg *
+1486838 Raltegravir Oral Suspension packets 100 mg *
+1488568 Dapagliflozin Tablets 5 mg; 10 mg *
+1491862 Hepatitis A & B Virus Vaccine Injection 1-dose syringe; 1-dose vial *
+1492731 Apremilast Tablets 30 mg *
+1495058 Propranolol Liquid 4.28 mg/ml *
+1495058 Propranolol Liquid 4 mg/ml; 8 mg/ml
+1535461 Ceritinib Capsule 150 mg *
+1544464 Idelalisib Tablets 100 mg; 150 mg *
+1545172 Hydrocortisone Rectal foam, aerosol with rectal applicator 10%
+1545657 Empagliflozin Tablets 10 mg; 25 mg
+1546082 Olodaterol HCl Inhaler 2.5 mcg, 4 gm *
+1546888 Abacavir Sulfate/Dolutegravir/ Lamivudine Tablets 600 mg/50 mg/300 mg *
+1549683 Rivaroxaban Starter Pack Tablets 15 mg to 20 mg; Tablets from 51-; tablet pack *
+1551295 Dulaglutide Injection, pen 0.75 mg/0.5 ml; 1.5 mg/0.5 ml; 3 mg/0.5 ml; 4.5 mg/0.5 ml *
+1551917 Naloxegol Oxalate Tablets 12.5 mg; 25 mg *
+1551992 Cobicistat Tablets 150 mg *
+1593072 Dapagliflozin/ Metformin HCl Extended Release Tablets 5 mg/500 mg; 5 mg/1000 mg; 10 mg/500 mg; 10 mg/1000 mg
+1593128 Meningococcal Group B Vaccine Injection 50-50 mcg/0.5ml; 120 mcg/0.5 ml *
+1593856 Lisdexamfetamine Dimesylate Capsules 10 mg; 20 mg; 30 mg; 40 mg; 50 mg; 60 mg; 70 mg
+1597262 Blinatumomab Injection kit 35 mcg *
+1597586 Olaparib Capsules 50 mg *
+1598984 Atazanavir Sulfate Oral Powder 50 mg/packet *
+1599791 Secukinumab prefilled syringes or pens (75 mg); 150 mg/ml x 1; (150 mg); 150 mg/ml x 2; (300 mg) *
+1600704 Cobicistat/Darunavir Tablets 150 mg/800 mg *
+1601654 Atazanavir/Cobicistat Tablets 300 mg/150 mg *
+1602109 Empagliflozin/ Linagliptin Tablets 10 mg/5 mg; 25 mg/5 mg *
+1603354 Panobinostat Capsules 10 mg; 15 mg; 20 mg *
+1604344 Lenvatinib Capsules 4 mg/day; 8 mg/day; 10 mg/day; 14 mg/day; 18 mg/day; 20 mg/day; 24 mg/day *
+1606347 Metoprolol Tartrate Tablets 37.5 mg; 75 mg
+1648753 Nitrofurantoin Capsules (macrocrystals only) 25 mg; 50 mg; 100 mg
+1648759 Nitrofurantoin Capsules (monohydrate/ macrocrystals) 100 mg
+1651275 Tiotropium Bromide/ Olodaterol HCLHC Inhaler 2.5 mg/2.5 mcg, 4; gm *
+1651307 Peginterferon Alfa-2A Injection 180 mcg/ml *
+1653196 Insulin Aspart Cartridge 100 units/ml,3 ml x 5 *
+1653196 Insulin Aspart (niacinamide) Cartridge 100 units/ml,3 ml x 5 *
+1653202 Insulin Aspart (niacinamide) Prefilled Pen 100 units/ml,3 ml x 5 *
+1653202 Insulin Aspart Prefilled Pen 100 units/ml,3 ml x 5 *
+1653223 Etanercept Single-dose prefilled SureClick autoinjector 50 mg/ml *
+1653616 Exenatide Pre-filled Extended Release Injectable Suspension Pen 2.5 mg/pen *
+1655955 Methotrexate Injection 2.5 mg/ml, 2 ml; 25 mg/ml, 2 ml; 2.5mg/ml, 4 ml; 25 mg/ml, 8 ml; 25 mg/ml, 10 ml
+1656294 Obinutuzumab Injection 25 mg/ml *
+1657004 Ipilimumab Injection 50 mg/10 ml; 200 mg/40 ml *
+1657065 Bevacizumab Injection 25 mg/ml *
+1657173 Sumatriptan Succinate Injection (kit or refill) 4 mg ; 6 mg *
+1657189 Nivolumab Injection 40 mg/4 ml; 100 mg/10 ml; 240 mg/24 ml *
+1657572 Pertuzumab Injection 420 mg/14 ml *
+1657657 Cetuximab Injection 100 mg/50 ml; 200 mg/100 ml *
+1657702 Panitumumab Injection 100 mg/5 ml; 200 mg/10ml; 400 mg/20 ml *
+1657746 Pembrolizumab Powder for injection 50 mg/vial *
+1657750 Pembrolizumab Solution for injection 100 mg/4 ml *
+1657774 Ramucirumab Injection 100 mg/10 ml; 500 mg/50 ml *
+1657861 Rituximab Injection 10 mg/ml *
+1658041 Ofatumumab Injection 100 mg/5 ml; 1000 mg/50 ml *
+1658692 Heparin Injection, premixed in 0.9% Sodium; Chloride (NS)
+1659277 Ceftazidime Injection
+1659278 Ceftazidime Powder for Injection
+1659921 Sonidegib Capsules 200 mg *
+1659928 Naloxone HCL Injection 0.4 mg/ml; 1.0 mg/ml
+1660003 Thiotepa Injection 15 mg
+1660013 Epinephrine Injection 1:1000, 1 ml; 1:1000, 30 ml
+1661387 Epinephrine Auto-injector 1:1000, 0.3 ml; 1:1000, 0.3 ml *
+1664315 Empagliflozin/ Metformin Tablets 5 mg/500 mg; 5 mg/1000 mg; 12.5 mg/500 mg; 12.5 mg/1000 mg *
+1665052 Cefazolin Sodium Injection 500 mg in 5 %; Dextrose and; water (D5W); 1 gm in 5 %; Dextrose and; water (D5W)
+1665052 Cefazolin Sodium Powder for injection 250 mg/vial; 500 mg/vial; 1 gm/vial; 5 gm/vial; 10 gm/vial; 20 gm/vial; 500 mg,piggyback; 1 gm, piggyback
+1665056 Verapamil HCl Injection 5 mg/2 ml ampule; 10 mg/4 ml ampule; 5 mg/2 ml vial; 10 mg/4 ml vial
+1665699 Meperidine HCl Injection, single- dose vial or ampule 25 mg; 50 mg; 75 mg; 100 mg *
+1665904 Evolocumab Single-dose prefilled syringe 140 mg/ml *
+1665904 Evolocumab Single-dose prefilled SureClick autoinjector 140 mg/ml *
+1666780 Atropine Injection
+1667880 Tiotropium Bromide Inhaler 1.25 mcg, 4 gm; 2.5 mcg, 4 gm *
+1670008 Insulin Degludec Injection 100 units/ml *
+1670011 Insulin Degludec Prefilled Pen 100 units/ml,3 ml x 5; 200 units/ml,3 ml x 3 *
+1670192 Phytonadione Injection 10 mg/ml, 1 ml; 10 mg/ml, 2.5 ml; 10 mg/ml, 5 ml
+1670351 Phenytoin Capsules, prompt 100 mg +
+1716209 Patiromer Oral Suspension 4; 8.4 gm carton of; 30; 16.8 gm carton of; 30; 25.2 gm carton of; 30 *
+1716209 Patiromer Powder Packets for 8.4 gm carton of *
+1718589 Trabectedin Vial 1 mg *
+1719000 Gemcitabine HCl Powder for Injection 200 mg/vial; 1 gm/vial *
+1719285 Furosemide Injection 10 mg/ml
+1719772 Irinotecan Liposome Injection 43 mg/10 ml *
+1720877 Interferon Alfa-2b Injection
+1720877 Interferon Alfa-2b Powder for injection
+1720877 Interferon Alfa-2b Injection pen
+1720877 Interferon Alfa-2b Injection kit
+1721278 Talimogene Laherparepvec Injection 106 (1 million) PFU/ml; 108 (100 million) PFU/ml
+1721309 Fluconazole Injection 2 mg/ml, 100 ml; (saline); 2 mg/ml, 200 ml; (saline); 2 mg/ml, 100 ml; (dextrose); 2 mg/ml, 200 ml; (dextrose)
+1721458 Nafcillin Powder for injection 500 mg/vial; 1 gm/vial; 2 gm/vial; 10 gm/vial; 1 gm, piggyback; 2 gm, piggyback
+1721565 Osimertinib Tablets 40 mg; 80 mg *
+1721613 Elvitegravir/Cobicistat/ Emtricitabine/Tenofovir Alafenamide Tablets 150 mg/150 mg/200 mg/10 mg *
+1721637 Epoetin Alfa Injection 2000 u/ml; 3000 u/ml; 4000 u/ml; 10,000 u/ml; 20,000 u/ml; 40,000 u/ml *
+1721950 Daratumumab Injection 100 mg/5 ml; 400 mg/20 ml *
+1722370 Cobimetinib Tablets 20 mg *
+1723156 Amikacin Sulfate Injection, vial 500 mg/2 ml; 1,000 mg/4 ml
+1723193 Ziv-Aflibercept Injection 100 mg/4 ml; 200 mg/8 ml *
+1723231 Desmopressin Injection 4 mcg/ml
+1723739 Diphenhydramine HCL Injection 50 mg/ml; 10 mg/ml
+1723739 Diphenhydramine Hydrochloride Injection 50 mg/ml; 10 mg/ml
+1723744 Necitumumab Injection 800 mg/50 ml *
+1723757 Ixazomib Capsules 2.3 mg; 3 mg; 4 mg *
+1724135 Nelarabine Injection 5 mg/ml *
+1724207 Hydromorphone Injection 1 mg/ml, 1 ml; 2 mg/ml, 1 ml; 2 mg/ml, 20 ml; 3 mg/ml; 4 mg/ml; 10 mg/ml, 1 ml; 10 mg/ml, 5 ml *
+1724665 Aminophylline Injection 250 mg; 500 mg
+1724826 Promethazine Injection 25 mg/ml, 1 ml; 25 mg/ml, 10 ml; 50 mg/ml *
+1725059 Naloxone HCL Intranasal Spray 4 mg/0.1ml ; 8 mg/0.1 ml *
+1726110 Elotuzumab Powder for injection 300 mg; 400 mg *
+1726276 Ixabepilone Injection kit 15 mg; 45 mg *
+1726318 Irinotecan HCl Injection
+1726504 Benztropine Mesylate Injection 1 mg/ml *
+1726672 Bleomycin Sulfate Injections 15 Units/Ampule
+1727479 Alectinib Capsules 150 mg *
+1728058 Pegaspargase Injection 750 units/ml
+1728077 Pemetrexed Powder for injection 100 mg/vial; 500 mg/vial *
+1728776 Morphine Sulfate Injection *
+1729351 Busulfan Injection 6 mg/ml *
+1731046 Cidofovir Injection 75 mg/ml *
+1731084 Cladribine Injection 1mg/ml
+1731340 Dacarbazine Powder for Injection 100 mg/vial; 200 mg/vial; 500 mg/vial
+1731582 Glycopyrrolate Injection 0.2 mg/ml, 1 ml; 0.2 mg/ml, 2 ml; 0.2 mg/ml, 5 ml; 0.2 mg/ml, 20 ml
+1732171 Epirubicin HCl Injection 2 mg/ml
+1734339 Etoposide Injection
+1734377 Foscarnet Sodium Calcium Injection 24 mg/ml, 250 ml; 24 mg/ml, 500 ml *
+1734395 Granisetron Hydrochloride Injection 1 mg/ml, 1 ml *+
+1734636 Elbasvir/ Grazoprevir Tablets 50 mg/100 mg *
+1734916 Cyclophosphamide Injection 100 mg/10 ml; 200 mg/20 ml; 500 mg/30 ml
+1734917 Cyclophosphamide Powder for Injection 1000 mg/vial; 2000 mg/vial
+1735493 Somatropin Pen Injector 5 mg/2 ml; 10 mg/2 ml; 20 mg/2 ml *
+1736464 Streptomycin Injection 1 gm dry
+1736560 Eribulin Mesylate Injection 0.5 mg/ml *
+1736580 Daunorubicin HCL Powder for Injection
+1736580 Daunorubicin HCL Injection
+1736775 Oxaliplatin Injection 5 mg/ml *
+1736853 Cisplatin Injection 1.0 mg/ml
+1736854 Cisplatin Powder for Injection 10 mg/vial; 50 mg/vial
+1737230 Clindamycin Phosphate Injection 150 mg/ml
+1737342 Lidocaine Hydrochloride Injection 1 %, 10 ml; 1 %, 20 ml *+
+1737431 Amphotericin B Injection
+1737459 Pamidronate Disodium Powder for Injection
+1738585 Hydrocortisone Injection 25 mg/ml, 5 ml; 25 mg/ml, 10 ml; 50 mg/ml, 5 ml; 50 mg/ml, 10 ml
+1738611 Medroxyprogesterone Acetate Injection 150 mg/ml; 400 mg/ml
+1740463 Ondansetron Injection 2 mg/ml, 2 ml *+
+1740474 Tobramycin Injection 10mg/ml, 2ml vial; 10mg/ml, 6ml vial; 10mg/ml, 8ml vial; 40mg/ml, 2ml vial; 40mg/ml, 30ml; vial; 40mg/ml, 1.5ml; syringe; 40mg/ml, 2ml; syringe
+1740864 Fludarabine Phosphate Powder for injection 50 mg/vial
+1740894 Mitomycin Powder for injection 5 mg/vial; 20 mg/vial; 40 mg/vial *
+1740916 Metoclopramide HCl Injection 5 mg/1 ml
+1741733 Emtricitabine/ Rilpivirine/Tenofovir Alafenamide Tablets 200 mg/25 mg/25; mg *
+1743558 Digoxin Injections 0.25 mg /ml
+1744001 Emtricitabine and Tenofovir Disoproxil Fumarate Tablets 100 mg/150 mg; 133 mg/200 mg; 167 mg/250 mg; 200 mg/300 mg *
+1747572 Venetoclax Tablets 10 mg; 50 mg; 100 mg *
+1747580 Venetoclax Tablets, Starting Pack (42 tablets/pack) 14 x 10 mg; 7 x 50 mg; 21 x 100 mg *
+1789973 Propranolol Injection 1 mg/ml, 1 ml
+1790094 Doxorubicin HCL Injection
+1790103 Doxorubicin HCL Powder for Injection
+1790115 Doxorubicin HCL Liposome Injection 20 mg/10 ml; 50 mg/10 ml *
+1790122 Perampanel Suspension 0.5 mg/ml *
+1790639 Glycopyrrolate and Formoterol Fumarate Oral Inhaler 9 mcg/4.8 mcg,10.7 gm
+1790811 Dolasetron Mesylate Injection 100 mg/5 ml *+
+1791593 Ifosfamide Powder for Injection 1 gm/vial; 3 gm/vial
+1791700 Fluorouracil Injection 50 mg/ml, 10 ml; 50 mg/ml, 20 ml; 50 mg/ml, 50 ml; 50 mg/ml, 100 ml
+1792779 Atezolizumab Injection 1200 mg/20 ml; 840 mg/14 ml *
+1795152 Prochlorperazine Injection, Prefilled Syringe
+1795152 Prochlorperazine Injection 5 mg/ml
+1796089 Linagliptin/Metformin HCl Tablets, Extended Release 2.5 mg/1000 mg; 5 mg/1000 mg *
+1797866 Azelastine HCl Nasal Spray 0.15 %
+1797867 Azelastine HCl Nasal Spray 137 mcg (0.1 %)
+1797890 Fluticasone Furoate Nasal Spray 27.5 mcg/actuation, 9.9 ml; 27.5 mcg/actuation, 15.8 ml; 27.5 mcg/actuation, 10 gm
+1797895 Olopatadine HCL Nasal spray 0.6% *
+1797907 Fluticasone Propionate Nasal Spray 50 mcg/actuation,9.9 ml; 50 mcg/actuation,15.8 ml; 50 mcg/actuation,16.0 gm; 93 mcg/actuation,16.0 ml *
+1799416 Topotecan HCL Powder for injection 4 mg/vial *
+1799654 Sulfonate Suspension 15 g/60 ml
+1801279 Cholestyramine Regular powder 378 gm can +
+1801279 Cholestyramine Light powder 210 - 268 gm can +
+1801289 Bupropion HCL Tablets, sustained release for Smoking Cessation 150 mg *+
+1801319 Evolocumab Single-dose Pushtronex system (on-body infusor with prefilled cartridge) 420 mg/3.5 ml *
+1803930 Leucovorin Calcium Powder for injection 50 mg/vial; 100 mg/vial
+1804033 Arsenic Trioxide Injection 1 mg/ml; 12 mg/6 ml *
+1805000 Bendamustine HCL Injection 45 mg/0.5 ml; 180 mg/2 ml; 100 mg/4 ml *
+1805007 Bendamustine HCL Powder for Injection 25 mg; 100 mg *
+1805970 Oxybutynin Transdermal system 3.9 mg *
+1805978 Rivastigmine Transdermal System 4.6 mg/24 hr; 9.5 mg/24 hr; 13.3 mg/24 hr *
+1806177 Methylphenidate HCl release (LA) 20 mg; 30 mg; 40 mg; 60 mg *
+1806187 Methylphenidate HCl release (CD) 20 mg; 30 mg; 40 mg; 50 mg; 60 mg *
+1806195 Methylphenidate HCl Capsules, extended 10 mg *
+1806195 Methylphenidate HCl Capsules, extended 10 mg *
+1806237 Norelgestromin and Ethinyl Estradiol Transdermal Patch 6 mg - 0.75 mg; 4.86 mg -; 0.53 mg *
+1806907 Decitabine Injection 50 mg/vial *
+1806933 Carfilzomib Injection 10 mg; 30 mg; 60 mg *
+1807516 Vancomycin Powder for injection 500 mg vial; 1 gm vial; 5 gm vial; 10 gm vial
+1807646 Sodium Chloride Injection Vial 0.9 %, 10 ml; 0.9 %, 30 ml *
+1812073 Dexamethasone Injection 4 mg/ml
+1855526 Adalimumab (original or citrate free) (80 mg/40 mg) 40 mg/0.4 ml *
+1856275 Heparin Lock Flush Solution
+1857598 Heparin Injection in 5% Dextrose; and water (D5W)
+1857601 Zidovudine Injection 10 mg/ ml *
+1857920 Maraviroc Oral solution 20 mg/ml *
+1858260 Tenofovir Alafenamide Tablets 25 mg *
+1860131 Potassium Chloride Injection
+1862700 Empagliflozin/ Metformin Tablets, Extended - Release 5 mg/1000 mg; 10 mg/1000 mg; 12.5 mg/1000 mg; 25 mg/1000 mg *
+1863308 Teniposide Injection
+1863330 Metronidazole Injection 500 mg/100 ml
+1863334 Hydralazine Injection 20 mg/ml
+1863342 Vincristine Sulfate Injection 1 mg/1 ml; 2 mg/2 ml
+1865664 Zoledronic Acid Injection 4 mg/5 ml
+1865665 Zoledronic Acid Powder for Injection
+1867714 Terbutaline Injection 1 mg/ ml
+1869513 Everolimus Tablets for oral suspension 2 mg; 3 mg; 5 mg *
+1870220 Gentamicin Ophthalmic Ointment 0.3 %
+1870244 Gentamicin Injection 10 mg/ml, 2 ml; 10 mg/ml, 6 ml; 10 mg/ml, 8 ml; 10 mg/ml, 10 ml; 40 mg/ml, 2 ml; 40 mg/ml, 20 ml; 40 mg/ml, 50 ml
+1871464 Lisdexamfetamine Dimesylate Chewable Tablets 10 mg; 20 mg; 30 mg; 40 mg; 50 mg; 60 mg
+1875541 Avelumab Injection 200 mg/10 ml *
+1876918 Deutetrabenazine Tablets 6 mg; 9 mg; 12 mg *
+1918042 Abiraterone Acetate Film-coated Tablets 500 mg *
+1918235 Niraparib Capsules 100 mg *
+1919088 Midostaurin Capsules 25 mg *
+1919506 Durvalumab Injection 500 mg/10 ml; 120 mg/2.4 ml *
+1921009 Adalimumab (original or citrate free) Prefilled pens or 10 mg/0.1 ml *
+1921016 Adalimumab (original or citrate free) syringes 20 mg/0.2 ml; 40 mg/0.4 ml; 40 mg/0.8 ml; 80 mg/0.8 ml *
+1921221 Brigatinib Tablets 30 mg; 90 mg; 180 mg *
+1921244 Adalimumab (original or citrate free) Starter Packages Chron.-UC-HS PS-UV-ADOL HS Chron.-UC-HS 40 mg/0.8 ml; 80 mg/0.8 ml *
+1921244 Adalimumab (original or citrate free) Pedi. UC PS-UV-ADOL HS 80 mg/0.8 ml and *
+1921467 Adalimumab (original or citrate free) Pedi. Chron. (80 mg/40 mg) *
+1921591 Methotrexate Oral solution 2.5 mg/ml *
+1922509 Trastuzumab Powder for injection 150 mg; 440 mg *
+1922765 Sotalol HCL AF Tablets 80 mg; 120 mg; 160 mg
+1922783 Dorzolamide HCL and Timolol Maleate Ophthalmic Solution 2 %/0.5 %
+1922876 Timolol Maleate Ophthalmic Drops 0.25 %, single use; 0.25 %, single use; 0.5 %, single use; 0.5 %, single use
+1923057 Ribociclib and Letrozole Tablets 600mg daily dose; (3x21 tablet; blister packs) and; 2.5 mg (bottle of; 28 tablets); 400mg daily dose; (3x14 tablet; blister packs) and; 2.5 mg (bottle of; 28 tablets); 200mg daily dose; (1x21 tablet; blister packs) and; 2.5 mg (bottle of; 28 tablets) *
+1923057 Ribociclib Tablets 600mg daily dose; (3 x 21 tablet; blister packs); 400mg daily dose; (3 x 14 tablet; blister packs); 200mg daily dose; (1 x 21 tablet; blister packs) *
+1926066 Ritonavir Oral powder packets 100 mg *
+1927885 Rituximab and Hyaluronidase Human Injection 1400 mg/23400; units/11.7 ml; 1600 mg/26800; units/13.4 ml *
+1940703 Glecaprevir/Pibrentasvir Tablets (dose-pack) 100 mg/40 mg *
+1942481 Olaparib Tablets 100 mg; 150 mg *
+1942954 Inotuzumab Ozogamcin Injection 0.9 mg/vial *
+1945078 Copanlisib Lyophilized solid 60 mg *
+1946691 Secnidazole Oral granules 2 gm *
+1946826 Abemaciclib Tablets 50 mg; 100 mg; 150 mg; 200 mg *
+1986813 Acalabrutinib Capsules 100 mg *
+1986820 Varicella Zoster Vaccine Injection kit 1 dose/vial *
+1986825 Zoster Vaccine Injection 1 dose/vial *
+1988785 Brigatinib Tablets (starter pack) 90 mg/180 mg; (7x90 mg/bottle; and 23x180; mg/bottle) *
+1989500 Dolutegravir/ Rilpivirine Tablets 50 mg/25 mg *
+1991306 Semaglutide Prefilled Pen 0.25-0.5mg/1.5 ml; 1 mg/1.5 ml; 1 mg/3 ml *
+1992427 Apixaban Starter Pack Tablets 5 mg *
+1992867 Netarsudil Ophthalmic Solution 0.02 % *
+1996260 Darunavir/Cobicistat/ Emtricitabine/Tenofovir Alafenamide Tablets 80 mg/150 mg/200 mg/10 mg *
+1999308 Hydroxyurea Tablets 100 mg; 1000 mg *
+1999581 Apalutamide Tablets 60 mg *
+2001424 Efavirenz/Lamivudine Tenofovir Disoproxil Fumarate Tablets 400 mg/300 mg/300 mg; 600 mg/300 mg/300 mg *
+2001434 Lidocaine Topical system 1.8 % *
+2003249 Lamivudine/Tenofovir Disoproxil Fumarate Tablets 300 mg/300 mg *
+2043317 Ibalizumab-Uiyk Injection 200 mg/1.33ml *
+2046579 Abiraterone Acetate Tablets 125 mg ; 250 mg *
+2047633 Sodium Zirconium Cyclosilicate Powder Packets 5 gm; 10 gm *
+2049119 Encorafenib Capsules 75 mg *
+2049127 Binimetinib Tablets 15 mg *
+2049852 Elagolix Tablets 150 mg; 200 mg *
+2049878 Ivosidenib Tablets 250 mg *
+2050787 Influenza Virus Vaccine Injection (multi- dose vial) 5.0 ml *
+2054272 Influenza Virus Vaccine Influenza vaccine live, intranasal 0.2 ml *
+2055760 Doravirine Tablets 100 mg *
+2055813 Doravirine/Lamivudine/ Tenofovir Disoproxil Fumarate Tablets 100 mg/300 mg/300 mg *
+2055989 Segesterone Acetate and Ethinyl Estradiol Vaginal Ring 103 mg - 17.4 mg *
+2056695 Fremanezumab-VFRM Prefilled syringe 225 mg/1.5 ml *
+2058514 Duvelisib Capsules 15 mg; 25 mg *
+2058830 Cemiplimab-Rwlc Injection 350 mg/7 ml *
+2058869 Galcanezumab-Gnlm Injection 120 mg/ml *
+2058915 Dacomitinib Tablets 15 mg; 30 mg; 45 mg
+2099309 Moxetumomab Pasudotox-Tdfk Injection 1 mg *
+2099946 Talazoparib Capsules 0.25 mg; 0.5 mg; 0.75 mg; 1 mg *
+2099993 Leucovorin Calcium Injection 3 mg/ml, 1 ml
+2100008 Baloxavir Marboxil Tablets 40 mg; 80 mg *
+2100170 Colestipol Granules (bottle) 500 gm
+2101899 Sodium Polystyrene Powder
+2103169 Lorlatinib Tablets 25 mg; 100 mg *
+2105648 Larotrectinib Oral solution 20 mg/ml *
+2105655 Larotrectinib Capsules 25 mg; 100 mg *
+2105811 Gilteritinib Tablets 40 mg *
+2105826 Rituximab-ABBS Injection 100 mg/10 ml; 500 mg/50 ml *
+2105858 Glasdegib Tablets 25 mg; 100 mg *
+2108209 Levalbuterol HCl Inhalation solution 0.31 mg; 0.63 mg; 1.25 mg
+2108252 Metaproterenol Inhalant solution 0.6%, 2.5 ml; 5%, 10 ml; 5%, 30 ml
+2108326 Cromolyn Sodium Capsules 20 mg
+2108327 Cromolyn Sodium Inhaler device for capsules
+2108327 Cromolyn Sodium Inhaler 8.1 gm; 14.2 gm
+2108449 Ipratropium Bromide Inhalant solution 0.02 %, 2.5 ml
+2108561 Water for Injection Injection 10 ml; 30 ml
+2119699 Netarsudil/ Latanoprost Ophthalmic Solution 0.02 %/0.005 % *
+2119713 Trastuzumab and Hyaluronidase-oysk Injection 600 mg/10,000; units *
+2120550 Diazepam Injection 5 mg/ml *
+2121059 Ceritinib Tablets 150 mg *
+2122519 Dolutegravir/ Lamivudine Tablets 50 mg/300 mg *
+2123131 Erdafitinib Tablets 3 mg; 4 mg; 5 mg *
+2169317 Alpelisib (Piqray) Tablets 50 mg; 150 mg; 200 mg *
+2169359 Trastuzumab-pkrb Injection 150 mg; 20 mg *
+2173493 Midazolam Nasal spray 5 mg *
+2174095 Polatuzumab Vedotin- Piiq Injection 140 mg *
+2180330 Darolutamide Tablets 300 mg *
+2180666 Glucagon (synthetic) Nasal Powder 3 mg *
+2182339 Etanercept Enbrel Mini single- dose prefilled cartridge 50 mg *
+2183125 Pexidartinib Capsules 200 mg *
+2197867 Entrectinib Capsules 100 mg; 200 mg *
+2199299 Glucagon (synthetic) Prefilled Auto- Injector 0.5 mg/0.1ml; 1.0 mg/0.2 ml *
+2199310 Glucagon (synthetic) Prefilled Syringe 0.5 mg/ 0.1 ml; 1.0 mg/0.2 ml *
+2199315 Glucagon (synthetic) Single-Dose Vial/ Syringe Kit 1 mg/0.2 ml *
+2200652 Semaglutide Tablets 3 mg; 7 mg; 14 mg *
+2203895 Ledipasvir/Sofosbuvir Tablets 45 mg/200 mg; 90 mg/400 mg *
+2203993 Sofosbuvir Pellet packets 150 mg; 200 mg *
+2204100 Ledipasvir/Sofosbuvir Pellet packets 33.75 mg/150 mg; 45 mg/200 mg *
+2256945 Lasmiditan Succinate Tablets 50 mg; 100 mg *
+2261788 Diroximel Fumarate Capsules, delayed- release 231 mg *
+2262024 Omeprazole/ Amoxicillin/Rifabutin Capsules, delayed release 10 mg/250; mg/12.5 mg *
+2262440 Zanubrutinib Capsules 80 mg *
+2267574 Fam-Trastuzumab Deruxtecan-Nxki Powder for injection 100 mg *
+2268229 Ubrogepant Tablets 50 mg; 100 mg *
+2269593 Buprenorphine/ Naloxone Sublingual Film 2 mg/0.5mg; 4 mg/1 mg; 8 mg/2 mg; 12 mg/3 mg *
+2272612 Diazepam Nasal Spray 5 mg; 10 mg; 15 mg; 20 mg *
+2274384 Tazemetostat Tablets 200 mg *
+2282023 Isatuximab-Irfc Injection 100 mg/ 5 ml; 500 mg/25 ml *
+2282312 Rimegepant Tablets, orally disintegrating 75 mg *
+2284107 Palbociclib Capsules and tablets 75 mg; 100 mg; 125 mg *
+2284960 Remdesivir Single Dose Vial 100 mg
+2287903 Fremanezumab-VFRM Prefilled autoinjector 225 mg/1.5 ml; 225 mg/1.5 ml x 3 *
+2288406 Ozanimod Hydrochloride Capsules 0.92 mg, 30 count; bottle *
+2288430 Ozanimod Hydrochloride Starter Kit 0.23 mg x 4,0.46 mg x 3,0.92 mg x 30 *
+2288432 Ozanimod Hydrochloride 7-day starter pack 0.23 mg x 4,0.46 mg x 3 *
+2288814 Sofosbuvir/Velpatasvir Tablets 200 mg/ 50 mg; 400 mg/100 mg *
+2289227 Trastuzumab-dttb Injection 150 mg; 420 mg *
+2359356 Empagliflozin/ Linagliptin/Metformin Tablets 5mg/2.5mg/1000 mg; 10mg/5mg/1000 mg; 12.5mg/2.5mg/1000 mg; 25mg/5mg/1000 mg *
+2360531 Sacituzumab Govitecan-hziy Vial 180 mg *
+2362234 Capmatinib Tablets 150 mg; 200 mg *
+2367758 Remdesivir Vial 100 mg/20 ml
+2369397 Ripretinib Tablets 50 mg *
+2370164 Selpercatinib Capsules 40 mg; 80 mg *
+2371767 Elagolix, Estradiol and Norethindrone Acetate Capsule packet 28 x 300 mg &; 28 x 300 mg/1 mg/0.5 mg *
+2371771 Leuprolide Acetate Syringe Kit (Fensolvi) 45 mg *
+2372199 Daratumumab and Hyaluronidase-Fihj Injection 1800 mg/30,000; units/15 ml *
+2374561 Dolutegravir Tablets for Oral Suspension 5 mg *
+2375818 Mitomycin Single-dose carton (40 mg x 2) *
+2380549 Fostemsavir Extended -Release Tablets 600 mg *
+2383032 Levorphanol Tartrate Injection 2 mg, 1 ml; 2 mg, 1 0ml *
+2383305 Pertuzumab, Trastuzumab and Hyaluronidase-Zzxf Subcutaneous Injection 600 mg/600 mg/20,000 units/10ml; 1200 mg/600 mg/30,000 units/15ml *
+2385348 Lactic Acid, Citric Acid and Potassium Bitartrate Vaginal Gel *
+2387838 Belantamab mafodotin-blmf Injection 100 mg
+2390644 Enzalutamide Tablets 40 mg; 80 mg *
+2392140 Etanercept Single dose vial 25 mg/0.5 ml *
+2393587 Monomethyl Furmarate Capsules, delayed- release 95 mg *
+2394941 Pralsetinib Capsules 100 mg *
+2396259 Levonorgestrel and Ethinyl Estradiol Transdermal Patch 2.6 mg - 2.3 mg *
+2468230 COVID-19 Vaccine Injection 0.2 ml Pfizer- BioNtech; 0.3 ml Pfizer- BioNtech; 0.5 ml Moderna; 0.5 ml Janssen *
+2472783 Relugolix Tablets 120 mg *
+2474028 Margetuximab-cmkb Vial 250 mg/10 mL *
+2475417 Cabotegravir/ Rilpivirine Injection Kit 400 mg/600 mg; 600 mg/900 mg *
+2477266 Tepotinib Tablets 225 mg *
+2534234 Tivozanib Capsules 0.89 mg; 1.34 mg *
+2535238 Dasiglucagon HCl Single Dose Prefilled Syringe 0.6 mg/0.6 ml *
+2535247 Dasiglucagon HCl Single Dose Auto- Injector 0.6 mg/0.6 ml *
+2539972 Dostarlimab-gxly Injection 500 mg/10 ml *
+2540969 Loncastuximab Tesirine-LPYL Injection 10 mg *
+2549734 Amivantamab-vmjw Vial 350 mg/7 ml *
+2550712 Secukinumab Single dose 75 mg/0.5 ml x 1 *
+2550719 Sotorasib Tablets 120 mg *
+2551216 Infigratinib Capsule 21-Day Dose Pack (25 mg & 100 mg capsules) 50 mg; 75 mg; 100 mg; 100 mg/25 mg *
+2557906 Glecaprevir/Pibrentasvir Pellet Packet 50 mg/20 mg *
+2559723 Avapritinib Tablets 25 mg; 50 mg; 100 mg; 200 mg; 300 mg *
+2561249 Asparaginase Erwinia Chrysanthemi (Recombinant-Rywn) Vial 10 mg/0.5 ml *
+2563970 Insulin Glargine-YFGN Vial 100 units/ml,10 ml
+2563971 Insulin Glargine-YFGN Prefilled Pen 100 units/ml,3 ml x 5
+2567231 Belzutifan Tablets 40 mg *
+2570742 Mobocertinib Capsules 40 mg *
+2571099 Tisotumab Vedotin- TFTV Injection 40 mg *
+2584196 Sofosbuvir/Velpatasvir Pellet packets 150 mg/37.5 mg; 200 mg/50 mg *
+2584320 Asciminib Film-coated tablets 20 mg; 40 mg *
+2584354 Bictegravir/ Emtricitabine/Tenofovir Alafenamide Tablets 30 mg/120 mg/15 mg; 50 mg/200 mg/25 mg *
+2586863 Sirolimus protein-bound Vial 100 mg *
+2587060 Ropeginterferon alfa-2b-njft Syringe 500 mcg/ml *
+2587898 Nirmatrelvir/Ritonavir Tablets 150 mg/100 mg *
+2587906 Molnupiravir Capsules 200 mg *
+2588077 Cabotegravir Extended-release intramuscular injection kit 600 mg/3 ml *
+2589612 Naloxone HCL Syringe, 2-pack 5 mg/0.5 ml *
+2590641 Emtricitabine/Tenofovir Alafenamide Tablets 120 mg/15 mg; 200 mg/25 mg *
+2595044 Leuprolide Mesylate Syringe 42 mg *
+2596778 Nivolumab, Relatlimab Vial 240 mg-80 mg/20 ml *
+2598347 Abacavir Sulfate/Dolutegravir/ Lamivudine Tablets for oral suspension 60 mg/5 mg/ 30 mg *
+2603514 Measles, Mumps, and Rubella Virus Vaccine Injection 1-dose vial *
